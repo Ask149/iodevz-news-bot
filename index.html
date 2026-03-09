@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>IODevz AI News Bot</title>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; background: #0a0a0a; color: #e0e0e0; display: flex; justify-content: center; align-items: center; min-height: 100vh; }
+  .container { max-width: 640px; padding: 2rem; text-align: center; }
+  h1 { font-size: 2rem; margin-bottom: 0.5rem; color: #fff; }
+  .subtitle { color: #888; margin-bottom: 2rem; }
+  .endpoints { text-align: left; background: #111; border: 1px solid #222; border-radius: 8px; padding: 1.5rem; margin: 1.5rem 0; }
+  .endpoints h2 { font-size: 1rem; color: #aaa; margin-bottom: 1rem; text-transform: uppercase; letter-spacing: 0.1em; }
+  .endpoint { margin: 0.5rem 0; }
+  .endpoint a { color: #58a6ff; text-decoration: none; font-family: monospace; font-size: 0.9rem; }
+  .endpoint a:hover { text-decoration: underline; }
+  .endpoint .desc { color: #666; font-size: 0.8rem; margin-left: 0.5rem; }
+  .footer { margin-top: 2rem; color: #555; font-size: 0.85rem; }
+  .footer a { color: #58a6ff; text-decoration: none; }
+</style>
+</head>
+<body>
+<div class="container">
+  <h1>IODevz AI News Bot</h1>
+  <p class="subtitle">Autonomous AI news intelligence pipeline for <a href="https://twitter.com/iodevz_ai" style="color:#58a6ff;text-decoration:none;">@iodevz_ai</a></p>
+  <div class="endpoints">
+    <h2>API Endpoints</h2>
+    <div class="endpoint"><a href="api/latest.json">/api/latest.json</a> <span class="desc">Top ranked items</span></div>
+    <div class="endpoint"><a href="api/feed.json">/api/feed.json</a> <span class="desc">Full feed (last 7 days)</span></div>
+    <div class="endpoint"><a href="api/stats.json">/api/stats.json</a> <span class="desc">Collection statistics</span></div>
+    <div class="endpoint"><a href="api/sources/hackernews.json">/api/sources/{source}.json</a> <span class="desc">By source</span></div>
+    <div class="endpoint"><a href="api/topics/claude.json">/api/topics/{topic}.json</a> <span class="desc">By topic</span></div>
+    <div class="endpoint"><a href="api/daily/">api/daily/{date}.json</a> <span class="desc">Daily archive</span></div>
+  </div>
+  <p class="footer">
+    Collects from HackerNews, Reddit, GitHub, Twitter. Ranks via LLM. Posts 3-5 tweets/day.<br>
+    <a href="https://github.com/Ask149/iodevz-news-bot">Source on GitHub</a>
+  </p>
+</div>
+</body>
+</html>
