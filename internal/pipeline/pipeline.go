@@ -111,37 +111,41 @@ func Run(ctx context.Context, cfg Config) error {
 	}
 	llmClient := llm.NewClient(tm)
 
-	// 4. Collect from all sources.
+	// 4. Collect from all sources (each with its own timeout).
 	var allItems []collector.Item
 
-	// HackerNews
+	// collectWithTimeout runs a collector with a per-source deadline.
+	collectWithTimeout := func(name string, timeout time.Duration, fn func(ctx context.Context) ([]collector.Item, error)) {
+		cctx, ccancel := context.WithTimeout(ctx, timeout)
+		defer ccancel()
+		items, err := fn(cctx)
+		if err != nil {
+			log.Printf("WARNING: %s collection failed: %v", name, err)
+			return
+		}
+		st.RecordCollection(name, len(items))
+		allItems = append(allItems, items...)
+	}
+
+	// HackerNews (2 min timeout)
 	hn := collector.NewHackerNewsCollector()
-	if items, err := hn.Collect(ctx, topics); err != nil {
-		log.Printf("WARNING: HN collection failed: %v", err)
-	} else {
-		st.RecordCollection(string(collector.SourceHackerNews), len(items))
-		allItems = append(allItems, items...)
-	}
+	collectWithTimeout(string(collector.SourceHackerNews), 2*time.Minute, func(ctx context.Context) ([]collector.Item, error) {
+		return hn.Collect(ctx, topics)
+	})
 
-	// Reddit
+	// Reddit (2 min timeout)
 	reddit := collector.NewRedditCollector()
-	if items, err := reddit.Collect(ctx, subreddits); err != nil {
-		log.Printf("WARNING: Reddit collection failed: %v", err)
-	} else {
-		st.RecordCollection(string(collector.SourceReddit), len(items))
-		allItems = append(allItems, items...)
-	}
+	collectWithTimeout(string(collector.SourceReddit), 2*time.Minute, func(ctx context.Context) ([]collector.Item, error) {
+		return reddit.Collect(ctx, subreddits)
+	})
 
-	// GitHub
+	// GitHub (2 min timeout)
 	gh := collector.NewGitHubCollector()
-	if items, err := gh.Collect(ctx, topics); err != nil {
-		log.Printf("WARNING: GitHub collection failed: %v", err)
-	} else {
-		st.RecordCollection(string(collector.SourceGitHub), len(items))
-		allItems = append(allItems, items...)
-	}
+	collectWithTimeout(string(collector.SourceGitHub), 2*time.Minute, func(ctx context.Context) ([]collector.Item, error) {
+		return gh.Collect(ctx, topics)
+	})
 
-	// Twitter (if script exists)
+	// Twitter (5 min timeout — Playwright scraping is slow)
 	var handles []string
 	for _, a := range accounts {
 		handles = append(handles, a.Handle)
@@ -150,12 +154,9 @@ func Run(ctx context.Context, cfg Config) error {
 		filepath.Join(cfg.ScriptDir, "scrape-twitter.js"),
 		handles,
 	)
-	if items, err := twitter.Collect(ctx, nil); err != nil {
-		log.Printf("WARNING: Twitter collection failed: %v", err)
-	} else {
-		st.RecordCollection(string(collector.SourceTwitter), len(items))
-		allItems = append(allItems, items...)
-	}
+	collectWithTimeout(string(collector.SourceTwitter), 5*time.Minute, func(ctx context.Context) ([]collector.Item, error) {
+		return twitter.Collect(ctx, nil)
+	})
 
 	log.Printf("Collected %d total items", len(allItems))
 

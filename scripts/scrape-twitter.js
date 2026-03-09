@@ -22,18 +22,32 @@ const handles = fs.readFileSync(accountsFile, 'utf-8')
   .map(h => h.trim())
   .filter(h => h.length > 0);
 
+// Overall script timeout: 4 minutes.
+const SCRIPT_TIMEOUT_MS = 4 * 60 * 1000;
+const PAGE_TIMEOUT_MS = 10000; // 10s per page load (down from 15s)
+const INTER_ACCOUNT_DELAY_MS = 1000; // 1s between accounts (down from 2s)
+const POST_LOAD_WAIT_MS = 1500; // 1.5s wait after load (down from 2s)
+const MAX_TWEETS_PER_ACCOUNT = 3; // Reduced from 5 to speed up
+const startTime = Date.now();
+
+function isTimedOut() {
+  return Date.now() - startTime > SCRIPT_TIMEOUT_MS;
+}
+
 async function scrapeAccount(page, handle) {
   const url = `https://x.com/${handle}`;
   try {
-    await page.goto(url, { waitUntil: 'networkidle', timeout: 15000 });
-    await page.waitForTimeout(2000);
+    // Use 'domcontentloaded' instead of 'networkidle' to avoid hanging.
+    await page.goto(url, { waitUntil: 'domcontentloaded', timeout: PAGE_TIMEOUT_MS });
+    await page.waitForTimeout(POST_LOAD_WAIT_MS);
 
-    const tweets = await page.evaluate((handle) => {
+    const tweets = await page.evaluate((opts) => {
+      const { handle, maxTweets } = opts;
       const articles = document.querySelectorAll('article[data-testid="tweet"]');
       const results = [];
 
       articles.forEach((article, i) => {
-        if (i >= 5) return; // Max 5 tweets per account.
+        if (i >= maxTweets) return;
 
         const textEl = article.querySelector('[data-testid="tweetText"]');
         const text = textEl ? textEl.innerText : '';
@@ -66,7 +80,7 @@ async function scrapeAccount(page, handle) {
       });
 
       return results;
-    }, handle);
+    }, { handle, maxTweets: MAX_TWEETS_PER_ACCOUNT });
 
     return tweets.filter(t => t.text.length > 0);
   } catch (err) {
@@ -76,7 +90,7 @@ async function scrapeAccount(page, handle) {
 }
 
 async function main() {
-  console.log(`[scrape-twitter] Scraping ${handles.length} accounts...`);
+  console.log(`[scrape-twitter] Scraping ${handles.length} accounts (timeout: ${SCRIPT_TIMEOUT_MS / 1000}s)...`);
 
   const browser = await chromium.launch({ headless: true });
   const context = await browser.newContext({
@@ -85,19 +99,33 @@ async function main() {
   const page = await context.newPage();
 
   const allTweets = [];
+  let scraped = 0;
+  let skipped = 0;
 
   for (const handle of handles) {
-    console.log(`[scrape-twitter] Scraping @${handle}...`);
+    // Check overall timeout before each account.
+    if (isTimedOut()) {
+      skipped = handles.length - scraped;
+      console.log(`[scrape-twitter] Timeout reached after ${scraped} accounts, skipping ${skipped} remaining`);
+      break;
+    }
+
+    console.log(`[scrape-twitter] Scraping @${handle}... (${scraped + 1}/${handles.length})`);
     const tweets = await scrapeAccount(page, handle);
     allTweets.push(...tweets);
-    // Rate limit: 2 seconds between accounts.
-    await page.waitForTimeout(2000);
+    scraped++;
+
+    // Brief delay between accounts to avoid rate limiting.
+    if (!isTimedOut()) {
+      await page.waitForTimeout(INTER_ACCOUNT_DELAY_MS);
+    }
   }
 
   await browser.close();
 
+  const elapsed = ((Date.now() - startTime) / 1000).toFixed(1);
   fs.writeFileSync(outputFile, JSON.stringify(allTweets, null, 2));
-  console.log(`[scrape-twitter] Done! ${allTweets.length} tweets from ${handles.length} accounts`);
+  console.log(`[scrape-twitter] Done! ${allTweets.length} tweets from ${scraped} accounts in ${elapsed}s (${skipped} skipped)`);
 }
 
 main().catch(err => {

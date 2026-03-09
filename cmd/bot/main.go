@@ -7,6 +7,7 @@ import (
 	"os"
 	"os/signal"
 	"syscall"
+	"time"
 
 	"github.com/Ask149/iodevz-news-bot/internal/pipeline"
 )
@@ -14,7 +15,8 @@ import (
 func main() {
 	fmt.Println("iodevz-news-bot starting...")
 
-	ctx, cancel := context.WithCancel(context.Background())
+	// 10-minute overall pipeline timeout.
+	ctx, cancel := context.WithTimeout(context.Background(), 10*time.Minute)
 	defer cancel()
 
 	// Handle graceful shutdown.
