@@ -1,1 +1,19 @@
-{"total_items":0,"total_tweets":0,"sources":{},"last_run":"","note":"Placeholder — will be populated on first bot run."}
+{
+  "daily_stats": {
+    "2026-03-09": {
+      "items_collected": 362,
+      "items_ranked": 0,
+      "items_posted": 0,
+      "by_source": {
+        "github": 161,
+        "hackernews": 139,
+        "reddit": 0,
+        "twitter": 62
+      }
+    }
+  },
+  "last_run": "2026-03-09T06:54:20.477885632Z",
+  "run_count": 1,
+  "total_posted": 0,
+  "updated_at": "2026-03-09T06:57:36Z"
+}

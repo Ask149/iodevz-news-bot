@@ -1,0 +1,13 @@
+{
+  "description": "Curated AI news feed from Twitter, HackerNews, Reddit, and GitHub",
+  "endpoints": {
+    "daily": "daily/{date}.json",
+    "feed": "feed.json",
+    "latest": "latest.json",
+    "sources": "sources/{source}.json",
+    "stats": "stats.json",
+    "topics": "topics/{topic}.json"
+  },
+  "name": "IODevz AI News API",
+  "updated_at": "2026-03-09T06:57:36Z"
+}
