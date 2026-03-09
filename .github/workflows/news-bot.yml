@@ -51,6 +51,7 @@ jobs:
         run: |
           git config user.name "iodevz-bot"
           git config user.email "contact.iodevz@gmail.com"
+          mkdir -p digests
           git add state.json digests/ api/
           git diff --staged --quiet || git commit -m "bot: update $(date -u +%Y-%m-%dT%H%M)"
           git push

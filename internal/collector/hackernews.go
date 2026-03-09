@@ -89,8 +89,13 @@ func (c *HackerNewsCollector) searchTopic(ctx context.Context, topic string) ([]
 	// Search last 24 hours.
 	since := time.Now().Add(-24 * time.Hour).Unix()
 
-	u := fmt.Sprintf("%s/search_by_date?query=%s&tags=story&numericFilters=created_at_i>%d&hitsPerPage=20",
-		c.baseURL, url.QueryEscape(topic), since)
+	params := url.Values{}
+	params.Set("query", topic)
+	params.Set("tags", "story")
+	params.Set("numericFilters", fmt.Sprintf("created_at_i>%d", since))
+	params.Set("hitsPerPage", "20")
+
+	u := fmt.Sprintf("%s/search_by_date?%s", c.baseURL, params.Encode())
 
 	req, err := http.NewRequestWithContext(ctx, "GET", u, nil)
 	if err != nil {
