@@ -1,57 +1,197 @@
 {
-  "count": 5,
+  "count": 11,
   "items": [
     {
-      "id": "a9ac45631d6e49336b92d1ab5e6cccc7",
-      "title": "wanshuiyin/Auto-claude-code-research-in-sleep",
-      "url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep",
+      "id": "d78b13b608e7759b3d469dfc5dde4261",
+      "title": "larksuite/openclaw-lark",
+      "url": "https://github.com/larksuite/openclaw-lark",
       "source": "github",
-      "source_author": "wanshuiyin",
+      "source_author": "larksuite",
+      "topics": [],
+      "score": 8,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-03-11T13:46:41Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 419,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "e3182c7a26b95e9a36369e8fb541df91",
+      "title": "gsd-build/GSD-2",
+      "url": "https://github.com/gsd-build/GSD-2",
+      "source": "github",
+      "source_author": "gsd-build",
+      "topics": [],
+      "score": 7,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-03-11T13:46:29Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 239,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "3ab4c5d880a9850b6f364dd112717a72",
+      "title": "sysprog21/zhtw-mcp",
+      "url": "https://github.com/sysprog21/zhtw-mcp",
+      "source": "github",
+      "source_author": "sysprog21",
       "topics": [],
       "score": 6,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-03-11T07:28:30Z",
+      "collected_at": "2026-03-11T13:46:38Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 81,
+        "stars": 78,
         "upvotes": 0
       }
     },
     {
-      "id": "21225af80a75e65d878b0bea761e41eb",
-      "title": "PigeonDan1/paper_claw",
-      "url": "https://github.com/PigeonDan1/paper_claw",
+      "id": "098e1a6327c176eccacf9f1c3c807deb",
+      "title": "masterawpdollar3/runway-ml-ultimate-ai-edition",
+      "url": "https://github.com/masterawpdollar3/runway-ml-ultimate-ai-edition",
       "source": "github",
-      "source_author": "PigeonDan1",
+      "source_author": "masterawpdollar3",
       "topics": [],
-      "score": 4,
+      "score": 6,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-03-11T07:28:23Z",
+      "collected_at": "2026-03-11T13:46:34Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 3,
+        "stars": 95,
         "upvotes": 0
       }
     },
     {
-      "id": "a320f6f50219da70e8c9b9e04a007c75",
-      "title": "harshgholap05/GENAI-SQL-CHATBOX",
-      "url": "https://github.com/harshgholap05/GENAI-SQL-CHATBOX",
+      "id": "4567d37a042bf12f22603c1d51d08b4a",
+      "title": "tzachbon/claude-model-router-hook",
+      "url": "https://github.com/tzachbon/claude-model-router-hook",
       "source": "github",
-      "source_author": "harshgholap05",
+      "source_author": "tzachbon",
       "topics": [],
       "score": 4,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-03-11T07:28:24Z",
+      "collected_at": "2026-03-11T13:46:24Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 16,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "90d495db5dbbbb70105d47c43fc7a109",
+      "title": "axtonliu/ai-pair",
+      "url": "https://github.com/axtonliu/ai-pair",
+      "source": "github",
+      "source_author": "axtonliu",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-03-11T13:46:27Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 15,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "bc506e9324e9918871fce7d840faa354",
+      "title": "aakaakii/AutoFoldDpskThinkBox",
+      "url": "https://github.com/aakaakii/AutoFoldDpskThinkBox",
+      "source": "github",
+      "source_author": "aakaakii",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-03-11T13:46:30Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 2,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "f708826d2810a1fb6665cdb1dfd77c23",
+      "title": "Suryakantprajapati4/Tata-iQ-GenAI-Data-Analytics",
+      "url": "https://github.com/Suryakantprajapati4/Tata-iQ-GenAI-Data-Analytics",
+      "source": "github",
+      "source_author": "Suryakantprajapati4",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-03-11T13:46:31Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 2,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "4ec9e893bd2b32235085e50f7cb5ccae",
+      "title": "royavrahami/quality-manager-intelligence-agent",
+      "url": "https://github.com/royavrahami/quality-manager-intelligence-agent",
+      "source": "github",
+      "source_author": "royavrahami",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-03-11T13:46:31Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 2,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "a01d9a7d60da03d3fc4b85b7b8bb3541",
+      "title": "Ab3229/genai-learning",
+      "url": "https://github.com/Ab3229/genai-learning",
+      "source": "github",
+      "source_author": "Ab3229",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-03-11T13:46:31Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
@@ -62,46 +202,26 @@
       }
     },
     {
-      "id": "6198974cd0e28cc782f4497fc673e6ab",
-      "title": "sangjiexun/clawcoder",
-      "url": "https://github.com/sangjiexun/clawcoder",
+      "id": "648e89a35bcda8e61259227efd654f4b",
+      "title": "WKingDeveloper/claude-code-prompt-architecture-guide",
+      "url": "https://github.com/WKingDeveloper/claude-code-prompt-architecture-guide",
       "source": "github",
-      "source_author": "sangjiexun",
+      "source_author": "WKingDeveloper",
       "topics": [],
       "score": 4,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-03-11T07:28:25Z",
+      "collected_at": "2026-03-11T13:46:40Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 3,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "d554ca7ab71b541717a71a320a20f630",
-      "title": "UFOyyds/dataclaw-sync",
-      "url": "https://github.com/UFOyyds/dataclaw-sync",
-      "source": "github",
-      "source_author": "UFOyyds",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-03-11T07:28:25Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 3,
+        "stars": 1,
         "upvotes": 0
       }
     }
   ],
   "source": "github",
-  "updated_at": "2026-03-11T07:31:28Z"
+  "updated_at": "2026-03-11T13:49:39Z"
 }
