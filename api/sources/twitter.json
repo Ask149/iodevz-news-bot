@@ -1,27 +1,187 @@
 {
-  "count": 1,
+  "count": 9,
   "items": [
     {
-      "id": "03536e0e0aef300154fe5f20112dbd81",
-      "title": "Gemini in \n@GoogleWorkspace\n just got a lot more helpful. To do this, we had to tailor the model to ...",
-      "url": "https://x.com/GoogleAI/status/2031356471431077995",
+      "id": "13f3bbb323823b8eed3ea5b5ac65f248",
+      "title": "Start building with Gemini Embedding 2, our most capable and first fully multimodal embedding model ...",
+      "url": "https://x.com/googleaidevs/status/2031421430718415051",
+      "source": "twitter",
+      "source_author": "GoogleDeepMind",
+      "topics": [],
+      "score": 8,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-03-11T03:15:40Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 1292,
+        "replies": 29,
+        "retweets": 201,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "fea274d416c9e8260b222679dbcdd51d",
+      "title": "Anthropic is expanding to Australia \u0026 New Zealand. We’ll soon open an office in Sydney—our fourt...",
+      "url": "https://x.com/AnthropicAI/status/2031506214228828186",
+      "source": "twitter",
+      "source_author": "AnthropicAI",
+      "topics": [],
+      "score": 8,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-03-11T03:15:40Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 1088,
+        "replies": 97,
+        "retweets": 124,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "5b639944c43ed575c9b46d89522c3755",
+      "title": "Ten years after AlphaGo, we’re still building on its foundations to advance AI.\n\nThe techniques pi...",
+      "url": "https://x.com/GoogleDeepMind/status/2031399096267718847",
+      "source": "twitter",
+      "source_author": "GoogleDeepMind",
+      "topics": [],
+      "score": 7,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-03-11T03:15:40Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 577,
+        "replies": 46,
+        "retweets": 95,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "353bb00c33a5b001da3d70a09def978e",
+      "title": "While we don't have favorites, the evolution of Gemini in Google Sheets might be our most impressive...",
+      "url": "https://x.com/GoogleAI/status/2031356545552847091",
       "source": "twitter",
       "source_author": "GoogleAI",
       "topics": [],
       "score": 6,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-03-10T13:47:56Z",
+      "collected_at": "2026-03-11T03:15:40Z",
       "engagement": {
         "comments": 0,
-        "likes": 124,
-        "replies": 18,
-        "retweets": 22,
+        "likes": 192,
+        "replies": 10,
+        "retweets": 20,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "de9aa5bed5d7c904c983cb32bfbe2233",
+      "title": "Just months ago, I was predicting a world where we orchestrate hundreds of agents simultaneously.\n\nT...",
+      "url": "https://x.com/pirroh/status/2031413131763921333",
+      "source": "twitter",
+      "source_author": "replit",
+      "topics": [],
+      "score": 6,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-03-11T03:15:40Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 120,
+        "replies": 20,
+        "retweets": 21,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "fd563d460a096b36bf18d5e05bd96bad",
+      "title": "PlugMem transforms AI agents’ interaction histories into structured, reusable knowledge. It integr...",
+      "url": "https://x.com/MSFTResearch/status/2031400066498306303",
+      "source": "twitter",
+      "source_author": "MSFTResearch",
+      "topics": [],
+      "score": 5,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-03-11T03:15:40Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 31,
+        "replies": 2,
+        "retweets": 32,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "61f85453fc5fecec686a9d1a36f58eb0",
+      "title": "Learn a new language. Discuss the nature of thought. Or, just figure out why your plants keep giving...",
+      "url": "https://x.com/runwayml/status/2031390058817740846",
+      "source": "twitter",
+      "source_author": "RunwayML",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-03-11T03:15:40Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 25,
+        "replies": 1,
+        "retweets": 3,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "06c0fc8c1b04eb9a8a9afac7e7a4e11f",
+      "title": "Give this a second thought: You’re no longer just doing the work — you’re directing. In our la...",
+      "url": "https://x.com/MSFTResearch/status/2031445015746998504",
+      "source": "twitter",
+      "source_author": "MSFTResearch",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-03-11T03:15:40Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 6,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "bfa752a5b278f19c6c376fbf7aeb0039",
+      "title": "Data teams are buried in requests. Not enough engineers to build everything.\n\nDenis from \n@databrick...",
+      "url": "https://x.com/MannyBernabe/status/2031434483027869766",
+      "source": "twitter",
+      "source_author": "replit",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-03-11T03:15:40Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 22,
+        "replies": 0,
+        "retweets": 3,
         "stars": 0,
         "upvotes": 0
       }
     }
   ],
   "source": "twitter",
-  "updated_at": "2026-03-10T13:47:57Z"
+  "updated_at": "2026-03-11T03:15:41Z"
 }
