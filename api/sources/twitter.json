@@ -1,167 +1,27 @@
 {
-  "count": 8,
+  "count": 1,
   "items": [
     {
-      "id": "5ac9a3af7215920a6ccf11c104ceae01",
-      "title": " \nhttps://\nhuggingface.co/blog/series-c",
-      "url": "https://x.com/huggingface/status/1523660456061116416",
-      "source": "twitter",
-      "source_author": "huggingface",
-      "topics": [],
-      "score": 8,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-03-12T07:33:26Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 2181,
-        "replies": 87,
-        "retweets": 299,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "c28c51046e4c682d51d45a33a147ff4b",
-      "title": "A year ago we open-sourced #AlphaFold\n\nToday we're freely sharing the predicted structures of all 20...",
-      "url": "https://x.com/demishassabis/status/1552622520406347777",
-      "source": "twitter",
-      "source_author": "DemisHassabis",
-      "topics": [],
-      "score": 8,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-03-12T07:33:26Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 9360,
-        "replies": 178,
-        "retweets": 2538,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "ea7eaa55e79b2e6038bd448dc7960845",
-      "title": "The Gemini era is here. Thrilled to launch Gemini 1.0, our most capable \u0026 general AI model. Built to...",
-      "url": "https://x.com/demishassabis/status/1732416480741118179",
-      "source": "twitter",
-      "source_author": "DemisHassabis",
-      "topics": [],
-      "score": 8,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-03-12T07:33:26Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 10829,
-        "replies": 388,
-        "retweets": 2437,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "6c0631a247e8d5be33dd74c0e2107c3c",
-      "title": "Ten years ago, AlphaGo’s legendary match in Seoul heralded the start of the modern era in AI. Its ...",
-      "url": "https://x.com/demishassabis/status/2031387915348062567",
-      "source": "twitter",
-      "source_author": "DemisHassabis",
-      "topics": [],
-      "score": 8,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-03-12T07:33:26Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 3519,
-        "replies": 168,
-        "retweets": 589,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "d6572bf38b6332489703aa113cb50559",
-      "title": "Introducing Replit Agent 4 - built to unlock your creativity.\n \nPlan. Design. Build. All at once. St...",
-      "url": "https://x.com/Replit/status/2031756892662636983",
+      "id": "3b138b060bee1378309d57af0930157d",
+      "title": "Builders \n\nTo celebrate Agent 4, we’re giving $100 in Replit credits to the first 100 people who:\n...",
+      "url": "https://x.com/Replit/status/2031863361705820440",
       "source": "twitter",
       "source_author": "replit",
-      "topics": [],
-      "score": 7,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-03-12T07:33:26Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 543,
-        "replies": 50,
-        "retweets": 86,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "2d5dc967714a9f96828765ef64845639",
-      "title": "Today, a step forward in open robotics - our results show that sim-to-real zero shot transfer for ma...",
-      "url": "https://x.com/allen_ai/status/2031752021355667830",
-      "source": "twitter",
-      "source_author": "Allen_AI",
       "topics": [],
       "score": 6,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-03-12T07:33:26Z",
+      "collected_at": "2026-03-12T13:47:14Z",
       "engagement": {
         "comments": 0,
-        "likes": 192,
-        "replies": 7,
-        "retweets": 42,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "a4548942417b39f7193ff439eb3d4e31",
-      "title": "Agent 4 just launched. Tomorrow we're going LIVE to show you what it can do.\n\nBuilding a realtime ch...",
-      "url": "https://x.com/Replit/status/2031868720700854400",
-      "source": "twitter",
-      "source_author": "replit",
-      "topics": [],
-      "score": 5,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-03-12T07:33:26Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 64,
-        "replies": 9,
-        "retweets": 10,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "2291ae4da99eccfa4c9125db6bbe2ac8",
-      "title": "We're releasing everything openly—including training data \u0026 the data generation engine (built on M...",
-      "url": "https://x.com/allen_ai/status/2031752032516817038",
-      "source": "twitter",
-      "source_author": "Allen_AI",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-03-12T07:33:26Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 7,
-        "replies": 1,
-        "retweets": 0,
+        "likes": 159,
+        "replies": 33,
+        "retweets": 33,
         "stars": 0,
         "upvotes": 0
       }
     }
   ],
   "source": "twitter",
-  "updated_at": "2026-03-12T07:33:27Z"
+  "updated_at": "2026-03-12T13:47:15Z"
 }
