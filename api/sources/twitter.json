@@ -1,67 +1,287 @@
 {
-  "count": 3,
+  "count": 14,
   "items": [
     {
-      "id": "7d6eb94059be36aaa6eff41b26a57bfe",
-      "title": "Removed, enjoy !",
-      "url": "https://x.com/arthurmensch/status/1734470462451732839",
+      "id": "4400424337195edb421a27ce1a5b2515",
+      "title": "We’re excited to unveil the name of our new London building: Platform 37. \n\nThe name honors both t...",
+      "url": "https://x.com/GoogleDeepMind/status/2032036893076930902",
       "source": "twitter",
-      "source_author": "arthurmensch",
+      "source_author": "GoogleDeepMind",
       "topics": [],
       "score": 8,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-03-17T07:40:57Z",
+      "collected_at": "2026-03-18T03:30:14Z",
       "engagement": {
         "comments": 0,
-        "likes": 7962,
-        "replies": 369,
-        "retweets": 951,
+        "likes": 2092,
+        "replies": 79,
+        "retweets": 229,
         "stars": 0,
         "upvotes": 0
       }
     },
     {
-      "id": "1958c90974b486086691ff1ce87138a2",
-      "title": "SOTA open-source vibe coding from your home.",
-      "url": "https://x.com/arthurmensch/status/1998412280732746098",
+      "id": "735b0c2d4967b071cf37a8ad9ca30dff",
+      "title": "In April, '17, \n@jsomers\n of \n@NewYorker\n reached out \u0026 said he wanted to do a small profile of me \u0026...",
+      "url": "https://x.com/JeffDean/status/1069606809126793217",
       "source": "twitter",
-      "source_author": "arthurmensch",
+      "source_author": "JeffDean",
       "topics": [],
       "score": 8,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-03-17T07:40:57Z",
+      "collected_at": "2026-03-18T03:30:14Z",
       "engagement": {
         "comments": 0,
-        "likes": 1107,
-        "replies": 40,
-        "retweets": 66,
+        "likes": 5127,
+        "replies": 392,
+        "retweets": 1372,
         "stars": 0,
         "upvotes": 0
       }
     },
     {
-      "id": "37dc6b124a967a892ec9323aaaa68b88",
-      "title": " Design freely with Agent 4.  \n\n- Design while the agent builds. \n- Explore multiple UI variants on ...",
-      "url": "https://x.com/Replit/status/2033589406112870672",
+      "id": "5152e756e06dc8069c50143d3199cac8",
+      "title": "I’m very excited to share our work on Gemini today!  Gemini is a family of multimodal models that ...",
+      "url": "https://x.com/JeffDean/status/1732415515673727286",
       "source": "twitter",
-      "source_author": "replit",
+      "source_author": "JeffDean",
+      "topics": [],
+      "score": 8,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-03-18T03:30:14Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 12632,
+        "replies": 245,
+        "retweets": 3013,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "91350acf00ef48193538958996de5cef",
+      "title": "Exciting expansion!  \n@Waymo\n now serves the whole SF Bay Area Peninsula from SF to San Jose and is ...",
+      "url": "https://x.com/JeffDean/status/1988674389773357077",
+      "source": "twitter",
+      "source_author": "JeffDean",
+      "topics": [],
+      "score": 8,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-03-18T03:30:14Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 11412,
+        "replies": 436,
+        "retweets": 954,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "680841f251ce99fc4144ca561708ac67",
+      "title": "The open source ecosystem underpins nearly every software system in the world. As AI grows more capa...",
+      "url": "https://x.com/AnthropicAI/status/2033939283313402138",
+      "source": "twitter",
+      "source_author": "AnthropicAI",
+      "topics": [],
+      "score": 8,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-03-18T03:30:14Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 1044,
+        "replies": 125,
+        "retweets": 111,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "17686b040b80ba41f3c3d721603aabbf",
+      "title": "We trained Composer to self-summarize through RL instead of a prompt.\n\nThis reduces the error from c...",
+      "url": "https://x.com/cursor_ai/status/2033967614309835069",
+      "source": "twitter",
+      "source_author": "cursor_ai",
+      "topics": [],
+      "score": 8,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-03-18T03:30:14Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 1130,
+        "replies": 58,
+        "retweets": 85,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "6388d5d2d254189c441248a87f362662",
+      "title": "GPT-5.4 mini is available today in ChatGPT, Codex, and the API.\n\nOptimized for coding, computer use,...",
+      "url": "https://x.com/OpenAI/status/2033953592424731072",
+      "source": "twitter",
+      "source_author": "OpenAI",
+      "topics": [],
+      "score": 8,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-03-18T03:30:14Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 4972,
+        "replies": 425,
+        "retweets": 811,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "8197e01043c823249b73d068bebc0cd2",
+      "title": "At \n@GoogleDeepMind\n, we believe AI is the ultimate catalyst for science. \n\nThe best example of this...",
+      "url": "https://x.com/pushmeet/status/2033856861120745486",
+      "source": "twitter",
+      "source_author": "GoogleDeepMind",
+      "topics": [],
+      "score": 8,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-03-18T03:30:14Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 2151,
+        "replies": 71,
+        "retweets": 361,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "76ae96b45d1ff4520d99402cbe0b47f2",
+      "title": "How do we measure progress toward AGI? It takes a village – and a bit of healthy competition. \n\nWe...",
+      "url": "https://x.com/GoogleDeepMind/status/2034014385941975298",
+      "source": "twitter",
+      "source_author": "GoogleDeepMind",
       "topics": [],
       "score": 6,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-03-17T07:40:57Z",
+      "collected_at": "2026-03-18T03:30:14Z",
       "engagement": {
         "comments": 0,
-        "likes": 111,
-        "replies": 10,
-        "retweets": 12,
+        "likes": 357,
+        "replies": 28,
+        "retweets": 63,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "c463b20c8519d3c024bfb49d692e4c45",
+      "title": "Hear from industry leaders across companies like NVIDIA, EA, Lucasfilm and Adobe at the Runway AI Su...",
+      "url": "https://x.com/runwayml/status/2033912901040271672",
+      "source": "twitter",
+      "source_author": "RunwayML",
+      "topics": [],
+      "score": 5,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-03-18T03:30:14Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 59,
+        "replies": 16,
+        "retweets": 9,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "ff24f7c142f35fcc311a72ff25e57a4e",
+      "title": "Read more:",
+      "url": "https://x.com/cursor_ai/status/2033967617011024379",
+      "source": "twitter",
+      "source_author": "cursor_ai",
+      "topics": [],
+      "score": 5,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-03-18T03:30:14Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 62,
+        "replies": 1,
+        "retweets": 4,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "39be24d9b297ec4eb6462c5c70677cc7",
+      "title": "Register now:",
+      "url": "https://x.com/runwayml/status/2033912903187722713",
+      "source": "twitter",
+      "source_author": "RunwayML",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-03-18T03:30:14Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 4,
+        "replies": 0,
+        "retweets": 1,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "a3eb23833dc68aa3e86f976432650aa8",
+      "title": "\"We trained our very first [Molmo] model and were surprised to find that it outperformed GPT. Scale ...",
+      "url": "https://x.com/allen_ai/status/2034077174203040128",
+      "source": "twitter",
+      "source_author": "Allen_AI",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-03-18T03:30:14Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 14,
+        "replies": 1,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "94eb1dc0c29548c9ce290c0c0049b108",
+      "title": "“Last week we released a robotics model called MolmoBot. And it's trained completely in simulation...",
+      "url": "https://x.com/allen_ai/status/2034077177952846225",
+      "source": "twitter",
+      "source_author": "Allen_AI",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-03-18T03:30:14Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 5,
+        "replies": 1,
+        "retweets": 0,
         "stars": 0,
         "upvotes": 0
       }
     }
   ],
   "source": "twitter",
-  "updated_at": "2026-03-17T07:40:59Z"
+  "updated_at": "2026-03-18T03:30:16Z"
 }
