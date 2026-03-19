@@ -1,61 +1,101 @@
 {
-  "count": 3,
+  "count": 5,
   "items": [
     {
-      "id": "a01a2b7b2c58d9517e1e12fd7debf6ba",
-      "title": "GPT-5.4 nano is is also available starting today in the API.",
-      "url": "https://x.com/OpenAI/status/2033953595637538849",
+      "id": "bc57356cadcae1b8913e398f6ecb6688",
+      "title": "We invited Claude users to share how they use AI, what they dream it could make possible, and what t...",
+      "url": "https://x.com/AnthropicAI/status/2034302152945144166",
+      "source": "twitter",
+      "source_author": "AnthropicAI",
+      "topics": [],
+      "score": 8,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-03-19T03:30:46Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 3666,
+        "replies": 202,
+        "retweets": 719,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "450d59b3c234ebf2e86916d693fe48e2",
+      "title": "Are you up for a challenge? \n\n\nhttp://\nopenai.com/parameter-golf",
+      "url": "https://x.com/OpenAI/status/2034315401438580953",
       "source": "twitter",
       "source_author": "OpenAI",
+      "topics": [],
+      "score": 8,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-03-19T03:30:46Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 3128,
+        "replies": 264,
+        "retweets": 317,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "b351fd2e9b6ef673e64083dd4b26d52f",
+      "title": "Comet iOS is finally ready. Thanks for those who waited patiently for it. Appreciate your support! \n...",
+      "url": "https://x.com/AravSrinivas/status/2034316312516907311",
+      "source": "twitter",
+      "source_author": "AravSrinivas",
       "topics": [],
       "score": 7,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-03-18T07:40:54Z",
+      "collected_at": "2026-03-19T03:30:46Z",
       "engagement": {
         "comments": 0,
-        "likes": 601,
-        "replies": 31,
-        "retweets": 27,
+        "likes": 798,
+        "replies": 60,
+        "retweets": 88,
         "stars": 0,
         "upvotes": 0
       }
     },
     {
-      "id": "33b96e59215d2be380845e586224e01f",
-      "title": "The people behind the projects.",
-      "url": "https://x.com/Replit/status/2034052972460601405",
+      "id": "164c55b697d9b9ccf4acb3b56c4186ba",
+      "title": "Introducing Runway's Big Ad Contest For Products That Don't Exist. Your chance to make any ad you ca...",
+      "url": "https://x.com/runwayml/status/2034316017862660579",
       "source": "twitter",
-      "source_author": "replit",
+      "source_author": "RunwayML",
       "topics": [],
-      "score": 4,
+      "score": 6,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-03-18T07:40:54Z",
+      "collected_at": "2026-03-19T03:30:46Z",
       "engagement": {
         "comments": 0,
-        "likes": 44,
-        "replies": 2,
-        "retweets": 1,
+        "likes": 324,
+        "replies": 29,
+        "retweets": 61,
         "stars": 0,
         "upvotes": 0
       }
     },
     {
-      "id": "8dbe2bfe7a62cf1a5ebd889ce99d2474",
-      "title": "Small design choices unlock big impact.\n\n\n@HayaOdeh\n  on what great design really does:\n- Simplifies...",
-      "url": "https://x.com/Replit/status/2034027618828468592",
+      "id": "d8db9e4fc9591c12aee52e043b744fd5",
+      "title": "Get started:",
+      "url": "https://x.com/runwayml/status/2034316019729068145",
       "source": "twitter",
-      "source_author": "replit",
+      "source_author": "RunwayML",
       "topics": [],
       "score": 4,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-03-18T07:40:54Z",
+      "collected_at": "2026-03-19T03:30:46Z",
       "engagement": {
         "comments": 0,
-        "likes": 28,
-        "replies": 2,
+        "likes": 33,
+        "replies": 1,
         "retweets": 1,
         "stars": 0,
         "upvotes": 0
@@ -63,5 +103,5 @@
     }
   ],
   "source": "twitter",
-  "updated_at": "2026-03-18T07:40:54Z"
+  "updated_at": "2026-03-19T03:30:48Z"
 }
