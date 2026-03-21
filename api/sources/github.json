@@ -1,297 +1,57 @@
 {
-  "count": 34,
+  "count": 5,
   "items": [
     {
-      "id": "4dca648b761fdb4be95d82788cd127a8",
-      "title": "mkhsu2002/openclaw-agent-feeds",
-      "url": "https://github.com/mkhsu2002/openclaw-agent-feeds",
+      "id": "56dcb376d0e335327d061cfc78fc7b0d",
+      "title": "dontbesilent2025/dbskill",
+      "url": "https://github.com/dontbesilent2025/dbskill",
       "source": "github",
-      "source_author": "mkhsu2002",
+      "source_author": "dontbesilent2025",
+      "topics": [],
+      "score": 7,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-03-21T07:10:51Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 178,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "06aa253f975d17642babe94add03ddfa",
+      "title": "jnMetaCode/superpowers-zh",
+      "url": "https://github.com/jnMetaCode/superpowers-zh",
+      "source": "github",
+      "source_author": "jnMetaCode",
       "topics": [],
       "score": 6,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-03-21T03:08:45Z",
+      "collected_at": "2026-03-21T07:11:06Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 75,
+        "stars": 38,
         "upvotes": 0
       }
     },
     {
-      "id": "a016fb4454a05fc731a0c241425ea4fa",
-      "title": "mauriziofonte/toktoken",
-      "url": "https://github.com/mauriziofonte/toktoken",
+      "id": "422950db439893bdf67091379f2615f2",
+      "title": "dean0x/autolab",
+      "url": "https://github.com/dean0x/autolab",
       "source": "github",
-      "source_author": "mauriziofonte",
-      "topics": [],
-      "score": 6,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-03-21T03:08:43Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 39,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "446153cecf6ca7e1961425a1d0ba627c",
-      "title": "taco-group/SparkVSR",
-      "url": "https://github.com/taco-group/SparkVSR",
-      "source": "github",
-      "source_author": "taco-group",
-      "topics": [],
-      "score": 6,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-03-21T03:08:49Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 69,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "1b9282d6495f50fe619f10b772614780",
-      "title": "gbessoni/seo-agi",
-      "url": "https://github.com/gbessoni/seo-agi",
-      "source": "github",
-      "source_author": "gbessoni",
-      "topics": [],
-      "score": 6,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-03-21T03:08:49Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 69,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "0cf96ca63ea8a82fa84341c87a1eaddf",
-      "title": "indutny/no-ai-in-nodejs-core",
-      "url": "https://github.com/indutny/no-ai-in-nodejs-core",
-      "source": "github",
-      "source_author": "indutny",
-      "topics": [],
-      "score": 6,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-03-21T03:08:49Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 80,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "ca3b27cf09859d17337743bc373f7749",
-      "title": "7836246/cursoride2api",
-      "url": "https://github.com/7836246/cursoride2api",
-      "source": "github",
-      "source_author": "7836246",
-      "topics": [],
-      "score": 6,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-03-21T03:08:46Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 34,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "c741e9a9f4fe7d3c623dcb19cf6f2d12",
-      "title": "mattnowdev/thinking-partner",
-      "url": "https://github.com/mattnowdev/thinking-partner",
-      "source": "github",
-      "source_author": "mattnowdev",
-      "topics": [],
-      "score": 6,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-03-21T03:08:46Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 43,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "df613d377b8acbdddf6ba22aefdbb640",
-      "title": "open-gitagent/clawless",
-      "url": "https://github.com/open-gitagent/clawless",
-      "source": "github",
-      "source_author": "open-gitagent",
-      "topics": [],
-      "score": 6,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-03-21T03:08:45Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 75,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "22dffa133fcdb7f56f457abab6a1b5a2",
-      "title": "PlamenTSV/plamen",
-      "url": "https://github.com/PlamenTSV/plamen",
-      "source": "github",
-      "source_author": "PlamenTSV",
-      "topics": [],
-      "score": 6,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-03-21T03:08:31Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 157,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "525af9a31558f3b8161841bff3ede86f",
-      "title": "k1p1l0/claude-telegram-supercharged",
-      "url": "https://github.com/k1p1l0/claude-telegram-supercharged",
-      "source": "github",
-      "source_author": "k1p1l0",
-      "topics": [],
-      "score": 5,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-03-21T03:08:32Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 24,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "764bcd645ac22492636913dc317f5d2f",
-      "title": "cytostack/openwolf",
-      "url": "https://github.com/cytostack/openwolf",
-      "source": "github",
-      "source_author": "cytostack",
-      "topics": [],
-      "score": 5,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-03-21T03:08:32Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 23,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "62bcae1f786e541ca16a23bc965d12d6",
-      "title": "egoist/cursor-openai-api",
-      "url": "https://github.com/egoist/cursor-openai-api",
-      "source": "github",
-      "source_author": "egoist",
-      "topics": [],
-      "score": 5,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-03-21T03:08:33Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 19,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "ea7346bc2c31cb63b05241c6b4794ab4",
-      "title": "cemalturkcan/opencode-anthropic-login-via-cli",
-      "url": "https://github.com/cemalturkcan/opencode-anthropic-login-via-cli",
-      "source": "github",
-      "source_author": "cemalturkcan",
+      "source_author": "dean0x",
       "topics": [],
       "score": 4,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-03-21T03:08:32Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 16,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "5dd8d54e63053d5b8a8654d7816c4211",
-      "title": "rokeyxuhleremny1/invalid-token-opencode",
-      "url": "https://github.com/rokeyxuhleremny1/invalid-token-opencode",
-      "source": "github",
-      "source_author": "rokeyxuhleremny1",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-03-21T03:08:34Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 5,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "009af4140ba60ae2fae4cb16427596cc",
-      "title": "smartcmd/claude-your-gpt",
-      "url": "https://github.com/smartcmd/claude-your-gpt",
-      "source": "github",
-      "source_author": "smartcmd",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-03-21T03:08:34Z",
+      "collected_at": "2026-03-21T07:10:54Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
@@ -302,16 +62,16 @@
       }
     },
     {
-      "id": "f68fe3c567bf758ba59f596df15b7b6d",
-      "title": "xn030523/gpt-register",
-      "url": "https://github.com/xn030523/gpt-register",
+      "id": "5980d47025246e8a4cd04b2bcc888d83",
+      "title": "MatchaOnMuffins/orchestrator",
+      "url": "https://github.com/MatchaOnMuffins/orchestrator",
       "source": "github",
-      "source_author": "xn030523",
+      "source_author": "MatchaOnMuffins",
       "topics": [],
       "score": 4,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-03-21T03:08:34Z",
+      "collected_at": "2026-03-21T07:11:02Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
@@ -322,366 +82,26 @@
       }
     },
     {
-      "id": "e94c17ed66fb0845aad9f427e91cfd09",
-      "title": "mhever/gitops-remediator",
-      "url": "https://github.com/mhever/gitops-remediator",
+      "id": "036eaaf8264f25e2f8d86dd3537bb2f5",
+      "title": "agentwall/agentwall",
+      "url": "https://github.com/agentwall/agentwall",
       "source": "github",
-      "source_author": "mhever",
+      "source_author": "agentwall",
       "topics": [],
       "score": 4,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-03-21T03:08:36Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 4,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "fd6e9997850071c948510502e4cadef0",
-      "title": "luisalbertogh/ai-sdd",
-      "url": "https://github.com/luisalbertogh/ai-sdd",
-      "source": "github",
-      "source_author": "luisalbertogh",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-03-21T03:08:37Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 2,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "97fa4a2d7ce36c847404ceeabe8ca433",
-      "title": "normenmueller/ai4x",
-      "url": "https://github.com/normenmueller/ai4x",
-      "source": "github",
-      "source_author": "normenmueller",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-03-21T03:08:37Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 2,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "b299757fabe996793a2e6a6e25f1fc93",
-      "title": "Honnashree123/genai",
-      "url": "https://github.com/Honnashree123/genai",
-      "source": "github",
-      "source_author": "Honnashree123",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-03-21T03:08:37Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 1,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "ddce3fdc0dbf1337ded3790dbde495c0",
-      "title": "dev200413y/genai",
-      "url": "https://github.com/dev200413y/genai",
-      "source": "github",
-      "source_author": "dev200413y",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-03-21T03:08:37Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 1,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "c126a970d261f509c9285de854a0eb18",
-      "title": "BackendExpert/testing-genai-css",
-      "url": "https://github.com/BackendExpert/testing-genai-css",
-      "source": "github",
-      "source_author": "BackendExpert",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-03-21T03:08:37Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 1,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "4a400fc8f55df464f93bd021da57c298",
-      "title": "Yuree000/YudoList",
-      "url": "https://github.com/Yuree000/YudoList",
-      "source": "github",
-      "source_author": "Yuree000",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-03-21T03:08:38Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 1,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "e06c79cbea6bf105dc8a693110b9a6c6",
-      "title": "ChenrMa/FashionEcom",
-      "url": "https://github.com/ChenrMa/FashionEcom",
-      "source": "github",
-      "source_author": "ChenrMa",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-03-21T03:08:39Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 2,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "be3e03a082269bb11bec4f6f2bccf335",
-      "title": "Perarulalanloganathan/ppt-voice-generation-streamlit",
-      "url": "https://github.com/Perarulalanloganathan/ppt-voice-generation-streamlit",
-      "source": "github",
-      "source_author": "Perarulalanloganathan",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-03-21T03:08:40Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "d702399e9c7e8a069c4f64df458212b7",
-      "title": "youbudong/opencode-audio",
-      "url": "https://github.com/youbudong/opencode-audio",
-      "source": "github",
-      "source_author": "youbudong",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-03-21T03:08:40Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "fc218de829ecf2e9a5a644699d3082f9",
-      "title": "robertohluna/jido_claw",
-      "url": "https://github.com/robertohluna/jido_claw",
-      "source": "github",
-      "source_author": "robertohluna",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-03-21T03:08:42Z",
+      "collected_at": "2026-03-21T07:11:08Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
         "stars": 3,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "68ac9d1a3d32e46095320b3479c3eeb2",
-      "title": "AlexandrG539/claude-code-setup-guide",
-      "url": "https://github.com/AlexandrG539/claude-code-setup-guide",
-      "source": "github",
-      "source_author": "AlexandrG539",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-03-21T03:08:44Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 1,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "0674635532b9314a8e1626221acbecf5",
-      "title": "cristopher281/Skills.md",
-      "url": "https://github.com/cristopher281/Skills.md",
-      "source": "github",
-      "source_author": "cristopher281",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-03-21T03:08:44Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "322440aa9cc7c482b6695f2f1127d5dd",
-      "title": "yanndebray/skills",
-      "url": "https://github.com/yanndebray/skills",
-      "source": "github",
-      "source_author": "yanndebray",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-03-21T03:08:44Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "139cac324c5b302ab69303b913693713",
-      "title": "timteh/antigravity-autopilot",
-      "url": "https://github.com/timteh/antigravity-autopilot",
-      "source": "github",
-      "source_author": "timteh",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-03-21T03:08:47Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 4,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "7abb18dbde5bd178ac1c6b865f7a1114",
-      "title": "Wirtzer/Product-Management-Coach",
-      "url": "https://github.com/Wirtzer/Product-Management-Coach",
-      "source": "github",
-      "source_author": "Wirtzer",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-03-21T03:08:47Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 3,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "f8485900caefc4028a1fa52577c23fb5",
-      "title": "SherlockDebugs/CogAI-Battleship-Demo",
-      "url": "https://github.com/SherlockDebugs/CogAI-Battleship-Demo",
-      "source": "github",
-      "source_author": "SherlockDebugs",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-03-21T03:08:48Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 1,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "cbacbf29c2d6f25ac050c1897961dfbe",
-      "title": "DEVINMAKING14/DEVINMAKING14",
-      "url": "https://github.com/DEVINMAKING14/DEVINMAKING14",
-      "source": "github",
-      "source_author": "DEVINMAKING14",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-03-21T03:08:48Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 0,
         "upvotes": 0
       }
     }
   ],
   "source": "github",
-  "updated_at": "2026-03-21T03:11:40Z"
+  "updated_at": "2026-03-21T07:14:00Z"
 }
