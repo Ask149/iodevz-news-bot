@@ -1,77 +1,137 @@
 {
-  "count": 6,
+  "count": 10,
   "items": [
     {
-      "id": "9298dc4e4a9c0b525f48921528cfa58a",
-      "title": "arpingblue/vibepm",
-      "url": "https://github.com/arpingblue/vibepm",
+      "id": "d90102e53cbd89a0deafc2354d9a7e5b",
+      "title": "m1heng/claude-plugin-weixin",
+      "url": "https://github.com/m1heng/claude-plugin-weixin",
       "source": "github",
-      "source_author": "arpingblue",
+      "source_author": "m1heng",
+      "topics": [],
+      "score": 7,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-03-22T13:27:59Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 283,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "1ed7776f4326e5a6aefe15cbbf56f0b6",
+      "title": "sunbigfly/ppt-agent-skill",
+      "url": "https://github.com/sunbigfly/ppt-agent-skill",
+      "source": "github",
+      "source_author": "sunbigfly",
       "topics": [],
       "score": 6,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-03-22T07:24:29Z",
+      "collected_at": "2026-03-22T13:28:20Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 45,
+        "stars": 105,
         "upvotes": 0
       }
     },
     {
-      "id": "2b6a8dd333c446a6122de46a56d31f60",
-      "title": "mnfst/awesome-free-llm-apis",
-      "url": "https://github.com/mnfst/awesome-free-llm-apis",
+      "id": "cee22006af36fb90a5dbbd52564ba818",
+      "title": "FISHers6/clawBro",
+      "url": "https://github.com/FISHers6/clawBro",
       "source": "github",
-      "source_author": "mnfst",
+      "source_author": "FISHers6",
+      "topics": [],
+      "score": 6,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-03-22T13:28:14Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 96,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "f3fba325f1ec932ed9c637c86022c848",
+      "title": "Bigmacman40879/AI-IMG-Translator",
+      "url": "https://github.com/Bigmacman40879/AI-IMG-Translator",
+      "source": "github",
+      "source_author": "Bigmacman40879",
       "topics": [],
       "score": 5,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-03-22T07:24:14Z",
+      "collected_at": "2026-03-22T13:28:02Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 33,
+        "stars": 17,
         "upvotes": 0
       }
     },
     {
-      "id": "dcf3ab10ed37efbffb0c1c6e2e405778",
-      "title": "jnMetaCode/agency-orchestrator",
-      "url": "https://github.com/jnMetaCode/agency-orchestrator",
+      "id": "b6dda8a9e4d9fee71024897477dbfa4b",
+      "title": "CoderLuii/HolyClaude",
+      "url": "https://github.com/CoderLuii/HolyClaude",
       "source": "github",
-      "source_author": "jnMetaCode",
+      "source_author": "CoderLuii",
       "topics": [],
-      "score": 4,
+      "score": 5,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-03-22T07:24:18Z",
+      "collected_at": "2026-03-22T13:28:00Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 5,
+        "stars": 22,
         "upvotes": 0
       }
     },
     {
-      "id": "91f201a0222e32b506cc8963fa584853",
-      "title": "snshari80/Gen-AI",
-      "url": "https://github.com/snshari80/Gen-AI",
+      "id": "e5e1b16a44180b0059f758d14edde26e",
+      "title": "Rorogogogo/claude-cracks-the-whip",
+      "url": "https://github.com/Rorogogogo/claude-cracks-the-whip",
       "source": "github",
-      "source_author": "snshari80",
+      "source_author": "Rorogogogo",
       "topics": [],
       "score": 4,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-03-22T07:24:19Z",
+      "collected_at": "2026-03-22T13:28:07Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 3,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "e2aeddcfefc231158553efb224d69210",
+      "title": "Leeelics/kimi-tachi",
+      "url": "https://github.com/Leeelics/kimi-tachi",
+      "source": "github",
+      "source_author": "Leeelics",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-03-22T13:28:07Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
@@ -82,16 +142,16 @@
       }
     },
     {
-      "id": "555d561498ae130e625e819768153eb8",
-      "title": "teee32/kursor",
-      "url": "https://github.com/teee32/kursor",
+      "id": "6967d536bf8fe6c39e3bf38fba5a1a59",
+      "title": "bishaldan/qwen3-tts-voice-cloning-guide",
+      "url": "https://github.com/bishaldan/qwen3-tts-voice-cloning-guide",
       "source": "github",
-      "source_author": "teee32",
+      "source_author": "bishaldan",
       "topics": [],
       "score": 4,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-03-22T07:24:21Z",
+      "collected_at": "2026-03-22T13:28:10Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
@@ -102,26 +162,46 @@
       }
     },
     {
-      "id": "153e0ea4780528a2d162d675fbcb8ca9",
-      "title": "awesome-genmedia/skills",
-      "url": "https://github.com/awesome-genmedia/skills",
+      "id": "685c3f57cb8626f5f6f1dc206129678e",
+      "title": "jitendrakw09/Voice-Sangam",
+      "url": "https://github.com/jitendrakw09/Voice-Sangam",
       "source": "github",
-      "source_author": "awesome-genmedia",
+      "source_author": "jitendrakw09",
       "topics": [],
       "score": 4,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-03-22T07:24:22Z",
+      "collected_at": "2026-03-22T13:28:10Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 2,
+        "stars": 1,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "686592ef74734cd798357d348ab13945",
+      "title": "timerzz/cc-venv",
+      "url": "https://github.com/timerzz/cc-venv",
+      "source": "github",
+      "source_author": "timerzz",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-03-22T13:28:13Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
         "upvotes": 0
       }
     }
   ],
   "source": "github",
-  "updated_at": "2026-03-22T07:27:22Z"
+  "updated_at": "2026-03-22T13:31:09Z"
 }
