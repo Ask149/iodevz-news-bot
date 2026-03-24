@@ -1,417 +1,57 @@
 {
-  "count": 24,
+  "count": 5,
   "items": [
     {
-      "id": "c436d5a365773898511648d9e5238791",
-      "title": "zarazhangrui/codebase-to-course",
-      "url": "https://github.com/zarazhangrui/codebase-to-course",
+      "id": "9e4f8d09668bb77bbf3d3982677c6ff0",
+      "title": "hao-ji-xing/openclaw-weixin",
+      "url": "https://github.com/hao-ji-xing/openclaw-weixin",
       "source": "github",
-      "source_author": "zarazhangrui",
-      "topics": [],
-      "score": 8,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-03-24T03:20:32Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 448,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "f9a66ab20bb831c9b8661a784d63be01",
-      "title": "slavingia/skills",
-      "url": "https://github.com/slavingia/skills",
-      "source": "github",
-      "source_author": "slavingia",
-      "topics": [],
-      "score": 8,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-03-24T03:20:32Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 426,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "da13fc431fe7ed5b084aeb6cec8500ec",
-      "title": "alvinunreal/awesome-autoresearch",
-      "url": "https://github.com/alvinunreal/awesome-autoresearch",
-      "source": "github",
-      "source_author": "alvinunreal",
-      "topics": [],
-      "score": 7,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-03-24T03:20:37Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 289,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "7de9e692615cfa00ac09c86cb9a937d9",
-      "title": "facebookresearch/HyperAgents",
-      "url": "https://github.com/facebookresearch/HyperAgents",
-      "source": "github",
-      "source_author": "facebookresearch",
-      "topics": [],
-      "score": 7,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-03-24T03:20:37Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 187,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "a365ac141c11f05ac4b529884f7c55d8",
-      "title": "oguzbilgic/agent-kernel",
-      "url": "https://github.com/oguzbilgic/agent-kernel",
-      "source": "github",
-      "source_author": "oguzbilgic",
+      "source_author": "hao-ji-xing",
       "topics": [],
       "score": 6,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-03-24T03:20:48Z",
+      "collected_at": "2026-03-24T07:37:24Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 152,
+        "stars": 103,
         "upvotes": 0
       }
     },
     {
-      "id": "bda0dd9977450119855657ef9401f112",
-      "title": "hkcanan/katmer-code",
-      "url": "https://github.com/hkcanan/katmer-code",
+      "id": "d0677775b432eb2329a95046e0c050ae",
+      "title": "Kent0n-Li/Banana_Edit",
+      "url": "https://github.com/Kent0n-Li/Banana_Edit",
       "source": "github",
-      "source_author": "hkcanan",
-      "topics": [],
-      "score": 6,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-03-24T03:20:45Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 92,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "4adb9989e3340fbf6d071a0779327f35",
-      "title": "notque/claude-code-toolkit",
-      "url": "https://github.com/notque/claude-code-toolkit",
-      "source": "github",
-      "source_author": "notque",
-      "topics": [],
-      "score": 6,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-03-24T03:20:54Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 123,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "8d76057cbb68e896a3e2718919c40ac8",
-      "title": "krzysztofdudek/ResearcherSkill",
-      "url": "https://github.com/krzysztofdudek/ResearcherSkill",
-      "source": "github",
-      "source_author": "krzysztofdudek",
-      "topics": [],
-      "score": 6,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-03-24T03:20:49Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 68,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "4ce274f05bd61776794357ad6bf8bc4f",
-      "title": "CN-Syndra/ClawLink",
-      "url": "https://github.com/CN-Syndra/ClawLink",
-      "source": "github",
-      "source_author": "CN-Syndra",
-      "topics": [],
-      "score": 6,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-03-24T03:20:48Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 163,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "4c1d5d257cf9b1e121059906b72d531d",
-      "title": "mcpware/claude-code-organizer",
-      "url": "https://github.com/mcpware/claude-code-organizer",
-      "source": "github",
-      "source_author": "mcpware",
-      "topics": [],
-      "score": 6,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-03-24T03:20:33Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 34,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "e04a4a59bb9af089cd147180ed71d57f",
-      "title": "wenfxl/openai-cpa",
-      "url": "https://github.com/wenfxl/openai-cpa",
-      "source": "github",
-      "source_author": "wenfxl",
-      "topics": [],
-      "score": 5,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-03-24T03:20:35Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 22,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "e778e6914757132b1f24149cd6e89091",
-      "title": "iamtouchskyer/memex",
-      "url": "https://github.com/iamtouchskyer/memex",
-      "source": "github",
-      "source_author": "iamtouchskyer",
-      "topics": [],
-      "score": 5,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-03-24T03:20:50Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 28,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "227dc5e17ada386e6e3dd36c6010d460",
-      "title": "rachittshah/llmcouncil",
-      "url": "https://github.com/rachittshah/llmcouncil",
-      "source": "github",
-      "source_author": "rachittshah",
+      "source_author": "Kent0n-Li",
       "topics": [],
       "score": 4,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-03-24T03:20:36Z",
+      "collected_at": "2026-03-24T07:37:13Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 8,
+        "stars": 5,
         "upvotes": 0
       }
     },
     {
-      "id": "6cff45edaebf0c1142258cfb9fcd9f99",
-      "title": "viralcode/superGPT",
-      "url": "https://github.com/viralcode/superGPT",
+      "id": "1e22e02ad3edfb02e3f2713d156e3f12",
+      "title": "sharadarona/salesforce-ai-case-summarization",
+      "url": "https://github.com/sharadarona/salesforce-ai-case-summarization",
       "source": "github",
-      "source_author": "viralcode",
+      "source_author": "sharadarona",
       "topics": [],
       "score": 4,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-03-24T03:20:38Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 4,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "20e96c298b2b43a9d34d68361e364edf",
-      "title": "evan-dg31/GenAI-Protoype",
-      "url": "https://github.com/evan-dg31/GenAI-Protoype",
-      "source": "github",
-      "source_author": "evan-dg31",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-03-24T03:20:39Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 1,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "1c1afd638a31da915592f03af41cd2b3",
-      "title": "GetcharZp/onnxruntime-genai_purego",
-      "url": "https://github.com/GetcharZp/onnxruntime-genai_purego",
-      "source": "github",
-      "source_author": "GetcharZp",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-03-24T03:20:39Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 1,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "5c9cf2f27260d9404694d3b5f5dbfec5",
-      "title": "chandana-musunuru/genAIWithJava",
-      "url": "https://github.com/chandana-musunuru/genAIWithJava",
-      "source": "github",
-      "source_author": "chandana-musunuru",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-03-24T03:20:39Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 1,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "da39ddd0be12e9bfe32d36482a2ad243",
-      "title": "thedonmusa/gtm-content-videos",
-      "url": "https://github.com/thedonmusa/gtm-content-videos",
-      "source": "github",
-      "source_author": "thedonmusa",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-03-24T03:20:42Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 1,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "5c74a81c8d3500a8a18cbc476fee1890",
-      "title": "AM-2304/murm",
-      "url": "https://github.com/AM-2304/murm",
-      "source": "github",
-      "source_author": "AM-2304",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-03-24T03:20:44Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 3,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "c8d9bbdff0e75cba0b26dca85c233065",
-      "title": "DDS-Solutions/AI-TadPole-OS",
-      "url": "https://github.com/DDS-Solutions/AI-TadPole-OS",
-      "source": "github",
-      "source_author": "DDS-Solutions",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-03-24T03:20:44Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 3,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "20c95c4bdc358e2c0a24b375ed29c1a4",
-      "title": "shui-nirvana/vertex_swarm_lab",
-      "url": "https://github.com/shui-nirvana/vertex_swarm_lab",
-      "source": "github",
-      "source_author": "shui-nirvana",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-03-24T03:20:44Z",
+      "collected_at": "2026-03-24T07:37:16Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
@@ -422,66 +62,46 @@
       }
     },
     {
-      "id": "54bb112c3b2b8608785340081ebffa71",
-      "title": "ithiria894/awesome-claude-code-workflows",
-      "url": "https://github.com/ithiria894/awesome-claude-code-workflows",
+      "id": "26b0c3f39a0a7699aed191ee3da1afd3",
+      "title": "SAIKIRANPATNANA/GENAI_PROJECTS",
+      "url": "https://github.com/SAIKIRANPATNANA/GENAI_PROJECTS",
       "source": "github",
-      "source_author": "ithiria894",
+      "source_author": "SAIKIRANPATNANA",
       "topics": [],
       "score": 4,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-03-24T03:20:47Z",
+      "collected_at": "2026-03-24T07:37:16Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 12,
+        "stars": 1,
         "upvotes": 0
       }
     },
     {
-      "id": "f1fe79cbf84fd5a31cb2675ed2952672",
-      "title": "Augusta-Lina/SkillsMDDatabase",
-      "url": "https://github.com/Augusta-Lina/SkillsMDDatabase",
+      "id": "5e4713a0472967ebc28730c12b86dc2d",
+      "title": "nutshells3/Swarm-Intelligence-Engine-with-Gated-Execution",
+      "url": "https://github.com/nutshells3/Swarm-Intelligence-Engine-with-Gated-Execution",
       "source": "github",
-      "source_author": "Augusta-Lina",
+      "source_author": "nutshells3",
       "topics": [],
       "score": 4,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-03-24T03:20:47Z",
+      "collected_at": "2026-03-24T07:37:21Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "b6576eee993df1f512976cdb7c5c78ff",
-      "title": "chaparro2001/devin",
-      "url": "https://github.com/chaparro2001/devin",
-      "source": "github",
-      "source_author": "chaparro2001",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-03-24T03:20:51Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 0,
+        "stars": 5,
         "upvotes": 0
       }
     }
   ],
   "source": "github",
-  "updated_at": "2026-03-24T03:23:43Z"
+  "updated_at": "2026-03-24T07:40:20Z"
 }
