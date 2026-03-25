@@ -1,77 +1,37 @@
 {
-  "count": 9,
+  "count": 3,
   "items": [
     {
-      "id": "0b620363e2ffa11192621e5533a59949",
-      "title": "HKUDS/OpenSpace",
-      "url": "https://github.com/HKUDS/OpenSpace",
+      "id": "09b6136e97f757b606461f246e2dffce",
+      "title": "lemberalla/manwe-releases",
+      "url": "https://github.com/lemberalla/manwe-releases",
       "source": "github",
-      "source_author": "HKUDS",
-      "topics": [],
-      "score": 7,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-03-25T07:36:36Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 252,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "63461d1dae58b55150342ff008257bb5",
-      "title": "alibaba-flyai/flyai-skill",
-      "url": "https://github.com/alibaba-flyai/flyai-skill",
-      "source": "github",
-      "source_author": "alibaba-flyai",
-      "topics": [],
-      "score": 6,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-03-25T07:36:54Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 161,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "dbed90cf91ae5817384f17b196b1a6a2",
-      "title": "pythongiant/Manimbot",
-      "url": "https://github.com/pythongiant/Manimbot",
-      "source": "github",
-      "source_author": "pythongiant",
+      "source_author": "lemberalla",
       "topics": [],
       "score": 4,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-03-25T07:36:39Z",
+      "collected_at": "2026-03-25T13:56:52Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 6,
+        "stars": 2,
         "upvotes": 0
       }
     },
     {
-      "id": "57a1d2af8c26d2dcd15bae8c83ed8770",
-      "title": "sanketjo96/GenAI",
-      "url": "https://github.com/sanketjo96/GenAI",
+      "id": "dde12411973334fef11d4c85d1db8b0b",
+      "title": "lalit-verma/agentic-system-design",
+      "url": "https://github.com/lalit-verma/agentic-system-design",
       "source": "github",
-      "source_author": "sanketjo96",
+      "source_author": "lalit-verma",
       "topics": [],
       "score": 4,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-03-25T07:36:39Z",
+      "collected_at": "2026-03-25T13:57:00Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
@@ -82,96 +42,16 @@
       }
     },
     {
-      "id": "c87374af31748e8175df5fb5918bd475",
-      "title": "zihenghe04/CCDash",
-      "url": "https://github.com/zihenghe04/CCDash",
+      "id": "00046d86aced4e633b05be10f25f7a05",
+      "title": "nagalakshmi0193/devin",
+      "url": "https://github.com/nagalakshmi0193/devin",
       "source": "github",
-      "source_author": "zihenghe04",
+      "source_author": "nagalakshmi0193",
       "topics": [],
       "score": 4,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-03-25T07:36:40Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 9,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "80ce8afb203d3779e446c393d9ef86bb",
-      "title": "SandAI-org/LightX2V-MagiCompiler",
-      "url": "https://github.com/SandAI-org/LightX2V-MagiCompiler",
-      "source": "github",
-      "source_author": "SandAI-org",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-03-25T07:36:41Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 3,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "804e7ca7220144f7d47a7caf2ade24d0",
-      "title": "xiaomi-research/drivelaw",
-      "url": "https://github.com/xiaomi-research/drivelaw",
-      "source": "github",
-      "source_author": "xiaomi-research",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-03-25T07:36:41Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 3,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "6d6bbe321a33b3ee47a879f1c73f474d",
-      "title": "asriverwang/playlistgen",
-      "url": "https://github.com/asriverwang/playlistgen",
-      "source": "github",
-      "source_author": "asriverwang",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-03-25T07:36:42Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 1,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "fae09291d0ecf3208982a24cb8889802",
-      "title": "magicpro97/audioforge",
-      "url": "https://github.com/magicpro97/audioforge",
-      "source": "github",
-      "source_author": "magicpro97",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-03-25T07:36:42Z",
+      "collected_at": "2026-03-25T13:57:00Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
@@ -183,5 +63,5 @@
     }
   ],
   "source": "github",
-  "updated_at": "2026-03-25T07:39:44Z"
+  "updated_at": "2026-03-25T13:59:55Z"
 }
