@@ -1,27 +1,207 @@
 {
-  "count": 1,
+  "count": 10,
   "items": [
     {
-      "id": "907dd401f903e2b9dc938b607a2cc6d2",
-      "title": "We find that since November 2025, consumer use has become less concentrated: the top 10 tasks now ma...",
-      "url": "https://x.com/AnthropicAI/status/2036499693920727463",
+      "id": "0d98218be88bc6d154d304b871aeab01",
+      "title": "New on the Engineering Blog: How we designed Claude Code auto mode.\n\nMany Claude Code users let Clau...",
+      "url": "https://x.com/AnthropicAI/status/2036944806317088921",
       "source": "twitter",
       "source_author": "AnthropicAI",
+      "topics": [],
+      "score": 8,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-03-26T03:40:43Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 1453,
+        "replies": 119,
+        "retweets": 238,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "7357af56a2848cac63ffb56d907eacd7",
+      "title": "Cursor cloud agents can now run on your infrastructure.\n\nGet the same cloud agent harness and experi...",
+      "url": "https://x.com/cursor_ai/status/2036873885665419773",
+      "source": "twitter",
+      "source_author": "cursor_ai",
+      "topics": [],
+      "score": 8,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-03-26T03:40:43Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 1569,
+        "replies": 80,
+        "retweets": 148,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "7d63e4ad060ab4290a0163fbf8bc1f3e",
+      "title": "The more AI can do, the more we need to ask what it should and shouldn’t do.\n\nOpenAI researcher \n@...",
+      "url": "https://x.com/OpenAI/status/2036855694906057079",
+      "source": "twitter",
+      "source_author": "OpenAI",
+      "topics": [],
+      "score": 8,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-03-26T03:40:43Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 875,
+        "replies": 262,
+        "retweets": 123,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "deda123be7ac5a240bc10fd583cecce0",
+      "title": "Last month, we released Lyria 3, enabling you to create tracks with lyrics from text, image, or vide...",
+      "url": "https://x.com/GoogleAI/status/2036836237319811240",
+      "source": "twitter",
+      "source_author": "GoogleAI",
+      "topics": [],
+      "score": 7,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-03-26T03:40:43Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 478,
+        "replies": 32,
+        "retweets": 78,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "3acdf49f4b34e9841765092221914cb1",
+      "title": "Students: build something real in the Codex Creator Challenge, powered by \n@joinHandshake\n\n\nTry new ...",
+      "url": "https://x.com/OpenAIDevs/status/2036851146300809531",
+      "source": "twitter",
+      "source_author": "OpenAI",
+      "topics": [],
+      "score": 7,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-03-26T03:40:43Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 783,
+        "replies": 73,
+        "retweets": 77,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "2a8e7badd22907be4bf3d6548e9bcc67",
+      "title": "Introducing the Reporting API for AI Gateway:\n\n• Track your customers' usage with tags\n• See wha...",
+      "url": "https://x.com/vercel/status/2036937626721411241",
+      "source": "twitter",
+      "source_author": "vercel",
       "topics": [],
       "score": 6,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-03-25T07:39:43Z",
+      "collected_at": "2026-03-26T03:40:43Z",
       "engagement": {
         "comments": 0,
-        "likes": 150,
-        "replies": 11,
-        "retweets": 17,
+        "likes": 116,
+        "replies": 5,
+        "retweets": 11,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "2fccbf29e4710ba1edc67824623251d8",
+      "title": "Make any ad for your chance to win up to $100K. With Runway's Big Ad Contest for Products That Don't...",
+      "url": "https://x.com/runwayml/status/2036807331611042255",
+      "source": "twitter",
+      "source_author": "RunwayML",
+      "topics": [],
+      "score": 6,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-03-26T03:40:43Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 73,
+        "replies": 8,
+        "retweets": 16,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "2617769c812617250033d6240912a92a",
+      "title": "If you’re ready to get into the studio with Lyria 3 Pro, here’s where to access the model:\n\n— ...",
+      "url": "https://x.com/GoogleAI/status/2036836242076188816",
+      "source": "twitter",
+      "source_author": "GoogleAI",
+      "topics": [],
+      "score": 5,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-03-26T03:40:43Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 54,
+        "replies": 3,
+        "retweets": 4,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "1411362af1e059ef313b5d72be6e0606",
+      "title": "This means AI Gateway requests can now be enriched with custom metadata to break down LLM costs by m...",
+      "url": "https://x.com/vercel/status/2036937694123892794",
+      "source": "twitter",
+      "source_author": "vercel",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-03-26T03:40:43Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 20,
+        "replies": 1,
+        "retweets": 1,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "9bc52470725a01ea71b8d0cf91276afb",
+      "title": "Learn more:",
+      "url": "https://x.com/runwayml/status/2036807333611700480",
+      "source": "twitter",
+      "source_author": "RunwayML",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-03-26T03:40:43Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 7,
+        "replies": 1,
+        "retweets": 0,
         "stars": 0,
         "upvotes": 0
       }
     }
   ],
   "source": "twitter",
-  "updated_at": "2026-03-25T07:39:44Z"
+  "updated_at": "2026-03-26T03:40:44Z"
 }
