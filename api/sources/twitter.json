@@ -1,227 +1,67 @@
 {
-  "count": 11,
+  "count": 3,
   "items": [
     {
-      "id": "978725bf0f363dd0aa5939dc4062ee0a",
-      "title": "We're rolling out plugins in Codex.\n\nCodex now works seamlessly out of the box with the most importa...",
-      "url": "https://x.com/OpenAIDevs/status/2037296316104282119",
+      "id": "e7ceab00a47afbc569d486811a0a7554",
+      "title": "I never thought I would live to see the President of the United States serving as Russia’s Press S...",
+      "url": "https://x.com/GaryMarcus/status/1930321596889325624",
       "source": "twitter",
-      "source_author": "OpenAI",
+      "source_author": "GaryMarcus",
       "topics": [],
       "score": 8,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-03-27T03:43:13Z",
+      "collected_at": "2026-03-27T07:46:08Z",
       "engagement": {
         "comments": 0,
-        "likes": 2954,
-        "replies": 183,
-        "retweets": 486,
+        "likes": 25532,
+        "replies": 1324,
+        "retweets": 6688,
         "stars": 0,
         "upvotes": 0
       }
     },
     {
-      "id": "e158392da276a2b0b6caad8d2c6d6d18",
-      "title": "Earlier this week, we published our technical report on Composer 2.\n\nWe're sharing additional resear...",
-      "url": "https://x.com/cursor_ai/status/2037205514975629493",
+      "id": "bff4e02742aa0343e168e228b75066a9",
+      "title": "Gemini 3.1 Flash Live is our highest quality audio \u0026 voice model yet - and a big leap towards buildi...",
+      "url": "https://x.com/demishassabis/status/2037241441152590056",
       "source": "twitter",
-      "source_author": "cursor_ai",
+      "source_author": "DemisHassabis",
       "topics": [],
       "score": 8,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-03-27T03:43:13Z",
+      "collected_at": "2026-03-27T07:46:08Z",
       "engagement": {
         "comments": 0,
-        "likes": 1107,
-        "replies": 62,
-        "retweets": 167,
+        "likes": 1094,
+        "replies": 73,
+        "retweets": 109,
         "stars": 0,
         "upvotes": 0
       }
     },
     {
-      "id": "704141243dc098fd70c2096ea15b7d51",
-      "title": "Say hello to Gemini 3.1 Flash Live. \n\nOur latest audio model delivers more natural conversations wit...",
-      "url": "https://x.com/GoogleDeepMind/status/2037190678883524716",
+      "id": "2369f4631781eeba04614dc34872eee8",
+      "title": "Our study of 10,000 people shows that AI manipulation depends on the domain.\n\nModels had high influe...",
+      "url": "https://x.com/GoogleDeepMind/status/2037224588896006360",
       "source": "twitter",
       "source_author": "GoogleDeepMind",
       "topics": [],
-      "score": 8,
+      "score": 5,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-03-27T03:43:13Z",
+      "collected_at": "2026-03-27T07:46:08Z",
       "engagement": {
         "comments": 0,
-        "likes": 1459,
-        "replies": 74,
-        "retweets": 197,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "a5a7d49daa04a790798e3c6692923cd1",
-      "title": "Introducing Voxtral TTS: our new frontier open-weight model for natural, expressive, and ultra-fast ...",
-      "url": "https://x.com/MistralAI/status/2037183026539483288",
-      "source": "twitter",
-      "source_author": "MistralAI",
-      "topics": [],
-      "score": 8,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-03-27T03:43:13Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 3022,
-        "replies": 97,
-        "retweets": 504,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "14802c6df26df6d2999e96db85798045",
-      "title": "Introducing the Multi-Shot App. An easy way to go from a simple prompt to a thoughtfully crafted sce...",
-      "url": "https://x.com/runwayml/status/2037170118669500537",
-      "source": "twitter",
-      "source_author": "RunwayML",
-      "topics": [],
-      "score": 7,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-03-27T03:43:13Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 412,
-        "replies": 36,
-        "retweets": 78,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "d5cffc01f9bf9f54f70432046ed5d500",
-      "title": "As AI gets better at holding natural conversations, we need to understand how these interactions imp...",
-      "url": "https://x.com/GoogleDeepMind/status/2037224585431498831",
-      "source": "twitter",
-      "source_author": "GoogleDeepMind",
-      "topics": [],
-      "score": 6,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-03-27T03:43:13Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 228,
-        "replies": 27,
-        "retweets": 42,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "b4b3c1a9888d72a7e2377e3b6c5d2036",
-      "title": "Learn more:",
-      "url": "https://x.com/cursor_ai/status/2037205517513142600",
-      "source": "twitter",
-      "source_author": "cursor_ai",
-      "topics": [],
-      "score": 6,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-03-27T03:43:13Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 111,
-        "replies": 3,
-        "retweets": 7,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "996e13951721ad43cb643fc7544a3641",
-      "title": "The team at \n@runwayml\n is pushing the frontier of what's possible in world models. \n\nWe're proud to...",
-      "url": "https://x.com/modal/status/2037171536717549638",
-      "source": "twitter",
-      "source_author": "RunwayML",
-      "topics": [],
-      "score": 6,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-03-27T03:43:13Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 104,
-        "replies": 5,
-        "retweets": 29,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "6ef8416314ca726026d5053390ee555e",
-      "title": "AsgardBench evaluates whether embodied agents can revise their plans based on visual observations as...",
-      "url": "https://x.com/MSFTResearch/status/2037244033475453210",
-      "source": "twitter",
-      "source_author": "MSFTResearch",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-03-27T03:43:13Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 11,
-        "replies": 0,
-        "retweets": 3,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "9e7864bdd604f8679ecbb001e759aba2",
-      "title": "GroundedPlanBench evaluates whether VLMs can plan actions and determine where they should occur. V2G...",
-      "url": "https://x.com/MSFTResearch/status/2037199141189673228",
-      "source": "twitter",
-      "source_author": "MSFTResearch",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-03-27T03:43:13Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 11,
-        "replies": 0,
-        "retweets": 5,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "19c5936017a63cacbac8673a65921e42",
-      "title": "Open models. Instant endpoints. \n\nThe Allen Institute for Artificial Intelligence's (\n@allen_ai\n) OL...",
-      "url": "https://x.com/Cirrascale/status/2037212210594808063",
-      "source": "twitter",
-      "source_author": "Allen_AI",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-03-27T03:43:13Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 5,
-        "replies": 1,
-        "retweets": 2,
+        "likes": 75,
+        "replies": 4,
+        "retweets": 6,
         "stars": 0,
         "upvotes": 0
       }
     }
   ],
   "source": "twitter",
-  "updated_at": "2026-03-27T03:43:14Z"
+  "updated_at": "2026-03-27T07:46:08Z"
 }
