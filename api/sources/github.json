@@ -1,77 +1,37 @@
 {
-  "count": 4,
+  "count": 7,
   "items": [
     {
-      "id": "a25b6d148af376f1d0b3e603b6e9611b",
-      "title": "oaker-io/wewrite",
-      "url": "https://github.com/oaker-io/wewrite",
+      "id": "7b534451394f04f5814967c7b0f8ef6b",
+      "title": "bahdotsh/indxr",
+      "url": "https://github.com/bahdotsh/indxr",
       "source": "github",
-      "source_author": "oaker-io",
+      "source_author": "bahdotsh",
       "topics": [],
-      "score": 7,
+      "score": 5,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-03-27T07:43:00Z",
+      "collected_at": "2026-03-27T13:51:48Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 333,
+        "stars": 33,
         "upvotes": 0
       }
     },
     {
-      "id": "e37be852da02ef7536cb33722daa97af",
-      "title": "ericboy0224/learn-docker-and-k8s",
-      "url": "https://github.com/ericboy0224/learn-docker-and-k8s",
+      "id": "b70c07d0f520e803db9203074f2198b3",
+      "title": "emmanuelgjr/GenAI-Security-Crosswalk",
+      "url": "https://github.com/emmanuelgjr/GenAI-Security-Crosswalk",
       "source": "github",
-      "source_author": "ericboy0224",
-      "topics": [],
-      "score": 6,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-03-27T07:43:16Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 92,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "fade5111b7c28719a75ec06541b6f60b",
-      "title": "wdlctc/open-attention-residuals",
-      "url": "https://github.com/wdlctc/open-attention-residuals",
-      "source": "github",
-      "source_author": "wdlctc",
+      "source_author": "emmanuelgjr",
       "topics": [],
       "score": 4,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-03-27T07:43:08Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 6,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "2ed839612a3e50a608ef090b706e003c",
-      "title": "Acelogic/daVinci-MagiHuman-mlx",
-      "url": "https://github.com/Acelogic/daVinci-MagiHuman-mlx",
-      "source": "github",
-      "source_author": "Acelogic",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-03-27T07:43:09Z",
+      "collected_at": "2026-03-27T13:51:53Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
@@ -80,8 +40,108 @@
         "stars": 2,
         "upvotes": 0
       }
+    },
+    {
+      "id": "a9c601473ca3c6e12e5776194f3b1080",
+      "title": "gamerhackuz/GenImageGenerator",
+      "url": "https://github.com/gamerhackuz/GenImageGenerator",
+      "source": "github",
+      "source_author": "gamerhackuz",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-03-27T13:51:53Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 2,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "38c447f5e22992e34f81a07aefeef5ef",
+      "title": "inareshmatta/tinyllm-attenres",
+      "url": "https://github.com/inareshmatta/tinyllm-attenres",
+      "source": "github",
+      "source_author": "inareshmatta",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-03-27T13:51:55Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 2,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "257777dbc0dd131c2edbf5c04b5bb8f6",
+      "title": "newhorizon2005/MemCam",
+      "url": "https://github.com/newhorizon2005/MemCam",
+      "source": "github",
+      "source_author": "newhorizon2005",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-03-27T13:51:56Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 3,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "33818ad62e5e68c09bb59b03241e057c",
+      "title": "moseleydev/swarm-kit",
+      "url": "https://github.com/moseleydev/swarm-kit",
+      "source": "github",
+      "source_author": "moseleydev",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-03-27T13:51:59Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 2,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "cbf60a91b6173edc0de8089477a1220b",
+      "title": "buildingopen/claude-setup",
+      "url": "https://github.com/buildingopen/claude-setup",
+      "source": "github",
+      "source_author": "buildingopen",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-03-27T13:52:01Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
+        "upvotes": 0
+      }
     }
   ],
   "source": "github",
-  "updated_at": "2026-03-27T07:46:08Z"
+  "updated_at": "2026-03-27T13:55:04Z"
 }
