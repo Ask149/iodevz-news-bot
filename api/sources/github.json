@@ -1,297 +1,37 @@
 {
-  "count": 33,
+  "count": 5,
   "items": [
     {
-      "id": "3aaa3cc26a3ac258abf9f76e267593f4",
-      "title": "timwuhaotian/the-pair",
-      "url": "https://github.com/timwuhaotian/the-pair",
+      "id": "8762066f962fd7f3a43cc6427dd645a7",
+      "title": "RuochenLyu/apple-health-analyst",
+      "url": "https://github.com/RuochenLyu/apple-health-analyst",
       "source": "github",
-      "source_author": "timwuhaotian",
-      "topics": [],
-      "score": 7,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-03-28T03:23:16Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 199,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "be811970900b97572a5d27fdeba7400c",
-      "title": "alvinunreal/awesome-openclaw",
-      "url": "https://github.com/alvinunreal/awesome-openclaw",
-      "source": "github",
-      "source_author": "alvinunreal",
-      "topics": [],
-      "score": 6,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-03-28T03:23:15Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 55,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "2849c563535d913fe15a1956d8c7ab63",
-      "title": "0xSero/factory-cursor-bridge",
-      "url": "https://github.com/0xSero/factory-cursor-bridge",
-      "source": "github",
-      "source_author": "0xSero",
-      "topics": [],
-      "score": 6,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-03-28T03:23:11Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 49,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "3c9fba6155d53212d9db33988a75aa50",
-      "title": "vkhanhqui/figma-mcp-go",
-      "url": "https://github.com/vkhanhqui/figma-mcp-go",
-      "source": "github",
-      "source_author": "vkhanhqui",
-      "topics": [],
-      "score": 6,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-03-28T03:23:08Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 47,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "13943ab24ae47565242c94072093ff60",
-      "title": "Dcatfly/weixin_claude_code",
-      "url": "https://github.com/Dcatfly/weixin_claude_code",
-      "source": "github",
-      "source_author": "Dcatfly",
-      "topics": [],
-      "score": 6,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-03-28T03:23:08Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 46,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "2987635af307173f0be61274d048139d",
-      "title": "f/poke-gate",
-      "url": "https://github.com/f/poke-gate",
-      "source": "github",
-      "source_author": "f",
-      "topics": [],
-      "score": 6,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-03-28T03:23:08Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 43,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "8059a70668b188c466d0fa140c8f1292",
-      "title": "romovpa/claudini",
-      "url": "https://github.com/romovpa/claudini",
-      "source": "github",
-      "source_author": "romovpa",
-      "topics": [],
-      "score": 6,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-03-28T03:23:15Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 66,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "0e52d05bbeec5637b5ef7d15279b1f51",
-      "title": "0xSero/turboquant",
-      "url": "https://github.com/0xSero/turboquant",
-      "source": "github",
-      "source_author": "0xSero",
-      "topics": [],
-      "score": 6,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-03-28T03:23:15Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 94,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "23fcb3d21fa9bbfc3b36d5dabeb1e829",
-      "title": "scrya-com/rotorquant",
-      "url": "https://github.com/scrya-com/rotorquant",
-      "source": "github",
-      "source_author": "scrya-com",
-      "topics": [],
-      "score": 6,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-03-28T03:23:15Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 100,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "214a7e17ee615645f02fca2a45ed5419",
-      "title": "p697/clawket",
-      "url": "https://github.com/p697/clawket",
-      "source": "github",
-      "source_author": "p697",
-      "topics": [],
-      "score": 6,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-03-28T03:23:10Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 91,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "66517fe1ff00a26ed90bb625811a74a5",
-      "title": "TacosyHorchata/Pilot",
-      "url": "https://github.com/TacosyHorchata/Pilot",
-      "source": "github",
-      "source_author": "TacosyHorchata",
+      "source_author": "RuochenLyu",
       "topics": [],
       "score": 5,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-03-28T03:23:11Z",
+      "collected_at": "2026-03-28T07:30:08Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 25,
+        "stars": 24,
         "upvotes": 0
       }
     },
     {
-      "id": "0b9dd8e1fbc25805eecf5aa2cdd0f5e2",
-      "title": "logicrw/agpair",
-      "url": "https://github.com/logicrw/agpair",
+      "id": "2e0b16578173f1ac74d69e311971de05",
+      "title": "caioricciuti/glyphic",
+      "url": "https://github.com/caioricciuti/glyphic",
       "source": "github",
-      "source_author": "logicrw",
-      "topics": [],
-      "score": 5,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-03-28T03:23:11Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 23,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "59e86e5d3ddc11fd0dbe2a76815be577",
-      "title": "adminlove520/AI-Account-Toolkit",
-      "url": "https://github.com/adminlove520/AI-Account-Toolkit",
-      "source": "github",
-      "source_author": "adminlove520",
-      "topics": [],
-      "score": 5,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-03-28T03:22:58Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 19,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "b5a930427954084167ff9ee88da0e9dd",
-      "title": "Looney-tic/intel-overdrive",
-      "url": "https://github.com/Looney-tic/intel-overdrive",
-      "source": "github",
-      "source_author": "Looney-tic",
+      "source_author": "caioricciuti",
       "topics": [],
       "score": 4,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-03-28T03:22:57Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 15,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "f88e8755a6c973c5e62e962c4a7fba7c",
-      "title": "groovy-web/groovy-web-ai-agents",
-      "url": "https://github.com/groovy-web/groovy-web-ai-agents",
-      "source": "github",
-      "source_author": "groovy-web",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-03-28T03:22:57Z",
+      "collected_at": "2026-03-28T07:29:53Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
@@ -302,16 +42,16 @@
       }
     },
     {
-      "id": "ab177a09e7c542a62392572580551bb2",
-      "title": "wuzf/claude-channels-patch",
-      "url": "https://github.com/wuzf/claude-channels-patch",
+      "id": "0787cda454d07b360283d52cd6395356",
+      "title": "arturseo-geo/grounded-research-skill",
+      "url": "https://github.com/arturseo-geo/grounded-research-skill",
       "source": "github",
-      "source_author": "wuzf",
+      "source_author": "arturseo-geo",
       "topics": [],
       "score": 4,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-03-28T03:22:57Z",
+      "collected_at": "2026-03-28T07:29:53Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
@@ -322,56 +62,16 @@
       }
     },
     {
-      "id": "42fed48850e31a90d57ea8802dc38a2e",
-      "title": "lucianlamp/CCCBot",
-      "url": "https://github.com/lucianlamp/CCCBot",
+      "id": "fedb545ab8aa8a2d41edeb04b719470b",
+      "title": "harshmoney123/launch-swarm",
+      "url": "https://github.com/harshmoney123/launch-swarm",
       "source": "github",
-      "source_author": "lucianlamp",
+      "source_author": "harshmoney123",
       "topics": [],
       "score": 4,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-03-28T03:22:57Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 13,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "d8a7ad4c7d30052cf3da9dc606a12995",
-      "title": "qqqqqf-q/gpt-translator",
-      "url": "https://github.com/qqqqqf-q/gpt-translator",
-      "source": "github",
-      "source_author": "qqqqqf-q",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-03-28T03:22:59Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 10,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "135ff040b09ac678e791714f8da70b08",
-      "title": "Firestar666-ui/leetcode-ai-analyzer",
-      "url": "https://github.com/Firestar666-ui/leetcode-ai-analyzer",
-      "source": "github",
-      "source_author": "Firestar666-ui",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-03-28T03:23:01Z",
+      "collected_at": "2026-03-28T07:30:03Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
@@ -382,276 +82,16 @@
       }
     },
     {
-      "id": "a4f55711c895b7335888a023707f33be",
-      "title": "75yang/deepseek-chat-tracker",
-      "url": "https://github.com/75yang/deepseek-chat-tracker",
+      "id": "7e1531e42758f735a2f2ec8c606344e3",
+      "title": "devine6269/devine6269",
+      "url": "https://github.com/devine6269/devine6269",
       "source": "github",
-      "source_author": "75yang",
+      "source_author": "devine6269",
       "topics": [],
       "score": 4,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-03-28T03:23:01Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 2,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "5b9f44759b0958b69838731e8f87d368",
-      "title": "leoyang1984/obsidian-deepseek-note-helper-public",
-      "url": "https://github.com/leoyang1984/obsidian-deepseek-note-helper-public",
-      "source": "github",
-      "source_author": "leoyang1984",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-03-28T03:23:01Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 2,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "b24013294c1c4df07bac0cafce6bc609",
-      "title": "drduhe/lam",
-      "url": "https://github.com/drduhe/lam",
-      "source": "github",
-      "source_author": "drduhe",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-03-28T03:23:02Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 2,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "332cb8485eefd2ff2bae8ff5f856150b",
-      "title": "tiwaritanay01/et_genai_conceirge_final",
-      "url": "https://github.com/tiwaritanay01/et_genai_conceirge_final",
-      "source": "github",
-      "source_author": "tiwaritanay01",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-03-28T03:23:02Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 1,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "7f818ef79399bf08d269661d2487f918",
-      "title": "anasx07/AutaKimi-Release",
-      "url": "https://github.com/anasx07/AutaKimi-Release",
-      "source": "github",
-      "source_author": "anasx07",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-03-28T03:23:03Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 2,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "16f0d55ecd5b5ea03d40c271d3364b7c",
-      "title": "Akshitha0118/KimiCore-Flow-Real-Time-Offline-AI-Chat-Engine",
-      "url": "https://github.com/Akshitha0118/KimiCore-Flow-Real-Time-Offline-AI-Chat-Engine",
-      "source": "github",
-      "source_author": "Akshitha0118",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-03-28T03:23:03Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 1,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "7a27bac144575ef1586577e22a077471",
-      "title": "awesome-ai-tools/curated-ai-voice-tools",
-      "url": "https://github.com/awesome-ai-tools/curated-ai-voice-tools",
-      "source": "github",
-      "source_author": "awesome-ai-tools",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-03-28T03:23:06Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 1,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "7fdd55131753772fe25c2fbf308389c3",
-      "title": "MikeHLee/swarm-city",
-      "url": "https://github.com/MikeHLee/swarm-city",
-      "source": "github",
-      "source_author": "MikeHLee",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-03-28T03:23:07Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 2,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "097d471123b41e6ceef32606fd1bba54",
-      "title": "victoriano/swarm-predict",
-      "url": "https://github.com/victoriano/swarm-predict",
-      "source": "github",
-      "source_author": "victoriano",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-03-28T03:23:07Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 2,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "c7f730f8fa18939975831a72154d7784",
-      "title": "jnMetaCode/ai-coding-guide",
-      "url": "https://github.com/jnMetaCode/ai-coding-guide",
-      "source": "github",
-      "source_author": "jnMetaCode",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-03-28T03:23:12Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 4,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "22a2eb0676bb80bd2a383e5eac39cd91",
-      "title": "penghaoya/windsurf_tool",
-      "url": "https://github.com/penghaoya/windsurf_tool",
-      "source": "github",
-      "source_author": "penghaoya",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-03-28T03:23:12Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 3,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "f822b42a2f176063acc7bf96afb33367",
-      "title": "junge1a520/windsurf_account_manager",
-      "url": "https://github.com/junge1a520/windsurf_account_manager",
-      "source": "github",
-      "source_author": "junge1a520",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-03-28T03:23:12Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 2,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "6b2aba2b6dcddb3acd76d529d85bc2bb",
-      "title": "SamanAttar/salesforce-skills",
-      "url": "https://github.com/SamanAttar/salesforce-skills",
-      "source": "github",
-      "source_author": "SamanAttar",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-03-28T03:23:12Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 2,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "879919a9506a388c6cfca4b4e54e0f62",
-      "title": "SpiraNikolic96/devin",
-      "url": "https://github.com/SpiraNikolic96/devin",
-      "source": "github",
-      "source_author": "SpiraNikolic96",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-03-28T03:23:14Z",
+      "collected_at": "2026-03-28T07:30:10Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
@@ -663,5 +103,5 @@
     }
   ],
   "source": "github",
-  "updated_at": "2026-03-28T03:26:05Z"
+  "updated_at": "2026-03-28T07:33:02Z"
 }
