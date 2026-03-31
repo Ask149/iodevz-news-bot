@@ -1,37 +1,257 @@
 {
-  "count": 6,
+  "count": 19,
   "items": [
     {
-      "id": "3255be21a5ab86476344201de1e5f057",
-      "title": "OpenAIPay/openaipay",
-      "url": "https://github.com/OpenAIPay/openaipay",
+      "id": "028f8d5e94ac2204e31f62fe7c3baacc",
+      "title": "instructkr/claude-code",
+      "url": "https://github.com/instructkr/claude-code",
       "source": "github",
-      "source_author": "OpenAIPay",
+      "source_author": "instructkr",
       "topics": [],
-      "score": 5,
+      "score": 8,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-03-31T07:53:21Z",
+      "collected_at": "2026-03-31T14:09:38Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 19,
+        "stars": 28200,
         "upvotes": 0
       }
     },
     {
-      "id": "355e33d6c58fff42c9df0fd8cc27d8fd",
-      "title": "pxl-pshr/ComfyUI-SD-CN-Animation",
-      "url": "https://github.com/pxl-pshr/ComfyUI-SD-CN-Animation",
+      "id": "a640c8cfa9576ebd482f823cfd2523b2",
+      "title": "ChinaSiro/claude-code-sourcemap",
+      "url": "https://github.com/ChinaSiro/claude-code-sourcemap",
       "source": "github",
-      "source_author": "pxl-pshr",
+      "source_author": "ChinaSiro",
+      "topics": [],
+      "score": 8,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-03-31T14:09:38Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 2821,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "e2e0ea135954075acc2fe8af9951d4b8",
+      "title": "sanbuphy/claude-code-source-code",
+      "url": "https://github.com/sanbuphy/claude-code-source-code",
+      "source": "github",
+      "source_author": "sanbuphy",
+      "topics": [],
+      "score": 8,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-03-31T14:09:38Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1153,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "9a2e34a325430b3b2fee0030ee3efb26",
+      "title": "nirholas/claude-code",
+      "url": "https://github.com/nirholas/claude-code",
+      "source": "github",
+      "source_author": "nirholas",
+      "topics": [],
+      "score": 8,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-03-31T14:09:38Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 970,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "8f6efa78566c02d9d33b1d05d6511ea2",
+      "title": "Garume/Manifold",
+      "url": "https://github.com/Garume/Manifold",
+      "source": "github",
+      "source_author": "Garume",
+      "topics": [],
+      "score": 6,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-03-31T14:09:52Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 95,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "01f582db7b9d29e9eb04807bfc951d95",
+      "title": "sandroandric/AgentHandover",
+      "url": "https://github.com/sandroandric/AgentHandover",
+      "source": "github",
+      "source_author": "sandroandric",
+      "topics": [],
+      "score": 6,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-03-31T14:09:55Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 116,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "4e583300b839b183879afc2b5a0d3207",
+      "title": "Mibayy/token-savior",
+      "url": "https://github.com/Mibayy/token-savior",
+      "source": "github",
+      "source_author": "Mibayy",
+      "topics": [],
+      "score": 6,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-03-31T14:09:52Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 99,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "fabdb53ab23d586ee6a2ff717e9c2472",
+      "title": "StarKnightt/Claude-Code",
+      "url": "https://github.com/StarKnightt/Claude-Code",
+      "source": "github",
+      "source_author": "StarKnightt",
+      "topics": [],
+      "score": 6,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-03-31T14:09:39Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 82,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "cb7193bdc4a1b3e20cd1c7278f189090",
+      "title": "tanbiralam/claude-code",
+      "url": "https://github.com/tanbiralam/claude-code",
+      "source": "github",
+      "source_author": "tanbiralam",
+      "topics": [],
+      "score": 6,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-03-31T14:09:39Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 94,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "6bad29df9918dcba28fe5dd3a2b80a37",
+      "title": "Lomnus-ai/TokenBurner",
+      "url": "https://github.com/Lomnus-ai/TokenBurner",
+      "source": "github",
+      "source_author": "Lomnus-ai",
+      "topics": [],
+      "score": 5,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-03-31T14:09:39Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 20,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "fc4a18d01152562fed685e4b784a0077",
+      "title": "huangserva/claude-code-cli",
+      "url": "https://github.com/huangserva/claude-code-cli",
+      "source": "github",
+      "source_author": "huangserva",
+      "topics": [],
+      "score": 5,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-03-31T14:09:39Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 31,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "b56f46a878bfa394cbbe695a14c97725",
+      "title": "ResonantEntropy/bashGPT",
+      "url": "https://github.com/ResonantEntropy/bashGPT",
+      "source": "github",
+      "source_author": "ResonantEntropy",
       "topics": [],
       "score": 4,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-03-31T07:53:29Z",
+      "collected_at": "2026-03-31T14:09:42Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 6,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "9caccb46edb9bfdb94666681e5c59a3d",
+      "title": "PhilipAD/Unified-Agents-SDK",
+      "url": "https://github.com/PhilipAD/Unified-Agents-SDK",
+      "source": "github",
+      "source_author": "PhilipAD",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-03-31T14:09:44Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
@@ -42,36 +262,16 @@
       }
     },
     {
-      "id": "94677e694a211768d6fe0c5d0cd4b0a3",
-      "title": "taichuai/awesome-audio-speech-generation-corpus",
-      "url": "https://github.com/taichuai/awesome-audio-speech-generation-corpus",
+      "id": "723f65d2f653c540e790bd8a2787700c",
+      "title": "lestrofarhan/GenAI",
+      "url": "https://github.com/lestrofarhan/GenAI",
       "source": "github",
-      "source_author": "taichuai",
+      "source_author": "lestrofarhan",
       "topics": [],
       "score": 4,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-03-31T07:53:31Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "fc24eacf22fac258ea879b66b68f1cfc",
-      "title": "ImBIOS/swarm-tools",
-      "url": "https://github.com/ImBIOS/swarm-tools",
-      "source": "github",
-      "source_author": "ImBIOS",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-03-31T07:53:32Z",
+      "collected_at": "2026-03-31T14:09:45Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
@@ -82,16 +282,36 @@
       }
     },
     {
-      "id": "80a0987e834810a01813f96f2fbdfec0",
-      "title": "copperline-labs/rendex-mcp",
-      "url": "https://github.com/copperline-labs/rendex-mcp",
+      "id": "5c5996e0c66a15973cf6cc9bd94b9b5f",
+      "title": "mtfly/trae-switch",
+      "url": "https://github.com/mtfly/trae-switch",
       "source": "github",
-      "source_author": "copperline-labs",
+      "source_author": "mtfly",
       "topics": [],
       "score": 4,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-03-31T07:53:39Z",
+      "collected_at": "2026-03-31T14:09:47Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 4,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "7881cc41a0e9df313cfa8dddf3905a29",
+      "title": "heimanba/wx-acpx",
+      "url": "https://github.com/heimanba/wx-acpx",
+      "source": "github",
+      "source_author": "heimanba",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-03-31T14:09:47Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
@@ -102,16 +322,36 @@
       }
     },
     {
-      "id": "e7a5f743087c72d8af4e31da02eb378a",
-      "title": "stonewolfpc/SWEObeyMe",
-      "url": "https://github.com/stonewolfpc/SWEObeyMe",
+      "id": "c0c9a16e393633a76f01cd90a9ba2a72",
+      "title": "junxi25liu/TinyAudio",
+      "url": "https://github.com/junxi25liu/TinyAudio",
       "source": "github",
-      "source_author": "stonewolfpc",
+      "source_author": "junxi25liu",
       "topics": [],
       "score": 4,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-03-31T07:53:39Z",
+      "collected_at": "2026-03-31T14:09:49Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 5,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "4e076c74f37104e7e684e6bc7621c32c",
+      "title": "nxrobins/dotscope",
+      "url": "https://github.com/nxrobins/dotscope",
+      "source": "github",
+      "source_author": "nxrobins",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-03-31T14:09:51Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
@@ -120,8 +360,28 @@
         "stars": 2,
         "upvotes": 0
       }
+    },
+    {
+      "id": "16d839b9a6c33e586f8daa97f592b5e8",
+      "title": "navfa/skills-md-graph",
+      "url": "https://github.com/navfa/skills-md-graph",
+      "source": "github",
+      "source_author": "navfa",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-03-31T14:09:54Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
+        "upvotes": 0
+      }
     }
   ],
   "source": "github",
-  "updated_at": "2026-03-31T07:56:39Z"
+  "updated_at": "2026-03-31T14:12:52Z"
 }
