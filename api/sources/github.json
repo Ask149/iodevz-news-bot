@@ -1,97 +1,217 @@
 {
-  "count": 10,
+  "count": 12,
   "items": [
     {
-      "id": "23ec3921c10af2ba90482a7c6358e0a7",
-      "title": "e10nMa2k/cc-mini",
-      "url": "https://github.com/e10nMa2k/cc-mini",
+      "id": "1539c78a2ca1798021cf27c06948af8e",
+      "title": "alejandrobalderas/claude-code-from-source",
+      "url": "https://github.com/alejandrobalderas/claude-code-from-source",
       "source": "github",
-      "source_author": "e10nMa2k",
+      "source_author": "alejandrobalderas",
       "topics": [],
-      "score": 8,
+      "score": 7,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-04-02T07:49:12Z",
+      "collected_at": "2026-04-02T14:04:49Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 486,
+        "stars": 174,
         "upvotes": 0
       }
     },
     {
-      "id": "e7c9b10d54ec5cada131fdd3114aa70a",
-      "title": "skibidiskib/ai-codex",
-      "url": "https://github.com/skibidiskib/ai-codex",
+      "id": "4aa9335c880e486fdd75d74bb7acdf70",
+      "title": "spool-lab/spool",
+      "url": "https://github.com/spool-lab/spool",
       "source": "github",
-      "source_author": "skibidiskib",
+      "source_author": "spool-lab",
       "topics": [],
-      "score": 6,
+      "score": 7,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-04-02T07:49:07Z",
+      "collected_at": "2026-04-02T14:05:03Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 37,
+        "stars": 223,
         "upvotes": 0
       }
     },
     {
-      "id": "ea611f99a4e4a93b236bee4ce335f5ea",
-      "title": "russelleNVy/three-man-team",
-      "url": "https://github.com/russelleNVy/three-man-team",
+      "id": "d0c4a836256b8129f2011009aa52e0d9",
+      "title": "LeoYeAI/teammate-skill",
+      "url": "https://github.com/LeoYeAI/teammate-skill",
       "source": "github",
-      "source_author": "russelleNVy",
-      "topics": [],
-      "score": 6,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-04-02T07:49:07Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 48,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "0cb14ea43042c09861e61893926afb36",
-      "title": "tradesdontlie/tradingview-mcp",
-      "url": "https://github.com/tradesdontlie/tradingview-mcp",
-      "source": "github",
-      "source_author": "tradesdontlie",
+      "source_author": "LeoYeAI",
       "topics": [],
       "score": 6,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-04-02T07:49:03Z",
+      "collected_at": "2026-04-02T14:05:05Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 106,
+        "stars": 108,
         "upvotes": 0
       }
     },
     {
-      "id": "4a266147fc06f8ef044f78a447291bbe",
-      "title": "he-yufeng/NanoCoder",
-      "url": "https://github.com/he-yufeng/NanoCoder",
+      "id": "1eafa9274e6b132b6acac0cbfdd46441",
+      "title": "LeoYeAI/MyClaw",
+      "url": "https://github.com/LeoYeAI/MyClaw",
       "source": "github",
-      "source_author": "he-yufeng",
+      "source_author": "LeoYeAI",
+      "topics": [],
+      "score": 6,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-04-02T14:05:05Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 96,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "2aa9ea8d46d4c276b610f9b4bd0670c3",
+      "title": "bcefghj/learn-MedicalGPT",
+      "url": "https://github.com/bcefghj/learn-MedicalGPT",
+      "source": "github",
+      "source_author": "bcefghj",
       "topics": [],
       "score": 4,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-04-02T07:48:56Z",
+      "collected_at": "2026-04-02T14:04:51Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 16,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "6a7087e87805f223a1184337c8baf8ee",
+      "title": "niuchatang/smart-cs-agent",
+      "url": "https://github.com/niuchatang/smart-cs-agent",
+      "source": "github",
+      "source_author": "niuchatang",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-04-02T14:04:54Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 4,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "828c7ee3a9faa8bf6cb554ed79f16555",
+      "title": "chillqoder/china-test-1",
+      "url": "https://github.com/chillqoder/china-test-1",
+      "source": "github",
+      "source_author": "chillqoder",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-04-02T14:04:57Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 2,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "34d8774ec9d006ef2d15299144c8b2af",
+      "title": "goleaf/gpt-audio-generation",
+      "url": "https://github.com/goleaf/gpt-audio-generation",
+      "source": "github",
+      "source_author": "goleaf",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-04-02T14:05:00Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "2c06781eb6c9c4381ab0c860a9e2042c",
+      "title": "penberg/swarm",
+      "url": "https://github.com/penberg/swarm",
+      "source": "github",
+      "source_author": "penberg",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-04-02T14:05:01Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 2,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "34609816735c03af64b27c598c11403d",
+      "title": "youngfreeFJS/skill-test-skill",
+      "url": "https://github.com/youngfreeFJS/skill-test-skill",
+      "source": "github",
+      "source_author": "youngfreeFJS",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-04-02T14:05:04Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 14,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "8f61f5dc5adecdcdf15fdf3131825050",
+      "title": "Aike0210/strict-agent-workflow",
+      "url": "https://github.com/Aike0210/strict-agent-workflow",
+      "source": "github",
+      "source_author": "Aike0210",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-04-02T14:05:07Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
@@ -102,106 +222,26 @@
       }
     },
     {
-      "id": "1559c2795e3d3b59f8d838a063cac2a8",
-      "title": "megzz001/Full-Stack-AI-Resume-Analyzer-and-Interview-Question-Generator-using-GenAI",
-      "url": "https://github.com/megzz001/Full-Stack-AI-Resume-Analyzer-and-Interview-Question-Generator-using-GenAI",
+      "id": "ee21c52423365b308817ade00ebdd95d",
+      "title": "Harsh-Gondaliya-312/Devin",
+      "url": "https://github.com/Harsh-Gondaliya-312/Devin",
       "source": "github",
-      "source_author": "megzz001",
+      "source_author": "Harsh-Gondaliya-312",
       "topics": [],
       "score": 4,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-04-02T07:48:57Z",
+      "collected_at": "2026-04-02T14:05:09Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 2,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "2685a0ace92f3ca5fcf02866738d2d71",
-      "title": "unarbos/eclair",
-      "url": "https://github.com/unarbos/eclair",
-      "source": "github",
-      "source_author": "unarbos",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-04-02T07:49:00Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 2,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "b04bef3c07c32f43fd78eb8cd496d401",
-      "title": "bioneural/graft",
-      "url": "https://github.com/bioneural/graft",
-      "source": "github",
-      "source_author": "bioneural",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-04-02T07:49:05Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 2,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "23f9e6ac268373813cc70b0d4549645d",
-      "title": "jpwang1208/find-skills-x",
-      "url": "https://github.com/jpwang1208/find-skills-x",
-      "source": "github",
-      "source_author": "jpwang1208",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-04-02T07:49:08Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 2,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "160122cb6a6f4b0d49c061e7ed1103f8",
-      "title": "dadadadadadaddadadadadadadadadaddada/windsurf-account-manager",
-      "url": "https://github.com/dadadadadadaddadadadadadadadadaddada/windsurf-account-manager",
-      "source": "github",
-      "source_author": "dadadadadadaddadadadadadadadadaddada",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-04-02T07:49:08Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 1,
+        "stars": 0,
         "upvotes": 0
       }
     }
   ],
   "source": "github",
-  "updated_at": "2026-04-02T07:51:59Z"
+  "updated_at": "2026-04-02T14:07:59Z"
 }
