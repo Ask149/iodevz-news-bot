@@ -1,67 +1,167 @@
 {
-  "count": 3,
+  "count": 8,
   "items": [
     {
-      "id": "dab49117e0affa0c0ea302a2a9ad5995",
-      "title": "NanmiCoder/cc-haha",
-      "url": "https://github.com/NanmiCoder/cc-haha",
+      "id": "60813f51696771327e85232c69d0f5a9",
+      "title": "HKUDS/OpenHarness",
+      "url": "https://github.com/HKUDS/OpenHarness",
       "source": "github",
-      "source_author": "NanmiCoder",
+      "source_author": "HKUDS",
       "topics": [],
       "score": 8,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-04-03T07:45:11Z",
+      "collected_at": "2026-04-03T13:44:17Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 4231,
+        "stars": 1740,
         "upvotes": 0
       }
     },
     {
-      "id": "85efb386f0f97a3f9bb9db3c3dfd97eb",
-      "title": "GPT-AGI/Clawd-Code",
-      "url": "https://github.com/GPT-AGI/Clawd-Code",
+      "id": "1ba1bd3e9496470e18d5e029b81fb9ad",
+      "title": "Tencent-Hunyuan/OmniWeaving",
+      "url": "https://github.com/Tencent-Hunyuan/OmniWeaving",
       "source": "github",
-      "source_author": "GPT-AGI",
+      "source_author": "Tencent-Hunyuan",
       "topics": [],
       "score": 6,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-04-03T07:45:26Z",
+      "collected_at": "2026-04-03T13:44:22Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 86,
+        "stars": 80,
         "upvotes": 0
       }
     },
     {
-      "id": "148907293509a1f051282fca6ec8cacb",
-      "title": "agenmod/immortal-skill",
-      "url": "https://github.com/agenmod/immortal-skill",
+      "id": "c23692e7ff0ec28ea3c04f54c54fc138",
+      "title": "hl897tech/xhs_content_agent",
+      "url": "https://github.com/hl897tech/xhs_content_agent",
       "source": "github",
-      "source_author": "agenmod",
+      "source_author": "hl897tech",
       "topics": [],
-      "score": 6,
+      "score": 4,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-04-03T07:45:26Z",
+      "collected_at": "2026-04-03T13:44:16Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 108,
+        "stars": 14,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "98a5cb8259534f14171d8d91329ab053",
+      "title": "baixianger/phantom-canvas",
+      "url": "https://github.com/baixianger/phantom-canvas",
+      "source": "github",
+      "source_author": "baixianger",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-04-03T13:44:22Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 2,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "e018a15f852cc6bfbbfe5bedf68a6788",
+      "title": "Tanny2109/Viral-Layered-Depth-Inpainting-VideoGen",
+      "url": "https://github.com/Tanny2109/Viral-Layered-Depth-Inpainting-VideoGen",
+      "source": "github",
+      "source_author": "Tanny2109",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-04-03T13:44:22Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "6068cbec3a8a2b4e1c6d3b316cc84639",
+      "title": "shengshu-ai/vidu-skills",
+      "url": "https://github.com/shengshu-ai/vidu-skills",
+      "source": "github",
+      "source_author": "shengshu-ai",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-04-03T13:44:22Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "4caf188bd825cc3097245b4b9e6a8f10",
+      "title": "AskRoundtable/expert-skills",
+      "url": "https://github.com/AskRoundtable/expert-skills",
+      "source": "github",
+      "source_author": "AskRoundtable",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-04-03T13:44:31Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 11,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "a5265230f676582a833471b520f1955f",
+      "title": "jl3032/13f-analysis",
+      "url": "https://github.com/jl3032/13f-analysis",
+      "source": "github",
+      "source_author": "jl3032",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-04-03T13:44:31Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 3,
         "upvotes": 0
       }
     }
   ],
   "source": "github",
-  "updated_at": "2026-04-03T07:48:20Z"
+  "updated_at": "2026-04-03T13:47:28Z"
 }

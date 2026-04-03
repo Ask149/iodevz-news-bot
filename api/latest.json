@@ -1,117 +1,77 @@
 {
-  "count": 36,
+  "count": 59,
   "items": [
     {
-      "id": "dab49117e0affa0c0ea302a2a9ad5995",
-      "title": "NanmiCoder/cc-haha",
-      "url": "https://github.com/NanmiCoder/cc-haha",
+      "id": "60813f51696771327e85232c69d0f5a9",
+      "title": "HKUDS/OpenHarness",
+      "url": "https://github.com/HKUDS/OpenHarness",
       "source": "github",
-      "source_author": "NanmiCoder",
+      "source_author": "HKUDS",
       "topics": [],
       "score": 8,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-04-03T07:45:11Z",
+      "collected_at": "2026-04-03T13:44:17Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 4231,
+        "stars": 1740,
         "upvotes": 0
       }
     },
     {
-      "id": "c23baaf14ae9442129d7e95c5839b7ca",
-      "title": "Today, we’re launching Gemma 4, our most intelligent open models to date. Built with the same brea...",
-      "url": "https://x.com/GoogleAI/status/2039735543068504476",
-      "source": "twitter",
-      "source_author": "GoogleAI",
-      "topics": [],
-      "score": 8,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-04-03T07:48:19Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 1804,
-        "replies": 102,
-        "retweets": 365,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "9e36ddd2e769c8c867d15706d1361e17",
-      "title": "And just in case you’re wondering, \"..What’s an open model?\", we’ve got you covered:\n\nBasicall...",
-      "url": "https://x.com/GoogleAI/status/2039735546310737934",
-      "source": "twitter",
-      "source_author": "GoogleAI",
-      "topics": [],
-      "score": 6,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-04-03T07:48:19Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 82,
-        "replies": 1,
-        "retweets": 10,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "85efb386f0f97a3f9bb9db3c3dfd97eb",
-      "title": "GPT-AGI/Clawd-Code",
-      "url": "https://github.com/GPT-AGI/Clawd-Code",
+      "id": "1ba1bd3e9496470e18d5e029b81fb9ad",
+      "title": "Tencent-Hunyuan/OmniWeaving",
+      "url": "https://github.com/Tencent-Hunyuan/OmniWeaving",
       "source": "github",
-      "source_author": "GPT-AGI",
+      "source_author": "Tencent-Hunyuan",
       "topics": [],
       "score": 6,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-04-03T07:45:26Z",
+      "collected_at": "2026-04-03T13:44:22Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 86,
+        "stars": 80,
         "upvotes": 0
       }
     },
     {
-      "id": "148907293509a1f051282fca6ec8cacb",
-      "title": "agenmod/immortal-skill",
-      "url": "https://github.com/agenmod/immortal-skill",
-      "source": "github",
-      "source_author": "agenmod",
-      "topics": [],
-      "score": 6,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-04-03T07:45:26Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 108,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "5e3e12227c06c9f37b9984d1eb333e73",
-      "title": "Can servers use elicitation for HITL scenarios?",
-      "url": "https://realarcherl.github.io/posts/mcp_security/",
+      "id": "adcad222f42f4f8fb0a5b3b3781dd406",
+      "title": "Claude 4.6 Jailbroken",
+      "url": "https://github.com/Nicholas-Kloster/claude-4.6-jailbreak-vulnerability-disclosure-unredacted",
       "source": "hackernews",
-      "source_author": "ArcherL",
+      "source_author": "NuClide",
       "topics": [],
       "score": 4,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-04-03T07:45:07Z",
+      "collected_at": "2026-04-03T13:44:07Z",
+      "engagement": {
+        "comments": 1,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 2
+      }
+    },
+    {
+      "id": "cfa80a1097ca582854978a6e7a2481ce",
+      "title": "Show HN: ClauseWize – Upload a contract, get risk score and negotiation language",
+      "url": "https://clausewize.com",
+      "source": "hackernews",
+      "source_author": "pratikdoshi01",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-04-03T13:44:07Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
@@ -122,18 +82,98 @@
       }
     },
     {
-      "id": "2820f1c255e8e794a396fda01eecd267",
-      "title": "Hacker News MOTD shell script",
-      "url": "https://gist.github.com/brandonpollack23/db78386cb84389772974edeb9e9e29bc",
+      "id": "03919908f027ce331798124c65e0f2e4",
+      "title": "I fact-checked Scientific American, with accidental help from Anthropic",
+      "url": "https://iron.blue/blog/2026/apr-may-jun/the-claude-code-leak-is-a-huge-nothingburger",
       "source": "hackernews",
-      "source_author": "brandonpollack2",
+      "source_author": "slowmover",
       "topics": [],
       "score": 4,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-04-03T07:45:07Z",
+      "collected_at": "2026-04-03T13:44:07Z",
       "engagement": {
         "comments": 1,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 1
+      }
+    },
+    {
+      "id": "f4aa50fb79bc5805c3bf0862642f1707",
+      "title": "Show HN: Reverse-engineered Claude in Chrome after the source leak",
+      "url": "https://github.com/noemica-io/open-claude-in-chrome",
+      "source": "hackernews",
+      "source_author": "SebastianSosa",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-04-03T13:44:07Z",
+      "engagement": {
+        "comments": 1,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 2
+      }
+    },
+    {
+      "id": "0c75f78c6950b1f5834f12a29b3a7466",
+      "title": "LLM Drift in Long Sessions: Claude 60% vs. 85% Integrity After 25 Turns",
+      "url": "https://calmkeep.ai/codetestreport",
+      "source": "hackernews",
+      "source_author": "calmkeepai",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-04-03T13:44:07Z",
+      "engagement": {
+        "comments": 1,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 2
+      }
+    },
+    {
+      "id": "d64c183ed2d0a15b2bb3288323c15e69",
+      "title": "Show hn: Speedy-Claude",
+      "url": "https://github.com/klh/speedy-claude",
+      "source": "hackernews",
+      "source_author": "bythreads",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-04-03T13:44:07Z",
+      "engagement": {
+        "comments": 1,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 1
+      }
+    },
+    {
+      "id": "19b2b90842032a14c67b12f289ab1e07",
+      "title": "Show HN: LLMnesia – search across ChatGPT, Claude, Gemini chats locally",
+      "url": "https://chromewebstore.google.com/detail/llmnesia/leekfgbdojiaabifbjbbgiiclannjdkf",
+      "source": "hackernews",
+      "source_author": "keiranflynn",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-04-03T13:44:07Z",
+      "engagement": {
+        "comments": 2,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
@@ -142,216 +182,16 @@
       }
     },
     {
-      "id": "831b8ddeb2307ea596d23e498848484b",
-      "title": "Show HN: I thought merging two photos with AI would be a weekend project. Nope",
-      "url": "https://animateoldphotos.org/add-loved-one-to-photo",
+      "id": "075bb73556e55e9b330bece020dee4fb",
+      "title": "The plumbing behind Claude Code",
+      "url": "https://siddhantkhare.com/writing/the-plumbing-behind-claude-code",
       "source": "hackernews",
-      "source_author": "imgdesgen",
+      "source_author": "speckx",
       "topics": [],
       "score": 4,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-04-03T07:45:07Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 0,
-        "upvotes": 3
-      }
-    },
-    {
-      "id": "4ec7d840b445cddcc296ae7b33d1a120",
-      "title": "Cybernetic Entropy Control of LLMs",
-      "url": "https://github.com/orthogonaltohumanity/Cybernetic_Entropy_Control",
-      "source": "hackernews",
-      "source_author": "tiredgirl4",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-04-03T07:45:07Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 0,
-        "upvotes": 1
-      }
-    },
-    {
-      "id": "4098da2b2df08f3e192a87dff7d88c3a",
-      "title": "QRL 2.0 testnet has been released",
-      "url": "https://github.com/theQRL/go-qrl",
-      "source": "hackernews",
-      "source_author": "munrocket",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-04-03T07:45:07Z",
-      "engagement": {
-        "comments": 1,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 0,
-        "upvotes": 1
-      }
-    },
-    {
-      "id": "469cc74f5e31d160eae8d98b5fb784bf",
-      "title": "Autonomous, task-aware context tuning for AI coding agents",
-      "url": "https://github.com/juyterman1000/entroly/",
-      "source": "hackernews",
-      "source_author": "abby-star",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-04-03T07:45:07Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 0,
-        "upvotes": 1
-      }
-    },
-    {
-      "id": "5197c55b2ef41d82ce8ff14160ad9611",
-      "title": "Show HN: Agentdid – Cryptographic proof that a human stands behind an AI agent",
-      "url": "https://github.com/Mr-Perfection/agentdid",
-      "source": "hackernews",
-      "source_author": "sungsool",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-04-03T07:45:07Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 0,
-        "upvotes": 1
-      }
-    },
-    {
-      "id": "db1a9d195347c5230999061cefaf0919",
-      "title": "Agentis Memory – Redis-compatible store with built-in local embeddings",
-      "url": "https://github.com/scrobot/agentis-memory",
-      "source": "hackernews",
-      "source_author": "scrobot",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-04-03T07:45:07Z",
-      "engagement": {
-        "comments": 1,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 0,
-        "upvotes": 1
-      }
-    },
-    {
-      "id": "df48cee8ca4afe848a83fe93c794e40f",
-      "title": "WireGUI – Open-source WireGuard management platform with SSO and firewall rules",
-      "url": "https://github.com/bartei/wiregui",
-      "source": "hackernews",
-      "source_author": "bartei81",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-04-03T07:45:07Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 0,
-        "upvotes": 3
-      }
-    },
-    {
-      "id": "fcf21b5fbc46ef53aecfe65d7c95500f",
-      "title": "X/Twitter in the Terminal",
-      "url": "https://github.com/bddicken/tuitter",
-      "source": "hackernews",
-      "source_author": "gasull",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-04-03T07:45:07Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 0,
-        "upvotes": 1
-      }
-    },
-    {
-      "id": "e169485287693f249af97facbefc19ed",
-      "title": "Sheets, terminal based spreadsheet tool",
-      "url": "https://github.com/maaslalani/sheets",
-      "source": "hackernews",
-      "source_author": "marcuskaz",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-04-03T07:45:07Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 0,
-        "upvotes": 3
-      }
-    },
-    {
-      "id": "de56c7b0394e5d9ad7af55f37c9337d3",
-      "title": "Mini-Presenter",
-      "url": "https://github.com/mitsuhiko/mini-presenter",
-      "source": "hackernews",
-      "source_author": "doppp",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-04-03T07:45:07Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 0,
-        "upvotes": 1
-      }
-    },
-    {
-      "id": "f2d0cf28bd54bca19c9fcf217ab5b3ba",
-      "title": "A simplified presentation of Einstein's unified field equations (1929)",
-      "url": "https://www.gutenberg.org/cache/epub/78343/pg78343-images.html",
-      "source": "hackernews",
-      "source_author": "petethomas",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-04-03T07:45:07Z",
+      "collected_at": "2026-04-03T13:44:07Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
@@ -362,16 +202,96 @@
       }
     },
     {
-      "id": "908079c95c4107096c6bd5e5263528ad",
-      "title": "What Claude's source code reveals about AI visibility",
-      "url": "https://growtika.com/blog/claude-source-code-ai-visibility",
+      "id": "d60b9589e2c4795e531b4464d0b8e4ea",
+      "title": "They thought they were downloading Claude Code source",
+      "url": "https://www.theregister.com/2026/04/02/trojanized_claude_code_leak_github/",
       "source": "hackernews",
-      "source_author": "Growtika",
+      "source_author": "jruohonen",
       "topics": [],
       "score": 4,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-04-03T07:45:06Z",
+      "collected_at": "2026-04-03T13:44:07Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 3
+      }
+    },
+    {
+      "id": "dd546a977c5573e6a38a84aab307d7ab",
+      "title": "Show HN: SkillCompass – Diagnose and Improve AI Agent Skills Across 6 Dimensions",
+      "url": "https://github.com/Evol-ai/SkillCompass",
+      "source": "hackernews",
+      "source_author": "yo103jg",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-04-03T13:44:07Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 2
+      }
+    },
+    {
+      "id": "91b08d463a0b06c651a8f7d58f1bdcf1",
+      "title": "Anthropics uses new math for their new agents wrapped in a runtime",
+      "url": "https://nicholasjbogaert.substack.com/p/i-published-the-architecture-anthropic",
+      "source": "hackernews",
+      "source_author": "nicbogaert",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-04-03T13:44:07Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 2
+      }
+    },
+    {
+      "id": "747aba28275f8d39207ec6f132a619ca",
+      "title": "Lower Price for ChatGPT Business",
+      "url": "https://help.openai.com/en/articles/8792828-what-is-chatgpt-business",
+      "source": "hackernews",
+      "source_author": "alxthm",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-04-03T13:44:07Z",
+      "engagement": {
+        "comments": 4,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 16
+      }
+    },
+    {
+      "id": "792f9260273034a7100023d794658733",
+      "title": "OpenAI Acquires Tech Talk Show 'TBPN'–and Buys Itself Some Positive News",
+      "url": "https://www.wired.com/story/openai-acquires-tbpn-buys-positive-news-coverage/",
+      "source": "hackernews",
+      "source_author": "joozio",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-04-03T13:44:07Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
@@ -382,256 +302,216 @@
       }
     },
     {
-      "id": "b1aabbf3be2481ed9f66beeaabe3cb7c",
-      "title": "Show HN: Minimal Brain Teaser Web Game (Handcrafted, No AI)",
-      "url": "https://mehuleo.github.io/encircle/",
+      "id": "f587c90bb931bcf80f748eae6081fc30",
+      "title": "Chess960x32 Experimental chess platform with 30720 unique opening configurations",
+      "url": "https://topce.github.io/chess960x32/",
       "source": "hackernews",
-      "source_author": "arttaboi",
+      "source_author": "topce",
       "topics": [],
       "score": 4,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-04-03T07:45:07Z",
+      "collected_at": "2026-04-03T13:44:07Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 1
+      }
+    },
+    {
+      "id": "e6480f2f49ee4f2902c3cb178e66b56d",
+      "title": "Show HN: The Comments Owl for HN browser extension now hides obvious \"AI\" items",
+      "url": "https://soitis.dev/comments-owl-for-hacker-news",
+      "source": "hackernews",
+      "source_author": "insin",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-04-03T13:44:08Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 1
+      }
+    },
+    {
+      "id": "97e786e213606ce1ad00eabd8550393d",
+      "title": "OpenCode Pollinations Plugin –AI tool layer with freetier routing – cost control",
+      "url": "https://github.com/fkom13/opencode-pollinations-plugin",
+      "source": "hackernews",
+      "source_author": "ericnolo",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-04-03T13:44:08Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 2
+      }
+    },
+    {
+      "id": "88aa9aa75f929acaebc0ebe26cb58b59",
+      "title": "Magic: The Gathering Is Turing Complete",
+      "url": "https://arxiv.org/abs/1904.09828",
+      "source": "hackernews",
+      "source_author": "dan-bailey",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-04-03T13:44:08Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 1
+      }
+    },
+    {
+      "id": "3b74f82f05c0bd716591b86b5d2cafd5",
+      "title": "Jj v0.40.0 Released",
+      "url": "https://github.com/jj-vcs/jj/releases/tag/v0.40.0",
+      "source": "hackernews",
+      "source_author": "birdculture",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-04-03T13:44:08Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 1
+      }
+    },
+    {
+      "id": "b1af14df6ec3f9387dbc2282359767c3",
+      "title": "First MCP server for Guesty property management – 39 tools, open source",
+      "url": "https://github.com/DLJRealty/guesty-mcp-server",
+      "source": "hackernews",
+      "source_author": "DLJRealty",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-04-03T13:44:08Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 1
+      }
+    },
+    {
+      "id": "6084ea414340912ebd4571c3ea9b1571",
+      "title": "Show HN: Replace 6 months of GTM trial-and-error with simulated buyers",
+      "url": "https://github.com/wednesday-solutions/rightsuite.co",
+      "source": "hackernews",
+      "source_author": "ali_chherawalla",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-04-03T13:44:08Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 4
+      }
+    },
+    {
+      "id": "6f79fb3733d982b4055dd76db05ace21",
+      "title": "Show HN: Figma 3D Tilt, Like \"Firefox Tilt\" but for Figma",
+      "url": "https://www.figma.com/community/plugin/1592501914078287014/figma-3d-tilt",
+      "source": "hackernews",
+      "source_author": "say2015",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-04-03T13:44:08Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 3
+      }
+    },
+    {
+      "id": "5f29f436ef82b10ac1997aa5908d99e4",
+      "title": "PatchPal: Affordable tool-free pothole patches [video]",
+      "url": "https://www.youtube.com/watch?v=gtVQ_GE7HKo",
+      "source": "hackernews",
+      "source_author": "surprisetalk",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-04-03T13:44:08Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 2
+      }
+    },
+    {
+      "id": "5b7e5ecf53d20d73d0b23bd6d629393e",
+      "title": "Show HN: Zumly – a library for building zooming user interfaces",
+      "url": "https://github.com/zumerlab/zumly",
+      "source": "hackernews",
+      "source_author": "tinchox6",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-04-03T13:44:08Z",
       "engagement": {
         "comments": 3,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
         "stars": 0,
-        "upvotes": 8
+        "upvotes": 3
       }
     },
     {
-      "id": "063c55065f1bb814466897a4d23763a5",
-      "title": "Amiport ports POSIX/Linux C programs to AmigaOS 3.x",
-      "url": "https://github.com/bdgscotland/amiport",
+      "id": "f936086436995a1f4eda8a3060d72969",
+      "title": "Squarified Treemap Algorithm",
+      "url": "https://book.gtoolkit.com/explaining-the-squarified-treemap-algorith-aoisxyi4qtrf1q2378evsjf67",
       "source": "hackernews",
-      "source_author": "doener",
+      "source_author": "downboots",
       "topics": [],
       "score": 4,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-04-03T07:45:07Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 0,
-        "upvotes": 1
-      }
-    },
-    {
-      "id": "77ef97112f58a9e7a8a0858bae0f03ee",
-      "title": "Deploying Agent Fleets Governed",
-      "url": "https://www.safetrace.ai/product",
-      "source": "hackernews",
-      "source_author": "gustando",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-04-03T07:45:07Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 0,
-        "upvotes": 1
-      }
-    },
-    {
-      "id": "b6e144f79d253aac1fc9d8ec21eeee12",
-      "title": "Meta, YouTube Verdict Escalates Calls for Teen Social Media Limits",
-      "url": "https://www.bloomberg.com/news/articles/2026-03-31/social-media-bans-are-sweeping-the-world-is-the-us-next",
-      "source": "hackernews",
-      "source_author": "1vuio0pswjnm7",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-04-03T07:45:07Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 0,
-        "upvotes": 1
-      }
-    },
-    {
-      "id": "858dc85ee84e8e4b464236ca9cded533",
-      "title": "The Grammar Is Not Its Own Ground",
-      "url": "https://jimiwen.substack.com/p/si-wu-zi-c36",
-      "source": "hackernews",
-      "source_author": "jimiwen",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-04-03T07:45:07Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 0,
-        "upvotes": 1
-      }
-    },
-    {
-      "id": "62e9726ac3d5040f0c70d48c6fdaebc1",
-      "title": "Show HN: Skyreels V4 – AI Video Generator with Native Audio Sync",
-      "url": "https://skyreelsv4.top",
-      "source": "hackernews",
-      "source_author": "danielmateo773",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-04-03T07:45:08Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 0,
-        "upvotes": 1
-      }
-    },
-    {
-      "id": "50b1f77a21b24c26ea24d6362bf512f4",
-      "title": "~75% of Psychology Claims Are False",
-      "url": "https://unsafescience.substack.com/p/75-of-psychology-claims-are-false",
-      "source": "hackernews",
-      "source_author": "mpweiher",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-04-03T07:45:08Z",
-      "engagement": {
-        "comments": 1,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 0,
-        "upvotes": 1
-      }
-    },
-    {
-      "id": "1c70c4dbe4ce880c9cccd140c738d376",
-      "title": "European Tech Map – European Tech Alternatives",
-      "url": "https://europeantechmap.eu/",
-      "source": "hackernews",
-      "source_author": "giuliomagnifico",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-04-03T07:45:08Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 0,
-        "upvotes": 1
-      }
-    },
-    {
-      "id": "7a7de8fffdb4b77af6a42aeb45b7c170",
-      "title": "How are people treating/deploying on-device AI?",
-      "url": "https://minimal-light-theme.yliu.me/",
-      "source": "hackernews",
-      "source_author": "romerocruzsa",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-04-03T07:45:09Z",
-      "engagement": {
-        "comments": 1,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 0,
-        "upvotes": 1
-      }
-    },
-    {
-      "id": "034c1e76d50d265fbeedb03cb4cbbbfc",
-      "title": "Show HN: I built a Python-based app for Windows security diagnostics",
-      "url": "https://github.com/secuditor/secuditor-lite/tree/main",
-      "source": "hackernews",
-      "source_author": "mennylevinski",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-04-03T07:45:09Z",
-      "engagement": {
-        "comments": 1,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 0,
-        "upvotes": 1
-      }
-    },
-    {
-      "id": "9c4f967fd3c91669d3d6b29712ff5f98",
-      "title": "LLM Knowledge Bases",
-      "url": "https://twitter.com/karpathy/status/2039805659525644595",
-      "source": "hackernews",
-      "source_author": "fbrusch",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-04-03T07:45:09Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 0,
-        "upvotes": 1
-      }
-    },
-    {
-      "id": "bff8a6d5d790c509acb490ab1d4014e1",
-      "title": "When a reasoning LLM chooses, which comes first: thought or decision?",
-      "url": "https://arxiv.org/abs/2604.01202",
-      "source": "hackernews",
-      "source_author": "dotvignesh",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-04-03T07:45:09Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 0,
-        "upvotes": 1
-      }
-    },
-    {
-      "id": "0cf37d68ec3be7aca298b907cd3af44b",
-      "title": "OpenConnect–Native Android app for controlling your local codex AI coding server",
-      "url": "https://github.com/sunlin-xiaonai/openconnect",
-      "source": "hackernews",
-      "source_author": "bingbing123",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-04-03T07:45:07Z",
+      "collected_at": "2026-04-03T13:44:08Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
@@ -642,16 +522,36 @@
       }
     },
     {
-      "id": "990439fb2b2182d69575c6d2fde7de35",
-      "title": "WTFM – I found Anthropic's pub fix for AI policy comp, then built it myself",
-      "url": "https://mpdc.dev/wtfm/",
+      "id": "0bcc42fca6a3d48b019cc598aeaa2233",
+      "title": "AI Cannot Replace Glue Work",
+      "url": "https://testpappy.wordpress.com/2026/04/03/ai-cannot-replace-glue-work/",
       "source": "hackernews",
-      "source_author": "ParanoidRV",
+      "source_author": "gpi",
       "topics": [],
       "score": 4,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-04-03T07:45:06Z",
+      "collected_at": "2026-04-03T13:44:08Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 3
+      }
+    },
+    {
+      "id": "ecbf8299d1cceba356cbeb1e1068d82d",
+      "title": "Void: Video Object and Interaction Deletion from Netflix Research",
+      "url": "https://void-model.github.io/",
+      "source": "hackernews",
+      "source_author": "meetpateltech",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-04-03T13:44:08Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
@@ -662,16 +562,116 @@
       }
     },
     {
-      "id": "0d64f258e6ecf97ca4a4b71d3c07e9ed",
-      "title": "A Rave Review of Superpowers (For Claude Code)",
-      "url": "https://emschwartz.me/a-rave-review-of-superpowers-for-claude-code/",
+      "id": "be602ffc5da86b53af3602bc3ead2d6d",
+      "title": "What If Everyone Is Wrong About AI Adoption in the Workplace",
+      "url": "https://www.forbes.com/sites/ryananderson/2026/04/01/what-if-everyone-is-wrong-about-ai-adoption-in-the-workplace/",
       "source": "hackernews",
-      "source_author": "emschwartz",
+      "source_author": "gpi",
       "topics": [],
       "score": 4,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-04-03T07:45:06Z",
+      "collected_at": "2026-04-03T13:44:08Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 2
+      }
+    },
+    {
+      "id": "107cddf4294bbada32723a0f3cf76fa9",
+      "title": "Harvard's Push to Cap 'A' Grades Has Students Howling in Protest",
+      "url": "https://www.wsj.com/us-news/education/harvard-grade-cap-a-proposal-gpa-7c921630",
+      "source": "hackernews",
+      "source_author": "impish9208",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-04-03T13:44:08Z",
+      "engagement": {
+        "comments": 1,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 2
+      }
+    },
+    {
+      "id": "4e6e02c875e73cf69b9be33b3f7c9d8a",
+      "title": "Free external attack surface scanner – enter a domain, get results in ~60s",
+      "url": "https://asm.squr.ai",
+      "source": "hackernews",
+      "source_author": "adamlundqvist",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-04-03T13:44:08Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 2
+      }
+    },
+    {
+      "id": "23c50a52bcdf41f73199e9dfadc6cd59",
+      "title": "United States Code (federal laws) in Git",
+      "url": "https://github.com/nickvido/us-code",
+      "source": "hackernews",
+      "source_author": "nickvido",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-04-03T13:44:08Z",
+      "engagement": {
+        "comments": 3,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 17
+      }
+    },
+    {
+      "id": "e6e1e09bd6bfe67d924f83c287adb67e",
+      "title": "Show HN: How do you manage multiple AI agents? We built a tmux-based in Rust",
+      "url": "https://lukan.ai",
+      "source": "hackernews",
+      "source_author": "enzovn",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-04-03T13:44:08Z",
+      "engagement": {
+        "comments": 1,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 2
+      }
+    },
+    {
+      "id": "5a89ab34e7b80ff151109e301c68158e",
+      "title": "In-Context Learning Problem in Multi-Node Agents: How History Poisons Tool Calls",
+      "url": "https://blog.dograh.com/the-in-context-learning-problem-in-multi-node-agents-how-history-poisons-tool-calls/",
+      "source": "hackernews",
+      "source_author": "a6kme",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-04-03T13:44:08Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
@@ -682,16 +682,16 @@
       }
     },
     {
-      "id": "aec1419fdd1a198dae69c33224a4d880",
-      "title": "Claude Code Agent Architecture: What 67 Days of Production Taught Us",
-      "url": "https://cipherbuilds.ai/blog/claude-code-agent-architecture-production",
+      "id": "8fcf138fe1159a336d8890698081fa88",
+      "title": "Who Holds the Keys to the Agent Web – Part 2: Who Gets the Receipt",
+      "url": "https://threadbaire.com/blog/posts/who-holds-the-keys-to-the-agent-web-part-2.html",
       "source": "hackernews",
-      "source_author": "Adam_cipher",
+      "source_author": "lliberopoulou",
       "topics": [],
       "score": 4,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-04-03T07:45:06Z",
+      "collected_at": "2026-04-03T13:44:08Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
@@ -702,16 +702,276 @@
       }
     },
     {
-      "id": "edff4ab8b09ede690bf2695513a1c7ec",
-      "title": "ClawCode – a Rust rewrite of Claude Code with 100% behavioral parity",
-      "url": "https://github.com/StartripAI/claw_code",
+      "id": "bf89f01d02cfed99a4207e1784a9a7a8",
+      "title": "AllyHub – AI agent that builds reusable skills from every task it runs",
+      "url": "https://allyhub.com",
       "source": "hackernews",
-      "source_author": "AlfredHua1",
+      "source_author": "chloecv",
       "topics": [],
       "score": 4,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-04-03T07:45:06Z",
+      "collected_at": "2026-04-03T13:44:08Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 2
+      }
+    },
+    {
+      "id": "51a9db7133f1a87dbd1c95f0c60c23a7",
+      "title": "Gemma 4 makes local AI agents practical",
+      "url": "https://firethering.com/gemma-4-local-ai-agents/",
+      "source": "hackernews",
+      "source_author": "steveharing1",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-04-03T13:44:08Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 4
+      }
+    },
+    {
+      "id": "ea4f086935d8c4ba5481071115f81aaa",
+      "title": "A Giant Leap Towards an AI-Native OS: AgenticInit (April Fools)",
+      "url": "https://os.ewe.moe/blog/202604-april-fool",
+      "source": "hackernews",
+      "source_author": "uneven9434",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-04-03T13:44:08Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 1
+      }
+    },
+    {
+      "id": "7c97f5df0858ebc2bf2eff46419db903",
+      "title": "Agent as User, a new tool to help you run agent in isolated user environment",
+      "url": "https://github.com/AgentaaU/AaaU",
+      "source": "hackernews",
+      "source_author": "shylockhg",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-04-03T13:44:08Z",
+      "engagement": {
+        "comments": 1,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 1
+      }
+    },
+    {
+      "id": "0ef040d46a174cb98102f69f7052e824",
+      "title": "OpenHarness: Open Agent Harness",
+      "url": "https://github.com/HKUDS/OpenHarness",
+      "source": "hackernews",
+      "source_author": "msolujic",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-04-03T13:44:08Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 3
+      }
+    },
+    {
+      "id": "96922db067fddab8a1dce38fbb5e52a7",
+      "title": "What Claw Code Reveals About AI Coding Agent Architecture (5-Part Series)",
+      "url": "https://tolearn.blog/blog/2026-04-02-claw-code-ai-coding-agent-architecture",
+      "source": "hackernews",
+      "source_author": "nikeyang",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-04-03T13:44:08Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 1
+      }
+    },
+    {
+      "id": "74972a1943ab21bbc779beaed7738501",
+      "title": "Why Florence Started the Renaissance",
+      "url": "https://unchartedterritories.tomaspueyo.com/p/why-florence-started-the-renaissance",
+      "source": "hackernews",
+      "source_author": "jger15",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-04-03T13:44:08Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 1
+      }
+    },
+    {
+      "id": "77db701cc4810c0a8ad9c8feb2ca280a",
+      "title": "AI Baby Dance Video Generator: Turn Baby Photos into Dancing Videos",
+      "url": "https://seaimagine.com/ai-baby-dance-video-generator/",
+      "source": "hackernews",
+      "source_author": "taynes",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-04-03T13:44:09Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 1
+      }
+    },
+    {
+      "id": "9347b192a43f3a6679abcc51ecabb117",
+      "title": "RiskReady-open-source GRC platform with MCP gateway and human-approved mutations",
+      "url": "https://github.com/riskreadyeu/riskready-community",
+      "source": "hackernews",
+      "source_author": "danielminda7",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-04-03T13:44:10Z",
+      "engagement": {
+        "comments": 1,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 5
+      }
+    },
+    {
+      "id": "f73e83516886d3928da739810a7af4d6",
+      "title": "HarfBuzz Slug Support with WebGL",
+      "url": "https://harfbuzz.github.io/hb-gpu-demo/",
+      "source": "hackernews",
+      "source_author": "mcraiha",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-04-03T13:44:10Z",
+      "engagement": {
+        "comments": 1,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 5
+      }
+    },
+    {
+      "id": "abef4ded3bf3ad88e2a665ff5d04889e",
+      "title": "MCP Connectors for Marketers: The 5-Minute Setup",
+      "url": "https://aiforcontentmarketing.ai/mcp-connectors-for-marketers-the-5-minute-setup-that-connects-your-ai-to-any-data-source/",
+      "source": "hackernews",
+      "source_author": "pakostina",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-04-03T13:44:10Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 2
+      }
+    },
+    {
+      "id": "b3561b00c4ac7b27aa73d9c94364a7c3",
+      "title": "What 16 Security Engines Found in 2,900 MCP Servers",
+      "url": "https://mcpampel.com/blog/16-engines-2900-mcp-servers",
+      "source": "hackernews",
+      "source_author": "MCPAmpel",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-04-03T13:44:10Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 3
+      }
+    },
+    {
+      "id": "c149a08e163c03bf777346bf5fe0ec87",
+      "title": "We're Addicted to Our Devices",
+      "url": "https://type-writer.org/?p=7369",
+      "source": "hackernews",
+      "source_author": "speckx",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-04-03T13:44:11Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 1
+      }
+    },
+    {
+      "id": "33a6dccbda1bba1a4db4c851be49f457",
+      "title": "R/programming on Reddit just banned all content related to AI LLMs",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/the-largest-programming-community-on-reddit-just-banned-all-content-related-to-ai-llms-r-programming-is-prioritizing-only-high-quality-discussions-about-ai",
+      "source": "hackernews",
+      "source_author": "speckx",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-04-03T13:44:11Z",
       "engagement": {
         "comments": 1,
         "likes": 0,
@@ -720,7 +980,207 @@
         "stars": 0,
         "upvotes": 2
       }
+    },
+    {
+      "id": "703230c292d72e68d7ab55c9765866e6",
+      "title": "Running Qwen 35B on 16GB Mac Mini via MMAP (17 tok/s) then swapping to Gemma 4",
+      "url": "https://thoughts.jock.pl/p/local-llm-35b-mac-mini-gemma-swap-production-2026",
+      "source": "hackernews",
+      "source_author": "joozio",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-04-03T13:44:11Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 3
+      }
+    },
+    {
+      "id": "06192c0b7dadebf3c21468848fe47cc3",
+      "title": "Life gave us lemon trees",
+      "url": "https://nothingisnotafish.substack.com/p/life-gave-us-lemon-trees",
+      "source": "hackernews",
+      "source_author": "gaodean",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-04-03T13:44:11Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 2
+      }
+    },
+    {
+      "id": "37a92b77ef7cf20ec8b879383ec179b7",
+      "title": "Cute Animal Heroic Interval",
+      "url": "https://medium.com/luminasticity/cute-animal-heroic-interval-c38d0dc84d05",
+      "source": "hackernews",
+      "source_author": "bryanrasmussen",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-04-03T13:44:11Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 1
+      }
+    },
+    {
+      "id": "38d07774f5c6af30e69f4051bc5beed3",
+      "title": "Litha2022,project by Neksha DeSilva, is now associated with techfirm Lakpura LLC",
+      "url": "https://lakpura.com/si/pages/sinhala-avurudu-nakath",
+      "source": "hackernews",
+      "source_author": "techcast",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-04-03T13:44:11Z",
+      "engagement": {
+        "comments": 1,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 1
+      }
+    },
+    {
+      "id": "c23692e7ff0ec28ea3c04f54c54fc138",
+      "title": "hl897tech/xhs_content_agent",
+      "url": "https://github.com/hl897tech/xhs_content_agent",
+      "source": "github",
+      "source_author": "hl897tech",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-04-03T13:44:16Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 14,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "98a5cb8259534f14171d8d91329ab053",
+      "title": "baixianger/phantom-canvas",
+      "url": "https://github.com/baixianger/phantom-canvas",
+      "source": "github",
+      "source_author": "baixianger",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-04-03T13:44:22Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 2,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "e018a15f852cc6bfbbfe5bedf68a6788",
+      "title": "Tanny2109/Viral-Layered-Depth-Inpainting-VideoGen",
+      "url": "https://github.com/Tanny2109/Viral-Layered-Depth-Inpainting-VideoGen",
+      "source": "github",
+      "source_author": "Tanny2109",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-04-03T13:44:22Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "6068cbec3a8a2b4e1c6d3b316cc84639",
+      "title": "shengshu-ai/vidu-skills",
+      "url": "https://github.com/shengshu-ai/vidu-skills",
+      "source": "github",
+      "source_author": "shengshu-ai",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-04-03T13:44:22Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "4caf188bd825cc3097245b4b9e6a8f10",
+      "title": "AskRoundtable/expert-skills",
+      "url": "https://github.com/AskRoundtable/expert-skills",
+      "source": "github",
+      "source_author": "AskRoundtable",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-04-03T13:44:31Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 11,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "a5265230f676582a833471b520f1955f",
+      "title": "jl3032/13f-analysis",
+      "url": "https://github.com/jl3032/13f-analysis",
+      "source": "github",
+      "source_author": "jl3032",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-04-03T13:44:31Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 3,
+        "upvotes": 0
+      }
     }
   ],
-  "updated_at": "2026-04-03T07:48:20Z"
+  "updated_at": "2026-04-03T13:47:28Z"
 }
