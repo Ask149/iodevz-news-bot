@@ -1,387 +1,67 @@
 {
-  "count": 19,
+  "count": 3,
   "items": [
     {
-      "id": "ee822e50d406d59e75e3d124d6e769ab",
-      "title": "soongenwong/claudecode",
-      "url": "https://github.com/soongenwong/claudecode",
+      "id": "dab49117e0affa0c0ea302a2a9ad5995",
+      "title": "NanmiCoder/cc-haha",
+      "url": "https://github.com/NanmiCoder/cc-haha",
       "source": "github",
-      "source_author": "soongenwong",
+      "source_author": "NanmiCoder",
       "topics": [],
-      "score": 7,
+      "score": 8,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-04-03T03:35:26Z",
+      "collected_at": "2026-04-03T07:45:11Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 213,
+        "stars": 4231,
         "upvotes": 0
       }
     },
     {
-      "id": "e26e10f10ca98f00b03ecbb30b7bd568",
-      "title": "kropdx/unofficial-claude-code-prompt-playbook",
-      "url": "https://github.com/kropdx/unofficial-claude-code-prompt-playbook",
+      "id": "85efb386f0f97a3f9bb9db3c3dfd97eb",
+      "title": "GPT-AGI/Clawd-Code",
+      "url": "https://github.com/GPT-AGI/Clawd-Code",
       "source": "github",
-      "source_author": "kropdx",
-      "topics": [],
-      "score": 7,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-04-03T03:35:45Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 243,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "70b833e2a705f8eb04fb729e70be88ed",
-      "title": "snarktank/clawchief",
-      "url": "https://github.com/snarktank/clawchief",
-      "source": "github",
-      "source_author": "snarktank",
+      "source_author": "GPT-AGI",
       "topics": [],
       "score": 6,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-04-03T03:35:41Z",
+      "collected_at": "2026-04-03T07:45:26Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 96,
+        "stars": 86,
         "upvotes": 0
       }
     },
     {
-      "id": "dfa7882e70d080995d9f948cae175666",
-      "title": "RafaTatay/jarvis",
-      "url": "https://github.com/RafaTatay/jarvis",
+      "id": "148907293509a1f051282fca6ec8cacb",
+      "title": "agenmod/immortal-skill",
+      "url": "https://github.com/agenmod/immortal-skill",
       "source": "github",
-      "source_author": "RafaTatay",
+      "source_author": "agenmod",
       "topics": [],
       "score": 6,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-04-03T03:35:42Z",
+      "collected_at": "2026-04-03T07:45:26Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 35,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "028c10601ed217f0b61fe5279b7273de",
-      "title": "thu-nmrc/OpenHarness",
-      "url": "https://github.com/thu-nmrc/OpenHarness",
-      "source": "github",
-      "source_author": "thu-nmrc",
-      "topics": [],
-      "score": 6,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-04-03T03:35:41Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 53,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "b8ff55fd03ec12aaf2f228a0cf3ba3af",
-      "title": "BlazeUp-AI/Observal",
-      "url": "https://github.com/BlazeUp-AI/Observal",
-      "source": "github",
-      "source_author": "BlazeUp-AI",
-      "topics": [],
-      "score": 6,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-04-03T03:35:38Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 116,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "b30c0d6cea65132eac434f4dd7910cf5",
-      "title": "pacifio/cersei",
-      "url": "https://github.com/pacifio/cersei",
-      "source": "github",
-      "source_author": "pacifio",
-      "topics": [],
-      "score": 6,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-04-03T03:35:27Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 95,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "947d234f8dc22b801cf6c76e253960b2",
-      "title": "docmancer/docmancer",
-      "url": "https://github.com/docmancer/docmancer",
-      "source": "github",
-      "source_author": "docmancer",
-      "topics": [],
-      "score": 5,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-04-03T03:35:42Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 31,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "a0c0506ba05319fe2ba6409a751f5944",
-      "title": "4682B4LEE/number-bomb-public",
-      "url": "https://github.com/4682B4LEE/number-bomb-public",
-      "source": "github",
-      "source_author": "4682B4LEE",
-      "topics": [],
-      "score": 5,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-04-03T03:35:33Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 33,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "2feebe4c8977c397b22112ad67e0fdef",
-      "title": "4dand/1c-ai-codegen-research-paper",
-      "url": "https://github.com/4dand/1c-ai-codegen-research-paper",
-      "source": "github",
-      "source_author": "4dand",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-04-03T03:35:28Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 9,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "e7fcd8bcc9854895cbd4124c87ab5973",
-      "title": "kinai9661/grok-video-generator",
-      "url": "https://github.com/kinai9661/grok-video-generator",
-      "source": "github",
-      "source_author": "kinai9661",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-04-03T03:35:34Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 1,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "8cc0e86c7bac1a684e44a095952933a7",
-      "title": "chiraanth/ai-video-content-pipeline",
-      "url": "https://github.com/chiraanth/ai-video-content-pipeline",
-      "source": "github",
-      "source_author": "chiraanth",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-04-03T03:35:34Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 1,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "964cc47bbe90cdb956c810fafb6942f9",
-      "title": "wallfacer005-vip/jimeng-cli-skill",
-      "url": "https://github.com/wallfacer005-vip/jimeng-cli-skill",
-      "source": "github",
-      "source_author": "wallfacer005-vip",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-04-03T03:35:34Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 2,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "ca054f2b2cc3e3e149b900c08031dfdf",
-      "title": "AIGeeksGroup/FlashSign",
-      "url": "https://github.com/AIGeeksGroup/FlashSign",
-      "source": "github",
-      "source_author": "AIGeeksGroup",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-04-03T03:35:34Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 1,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "fa9722292608e4ca21cf5612f5c9d160",
-      "title": "Infatoshi/crucible",
-      "url": "https://github.com/Infatoshi/crucible",
-      "source": "github",
-      "source_author": "Infatoshi",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-04-03T03:35:37Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 3,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "eedaed3c1e2d89075d5b7390fa0c152b",
-      "title": "himself65/skill-lint",
-      "url": "https://github.com/himself65/skill-lint",
-      "source": "github",
-      "source_author": "himself65",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-04-03T03:35:39Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 3,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "48f15469cf66acef061ac63a34f94b9c",
-      "title": "MCPAmpel/mcpampel",
-      "url": "https://github.com/MCPAmpel/mcpampel",
-      "source": "github",
-      "source_author": "MCPAmpel",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-04-03T03:35:43Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 2,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "a750037dc3185f8311ed54f664d8a24d",
-      "title": "navbuildz/gmail-mcp-server",
-      "url": "https://github.com/navbuildz/gmail-mcp-server",
-      "source": "github",
-      "source_author": "navbuildz",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-04-03T03:35:43Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 2,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "6d13508fae4bdd7af574fa6856deeec1",
-      "title": "devintor/devin4avp",
-      "url": "https://github.com/devintor/devin4avp",
-      "source": "github",
-      "source_author": "devintor",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-04-03T03:35:44Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 0,
+        "stars": 108,
         "upvotes": 0
       }
     }
   ],
   "source": "github",
-  "updated_at": "2026-04-03T03:38:45Z"
+  "updated_at": "2026-04-03T07:48:20Z"
 }
