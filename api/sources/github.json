@@ -1,47 +1,147 @@
 {
-  "count": 2,
+  "count": 7,
   "items": [
     {
-      "id": "50f03eee719baa0906821e0fdd6fd803",
-      "title": "youcallmejoaz/grok-video-poller",
-      "url": "https://github.com/youcallmejoaz/grok-video-poller",
+      "id": "a70064c2f28be7051bcc74fa2f466833",
+      "title": "twwch/comfyui-workflow-skill",
+      "url": "https://github.com/twwch/comfyui-workflow-skill",
       "source": "github",
-      "source_author": "youcallmejoaz",
+      "source_author": "twwch",
       "topics": [],
-      "score": 4,
+      "score": 6,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-04-04T07:33:59Z",
+      "collected_at": "2026-04-04T13:35:59Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 1,
+        "stars": 39,
         "upvotes": 0
       }
     },
     {
-      "id": "a6b3e512312b4af11c2587c2a45c18ea",
-      "title": "AdamManuel-dev/SwarmBench",
-      "url": "https://github.com/AdamManuel-dev/SwarmBench",
+      "id": "26fb0a1295e73c2a2677e8fa565e1459",
+      "title": "junjiezhou1122/GptCrate",
+      "url": "https://github.com/junjiezhou1122/GptCrate",
       "source": "github",
-      "source_author": "AdamManuel-dev",
+      "source_author": "junjiezhou1122",
       "topics": [],
       "score": 4,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-04-04T07:34:01Z",
+      "collected_at": "2026-04-04T13:35:51Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 1,
+        "stars": 10,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "6257fd301e4263102af0591f7beb29a8",
+      "title": "ai-operacionka/heisenberg-team",
+      "url": "https://github.com/ai-operacionka/heisenberg-team",
+      "source": "github",
+      "source_author": "ai-operacionka",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-04-04T13:35:54Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 4,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "6b707c60fb1f191d2a93dadc32c93620",
+      "title": "tony0x42/kimi-proxy-4-trae",
+      "url": "https://github.com/tony0x42/kimi-proxy-4-trae",
+      "source": "github",
+      "source_author": "tony0x42",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-04-04T13:35:56Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 2,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "dbfe525952017dd03390376ded19abc7",
+      "title": "vividw/Enigma",
+      "url": "https://github.com/vividw/Enigma",
+      "source": "github",
+      "source_author": "vividw",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-04-04T13:35:56Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 2,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "8a7e12d24974ecde051308d7e0fd43d5",
+      "title": "lukeleekr/swarm",
+      "url": "https://github.com/lukeleekr/swarm",
+      "source": "github",
+      "source_author": "lukeleekr",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-04-04T13:36:00Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 3,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "fee35d23cbe7208a33dd84218f511b6f",
+      "title": "COSAI-Labs/toolpipe-mcp-server",
+      "url": "https://github.com/COSAI-Labs/toolpipe-mcp-server",
+      "source": "github",
+      "source_author": "COSAI-Labs",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-04-04T13:36:06Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 3,
         "upvotes": 0
       }
     }
   ],
   "source": "github",
-  "updated_at": "2026-04-04T07:36:59Z"
+  "updated_at": "2026-04-04T13:39:00Z"
 }
