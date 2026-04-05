@@ -1,87 +1,107 @@
 {
-  "count": 4,
+  "count": 5,
   "items": [
     {
-      "id": "cfd78a521477084a20ca8fca9958438d",
-      "title": "AgentBastion/AgentBastion",
-      "url": "https://github.com/AgentBastion/AgentBastion",
+      "id": "c5638dcc1b1bdecad20e02a3b4e3b2cc",
+      "title": "JuliusBrussee/caveman",
+      "url": "https://github.com/JuliusBrussee/caveman",
       "source": "github",
-      "source_author": "AgentBastion",
+      "source_author": "JuliusBrussee",
+      "topics": [],
+      "score": 8,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-04-05T13:37:18Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 465,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "01204b5d2ec051448f115cd6a52f8819",
+      "title": "ThinkWatchProject/ThinkWatch",
+      "url": "https://github.com/ThinkWatchProject/ThinkWatch",
+      "source": "github",
+      "source_author": "ThinkWatchProject",
       "topics": [],
       "score": 6,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-04-05T07:39:21Z",
+      "collected_at": "2026-04-05T13:37:00Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 44,
+        "stars": 63,
         "upvotes": 0
       }
     },
     {
-      "id": "198be3b2f74498f7e5137a5e55894110",
-      "title": "Vineetpandey0/Context-Sync",
-      "url": "https://github.com/Vineetpandey0/Context-Sync",
+      "id": "2cb455a3149739d13b9e628e09edfbd9",
+      "title": "Houseofmvps/codesight",
+      "url": "https://github.com/Houseofmvps/codesight",
       "source": "github",
-      "source_author": "Vineetpandey0",
+      "source_author": "Houseofmvps",
       "topics": [],
-      "score": 4,
+      "score": 6,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-04-05T07:39:24Z",
+      "collected_at": "2026-04-05T13:37:14Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 4,
+        "stars": 37,
         "upvotes": 0
       }
     },
     {
-      "id": "1743aa6a1711fea2f287473b6aacaaa8",
-      "title": "yuvarajaug-ctrl/sketch-to-code-GenAI-IDE",
-      "url": "https://github.com/yuvarajaug-ctrl/sketch-to-code-GenAI-IDE",
+      "id": "82fb715b8f9a57f492c938264d7252be",
+      "title": "mcowger/pi-better-messages-cache",
+      "url": "https://github.com/mcowger/pi-better-messages-cache",
       "source": "github",
-      "source_author": "yuvarajaug-ctrl",
+      "source_author": "mcowger",
       "topics": [],
       "score": 4,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-04-05T07:39:25Z",
+      "collected_at": "2026-04-05T13:37:06Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 2,
+        "stars": 5,
         "upvotes": 0
       }
     },
     {
-      "id": "f152734690da463354f4a836fa9fc192",
-      "title": "Manos-CEO/DevineArchV1",
-      "url": "https://github.com/Manos-CEO/DevineArchV1",
+      "id": "a00de122a93862687f8d6d85746629de",
+      "title": "Archie0125/osop-agent-rules",
+      "url": "https://github.com/Archie0125/osop-agent-rules",
       "source": "github",
-      "source_author": "Manos-CEO",
+      "source_author": "Archie0125",
       "topics": [],
       "score": 4,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-04-05T07:39:37Z",
+      "collected_at": "2026-04-05T13:37:17Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 0,
+        "stars": 1,
         "upvotes": 0
       }
     }
   ],
   "source": "github",
-  "updated_at": "2026-04-05T07:42:27Z"
+  "updated_at": "2026-04-05T13:40:11Z"
 }
