@@ -1,137 +1,57 @@
 {
-  "count": 17,
+  "count": 4,
   "items": [
     {
-      "id": "68de6bcc196df6dc8112a7939c823c49",
-      "title": "6551Team/claude-code-design-guide",
-      "url": "https://github.com/6551Team/claude-code-design-guide",
+      "id": "cfd78a521477084a20ca8fca9958438d",
+      "title": "AgentBastion/AgentBastion",
+      "url": "https://github.com/AgentBastion/AgentBastion",
       "source": "github",
-      "source_author": "6551Team",
-      "topics": [],
-      "score": 8,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-04-05T03:45:09Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 650,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "932a41693b8f876783e590983c535c0b",
-      "title": "sooryathejas/METATRON",
-      "url": "https://github.com/sooryathejas/METATRON",
-      "source": "github",
-      "source_author": "sooryathejas",
-      "topics": [],
-      "score": 8,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-04-05T03:45:08Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 453,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "1e9b3b035e22b18af6e976ae80152261",
-      "title": "T8mars/claude-code-t8",
-      "url": "https://github.com/T8mars/claude-code-t8",
-      "source": "github",
-      "source_author": "T8mars",
+      "source_author": "AgentBastion",
       "topics": [],
       "score": 6,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-04-05T03:44:49Z",
+      "collected_at": "2026-04-05T07:39:21Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 40,
+        "stars": 44,
         "upvotes": 0
       }
     },
     {
-      "id": "0123daceee369210768d70ad29c730e8",
-      "title": "P0lar1zzZ/Ombre-Brain",
-      "url": "https://github.com/P0lar1zzZ/Ombre-Brain",
+      "id": "198be3b2f74498f7e5137a5e55894110",
+      "title": "Vineetpandey0/Context-Sync",
+      "url": "https://github.com/Vineetpandey0/Context-Sync",
       "source": "github",
-      "source_author": "P0lar1zzZ",
-      "topics": [],
-      "score": 6,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-04-05T03:45:00Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 74,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "7a4e73260754cb86b59c850859078a00",
-      "title": "MattWenJun/emojiGPT",
-      "url": "https://github.com/MattWenJun/emojiGPT",
-      "source": "github",
-      "source_author": "MattWenJun",
+      "source_author": "Vineetpandey0",
       "topics": [],
       "score": 4,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-04-05T03:44:51Z",
+      "collected_at": "2026-04-05T07:39:24Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 9,
+        "stars": 4,
         "upvotes": 0
       }
     },
     {
-      "id": "90e9114eb80f5c92d78528514c112614",
-      "title": "neuron-one/GODMODE",
-      "url": "https://github.com/neuron-one/GODMODE",
+      "id": "1743aa6a1711fea2f287473b6aacaaa8",
+      "title": "yuvarajaug-ctrl/sketch-to-code-GenAI-IDE",
+      "url": "https://github.com/yuvarajaug-ctrl/sketch-to-code-GenAI-IDE",
       "source": "github",
-      "source_author": "neuron-one",
+      "source_author": "yuvarajaug-ctrl",
       "topics": [],
       "score": 4,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-04-05T03:44:51Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 8,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "376b04556019a7349a2dd86beda6b17a",
-      "title": "ggarg55/GenAi-Tutorial",
-      "url": "https://github.com/ggarg55/GenAi-Tutorial",
-      "source": "github",
-      "source_author": "ggarg55",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-04-05T03:44:54Z",
+      "collected_at": "2026-04-05T07:39:25Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
@@ -142,196 +62,16 @@
       }
     },
     {
-      "id": "99d1523d2186c76c9b761cc93ac36faa",
-      "title": "Saiga1105/GenAI-Games",
-      "url": "https://github.com/Saiga1105/GenAI-Games",
+      "id": "f152734690da463354f4a836fa9fc192",
+      "title": "Manos-CEO/DevineArchV1",
+      "url": "https://github.com/Manos-CEO/DevineArchV1",
       "source": "github",
-      "source_author": "Saiga1105",
+      "source_author": "Manos-CEO",
       "topics": [],
       "score": 4,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-04-05T03:44:54Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 1,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "5416fa1267793055f61f252aa9d5f464",
-      "title": "darw007d/langgraph-genai-bridge",
-      "url": "https://github.com/darw007d/langgraph-genai-bridge",
-      "source": "github",
-      "source_author": "darw007d",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-04-05T03:44:54Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 1,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "28711f0dbb7fa04f4cd460b3973181dc",
-      "title": "hbmehta/genai-hw1",
-      "url": "https://github.com/hbmehta/genai-hw1",
-      "source": "github",
-      "source_author": "hbmehta",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-04-05T03:44:54Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 1,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "1495808b41907c4569ae2d904a3ea26e",
-      "title": "kimiliu0905/kimiliu0905.github.io",
-      "url": "https://github.com/kimiliu0905/kimiliu0905.github.io",
-      "source": "github",
-      "source_author": "kimiliu0905",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-04-05T03:44:55Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 3,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "a8217a6284966cb8fc1a5c4a085deffb",
-      "title": "chencore/seedance_creator",
-      "url": "https://github.com/chencore/seedance_creator",
-      "source": "github",
-      "source_author": "chencore",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-04-05T03:44:57Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 8,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "c58b59113851d1b57c893d7dce5259cb",
-      "title": "Gorstak-Zadar/AudioEnhancement",
-      "url": "https://github.com/Gorstak-Zadar/AudioEnhancement",
-      "source": "github",
-      "source_author": "Gorstak-Zadar",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-04-05T03:44:58Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "2367f6a808f04507f088474fbfc3ba45",
-      "title": "hamizghani/ReguSim",
-      "url": "https://github.com/hamizghani/ReguSim",
-      "source": "github",
-      "source_author": "hamizghani",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-04-05T03:44:59Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 2,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "f211461e83d8bd72f284719027572926",
-      "title": "WhitehatD/crag",
-      "url": "https://github.com/WhitehatD/crag",
-      "source": "github",
-      "source_author": "WhitehatD",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-04-05T03:45:01Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 2,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "4f5d3e6a324615cf013cd897c9d70c54",
-      "title": "kination/devin",
-      "url": "https://github.com/kination/devin",
-      "source": "github",
-      "source_author": "kination",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-04-05T03:45:06Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "397b07f81a8aa2c70f9c6e0b57c62610",
-      "title": "devinalif06/devinalif06.github.io",
-      "url": "https://github.com/devinalif06/devinalif06.github.io",
-      "source": "github",
-      "source_author": "devinalif06",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-04-05T03:45:06Z",
+      "collected_at": "2026-04-05T07:39:37Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
@@ -343,5 +83,5 @@
     }
   ],
   "source": "github",
-  "updated_at": "2026-04-05T03:48:05Z"
+  "updated_at": "2026-04-05T07:42:27Z"
 }

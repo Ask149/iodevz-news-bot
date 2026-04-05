@@ -1,27 +1,47 @@
 {
-  "count": 1,
+  "count": 2,
   "items": [
     {
-      "id": "293079ef85c039cd46858dc98f616bd5",
-      "title": "This technique isn't perfect—it can be oversensitive, sometimes flagging analogous features as dis...",
-      "url": "https://x.com/AnthropicAI/status/2040179545572278529",
+      "id": "536bf6bdae90f076cee923110e0351ba",
+      "title": "Build autonomous agents that plan, navigate apps, and execute multi-step tasks – like searching d...",
+      "url": "https://x.com/GoogleDeepMind/status/2039735455533453316",
       "source": "twitter",
-      "source_author": "AnthropicAI",
+      "source_author": "GoogleDeepMind",
+      "topics": [],
+      "score": 7,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-04-05T07:42:27Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 800,
+        "replies": 17,
+        "retweets": 62,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "65e350f3d58be206c32914dc1d3c0629",
+      "title": "Stories from Replit x Alif.",
+      "url": "https://x.com/Replit/status/2040504939668013302",
+      "source": "twitter",
+      "source_author": "replit",
       "topics": [],
       "score": 6,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-04-04T07:36:58Z",
+      "collected_at": "2026-04-05T07:42:27Z",
       "engagement": {
         "comments": 0,
-        "likes": 102,
+        "likes": 133,
         "replies": 7,
-        "retweets": 3,
+        "retweets": 14,
         "stars": 0,
         "upvotes": 0
       }
     }
   ],
   "source": "twitter",
-  "updated_at": "2026-04-04T07:36:59Z"
+  "updated_at": "2026-04-05T07:42:27Z"
 }
