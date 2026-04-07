@@ -1,47 +1,107 @@
 {
-  "count": 2,
+  "count": 5,
   "items": [
     {
-      "id": "536bf6bdae90f076cee923110e0351ba",
-      "title": "Build autonomous agents that plan, navigate apps, and execute multi-step tasks – like searching d...",
-      "url": "https://x.com/GoogleDeepMind/status/2039735455533453316",
+      "id": "f20da3f8cd91fa5eb266a318c61c1d6e",
+      "title": "Our run-rate revenue has surpassed $30 billion, up from $9 billion at the end of 2025, as demand for...",
+      "url": "https://x.com/AnthropicAI/status/2041275563466502560",
       "source": "twitter",
-      "source_author": "GoogleDeepMind",
+      "source_author": "AnthropicAI",
       "topics": [],
-      "score": 7,
+      "score": 8,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-04-05T07:42:27Z",
+      "collected_at": "2026-04-07T03:42:04Z",
       "engagement": {
         "comments": 0,
-        "likes": 800,
-        "replies": 17,
-        "retweets": 62,
+        "likes": 3830,
+        "replies": 132,
+        "retweets": 700,
         "stars": 0,
         "upvotes": 0
       }
     },
     {
-      "id": "65e350f3d58be206c32914dc1d3c0629",
-      "title": "Stories from Replit x Alif.",
-      "url": "https://x.com/Replit/status/2040504939668013302",
+      "id": "682b8f145da70e7fe8de14b7a65f8b3b",
+      "title": "Runaway Luggage. A short brand film that was created using just two input images and a short descrip...",
+      "url": "https://x.com/runwayml/status/2041154625013711081",
       "source": "twitter",
-      "source_author": "replit",
+      "source_author": "RunwayML",
       "topics": [],
-      "score": 6,
+      "score": 7,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-04-05T07:42:27Z",
+      "collected_at": "2026-04-07T03:42:04Z",
       "engagement": {
         "comments": 0,
-        "likes": 133,
-        "replies": 7,
-        "retweets": 14,
+        "likes": 549,
+        "replies": 26,
+        "retweets": 65,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "8c9fd8a4a6e6855b10b0bb94c3bdd2f9",
+      "title": "We rebuilt how MoE models generate tokens on Blackwell GPUs, resulting in 1.84x faster inference and...",
+      "url": "https://x.com/cursor_ai/status/2041260649267986643",
+      "source": "twitter",
+      "source_author": "cursor_ai",
+      "topics": [],
+      "score": 7,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-04-07T03:42:04Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 614,
+        "replies": 31,
+        "retweets": 58,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "c0acd3eebcf2d54ef566af448597a616",
+      "title": "Read about our work on warp decode:",
+      "url": "https://x.com/cursor_ai/status/2041260651746848998",
+      "source": "twitter",
+      "source_author": "cursor_ai",
+      "topics": [],
+      "score": 5,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-04-07T03:42:04Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 48,
+        "replies": 1,
+        "retweets": 10,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "9e89495f17ef2e98175d9ce76be9c6d4",
+      "title": "Ad Concept\n\n\"A red luggage that was never picked up from the airport carousel takes its own journey ...",
+      "url": "https://x.com/runwayml/status/2041154627547099296",
+      "source": "twitter",
+      "source_author": "RunwayML",
+      "topics": [],
+      "score": 5,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-04-07T03:42:04Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 56,
+        "replies": 2,
+        "retweets": 2,
         "stars": 0,
         "upvotes": 0
       }
     }
   ],
   "source": "twitter",
-  "updated_at": "2026-04-05T07:42:27Z"
+  "updated_at": "2026-04-07T03:42:05Z"
 }
