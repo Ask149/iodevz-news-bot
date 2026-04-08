@@ -1,47 +1,207 @@
 {
-  "count": 2,
+  "count": 10,
   "items": [
     {
-      "id": "c71f8f1100dc09e186d6db020385b265",
-      "title": "Introducing the OpenAI Safety Fellowship, a new program supporting independent research on AI safety...",
-      "url": "https://x.com/OpenAI/status/2041202511647019251",
-      "source": "twitter",
-      "source_author": "OpenAI",
-      "topics": [],
-      "score": 8,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-04-07T08:00:59Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 2111,
-        "replies": 282,
-        "retweets": 296,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "989dcfe5fbbd12fc1c9cd01b7ed77b9d",
-      "title": "We've signed an agreement with Google and Broadcom for multiple gigawatts of next-generation TPU cap...",
-      "url": "https://x.com/AnthropicAI/status/2041275561704931636",
+      "id": "59a2feb653ca0077a6189a2dd7e3dbb6",
+      "title": "Introducing Project Glasswing: an urgent initiative to help secure the world’s most critical softw...",
+      "url": "https://x.com/AnthropicAI/status/2041578392852517128",
       "source": "twitter",
       "source_author": "AnthropicAI",
       "topics": [],
       "score": 8,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-04-07T08:00:59Z",
+      "collected_at": "2026-04-08T03:44:07Z",
       "engagement": {
         "comments": 0,
-        "likes": 14944,
-        "replies": 455,
-        "retweets": 1414,
+        "likes": 26519,
+        "replies": 1141,
+        "retweets": 6591,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "761ee4aca20bd2e38e750000fa997a32",
+      "title": "Use Design Mode in Cursor 3 to annotate and target UI elements in the browser.",
+      "url": "https://x.com/cursor_ai/status/2041561791243940092",
+      "source": "twitter",
+      "source_author": "cursor_ai",
+      "topics": [],
+      "score": 8,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-04-08T03:44:07Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 1208,
+        "replies": 49,
+        "retweets": 119,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "565418b74c13af8657c31ea6b9e66c59",
+      "title": "Three million people are now using Codex weekly - up from two million a little under a month ago. In...",
+      "url": "https://x.com/thsottiaux/status/2041655710346572085",
+      "source": "twitter",
+      "source_author": "OpenAI",
+      "topics": [],
+      "score": 8,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-04-08T03:44:07Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 2779,
+        "replies": 260,
+        "retweets": 313,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "714161313a1b99a456131897b16fb3e0",
+      "title": "The Claude Mythos Preview system card is available here: \nhttps://\nanthropic.com/claude-mythos-\nprev...",
+      "url": "https://x.com/AnthropicAI/status/2041580670774923517",
+      "source": "twitter",
+      "source_author": "AnthropicAI",
+      "topics": [],
+      "score": 8,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-04-08T03:44:07Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 1618,
+        "replies": 50,
+        "retweets": 305,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "38bc7410f84dcc9e54754ec7734ce565",
+      "title": "You can read a detailed technical report on the software vulnerabilities and exploits discovered by ...",
+      "url": "https://x.com/AnthropicAI/status/2041578416487489601",
+      "source": "twitter",
+      "source_author": "AnthropicAI",
+      "topics": [],
+      "score": 8,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-04-08T03:44:07Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 1031,
+        "replies": 18,
+        "retweets": 138,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "fdadc9c2beca5ed3ece88b884e3f2c38",
+      "title": " New in Prism today: Paper Review, an AI workflow for reviewing technical and scientific papers. \n\nT...",
+      "url": "https://x.com/kevinweil/status/2041573799775367525",
+      "source": "twitter",
+      "source_author": "OpenAI",
+      "topics": [],
+      "score": 7,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-04-08T03:44:07Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 511,
+        "replies": 37,
+        "retweets": 62,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "52c9b69c403cc56216aa48c742691dc0",
+      "title": "Curious about vibe coding? Or are you already shipping apps and just want an easier way to explain y...",
+      "url": "https://x.com/GoogleAI/status/2041637733634912321",
+      "source": "twitter",
+      "source_author": "GoogleAI",
+      "topics": [],
+      "score": 6,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-04-08T03:44:07Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 104,
+        "replies": 18,
+        "retweets": 12,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "3efbbe17193b7c8b27fe7f2007d42432",
+      "title": "Runway Characters now supports camera and screen sharing. Users can share a live feed and the Charac...",
+      "url": "https://x.com/runwayml/status/2041594922688508371",
+      "source": "twitter",
+      "source_author": "RunwayML",
+      "topics": [],
+      "score": 6,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-04-08T03:44:07Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 79,
+        "replies": 5,
+        "retweets": 16,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "c46de5f946b0b0601ab08b2f2858e57a",
+      "title": "Watch the tutorial at \nhttp://\ndocs.dev.runwayml.com/characters/scr\neens\n…. Available now via the ...",
+      "url": "https://x.com/runwayml/status/2041594924697563536",
+      "source": "twitter",
+      "source_author": "RunwayML",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-04-08T03:44:07Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 7,
+        "replies": 0,
+        "retweets": 3,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "c3fbde4c8adcbb1d9551bfe88787445d",
+      "title": "And if you'd rather watch on YouTube, here’s the link:",
+      "url": "https://x.com/GoogleAI/status/2041637736382160925",
+      "source": "twitter",
+      "source_author": "GoogleAI",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-04-08T03:44:07Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 13,
+        "replies": 0,
+        "retweets": 3,
         "stars": 0,
         "upvotes": 0
       }
     }
   ],
   "source": "twitter",
-  "updated_at": "2026-04-07T08:00:59Z"
+  "updated_at": "2026-04-08T03:44:08Z"
 }
