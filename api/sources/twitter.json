@@ -1,207 +1,87 @@
 {
-  "count": 10,
+  "count": 4,
   "items": [
     {
-      "id": "59a2feb653ca0077a6189a2dd7e3dbb6",
-      "title": "Introducing Project Glasswing: an urgent initiative to help secure the world’s most critical softw...",
-      "url": "https://x.com/AnthropicAI/status/2041578392852517128",
+      "id": "f54585517b1c3cac658a2cab482c85df",
+      "title": "New on the Engineering Blog: \n\nBuilding Managed Agents—our hosted service for long-running agents\ufffd...",
+      "url": "https://x.com/AnthropicAI/status/2041929199976640948",
       "source": "twitter",
       "source_author": "AnthropicAI",
       "topics": [],
       "score": 8,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-04-08T03:44:07Z",
+      "collected_at": "2026-04-09T03:39:34Z",
       "engagement": {
         "comments": 0,
-        "likes": 26519,
-        "replies": 1141,
-        "retweets": 6591,
+        "likes": 2527,
+        "replies": 157,
+        "retweets": 356,
         "stars": 0,
         "upvotes": 0
       }
     },
     {
-      "id": "761ee4aca20bd2e38e750000fa997a32",
-      "title": "Use Design Mode in Cursor 3 to annotate and target UI elements in the browser.",
-      "url": "https://x.com/cursor_ai/status/2041561791243940092",
+      "id": "fd7a99ea87a3fe8c85ac1ba318e6defd",
+      "title": "Cursor's code review agent can now learn from activity on PRs to self-improve in real time.\n\n78% of ...",
+      "url": "https://x.com/cursor_ai/status/2041969870234120231",
       "source": "twitter",
       "source_author": "cursor_ai",
-      "topics": [],
-      "score": 8,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-04-08T03:44:07Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 1208,
-        "replies": 49,
-        "retweets": 119,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "565418b74c13af8657c31ea6b9e66c59",
-      "title": "Three million people are now using Codex weekly - up from two million a little under a month ago. In...",
-      "url": "https://x.com/thsottiaux/status/2041655710346572085",
-      "source": "twitter",
-      "source_author": "OpenAI",
-      "topics": [],
-      "score": 8,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-04-08T03:44:07Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 2779,
-        "replies": 260,
-        "retweets": 313,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "714161313a1b99a456131897b16fb3e0",
-      "title": "The Claude Mythos Preview system card is available here: \nhttps://\nanthropic.com/claude-mythos-\nprev...",
-      "url": "https://x.com/AnthropicAI/status/2041580670774923517",
-      "source": "twitter",
-      "source_author": "AnthropicAI",
-      "topics": [],
-      "score": 8,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-04-08T03:44:07Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 1618,
-        "replies": 50,
-        "retweets": 305,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "38bc7410f84dcc9e54754ec7734ce565",
-      "title": "You can read a detailed technical report on the software vulnerabilities and exploits discovered by ...",
-      "url": "https://x.com/AnthropicAI/status/2041578416487489601",
-      "source": "twitter",
-      "source_author": "AnthropicAI",
-      "topics": [],
-      "score": 8,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-04-08T03:44:07Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 1031,
-        "replies": 18,
-        "retweets": 138,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "fdadc9c2beca5ed3ece88b884e3f2c38",
-      "title": " New in Prism today: Paper Review, an AI workflow for reviewing technical and scientific papers. \n\nT...",
-      "url": "https://x.com/kevinweil/status/2041573799775367525",
-      "source": "twitter",
-      "source_author": "OpenAI",
       "topics": [],
       "score": 7,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-04-08T03:44:07Z",
+      "collected_at": "2026-04-09T03:39:34Z",
       "engagement": {
         "comments": 0,
-        "likes": 511,
-        "replies": 37,
-        "retweets": 62,
+        "likes": 603,
+        "replies": 23,
+        "retweets": 46,
         "stars": 0,
         "upvotes": 0
       }
     },
     {
-      "id": "52c9b69c403cc56216aa48c742691dc0",
-      "title": "Curious about vibe coding? Or are you already shipping apps and just want an easier way to explain y...",
-      "url": "https://x.com/GoogleAI/status/2041637733634912321",
+      "id": "57034ff4d3efe5df263b2a623c4c04e2",
+      "title": "AI Gateway now supports team-wide Zero Data Retention (ZDR).\n\nBuilding safely with multiple AI model...",
+      "url": "https://x.com/vercel/status/2041956380429709453",
       "source": "twitter",
-      "source_author": "GoogleAI",
+      "source_author": "vercel",
       "topics": [],
       "score": 6,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-04-08T03:44:07Z",
+      "collected_at": "2026-04-09T03:39:34Z",
       "engagement": {
         "comments": 0,
-        "likes": 104,
-        "replies": 18,
-        "retweets": 12,
+        "likes": 89,
+        "replies": 9,
+        "retweets": 9,
         "stars": 0,
         "upvotes": 0
       }
     },
     {
-      "id": "3efbbe17193b7c8b27fe7f2007d42432",
-      "title": "Runway Characters now supports camera and screen sharing. Users can share a live feed and the Charac...",
-      "url": "https://x.com/runwayml/status/2041594922688508371",
+      "id": "d73e44a2af377c406a918271ace3f02e",
+      "title": "Learn more:",
+      "url": "https://x.com/cursor_ai/status/2041969872977154378",
       "source": "twitter",
-      "source_author": "RunwayML",
-      "topics": [],
-      "score": 6,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-04-08T03:44:07Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 79,
-        "replies": 5,
-        "retweets": 16,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "c46de5f946b0b0601ab08b2f2858e57a",
-      "title": "Watch the tutorial at \nhttp://\ndocs.dev.runwayml.com/characters/scr\neens\n…. Available now via the ...",
-      "url": "https://x.com/runwayml/status/2041594924697563536",
-      "source": "twitter",
-      "source_author": "RunwayML",
+      "source_author": "cursor_ai",
       "topics": [],
       "score": 4,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-04-08T03:44:07Z",
+      "collected_at": "2026-04-09T03:39:34Z",
       "engagement": {
         "comments": 0,
-        "likes": 7,
+        "likes": 45,
         "replies": 0,
-        "retweets": 3,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "c3fbde4c8adcbb1d9551bfe88787445d",
-      "title": "And if you'd rather watch on YouTube, here’s the link:",
-      "url": "https://x.com/GoogleAI/status/2041637736382160925",
-      "source": "twitter",
-      "source_author": "GoogleAI",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-04-08T03:44:07Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 13,
-        "replies": 0,
-        "retweets": 3,
+        "retweets": 1,
         "stars": 0,
         "upvotes": 0
       }
     }
   ],
   "source": "twitter",
-  "updated_at": "2026-04-08T03:44:08Z"
+  "updated_at": "2026-04-09T03:39:35Z"
 }
