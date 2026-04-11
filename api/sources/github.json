@@ -1,37 +1,97 @@
 {
-  "count": 4,
+  "count": 7,
   "items": [
     {
-      "id": "b0103861153a17c8473144db9259eb02",
-      "title": "wangyong-fy/GptCrate-luck-lie",
-      "url": "https://github.com/wangyong-fy/GptCrate-luck-lie",
+      "id": "63a99b9246f7267be0fb2743185da224",
+      "title": "debpalash/OmniVoice-Studio",
+      "url": "https://github.com/debpalash/OmniVoice-Studio",
       "source": "github",
-      "source_author": "wangyong-fy",
+      "source_author": "debpalash",
       "topics": [],
-      "score": 4,
+      "score": 6,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-04-11T07:34:34Z",
+      "collected_at": "2026-04-11T13:38:37Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 4,
+        "stars": 35,
         "upvotes": 0
       }
     },
     {
-      "id": "4f74485903c14ff0a63f5c4c9ff247fb",
-      "title": "linuxhsj/WebModel",
-      "url": "https://github.com/linuxhsj/WebModel",
+      "id": "a498cd0b2115e78f1ec570daa7a039a3",
+      "title": "openclaw/docs",
+      "url": "https://github.com/openclaw/docs",
       "source": "github",
-      "source_author": "linuxhsj",
+      "source_author": "openclaw",
+      "topics": [],
+      "score": 6,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-04-11T13:38:41Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 45,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "bae92fc1210427ca8d8223983a029bde",
+      "title": "zzybai/Easier-gpt",
+      "url": "https://github.com/zzybai/Easier-gpt",
+      "source": "github",
+      "source_author": "zzybai",
       "topics": [],
       "score": 4,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-04-11T07:34:36Z",
+      "collected_at": "2026-04-11T13:38:30Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 6,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "99509a9a33dc2e01d56a24383c3d3d3b",
+      "title": "TiaraBasori/opencode2api",
+      "url": "https://github.com/TiaraBasori/opencode2api",
+      "source": "github",
+      "source_author": "TiaraBasori",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-04-11T13:38:30Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 6,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "fbee0ec9f23b32b2e37d51e873d0c086",
+      "title": "semidark/kokoro-deutsch",
+      "url": "https://github.com/semidark/kokoro-deutsch",
+      "source": "github",
+      "source_author": "semidark",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-04-11T13:38:33Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
@@ -42,16 +102,16 @@
       }
     },
     {
-      "id": "1e7e8cc36b713e808e17f1ff6f920cda",
-      "title": "shivae372-hub/claude-bootstrap",
-      "url": "https://github.com/shivae372-hub/claude-bootstrap",
+      "id": "61df66efc4f00eacedadc62bfb664c80",
+      "title": "devin-ph/DevIn_AI",
+      "url": "https://github.com/devin-ph/DevIn_AI",
       "source": "github",
-      "source_author": "shivae372-hub",
+      "source_author": "devin-ph",
       "topics": [],
       "score": 4,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-04-11T07:34:45Z",
+      "collected_at": "2026-04-11T13:38:45Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
@@ -62,16 +122,16 @@
       }
     },
     {
-      "id": "1c426b031ba9fc76e815c69101177715",
-      "title": "AIdevpoint/DEVIN",
-      "url": "https://github.com/AIdevpoint/DEVIN",
+      "id": "1d1d134976c7f3f5b087adb15c7a5789",
+      "title": "vinnieshah06-tech/devin",
+      "url": "https://github.com/vinnieshah06-tech/devin",
       "source": "github",
-      "source_author": "AIdevpoint",
+      "source_author": "vinnieshah06-tech",
       "topics": [],
       "score": 4,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-04-11T07:34:49Z",
+      "collected_at": "2026-04-11T13:38:45Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
@@ -83,5 +143,5 @@
     }
   ],
   "source": "github",
-  "updated_at": "2026-04-11T07:37:38Z"
+  "updated_at": "2026-04-11T13:41:34Z"
 }
