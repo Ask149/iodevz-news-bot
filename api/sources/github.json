@@ -1,77 +1,37 @@
 {
-  "count": 5,
+  "count": 4,
   "items": [
     {
-      "id": "96d3dcf50f06a3429b30959022cf5d5b",
-      "title": "xiyangone/codex-oauth-automation-extension",
-      "url": "https://github.com/xiyangone/codex-oauth-automation-extension",
+      "id": "00ed4e74af6a4c14e0053acffb32722c",
+      "title": "OMARVII/claude-alloy",
+      "url": "https://github.com/OMARVII/claude-alloy",
       "source": "github",
-      "source_author": "xiyangone",
+      "source_author": "OMARVII",
       "topics": [],
       "score": 6,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-04-12T07:51:01Z",
+      "collected_at": "2026-04-12T13:41:45Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 39,
+        "stars": 67,
         "upvotes": 0
       }
     },
     {
-      "id": "a1471fb12a2f49be5d469377a54f5761",
-      "title": "millionco/debug-agent",
-      "url": "https://github.com/millionco/debug-agent",
+      "id": "4f514f371ec9c2a1065861ad4aa7e522",
+      "title": "pengtianhao48-lab/TrustMeImWorking",
+      "url": "https://github.com/pengtianhao48-lab/TrustMeImWorking",
       "source": "github",
-      "source_author": "millionco",
-      "topics": [],
-      "score": 6,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-04-12T07:51:19Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 146,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "adeeabcc57994cad7bbfb1a8874f5bfc",
-      "title": "antonelloceravola/ScriptFlow",
-      "url": "https://github.com/antonelloceravola/ScriptFlow",
-      "source": "github",
-      "source_author": "antonelloceravola",
+      "source_author": "pengtianhao48-lab",
       "topics": [],
       "score": 4,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-04-12T07:51:09Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 1,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "d250a56fe1f3e5c50a14fe503cd21741",
-      "title": "hjl2004-10/Agent-Worlds",
-      "url": "https://github.com/hjl2004-10/Agent-Worlds",
-      "source": "github",
-      "source_author": "hjl2004-10",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-04-12T07:51:04Z",
+      "collected_at": "2026-04-12T13:41:49Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
@@ -82,26 +42,46 @@
       }
     },
     {
-      "id": "b1ff39a6af02c728d3b418b55de9b89b",
-      "title": "Devina05/Devina05",
-      "url": "https://github.com/Devina05/Devina05",
+      "id": "836b2a14d0a4f58500f8f9b4df2ba543",
+      "title": "Yang-wentao/zhijiao-reader",
+      "url": "https://github.com/Yang-wentao/zhijiao-reader",
       "source": "github",
-      "source_author": "Devina05",
+      "source_author": "Yang-wentao",
       "topics": [],
       "score": 4,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-04-12T07:51:17Z",
+      "collected_at": "2026-04-12T13:41:49Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 0,
+        "stars": 2,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "5fa36016a7a6cc4645cd07c534e40869",
+      "title": "zzet/gortex",
+      "url": "https://github.com/zzet/gortex",
+      "source": "github",
+      "source_author": "zzet",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-04-12T13:42:01Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 4,
         "upvotes": 0
       }
     }
   ],
   "source": "github",
-  "updated_at": "2026-04-12T07:54:05Z"
+  "updated_at": "2026-04-12T13:44:52Z"
 }
