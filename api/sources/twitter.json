@@ -1,207 +1,47 @@
 {
-  "count": 10,
+  "count": 2,
   "items": [
     {
-      "id": "66b3b96965b6b54913985127cb4f092e",
-      "title": "We love seeing what you’ve built with Gemma 4, the open model family that we released last week. H...",
-      "url": "https://x.com/GoogleAI/status/2042627133864915182",
+      "id": "296a46f00db280fe1947dc49a0207c66",
+      "title": "This weekend we're doubling Composer 2 usage in our new interface.\n\nOpen Agents Window, pick Compose...",
+      "url": "https://x.com/cursor_ai/status/2043009335161430187",
       "source": "twitter",
-      "source_author": "GoogleAI",
+      "source_author": "cursor_ai",
       "topics": [],
-      "score": 7,
+      "score": 8,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-04-11T03:29:24Z",
+      "collected_at": "2026-04-12T03:56:04Z",
       "engagement": {
         "comments": 0,
-        "likes": 453,
-        "replies": 22,
-        "retweets": 28,
+        "likes": 1235,
+        "replies": 91,
+        "retweets": 107,
         "stars": 0,
         "upvotes": 0
       }
     },
     {
-      "id": "3a6a6a1a5f582f9e2ca16887f6b8ab8d",
-      "title": "TGIF! Here are some of our favorite updates from the past week:\n\n— Notebooks in \n@GeminiApp\n, an i...",
-      "url": "https://x.com/GoogleAI/status/2042671003570983299",
-      "source": "twitter",
-      "source_author": "GoogleAI",
-      "topics": [],
-      "score": 6,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-04-11T03:29:24Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 143,
-        "replies": 20,
-        "retweets": 19,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "68d0a92a7d7233ea028f7e6723e463c2",
-      "title": "Learn how you can go from a moment of inspiration to a fully realized brand film in a single day wit...",
-      "url": "https://x.com/runwayml/status/2042671835477651750",
-      "source": "twitter",
-      "source_author": "RunwayML",
-      "topics": [],
-      "score": 6,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-04-11T03:29:24Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 116,
-        "replies": 6,
-        "retweets": 16,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "5a76f75cf0141118b226ae457191b4a1",
-      "title": "The security and privacy of your information are a top priority. We’re committed to being transpar...",
-      "url": "https://x.com/OpenAI/status/2042780059363336237",
+      "id": "02c1cc2a85bba0f5feed3e97d36b7c1d",
+      "title": "Hi! Getting a lot of questions on Pro plan rate limits, so I wanted to clarify a few things:\n\n- Your...",
+      "url": "https://x.com/thsottiaux/status/2043075353242218768",
       "source": "twitter",
       "source_author": "OpenAI",
       "topics": [],
-      "score": 6,
+      "score": 8,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-04-11T03:29:24Z",
+      "collected_at": "2026-04-12T03:56:04Z",
       "engagement": {
         "comments": 0,
-        "likes": 132,
-        "replies": 12,
-        "retweets": 25,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "d722c4acf7666c767c765a31a0d769e0",
-      "title": "Today we're releasing WildDet3D—an open model for monocular 3D object detection in the wild.\n\nIt w...",
-      "url": "https://x.com/allen_ai/status/2041545111151022094",
-      "source": "twitter",
-      "source_author": "Allen_AI",
-      "topics": [],
-      "score": 6,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-04-11T03:29:24Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 270,
-        "replies": 8,
-        "retweets": 75,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "9e32a03605a060c462651cfd7ace8966",
-      "title": "We just released basically ALL code for MolmoWeb. Have fun building! ",
-      "url": "https://x.com/zixianma02/status/2042635179127353738",
-      "source": "twitter",
-      "source_author": "Allen_AI",
-      "topics": [],
-      "score": 5,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-04-11T03:29:24Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 43,
-        "replies": 1,
-        "retweets": 10,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "19d37d19b45a8ea22d61e9434f563a58",
-      "title": " Atlas: \nhttps://\nchatgpt.com/atlas",
-      "url": "https://x.com/OpenAI/status/2042780058075672703",
-      "source": "twitter",
-      "source_author": "OpenAI",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-04-11T03:29:24Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 47,
-        "replies": 7,
-        "retweets": 1,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "555d4a53117fcd470babc73790f9248a",
-      "title": " Codex CLI: \nhttps://\ndevelopers.openai.com/codex/cli",
-      "url": "https://x.com/OpenAI/status/2042780056804811115",
-      "source": "twitter",
-      "source_author": "OpenAI",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-04-11T03:29:24Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 39,
-        "replies": 3,
-        "retweets": 3,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "fa059a1635020da2c620105c6733222a",
-      "title": "Newly published in Optica from Microsoft Research: a first-of-its-kind materials-screening framework...",
-      "url": "https://x.com/MSFTResearch/status/2042665726058614952",
-      "source": "twitter",
-      "source_author": "MSFTResearch",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-04-11T03:29:24Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 12,
-        "replies": 2,
-        "retweets": 6,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "5f995a6ee1c05448b61a0d6ebce85997",
-      "title": "LLM evals are hard. Agentic evals are very hard. Web browsing evals are crazy. The same webpage will...",
-      "url": "https://x.com/PeterSushko/status/2042650377133395979",
-      "source": "twitter",
-      "source_author": "Allen_AI",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-04-11T03:29:24Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 12,
-        "replies": 0,
-        "retweets": 4,
+        "likes": 1263,
+        "replies": 305,
+        "retweets": 125,
         "stars": 0,
         "upvotes": 0
       }
     }
   ],
   "source": "twitter",
-  "updated_at": "2026-04-11T03:29:25Z"
+  "updated_at": "2026-04-12T03:56:04Z"
 }
