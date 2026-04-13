@@ -1,27 +1,67 @@
 {
-  "count": 1,
+  "count": 3,
   "items": [
     {
-      "id": "096f2a0049bbf6a770930d07e647b8fa",
-      "title": " Codex App: \nhttps://\nchatgpt.com/codex/",
-      "url": "https://x.com/OpenAI/status/2042780055559114993",
+      "id": "fc3dcccb60c1113827d20783c50abac7",
+      "title": "Thanks for the great conversation \n@cleoabram\n (and some competitive Jenga)! Really enjoyed talking ...",
+      "url": "https://x.com/demishassabis/status/2041681474580021536",
       "source": "twitter",
-      "source_author": "OpenAI",
+      "source_author": "DemisHassabis",
+      "topics": [],
+      "score": 8,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-04-13T04:03:45Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 1342,
+        "replies": 63,
+        "retweets": 140,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "e3f2538e30f7d7c15c8d70ebe30a9999",
+      "title": " Day 10 of the \n@cursor_ai\n #vibejam\n\nProudly sponsored by \n@cursor_ai\n + \n@boltdotnew\n + \n@heyglif\n...",
+      "url": "https://x.com/levelsio/status/2043432156546884083",
+      "source": "twitter",
+      "source_author": "levelsio",
       "topics": [],
       "score": 6,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-04-12T13:44:52Z",
+      "collected_at": "2026-04-13T04:03:45Z",
       "engagement": {
         "comments": 0,
-        "likes": 240,
-        "replies": 24,
-        "retweets": 13,
+        "likes": 103,
+        "replies": 26,
+        "retweets": 10,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "df2eedb9773f074e45761a271b02641c",
+      "title": "Finishing your taxes?\n\nRun them by the new Replit Tax Skill",
+      "url": "https://x.com/samuel_spitz/status/2042711118167286183",
+      "source": "twitter",
+      "source_author": "replit",
+      "topics": [],
+      "score": 5,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-04-13T04:03:45Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 41,
+        "replies": 5,
+        "retweets": 5,
         "stars": 0,
         "upvotes": 0
       }
     }
   ],
   "source": "twitter",
-  "updated_at": "2026-04-12T13:44:52Z"
+  "updated_at": "2026-04-13T04:03:47Z"
 }
