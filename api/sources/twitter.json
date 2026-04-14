@@ -1,20 +1,120 @@
 {
-  "count": 1,
+  "count": 6,
   "items": [
     {
-      "id": "63959f3a2efb866392727adf77494f89",
-      "title": "Microsoft Research is at #CHI2026 this week. The question driving our work this year isn't about AI ...",
-      "url": "https://x.com/MSFTResearch/status/2043765330149871988",
+      "id": "c3685c95a6abe03cfc0e3213564cce85",
+      "title": "Perplexity started as a small business tool for ourselves. We had 4 people and no revenue with AI at...",
+      "url": "https://x.com/AravSrinivas/status/2043726497870127559",
+      "source": "twitter",
+      "source_author": "AravSrinivas",
+      "topics": [],
+      "score": 8,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-04-14T14:23:07Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 1969,
+        "replies": 192,
+        "retweets": 231,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "993956d595dfc631e81d4b141a9a5da8",
+      "title": "AgentMail is now a native Replit connector. \n\nEvery app or agent you build now has its own inbox to ...",
+      "url": "https://x.com/agentmail/status/2043740816988844449",
+      "source": "twitter",
+      "source_author": "replit",
+      "topics": [],
+      "score": 6,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-04-14T14:23:07Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 80,
+        "replies": 8,
+        "retweets": 17,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "cd58678c9f955b10ac31221e3a4709e8",
+      "title": "Everyone's building AI science agents.\n \nThe claims are extraordinary. But when we test whether thes...",
+      "url": "https://x.com/allen_ai/status/2043772617136509152",
+      "source": "twitter",
+      "source_author": "Allen_AI",
+      "topics": [],
+      "score": 6,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-04-14T14:23:07Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 167,
+        "replies": 7,
+        "retweets": 21,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "8199d4ef80d99e0d2ef68d536782c8ce",
+      "title": "Our Long-Term Benefit Trust has appointed Vas Narasimhan to Anthropic's Board of Directors.\n\nVas bri...",
+      "url": "https://x.com/AnthropicAI/status/2044057406167232964",
+      "source": "twitter",
+      "source_author": "AnthropicAI",
+      "topics": [],
+      "score": 5,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-04-14T14:23:07Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 64,
+        "replies": 18,
+        "retweets": 10,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "566f0ac35960f237c2c72155875fd449",
+      "title": "Congratulations to Dr. Jacki O’Neill on receiving the 2026 ACM SIGCHI Societal Impact Award! As fo...",
+      "url": "https://x.com/MSFTResearch/status/2044022861510107276",
       "source": "twitter",
       "source_author": "MSFTResearch",
       "topics": [],
       "score": 4,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-04-14T08:15:32Z",
+      "collected_at": "2026-04-14T14:23:07Z",
       "engagement": {
         "comments": 0,
-        "likes": 21,
+        "likes": 10,
+        "replies": 2,
+        "retweets": 5,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "1e0cc1dce146e652f61c795512906c7f",
+      "title": "Week 3 winner of the Agent 4 Content Challenge:     \n\nMagomed Kurbaitaev  \n@kurbaitaev\n\n\nBuilt: \nhtt...",
+      "url": "https://x.com/Replit/status/2043848376362688834",
+      "source": "twitter",
+      "source_author": "replit",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-04-14T14:23:07Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 27,
         "replies": 2,
         "retweets": 7,
         "stars": 0,
@@ -23,5 +123,5 @@
     }
   ],
   "source": "twitter",
-  "updated_at": "2026-04-14T08:15:32Z"
+  "updated_at": "2026-04-14T14:23:08Z"
 }
