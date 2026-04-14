@@ -1,27 +1,167 @@
 {
-  "count": 1,
+  "count": 8,
   "items": [
     {
-      "id": "7c157cca4e08c99912b749b874a1fbd5",
-      "title": "Big ideas don’t need big budgets. Just great storytelling. From idea to execution, this short ad w...",
-      "url": "https://x.com/runwayml/status/2043691996477366499",
+      "id": "43c2c4275b97939d5b36e9054da47fb9",
+      "title": "We've shipped several quality-of-life improvements to Cursor 3. They bring a little more delight whe...",
+      "url": "https://x.com/cursor_ai/status/2043798784367546707",
+      "source": "twitter",
+      "source_author": "cursor_ai",
+      "topics": [],
+      "score": 8,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-04-14T03:53:46Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 1071,
+        "replies": 54,
+        "retweets": 132,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "e0c2175101e74c2f22565cc425362834",
+      "title": "What started off as a workflow test, just an idea, quickly had me locked into a flow state. 4 hours ...",
+      "url": "https://x.com/notiansans/status/2043688036794581410",
+      "source": "twitter",
+      "source_author": "RunwayML",
+      "topics": [],
+      "score": 7,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-04-14T03:53:46Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 537,
+        "replies": 87,
+        "retweets": 58,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "e29a5741f119f77c6453489e0b776e61",
+      "title": "Enter your Ads today to the Runway AI Festival. Coming to NY and LA this June. \n\nSubmissions close A...",
+      "url": "https://x.com/runwayml/status/2043764848786317674",
+      "source": "twitter",
+      "source_author": "RunwayML",
+      "topics": [],
+      "score": 6,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-04-14T03:53:46Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 85,
+        "replies": 8,
+        "retweets": 8,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "cdf601f8a2b083ba42919dba12d16c54",
+      "title": "Building a voice agent? \n\nGemini 3.1 Flash Live (Thinking) just topped \n@sierraplatform\n's τ-Voice ...",
+      "url": "https://x.com/tulseedoshi/status/2043705774308733131",
+      "source": "twitter",
+      "source_author": "GoogleDeepMind",
+      "topics": [],
+      "score": 6,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-04-14T03:53:46Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 210,
+        "replies": 16,
+        "retweets": 16,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "c6e6a98867182fffe53bac6bb2e0bf38",
+      "title": "Got a doodle for your next project laying around? Turn it into working software using \n@GoogleAIStud...",
+      "url": "https://x.com/GoogleAI/status/2043765855314706899",
+      "source": "twitter",
+      "source_author": "GoogleAI",
+      "topics": [],
+      "score": 6,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-04-14T03:53:46Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 133,
+        "replies": 17,
+        "retweets": 21,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "774443c0bb40d3b5b8d16faa08615d95",
+      "title": "Learn more:",
+      "url": "https://x.com/runwayml/status/2043764850275324117",
       "source": "twitter",
       "source_author": "RunwayML",
       "topics": [],
       "score": 4,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-04-13T14:19:27Z",
+      "collected_at": "2026-04-14T03:53:46Z",
       "engagement": {
         "comments": 0,
-        "likes": 34,
-        "replies": 4,
-        "retweets": 3,
+        "likes": 8,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "ddc06daa9e6c3f8ce4b8f2baac11dfb7",
+      "title": "Prefer watching on \n@YouTube\n while scrolling through the comment section? We get it:",
+      "url": "https://x.com/GoogleAI/status/2043765857038577818",
+      "source": "twitter",
+      "source_author": "GoogleAI",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-04-14T03:53:46Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 15,
+        "replies": 0,
+        "retweets": 2,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "ca2edbac9e89b913169e662eacc8abeb",
+      "title": "Workspace search now has file include/exclude filters.",
+      "url": "https://x.com/cursor_ai/status/2043798791116206453",
+      "source": "twitter",
+      "source_author": "cursor_ai",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-04-14T03:53:46Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 41,
+        "replies": 1,
+        "retweets": 0,
         "stars": 0,
         "upvotes": 0
       }
     }
   ],
   "source": "twitter",
-  "updated_at": "2026-04-13T14:19:29Z"
+  "updated_at": "2026-04-14T03:53:47Z"
 }
