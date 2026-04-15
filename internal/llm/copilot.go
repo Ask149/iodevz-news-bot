@@ -14,8 +14,10 @@ import (
 )
 
 const (
-	defaultCompletionsURL = "https://api.githubcopilot.com/chat/completions"
-	defaultModel          = "gpt-4o" // Free tier, unlimited
+	copilotCompletionsURL      = "https://api.githubcopilot.com/chat/completions"
+	githubModelsCompletionsURL = "https://models.inference.ai.azure.com/chat/completions"
+	copilotDefaultModel        = "gpt-4o"      // Free via Copilot
+	githubModelsDefaultModel   = "gpt-4o-mini" // Free via GitHub Models
 )
 
 // Required headers that identify us as a Copilot integration.
@@ -27,22 +29,38 @@ var copilotHeaders = map[string]string{
 	"Content-Type":           "application/json",
 }
 
-// Client is a simplified Copilot LLM client for the news bot.
-// Only supports blocking Chat calls (no streaming, no tool use).
+// Client is a simplified LLM client for the news bot.
+// Supports two backends: Copilot API (via TokenManager) and GitHub Models API (via PAT).
 type Client struct {
-	tokenManager   *auth.TokenManager
-	token          string // for testing without TokenManager
-	completionsURL string
-	model          string
-	httpClient     *http.Client
+	tokenManager      *auth.TokenManager
+	token             string // static token for direct auth (GitHub Models or testing)
+	completionsURL    string
+	model             string
+	httpClient        *http.Client
+	useCopilotHeaders bool // only for Copilot API
 }
 
-// NewClient creates a Client backed by a TokenManager.
+// NewClient creates a Client backed by a TokenManager (Copilot API).
 func NewClient(tm *auth.TokenManager) *Client {
 	return &Client{
-		tokenManager:   tm,
-		completionsURL: defaultCompletionsURL,
-		model:          defaultModel,
+		tokenManager:      tm,
+		completionsURL:    copilotCompletionsURL,
+		model:             copilotDefaultModel,
+		useCopilotHeaders: true,
+		httpClient: &http.Client{
+			Timeout: 120 * time.Second,
+		},
+	}
+}
+
+// NewGitHubModelsClient creates a Client that uses the GitHub Models API directly.
+// Accepts a regular GitHub PAT — no token exchange needed.
+func NewGitHubModelsClient(pat string) *Client {
+	return &Client{
+		token:             pat,
+		completionsURL:    githubModelsCompletionsURL,
+		model:             githubModelsDefaultModel,
+		useCopilotHeaders: false,
 		httpClient: &http.Client{
 			Timeout: 120 * time.Second,
 		},
@@ -163,8 +181,11 @@ func (c *Client) doRequest(ctx context.Context, token string, body []byte) (*htt
 		return nil, fmt.Errorf("build request: %w", err)
 	}
 	req.Header.Set("Authorization", "Bearer "+token)
-	for k, v := range copilotHeaders {
-		req.Header.Set(k, v)
+	req.Header.Set("Content-Type", "application/json")
+	if c.useCopilotHeaders {
+		for k, v := range copilotHeaders {
+			req.Header.Set(k, v)
+		}
 	}
 	return c.httpClient.Do(req)
 }
@@ -188,4 +209,18 @@ func stripCodeFences(s string) string {
 		s = s[:len(s)-1]
 	}
 	return s
+}
+
+// NoopClient is an LLM client that always returns errors.
+// Used when no LLM backend is available — triggers fallback scoring in ranker.
+type NoopClient struct{}
+
+func NewNoopClient() *NoopClient { return &NoopClient{} }
+
+func (n *NoopClient) Chat(ctx context.Context, systemPrompt, userMessage string) (string, error) {
+	return "", fmt.Errorf("LLM not available (no GITHUB_PAT or Copilot token configured)")
+}
+
+func (n *NoopClient) ChatJSON(ctx context.Context, systemPrompt, userMessage string, v interface{}) error {
+	return fmt.Errorf("LLM not available (no GITHUB_PAT or Copilot token configured)")
 }

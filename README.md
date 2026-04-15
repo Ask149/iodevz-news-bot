@@ -70,14 +70,14 @@ make build
 make test
 
 # Dry run (no posting)
-DRY_RUN=true GITHUB_TOKEN=<your-token> ./bot
+DRY_RUN=true GITHUB_PAT=<your-github-pat> ./bot
 ```
 
 ### Environment Variables
 
 | Variable | Required | Description |
 |----------|----------|-------------|
-| `GITHUB_TOKEN` | Yes | GitHub token for Copilot API auth |
+| `GITHUB_PAT` | Yes | GitHub PAT for GitHub Models API (LLM ranking/generation) |
 | `TWITTER_API_KEY` | For posting | Twitter OAuth 1.0a consumer key |
 | `TWITTER_API_SECRET` | For posting | Twitter OAuth 1.0a consumer secret |
 | `TWITTER_ACCESS_TOKEN` | For posting | Twitter OAuth 1.0a access token |
@@ -88,9 +88,8 @@ DRY_RUN=true GITHUB_TOKEN=<your-token> ./bot
 
 Add these to your repo's Settings → Secrets:
 
-- `COPILOT_OAUTH_TOKEN` — GitHub OAuth token (from device flow)
+- `GH_PAT` — GitHub personal access token (for GitHub Models API + pushing state)
 - `TWITTER_API_KEY`, `TWITTER_API_SECRET`, `TWITTER_ACCESS_TOKEN`, `TWITTER_ACCESS_SECRET`
-- `GH_PAT` — GitHub personal access token (for pushing state)
 
 ## Project Structure
 
@@ -98,8 +97,8 @@ Add these to your repo's Settings → Secrets:
 iodevz-news-bot/
 ├── cmd/bot/main.go              # Entry point
 ├── internal/
-│   ├── auth/copilot.go          # GitHub Copilot token management
-│   ├── llm/copilot.go           # LLM client (Chat + ChatJSON)
+│   ├── auth/copilot.go          # GitHub Copilot token management (fallback)
+│   ├── llm/copilot.go           # LLM client (GitHub Models API + Copilot fallback)
 │   ├── config/config.go         # Account/topic/subreddit loaders
 │   ├── collector/
 │   │   ├── collector.go         # Item type + Collector interface
