@@ -4,6 +4,7 @@ package generator
 import (
 	"context"
 	"encoding/json"
+	"fmt"
 	"io"
 	"net/http"
 )
@@ -37,4 +38,11 @@ func (c *testTextLLMClient) Chat(ctx context.Context, systemPrompt, userMessage 
 	}
 
 	return apiResp.Choices[0].Message.Content, nil
+}
+
+// errorTextLLMClient always returns an error, simulating LLM unavailability.
+type errorTextLLMClient struct{}
+
+func (c *errorTextLLMClient) Chat(ctx context.Context, systemPrompt, userMessage string) (string, error) {
+	return "", fmt.Errorf("LLM unavailable")
 }

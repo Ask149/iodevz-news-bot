@@ -51,8 +51,10 @@ func (g *TweetGenerator) Generate(ctx context.Context, items []ranker.RankedItem
 
 		text, err := g.llm.Chat(ctx, tweetPrompt, userMsg)
 		if err != nil {
-			log.Printf("[tweet] generation error for %q: %v", item.Title, err)
-			continue
+			// Fallback: template-based tweet when LLM is unavailable
+			text = fmt.Sprintf("🔗 %s\n\n%s", truncateString(item.Title, 220), item.URL)
+			log.Printf("[tweet] used template fallback for %q: %v", item.Title, err)
+			// Don't continue — use the fallback tweet
 		}
 
 		// Clean up: remove quotes if LLM wrapped in them.
