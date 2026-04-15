@@ -110,6 +110,13 @@ func (s *State) RecordCollection(source string, count int) {
 	stats.BySource[source] += count
 }
 
+// RecordRanking increments the items ranked counter for today.
+func (s *State) RecordRanking(count int) {
+	date := time.Now().UTC().Format("2006-01-02")
+	stats := s.getOrCreateDailyStats(date)
+	stats.ItemsRanked += count
+}
+
 // StartRun updates run metadata.
 func (s *State) StartRun() {
 	s.LastRun = time.Now().UTC()

@@ -99,3 +99,17 @@ func TestRecordPost(t *testing.T) {
 		t.Errorf("ItemsPosted: got %d, want 1", stats.ItemsPosted)
 	}
 }
+
+func TestRecordRanking(t *testing.T) {
+	s := New()
+	s.RecordRanking(5)
+
+	date := time.Now().UTC().Format("2006-01-02")
+	stats, ok := s.DailyStats[date]
+	if !ok {
+		t.Fatal("daily stats not created")
+	}
+	if stats.ItemsRanked != 5 {
+		t.Errorf("ItemsRanked: got %d, want 5", stats.ItemsRanked)
+	}
+}

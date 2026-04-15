@@ -5,6 +5,7 @@ import (
 	"context"
 	"fmt"
 	"log"
+	"os"
 	"path/filepath"
 	"time"
 
@@ -104,12 +105,30 @@ func Run(ctx context.Context, cfg Config) error {
 		return fmt.Errorf("load subreddits: %w", err)
 	}
 
-	// 3. Initialize auth + LLM.
-	tm, err := auth.NewTokenManager()
-	if err != nil {
-		return fmt.Errorf("auth: %w", err)
+	// 3. Initialize LLM client.
+	// Prefer GitHub Models API (works with regular PAT) over Copilot API (needs OAuth token).
+	// Use interface types so we can assign Client, NoopClient, etc.
+	var jsonLLM ranker.LLMClient
+	var textLLM generator.TextLLMClient
+	if pat := os.Getenv("GITHUB_PAT"); pat != "" {
+		log.Println("Using GitHub Models API for LLM (GITHUB_PAT)")
+		c := llm.NewGitHubModelsClient(pat)
+		jsonLLM = c
+		textLLM = c
+	} else {
+		log.Println("Trying Copilot API for LLM (GITHUB_TOKEN)")
+		tm, err := auth.NewTokenManager()
+		if err != nil {
+			log.Printf("WARNING: auth setup failed: %v — LLM features will use fallback scoring", err)
+			noop := llm.NewNoopClient()
+			jsonLLM = noop
+			textLLM = noop
+		} else {
+			c := llm.NewClient(tm)
+			jsonLLM = c
+			textLLM = c
+		}
 	}
-	llmClient := llm.NewClient(tm)
 
 	// 4. Collect from all sources (each with its own timeout).
 	var allItems []collector.Item
@@ -181,17 +200,18 @@ func Run(ctx context.Context, cfg Config) error {
 	}
 
 	// 6. Rank items.
-	r := ranker.New(llmClient)
+	r := ranker.New(jsonLLM)
 	ranked, err := r.Rank(ctx, newItems)
 	if err != nil {
 		return fmt.Errorf("rank: %w", err)
 	}
+	st.RecordRanking(len(ranked))
 
 	// 7. Generate tweets for top items.
 	tweetItems := ranker.FilterByMinScore(ranked, cfg.MinScore)
 	tweetItems = ranker.TopN(tweetItems, cfg.MaxTweets)
 
-	tweetGen := generator.NewTweetGenerator(llmClient)
+	tweetGen := generator.NewTweetGenerator(textLLM)
 	tweets, err := tweetGen.Generate(ctx, tweetItems)
 	if err != nil {
 		log.Printf("WARNING: tweet generation failed: %v", err)
@@ -225,7 +245,7 @@ func Run(ctx context.Context, cfg Config) error {
 
 	// 9. Generate digest.
 	digestItems := ranker.TopN(ranked, cfg.MaxDigestItems)
-	digestGen := generator.NewDigestGenerator(llmClient)
+	digestGen := generator.NewDigestGenerator(textLLM)
 	digest, err := digestGen.Generate(ctx, digestItems)
 	if err != nil {
 		log.Printf("WARNING: digest generation failed: %v", err)
