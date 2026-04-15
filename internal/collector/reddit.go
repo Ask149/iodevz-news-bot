@@ -12,7 +12,7 @@ import (
 )
 
 const (
-	redditBaseURL = "https://www.reddit.com"
+	redditBaseURL = "https://old.reddit.com"
 )
 
 // RedditCollector fetches hot posts from monitored subreddits.
@@ -84,8 +84,9 @@ func (c *RedditCollector) fetchSubreddit(ctx context.Context, subreddit string) 
 	if err != nil {
 		return nil, err
 	}
-	// Reddit requires a User-Agent or returns 429.
-	req.Header.Set("User-Agent", "iodevz-news-bot/0.1")
+	// Use a browser-like User-Agent to avoid 403 blocks from datacenter IPs.
+	req.Header.Set("User-Agent", "Mozilla/5.0 (compatible; IODevzBot/0.1; +https://github.com/Ask149/iodevz-news-bot)")
+	req.Header.Set("Accept", "application/json")
 
 	resp, err := c.client.Do(req)
 	if err != nil {
