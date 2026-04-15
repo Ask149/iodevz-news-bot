@@ -1,6 +1,147 @@
 {
-  "count": 99,
+  "count": 144,
+  "date": "2026-04-15",
   "items": [
+    {
+      "id": "67dd6eb3638510aeae3c12ee7f9dbc12",
+      "title": "We've been developing a multi-agent system that builds and maintains complex software autonomously.\n...",
+      "url": "https://x.com/cursor_ai/status/2044136953239740909",
+      "source": "twitter",
+      "source_author": "cursor_ai",
+      "topics": [],
+      "score": 8,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-04-15T03:53:04Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 1275,
+        "replies": 49,
+        "retweets": 101,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "ce9979b48e44eb46d3e89d952522b909",
+      "title": "New Anthropic Fellows research: developing an Automated Alignment Researcher.\n\nWe ran an experiment ...",
+      "url": "https://x.com/AnthropicAI/status/2044138481790648323",
+      "source": "twitter",
+      "source_author": "AnthropicAI",
+      "topics": [],
+      "score": 8,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-04-15T03:53:04Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 1572,
+        "replies": 107,
+        "retweets": 259,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "00d1e95e6331f06b7852af35e6b1cfbd",
+      "title": "We’re expanding Trusted Access for Cyber with additional tiers for authenticated cybersecurity def...",
+      "url": "https://x.com/OpenAI/status/2044161906936791179",
+      "source": "twitter",
+      "source_author": "OpenAI",
+      "topics": [],
+      "score": 8,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-04-15T03:53:04Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 2714,
+        "replies": 221,
+        "retweets": 429,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "089362a556bc776b20fc6114658f2cc3",
+      "title": "We’re rolling out an upgrade designed to help robots reason about the physical world. \n\nGemini Rob...",
+      "url": "https://x.com/GoogleDeepMind/status/2044069878781390929",
+      "source": "twitter",
+      "source_author": "GoogleDeepMind",
+      "topics": [],
+      "score": 8,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-04-15T03:53:04Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 1846,
+        "replies": 83,
+        "retweets": 356,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "759dd4ca212002626cf06b0425d189c4",
+      "title": "Software engineering in 2026 needs two roles: \n\nA pirate and an architect.\n\nThe pirate codes as fast...",
+      "url": "https://x.com/danshipper/status/2043819933675450455",
+      "source": "twitter",
+      "source_author": "danshipper",
+      "topics": [],
+      "score": 7,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-04-15T03:53:04Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 650,
+        "replies": 38,
+        "retweets": 72,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "3b5d4aa18b0c5b32339d3bf7c085c44c",
+      "title": "AI models aren’t yet general-purpose alignment scientists. Progress isn't as easy to verify on mos...",
+      "url": "https://x.com/AnthropicAI/status/2044138489495605292",
+      "source": "twitter",
+      "source_author": "AnthropicAI",
+      "topics": [],
+      "score": 6,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-04-15T03:53:04Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 105,
+        "replies": 6,
+        "retweets": 4,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "7f74c97ab5082a04e92bd9b6e5c52972",
+      "title": "40RTY-ai/shopify-admin-skills",
+      "url": "https://github.com/40RTY-ai/shopify-admin-skills",
+      "source": "github",
+      "source_author": "40RTY-ai",
+      "topics": [],
+      "score": 6,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-04-15T03:50:17Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 65,
+        "upvotes": 0
+      }
+    },
     {
       "id": "faabd4b2b7d76d4ccae516cb13284e25",
       "title": "Show HN: LangAlpha – what if Claude Code was built for Wall Street?",
@@ -22,6 +163,86 @@
       }
     },
     {
+      "id": "808ec0a035f32c34f3e1452ab6d3d4d3",
+      "title": "Ready to build smarter robots?\n\nThe model is available now on \n@GoogleAIStudio\n and the Gemini API. ...",
+      "url": "https://x.com/GoogleDeepMind/status/2044069893897654490",
+      "source": "twitter",
+      "source_author": "GoogleDeepMind",
+      "topics": [],
+      "score": 6,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-04-15T03:53:04Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 85,
+        "replies": 1,
+        "retweets": 14,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "05212506d563207196953179e6f8daef",
+      "title": "This is also our safest robotics model yet.\n\nGemini Robotics-ER 1.6 understands physical constraints...",
+      "url": "https://x.com/GoogleDeepMind/status/2044069890970021953",
+      "source": "twitter",
+      "source_author": "GoogleDeepMind",
+      "topics": [],
+      "score": 6,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-04-15T03:53:04Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 100,
+        "replies": 2,
+        "retweets": 7,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "8d8e4a9ccc8ae874a2a2941946f38e36",
+      "title": "dengxianghua888-ops/ecoalign-forge",
+      "url": "https://github.com/dengxianghua888-ops/ecoalign-forge",
+      "source": "github",
+      "source_author": "dengxianghua888-ops",
+      "topics": [],
+      "score": 6,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-04-15T03:50:00Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 115,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "31d99de72297b10c29c947160f8fac65",
+      "title": "For years, we’ve been building our cyber defense program on the principles of democratized access,...",
+      "url": "https://x.com/OpenAI/status/2044161908354494633",
+      "source": "twitter",
+      "source_author": "OpenAI",
+      "topics": [],
+      "score": 6,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-04-15T03:53:04Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 393,
+        "replies": 28,
+        "retweets": 13,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
       "id": "1fe2fea193fb871c7490b4fe23f5f9da",
       "title": "The AI School Bus Camera Company Blanketing America in Tickets",
       "url": "https://www.bloomberg.com/news/features/2026-04-14/buspatrol-school-bus-traffic-tickets-have-limited-safety-benefits-critics-say",
@@ -39,6 +260,26 @@
         "retweets": 0,
         "stars": 0,
         "upvotes": 36
+      }
+    },
+    {
+      "id": "f947bf93facc1f005ce9c964e3466279",
+      "title": "We discuss this, along with the other implications of this research, in our blog: \nhttps://\nanthropi...",
+      "url": "https://x.com/AnthropicAI/status/2044138490904932853",
+      "source": "twitter",
+      "source_author": "AnthropicAI",
+      "topics": [],
+      "score": 6,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-04-15T03:53:04Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 102,
+        "replies": 7,
+        "retweets": 2,
+        "stars": 0,
+        "upvotes": 0
       }
     },
     {
@@ -82,6 +323,186 @@
       }
     },
     {
+      "id": "20f540b9d16186c45f3d0160b294f107",
+      "title": "You can now send a Runway Character to a video call in your place. Here's how:\n\nStep 1: Choose or Cr...",
+      "url": "https://x.com/runwayml/status/2044060580944683178",
+      "source": "twitter",
+      "source_author": "RunwayML",
+      "topics": [],
+      "score": 6,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-04-15T03:53:04Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 215,
+        "replies": 23,
+        "retweets": 41,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "424ff8835ba7781f6f9a82b46bb642ca",
+      "title": "Ansub/wiki-os",
+      "url": "https://github.com/Ansub/wiki-os",
+      "source": "github",
+      "source_author": "Ansub",
+      "topics": [],
+      "score": 6,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-04-15T03:50:15Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 146,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "f2cc3598c444002d07f3eead0a27f551",
+      "title": "mukul975/cve-mcp-server",
+      "url": "https://github.com/mukul975/cve-mcp-server",
+      "source": "github",
+      "source_author": "mukul975",
+      "topics": [],
+      "score": 6,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-04-15T03:50:08Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 63,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "0140b4218bc15c122644419d5bdcfb53",
+      "title": "inhouseseo/superseo-skills",
+      "url": "https://github.com/inhouseseo/superseo-skills",
+      "source": "github",
+      "source_author": "inhouseseo",
+      "topics": [],
+      "score": 6,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-04-15T03:50:08Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 37,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "b86c1380c38b0327aaa8a3a592b1988b",
+      "title": "howardpen9/hermes-gbrain-bridge",
+      "url": "https://github.com/howardpen9/hermes-gbrain-bridge",
+      "source": "github",
+      "source_author": "howardpen9",
+      "topics": [],
+      "score": 5,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-04-15T03:50:11Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 20,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "fca78783379b630b7c460735ad193c92",
+      "title": "alchaincyf/openclaw-orange-book",
+      "url": "https://github.com/alchaincyf/openclaw-orange-book",
+      "source": "github",
+      "source_author": "alchaincyf",
+      "topics": [],
+      "score": 5,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-04-15T03:50:11Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 22,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "c7e05702c7e4215fdc1a91a9aca04a58",
+      "title": "45645678a/Scholar-mcp",
+      "url": "https://github.com/45645678a/Scholar-mcp",
+      "source": "github",
+      "source_author": "45645678a",
+      "topics": [],
+      "score": 5,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-04-15T03:50:08Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 31,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "a9a305734cedf1f46f4f74befa026e0f",
+      "title": "we0-dev/BrowerClaw",
+      "url": "https://github.com/we0-dev/BrowerClaw",
+      "source": "github",
+      "source_author": "we0-dev",
+      "topics": [],
+      "score": 5,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-04-15T03:50:11Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 19,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "abe5f204a88e827dd0d6af81d749c563",
+      "title": "jessepinkman9900/claude-second-brain",
+      "url": "https://github.com/jessepinkman9900/claude-second-brain",
+      "source": "github",
+      "source_author": "jessepinkman9900",
+      "topics": [],
+      "score": 5,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-04-15T03:50:12Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 23,
+        "upvotes": 0
+      }
+    },
+    {
       "id": "d7b96d1ab689e09ce3c43388210059a6",
       "title": "Show HN: Kelet – Root Cause Analysis agent for your LLM apps",
       "url": "https://kelet.ai/",
@@ -99,6 +520,46 @@
         "retweets": 0,
         "stars": 0,
         "upvotes": 39
+      }
+    },
+    {
+      "id": "28ad79e4411b5066d7c9124965ba43e7",
+      "title": "tagir253/macos-ai-assistant",
+      "url": "https://github.com/tagir253/macos-ai-assistant",
+      "source": "github",
+      "source_author": "tagir253",
+      "topics": [],
+      "score": 5,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-04-15T03:49:58Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 28,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "ffda831994ad27ae4af684c88d7869ba",
+      "title": "QuinnAho/claudemap",
+      "url": "https://github.com/QuinnAho/claudemap",
+      "source": "github",
+      "source_author": "QuinnAho",
+      "topics": [],
+      "score": 5,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-04-15T03:49:57Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 27,
+        "upvotes": 0
       }
     },
     {
@@ -1562,6 +2023,66 @@
       }
     },
     {
+      "id": "e99ce021135a5859f10805c930ecc27c",
+      "title": "MaxKmet/idea-validation-agents",
+      "url": "https://github.com/MaxKmet/idea-validation-agents",
+      "source": "github",
+      "source_author": "MaxKmet",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-04-15T03:49:58Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 14,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "2f9089f080f8c51de157a0d9d17ae846",
+      "title": "rogeriochaves/open-managed-agents",
+      "url": "https://github.com/rogeriochaves/open-managed-agents",
+      "source": "github",
+      "source_author": "rogeriochaves",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-04-15T03:49:58Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 13,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "7013fb1087eadf0faac778d7f0d6b199",
+      "title": "BFanSYe/GPT-Auto-Manager",
+      "url": "https://github.com/BFanSYe/GPT-Auto-Manager",
+      "source": "github",
+      "source_author": "BFanSYe",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-04-15T03:49:59Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 6,
+        "upvotes": 0
+      }
+    },
+    {
       "id": "a253aae464f7274104e1b1b8d5719367",
       "title": "European regulators sidelined on Anthropic superhacking model",
       "url": "https://www.politico.eu/article/anthropic-apple-microsoft-europe-left-in-the-dark-superhacking-ai/",
@@ -1579,6 +2100,186 @@
         "retweets": 0,
         "stars": 0,
         "upvotes": 2
+      }
+    },
+    {
+      "id": "27510154869db6295987353d8c7127ef",
+      "title": "QingGo/engram-peft",
+      "url": "https://github.com/QingGo/engram-peft",
+      "source": "github",
+      "source_author": "QingGo",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-04-15T03:50:02Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 6,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "08e83c8e89097a0955ee5469bbce93af",
+      "title": "Jimmuji/ai-daily-digest",
+      "url": "https://github.com/Jimmuji/ai-daily-digest",
+      "source": "github",
+      "source_author": "Jimmuji",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-04-15T03:50:02Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 3,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "7be84f1fc233c364c0519c844b229d78",
+      "title": "Manvendra-2006/GENAI",
+      "url": "https://github.com/Manvendra-2006/GENAI",
+      "source": "github",
+      "source_author": "Manvendra-2006",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-04-15T03:50:03Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "fe4d8b1909f641cf87e4fa48129b7b49",
+      "title": "Cosio33/gemma-termux-kimi-app",
+      "url": "https://github.com/Cosio33/gemma-termux-kimi-app",
+      "source": "github",
+      "source_author": "Cosio33",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-04-15T03:50:04Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "88af261f502faade21f8d9239f2b7311",
+      "title": "Ylnaos/kimi-cli-local-gateway-solution",
+      "url": "https://github.com/Ylnaos/kimi-cli-local-gateway-solution",
+      "source": "github",
+      "source_author": "Ylnaos",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-04-15T03:50:04Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "988ea43f5ca56fed07ada1555ae00120",
+      "title": "Mondo-Robotics/DiT4DiT",
+      "url": "https://github.com/Mondo-Robotics/DiT4DiT",
+      "source": "github",
+      "source_author": "Mondo-Robotics",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-04-15T03:50:05Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 9,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "77e85a1de1713c72115016b40532b17a",
+      "title": "AKCodez/higgsfield-claude-skills",
+      "url": "https://github.com/AKCodez/higgsfield-claude-skills",
+      "source": "github",
+      "source_author": "AKCodez",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-04-15T03:50:05Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 8,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "4f2b7903eac14c2c0c796568eb8f9192",
+      "title": "amazon-science/TransitionFlowMatching",
+      "url": "https://github.com/amazon-science/TransitionFlowMatching",
+      "source": "github",
+      "source_author": "amazon-science",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-04-15T03:50:05Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 4,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "8210a5f298245cc3e1940f7c93c5e3ed",
+      "title": "dimileeh/clawdbot",
+      "url": "https://github.com/dimileeh/clawdbot",
+      "source": "github",
+      "source_author": "dimileeh",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-04-15T03:50:07Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 2,
+        "upvotes": 0
       }
     },
     {
@@ -1639,6 +2340,66 @@
         "retweets": 0,
         "stars": 0,
         "upvotes": 6
+      }
+    },
+    {
+      "id": "d1ecee330a050239625ca569cdbd9c5a",
+      "title": "lucianfialho/claude-dev-pipeline",
+      "url": "https://github.com/lucianfialho/claude-dev-pipeline",
+      "source": "github",
+      "source_author": "lucianfialho",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-04-15T03:50:10Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 3,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "1a8489185bc5860511c91e55b96f9319",
+      "title": "bergside/design-md-extractor-chrome",
+      "url": "https://github.com/bergside/design-md-extractor-chrome",
+      "source": "github",
+      "source_author": "bergside",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-04-15T03:50:10Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 2,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "abf46a6b6717794a0e8c2af184f426d7",
+      "title": "marceloeatworld/nixos-ai-skill",
+      "url": "https://github.com/marceloeatworld/nixos-ai-skill",
+      "source": "github",
+      "source_author": "marceloeatworld",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-04-15T03:50:10Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
+        "upvotes": 0
       }
     },
     {
@@ -1719,6 +2480,66 @@
         "retweets": 0,
         "stars": 0,
         "upvotes": 1
+      }
+    },
+    {
+      "id": "778a970a66b409556eb35285718a323d",
+      "title": "koukekoukej-glitch/feynman-tutor",
+      "url": "https://github.com/koukekoukej-glitch/feynman-tutor",
+      "source": "github",
+      "source_author": "koukekoukej-glitch",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-04-15T03:50:13Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 5,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "6161a03f2326cfe23cfbd8b702765d15",
+      "title": "CodandoTV/awesome-ai-coding-assistants",
+      "url": "https://github.com/CodandoTV/awesome-ai-coding-assistants",
+      "source": "github",
+      "source_author": "CodandoTV",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-04-15T03:50:13Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 3,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "434ec42be66de9eecbf764c49b060ce9",
+      "title": "taniwhaai/arai",
+      "url": "https://github.com/taniwhaai/arai",
+      "source": "github",
+      "source_author": "taniwhaai",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-04-15T03:50:13Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 2,
+        "upvotes": 0
       }
     },
     {
@@ -1962,6 +2783,86 @@
       }
     },
     {
+      "id": "35f630072499c6d6151d09f8f0815690",
+      "title": "Try now:",
+      "url": "https://x.com/runwayml/status/2044060582807015482",
+      "source": "twitter",
+      "source_author": "RunwayML",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-04-15T03:53:04Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 9,
+        "replies": 2,
+        "retweets": 1,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "6ad399ab072a4118250310ff8ad5f0ca",
+      "title": "We are thrilled to share Microsoft has been awarded the 2026 Franz Edelman Award by \n@INFORMS\n for u...",
+      "url": "https://x.com/MSFTResearch/status/2044103195442508096",
+      "source": "twitter",
+      "source_author": "MSFTResearch",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-04-15T03:53:04Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 15,
+        "replies": 0,
+        "retweets": 2,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "f1f92ddc8e84717b354e11e07bbba9bc",
+      "title": "Microsoft has just received the 2026 INFORMS Prize at the INFORMS Edelman Gala, for their excellence...",
+      "url": "https://x.com/INFORMS/status/2043855005208215558",
+      "source": "twitter",
+      "source_author": "MSFTResearch",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-04-15T03:53:04Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 13,
+        "replies": 0,
+        "retweets": 1,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "121aff995a6cd008051ccfbcd49862c9",
+      "title": "Just in! Microsoft was announced the 2026 Franz Edelman Award winner!  Congratulations to ALL six fi...",
+      "url": "https://x.com/INFORMS/status/2043860871084957722",
+      "source": "twitter",
+      "source_author": "MSFTResearch",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-04-15T03:53:04Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 7,
+        "replies": 0,
+        "retweets": 2,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
       "id": "6cdca5354cc4f1d1bb9c273c12cf2519",
       "title": "Show HN: Idea File for LLM Cycling Coach",
       "url": "https://gist.github.com/leourbina/4db27d9a0a86b9e1551bf9d4b3fd6dad",
@@ -1982,6 +2883,5 @@
       }
     }
   ],
-  "source": "hackernews",
   "updated_at": "2026-04-15T03:53:05Z"
 }
