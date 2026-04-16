@@ -1,127 +1,27 @@
 {
-  "count": 6,
+  "count": 1,
   "items": [
     {
-      "id": "89f15e8a658fa0e59da20e221bbbab62",
-      "title": "skydoves/android-skills-mcp",
-      "url": "https://github.com/skydoves/android-skills-mcp",
+      "id": "0a6449ffd79f2138e1405c5325982a5b",
+      "title": "lucasrosati/claude-code-memory-setup",
+      "url": "https://github.com/lucasrosati/claude-code-memory-setup",
       "source": "github",
-      "source_author": "skydoves",
+      "source_author": "lucasrosati",
       "topics": [],
-      "score": 5,
-      "score_reason": "Moderate engagement; may be useful for Android developers but lacks substantial novelty.",
+      "score": 6.5,
+      "score_reason": "New project potentially relevant for code memory, but lacks engagement.",
       "posted": false,
-      "collected_at": "2026-04-16T08:15:15Z",
+      "collected_at": "2026-04-16T14:21:23Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 54,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "44181dc9f6df48cd8b2d19b58835b909",
-      "title": "synergenius-fw/flow-weaver-videos",
-      "url": "https://github.com/synergenius-fw/flow-weaver-videos",
-      "source": "github",
-      "source_author": "synergenius-fw",
-      "topics": [],
-      "score": 3,
-      "score_reason": "Similar to others, low engagement and minimal impact on development workflows.",
-      "posted": false,
-      "collected_at": "2026-04-16T08:15:11Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 2,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "0d63ceaad1b565f55cc6182a617e1af9",
-      "title": "Vaishnaviii910/Offline_rag",
-      "url": "https://github.com/Vaishnaviii910/Offline_rag",
-      "source": "github",
-      "source_author": "Vaishnaviii910",
-      "topics": [],
-      "score": 3,
-      "score_reason": "Limited engagement and utility of the project makes it less impactful.",
-      "posted": false,
-      "collected_at": "2026-04-16T08:15:07Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 2,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "f1c0d346f4da33165c9d8e0739816739",
-      "title": "LK-520/music-agent",
-      "url": "https://github.com/LK-520/music-agent",
-      "source": "github",
-      "source_author": "LK-520",
-      "topics": [],
-      "score": 2.5,
-      "score_reason": "Low engagement and unclear contribution to developer tools or AI.",
-      "posted": false,
-      "collected_at": "2026-04-16T08:15:12Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 1,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "46a4a204c7fcb8da08a4f06e5966a596",
-      "title": "shiftbloom-studio/myosotis",
-      "url": "https://github.com/shiftbloom-studio/myosotis",
-      "source": "github",
-      "source_author": "shiftbloom-studio",
-      "topics": [],
-      "score": 2.5,
-      "score_reason": "Low engagement and insufficient relevance to current developer trends.",
-      "posted": false,
-      "collected_at": "2026-04-16T08:15:16Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 1,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "bef8bf42024b9d95c3e14348e58e01d9",
-      "title": "okings69/music-store-api",
-      "url": "https://github.com/okings69/music-store-api",
-      "source": "github",
-      "source_author": "okings69",
-      "topics": [],
-      "score": 2.5,
-      "score_reason": "Low engagement and no clear innovation or utility for developers.",
-      "posted": false,
-      "collected_at": "2026-04-16T08:15:12Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 1,
+        "stars": 217,
         "upvotes": 0
       }
     }
   ],
   "source": "github",
-  "updated_at": "2026-04-16T08:19:08Z"
+  "updated_at": "2026-04-16T14:25:51Z"
 }

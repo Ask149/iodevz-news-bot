@@ -1,47 +1,87 @@
 {
-  "count": 2,
+  "count": 4,
   "items": [
     {
-      "id": "5fb535fbb2d5c7cd187b38cc124749f9",
-      "title": "Our most expressive and steerable TTS model yet! Designed to give builders granular control over AI-...",
-      "url": "https://x.com/demishassabis/status/2044599020690010217",
+      "id": "d17e0c567996e38c4ac56fb8f13c177f",
+      "title": "We teamed up with \n@BostonDynamics\n to power their robot Spot with Gemini Robotics embodied reasonin...",
+      "url": "https://x.com/GoogleDeepMind/status/2044763625680765408",
       "source": "twitter",
-      "source_author": "DemisHassabis",
+      "source_author": "GoogleDeepMind",
       "topics": [],
-      "score": 8,
-      "score_reason": "High engagement, innovative TTS model likely to attract developer interest.",
+      "score": 8.5,
+      "score_reason": "Collaboration with Boston Dynamics signals advancements in embodied AI.",
       "posted": false,
-      "collected_at": "2026-04-16T08:18:10Z",
+      "collected_at": "2026-04-16T14:24:33Z",
       "engagement": {
         "comments": 0,
-        "likes": 838,
-        "replies": 46,
-        "retweets": 79,
+        "likes": 464,
+        "replies": 31,
+        "retweets": 101,
         "stars": 0,
         "upvotes": 0
       }
     },
     {
-      "id": "ac6468b11a8cb1150cc5d4059254075e",
-      "title": "Research we co-authored on subliminal learning—how LLMs can pass on traits like preferences or mis...",
-      "url": "https://x.com/AnthropicAI/status/2044493337835802948",
+      "id": "baf3a796e8ac94f39540f9735280ca9f",
+      "title": "Seedance 2.0 is now available via the Runway API. Get started at the link below.",
+      "url": "https://x.com/runwayml/status/2044776696881053939",
       "source": "twitter",
-      "source_author": "AnthropicAI",
+      "source_author": "RunwayML",
       "topics": [],
       "score": 7.5,
-      "score_reason": "High engagement suggests strong interest in subliminal learning in AI.",
+      "score_reason": "Launch of a new API could influence creative development in AI tools.",
       "posted": false,
-      "collected_at": "2026-04-16T08:18:10Z",
+      "collected_at": "2026-04-16T14:24:33Z",
       "engagement": {
         "comments": 0,
-        "likes": 1855,
-        "replies": 130,
-        "retweets": 264,
+        "likes": 52,
+        "replies": 13,
+        "retweets": 11,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "f720e0341cbc6524213d0566f19f3f2b",
+      "title": "Instead of writing complex code, the team interacted with Spot using plain English.\n\nWe built a brid...",
+      "url": "https://x.com/GoogleDeepMind/status/2044763631858909269",
+      "source": "twitter",
+      "source_author": "GoogleDeepMind",
+      "topics": [],
+      "score": 7,
+      "score_reason": "Simplification of interaction models showcases evolution in coding paradigms.",
+      "posted": false,
+      "collected_at": "2026-04-16T14:24:33Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 30,
+        "replies": 1,
+        "retweets": 3,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "cbdb361aa65b83c09874f61cf8479b59",
+      "title": "Get started: \nhttps://\ndev.runwayml.com",
+      "url": "https://x.com/runwayml/status/2044776701641601357",
+      "source": "twitter",
+      "source_author": "RunwayML",
+      "topics": [],
+      "score": 5,
+      "score_reason": "Basic announcement lacking substance or novelty.",
+      "posted": false,
+      "collected_at": "2026-04-16T14:24:33Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 4,
+        "replies": 0,
+        "retweets": 1,
         "stars": 0,
         "upvotes": 0
       }
     }
   ],
   "source": "twitter",
-  "updated_at": "2026-04-16T08:19:08Z"
+  "updated_at": "2026-04-16T14:25:51Z"
 }
