@@ -1,87 +1,287 @@
 {
-  "count": 4,
+  "count": 14,
   "items": [
     {
-      "id": "c2bac96e55df546f67b8b0b1e1a5b6da",
-      "title": "We see this as further validation that multi-agent architectures excel at novel problems outside tra...",
-      "url": "https://x.com/cursor_ai/status/2044136959061438889",
+      "id": "056b797bd569fabcaca8b1157dc45a13",
+      "title": "The hottest new programming language is English",
+      "url": "https://x.com/karpathy/status/1617979122625712128",
+      "source": "twitter",
+      "source_author": "karpathy",
+      "topics": [],
+      "score": 9,
+      "score_reason": "High engagement; significant commentary on language evolution.",
+      "posted": false,
+      "collected_at": "2026-04-16T03:59:22Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 63822,
+        "replies": 1975,
+        "retweets": 9737,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "304ef4d9fc978d252699f07b3dfd435a",
+      "title": "Agency \u003e Intelligence\n\nI had this intuitively wrong for decades, I think due to a pervasive cultural...",
+      "url": "https://x.com/karpathy/status/1894099637218545984",
+      "source": "twitter",
+      "source_author": "karpathy",
+      "topics": [],
+      "score": 8,
+      "score_reason": "Interesting perspective shared; high engagement.",
+      "posted": false,
+      "collected_at": "2026-04-16T03:59:22Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 49784,
+        "replies": 1955,
+        "retweets": 11170,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "58b6fdaa49de34cd8adfef1cfeff462e",
+      "title": "Cursor can now respond by creating interactive canvases to visually represent information.\n\nAsk it t...",
+      "url": "https://x.com/cursor_ai/status/2044486585492947010",
       "source": "twitter",
       "source_author": "cursor_ai",
       "topics": [],
+      "score": 8,
+      "score_reason": "Innovative use of interactive canvases; solid engagement.",
+      "posted": false,
+      "collected_at": "2026-04-16T03:59:22Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 1475,
+        "replies": 53,
+        "retweets": 175,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "6b3b1f7ddff6829c905b5e03b5df3b01",
+      "title": "Learn how to use coding agents in 30 minutes!\n\nThis course teaches you how to build software with ag...",
+      "url": "https://x.com/leerob/status/2044540647298761025",
+      "source": "twitter",
+      "source_author": "cursor_ai",
+      "topics": [],
+      "score": 7,
+      "score_reason": "Educational content on coding agents; decent engagement.",
+      "posted": false,
+      "collected_at": "2026-04-16T03:59:22Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 942,
+        "replies": 23,
+        "retweets": 81,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "2ab02ddc7e261392d9ca3d5d8fb4f744",
+      "title": "Gemini 3.1 Flash TTS is our most controllable text-to-speech model yet.\n\nWith new Audio Tags, you ca...",
+      "url": "https://x.com/GoogleDeepMind/status/2044447030353752349",
+      "source": "twitter",
+      "source_author": "GoogleDeepMind",
+      "topics": [],
+      "score": 7,
+      "score_reason": "Relevant advancements in text-to-speech; moderate engagement.",
+      "posted": false,
+      "collected_at": "2026-04-16T03:59:22Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 1424,
+        "replies": 53,
+        "retweets": 230,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "963ab03c78cb9ba2538e6607ec5256e6",
+      "title": "There's a new kind of coding I call \"vibe coding\", where you fully give in to the vibes, embrace exp...",
+      "url": "https://x.com/karpathy/status/1886192184808149383",
+      "source": "twitter",
+      "source_author": "karpathy",
+      "topics": [],
+      "score": 7,
+      "score_reason": "Unique concept of 'vibe coding' with good engagement.",
+      "posted": false,
+      "collected_at": "2026-04-16T03:59:22Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 33529,
+        "replies": 1443,
+        "retweets": 6016,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "af5b97ea869f4a1ecc4ecaec2a563dac",
+      "title": "Today we launched Gemini 3.1 Flash TTS, our most expressive and controllable text-to-speech model ye...",
+      "url": "https://x.com/GoogleAI/status/2044447560384102592",
+      "source": "twitter",
+      "source_author": "GoogleAI",
+      "topics": [],
+      "score": 6,
+      "score_reason": "New developments in TTS, moderate engagement.",
+      "posted": false,
+      "collected_at": "2026-04-16T03:59:22Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 1442,
+        "replies": 56,
+        "retweets": 220,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "f862c6d848a8545768306fea872a4b53",
+      "title": " More natural sounding speech\n Support for 70+ languages like Hindi, Japanese, and German\n SynthID w...",
+      "url": "https://x.com/GoogleDeepMind/status/2044447032530575864",
+      "source": "twitter",
+      "source_author": "GoogleDeepMind",
+      "topics": [],
+      "score": 6,
+      "score_reason": "New features in speech synthesis; moderate engagement.",
+      "posted": false,
+      "collected_at": "2026-04-16T03:59:22Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 233,
+        "replies": 4,
+        "retweets": 14,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "661098db03fa8b644957afb312b7b68d",
+      "title": "Gemini 3.1 Flash TTS is rolling out in Google Vids and is available today in preview via the Gemini ...",
+      "url": "https://x.com/GoogleAI/status/2044447638511383024",
+      "source": "twitter",
+      "source_author": "GoogleAI",
+      "topics": [],
       "score": 5,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "score_reason": "More details on TTS model rollout; moderate engagement.",
       "posted": false,
-      "collected_at": "2026-04-15T08:17:48Z",
+      "collected_at": "2026-04-16T03:59:22Z",
       "engagement": {
         "comments": 0,
-        "likes": 51,
-        "replies": 3,
-        "retweets": 0,
+        "likes": 62,
+        "replies": 6,
+        "retweets": 10,
         "stars": 0,
         "upvotes": 0
       }
     },
     {
-      "id": "00f2aecbd8d727bc2cfb5fc9bcb617dc",
-      "title": "The field is moving fast. The question isn't whether agents will eventually help treat diseases, dis...",
-      "url": "https://x.com/allen_ai/status/2043772621720780872",
+      "id": "f510fed40eb7245ac046d01358214122",
+      "title": "If you have an idea. Make it. No need for approvals, budget meetings or round after round of scaling...",
+      "url": "https://x.com/runwayml/status/2044433442083930158",
       "source": "twitter",
-      "source_author": "Allen_AI",
+      "source_author": "RunwayML",
+      "topics": [],
+      "score": 5,
+      "score_reason": "Micro-practice effectiveness highlighted, moderate engagement.",
+      "posted": false,
+      "collected_at": "2026-04-16T03:59:22Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 153,
+        "replies": 17,
+        "retweets": 17,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "ad0ce1c34abcbf814f5d41a3ebd79aa7",
+      "title": "Happy to announce that I've received the 𝐆𝐫𝐚𝐧𝐝 𝐏𝐫𝐢𝐳𝐞 on \n@runwayml\n's ...",
+      "url": "https://x.com/laszlogaal_/status/2044365824706978087",
+      "source": "twitter",
+      "source_author": "RunwayML",
+      "topics": [],
+      "score": 5,
+      "score_reason": "Moderate engagement; award announcement might inspire developers.",
+      "posted": false,
+      "collected_at": "2026-04-16T03:59:22Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 269,
+        "replies": 50,
+        "retweets": 12,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "f01cc6059d4a065b1d7d53ecabaf3146",
+      "title": " Day 13 of the \n@cursor_ai\n #vibejam\n\nProudly sponsored by \n@cursor_ai\n + \n@boltdotnew\n + \n@heyglif\n...",
+      "url": "https://x.com/levelsio/status/2044524155316404705",
+      "source": "twitter",
+      "source_author": "levelsio",
       "topics": [],
       "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "score_reason": "Low engagement and unclear impact.",
       "posted": false,
-      "collected_at": "2026-04-15T08:17:48Z",
+      "collected_at": "2026-04-16T03:59:22Z",
       "engagement": {
         "comments": 0,
-        "likes": 7,
-        "replies": 1,
-        "retweets": 1,
+        "likes": 74,
+        "replies": 24,
+        "retweets": 6,
         "stars": 0,
         "upvotes": 0
       }
     },
     {
-      "id": "53b81ad600335f27d0841f6cde1891d6",
-      "title": "Final call.\n\nThe Agent 4 Content Challenge ends tomorrow at midnight.\n\n$5K on the line.\n\nMake a vide...",
-      "url": "https://x.com/Replit/status/2044207083139272910",
+      "id": "44ef4919bd84fec1e71448eca9c6eaa7",
+      "title": "Where code becomes culture. \n\nComing soon.\n\nJoin the waitlist → \nhttp://\nvibecon.ai",
+      "url": "https://x.com/Replit/status/2044521184570614204",
       "source": "twitter",
       "source_author": "replit",
       "topics": [],
       "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "score_reason": "Low engagement; vague announcement.",
       "posted": false,
-      "collected_at": "2026-04-15T08:17:48Z",
+      "collected_at": "2026-04-16T03:59:22Z",
       "engagement": {
         "comments": 0,
-        "likes": 15,
-        "replies": 2,
+        "likes": 69,
+        "replies": 11,
+        "retweets": 5,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "b5c9a0b5cec0c9bc62cb7dec7bcec1a2",
+      "title": "Looking for a supplier (for physical goods or software)?\n\nSkip digging through Reddit \u0026 G2 reviews.\n...",
+      "url": "https://x.com/samuel_spitz/status/2044495272483688641",
+      "source": "twitter",
+      "source_author": "replit",
+      "topics": [],
+      "score": 3,
+      "score_reason": "While it's a relevant inquiry, the topic lacks novelty and significance for developers.",
+      "posted": false,
+      "collected_at": "2026-04-16T03:59:22Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 37,
+        "replies": 4,
         "retweets": 2,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "1801f5360a6e1811e7161b274eddf716",
-      "title": "ElevenHacks #3 winners.\n\nWe asked you to combine \n@Replit\n with \n@ElevenLabsDevs\n. Nearly $8k in cre...",
-      "url": "https://x.com/ElevenLabsDevs/status/2044122954712207716",
-      "source": "twitter",
-      "source_author": "replit",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-04-15T08:17:48Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 23,
-        "replies": 1,
-        "retweets": 1,
         "stars": 0,
         "upvotes": 0
       }
     }
   ],
   "source": "twitter",
-  "updated_at": "2026-04-15T08:17:48Z"
+  "updated_at": "2026-04-16T04:01:15Z"
 }
