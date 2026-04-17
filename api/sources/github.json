@@ -1,27 +1,847 @@
 {
-  "count": 1,
+  "count": 42,
   "items": [
     {
-      "id": "0a6449ffd79f2138e1405c5325982a5b",
-      "title": "lucasrosati/claude-code-memory-setup",
-      "url": "https://github.com/lucasrosati/claude-code-memory-setup",
+      "id": "bb18c33a823a629aa8adf3e2feb73234",
+      "title": "jason-effi-lab/karpathy-llm-wiki-vault",
+      "url": "https://github.com/jason-effi-lab/karpathy-llm-wiki-vault",
       "source": "github",
-      "source_author": "lucasrosati",
+      "source_author": "jason-effi-lab",
       "topics": [],
-      "score": 6.5,
-      "score_reason": "New project potentially relevant for code memory, but lacks engagement.",
+      "score": 7,
+      "score_reason": "Karpathy LLM wiki vault has notable potential, but still no visible engagement.",
       "posted": false,
-      "collected_at": "2026-04-16T14:21:23Z",
+      "collected_at": "2026-04-17T03:53:36Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 217,
+        "stars": 127,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "bb940aff44df32313cef91cd77d72b7c",
+      "title": "Daholloway/Claude-Code-Desktop-App-Redesigned-by-Anthropic",
+      "url": "https://github.com/Daholloway/Claude-Code-Desktop-App-Redesigned-by-Anthropic",
+      "source": "github",
+      "source_author": "Daholloway",
+      "topics": [],
+      "score": 7,
+      "score_reason": "Redesigned desktop application by a notable AI company, though it is an update rather than a novel concept.",
+      "posted": false,
+      "collected_at": "2026-04-17T03:53:17Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 27,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "8ffe9b326b67ac09d5ccc4339cc11eb1",
+      "title": "kingbee-helix/helix-agent",
+      "url": "https://github.com/kingbee-helix/helix-agent",
+      "source": "github",
+      "source_author": "kingbee-helix",
+      "topics": [],
+      "score": 6.5,
+      "score_reason": "Provides an agent framework that may be useful for AI applications, but lacks engagement and clear novelty.",
+      "posted": false,
+      "collected_at": "2026-04-17T03:53:17Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 18,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "379d3305b077dd8712fd70e09a8c93fc",
+      "title": "assafkip/huntkit",
+      "url": "https://github.com/assafkip/huntkit",
+      "source": "github",
+      "source_author": "assafkip",
+      "topics": [],
+      "score": 6,
+      "score_reason": "Introduces a new tool potentially useful for developers, but limited visibility and engagement.",
+      "posted": false,
+      "collected_at": "2026-04-17T03:53:17Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 17,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "52cd4b923b497ddb6570361f85edc51a",
+      "title": "mikepapadim/london-property-hunt-public",
+      "url": "https://github.com/mikepapadim/london-property-hunt-public",
+      "source": "github",
+      "source_author": "mikepapadim",
+      "topics": [],
+      "score": 6,
+      "score_reason": "Focus on property hunting could have some interest, but engagement is low.",
+      "posted": false,
+      "collected_at": "2026-04-17T03:53:29Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 56,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "41f6970283302f031d811b5f195ae34a",
+      "title": "DyNooob/OpenClaw-Guard",
+      "url": "https://github.com/DyNooob/OpenClaw-Guard",
+      "source": "github",
+      "source_author": "DyNooob",
+      "topics": [],
+      "score": 6,
+      "score_reason": "Interests in machine learning applications, but no engagement.",
+      "posted": false,
+      "collected_at": "2026-04-17T03:53:32Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 20,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "3fa4f32d8113a64d821dc53c2fe73afe",
+      "title": "aidevelopers2/openclaw-holy-grail",
+      "url": "https://github.com/aidevelopers2/openclaw-holy-grail",
+      "source": "github",
+      "source_author": "aidevelopers2",
+      "topics": [],
+      "score": 6,
+      "score_reason": "Another OpenClaw variant, novelty is minimal but retains relevance.",
+      "posted": false,
+      "collected_at": "2026-04-17T03:53:32Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 20,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "8d74cccede3ee2fdb6da3b8781a85e94",
+      "title": "FreePeak/LeanKG",
+      "url": "https://github.com/FreePeak/LeanKG",
+      "source": "github",
+      "source_author": "FreePeak",
+      "topics": [],
+      "score": 5.5,
+      "score_reason": "LeanKG for knowledge graphs is somewhat niche yet relevant.",
+      "posted": false,
+      "collected_at": "2026-04-17T03:53:33Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 16,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "27b724ca3f75fdcb44b9334895572ded",
+      "title": "hansai-art/claude-max-club-school",
+      "url": "https://github.com/hansai-art/claude-max-club-school",
+      "source": "github",
+      "source_author": "hansai-art",
+      "topics": [],
+      "score": 5.5,
+      "score_reason": "Focuses on educational AI resources, which could assist developers, but lacks novelty and engagement.",
+      "posted": false,
+      "collected_at": "2026-04-17T03:53:17Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 13,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "a5cc5da0c11274710f2356728ecd8508",
+      "title": "MSPanchenko/emotional-claude-plugin",
+      "url": "https://github.com/MSPanchenko/emotional-claude-plugin",
+      "source": "github",
+      "source_author": "MSPanchenko",
+      "topics": [],
+      "score": 5,
+      "score_reason": "Relevant as a Claude plugin, slight interest but low traction.",
+      "posted": false,
+      "collected_at": "2026-04-17T03:53:31Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 4,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "99f93a9f77d72761856f591e30d90291",
+      "title": "sirioberati/Seedance-2.0-AI-UGC",
+      "url": "https://github.com/sirioberati/Seedance-2.0-AI-UGC",
+      "source": "github",
+      "source_author": "sirioberati",
+      "topics": [],
+      "score": 5,
+      "score_reason": "Appears to focus on AI-generated user-generated content, but lacks engagement.",
+      "posted": false,
+      "collected_at": "2026-04-17T03:53:25Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 3,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "294bda8c63bc6536fe2a0fd25bd2f7c6",
+      "title": "harnessclaw/harnessclaw",
+      "url": "https://github.com/harnessclaw/harnessclaw",
+      "source": "github",
+      "source_author": "harnessclaw",
+      "topics": [],
+      "score": 5,
+      "score_reason": "Decent attempt at AI but lacks engagement and novelty.",
+      "posted": false,
+      "collected_at": "2026-04-17T03:53:32Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 25,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "9cd284230e7ea7416d68e3d6c7c5d1b7",
+      "title": "litmus4ai/litmus",
+      "url": "https://github.com/litmus4ai/litmus",
+      "source": "github",
+      "source_author": "litmus4ai",
+      "topics": [],
+      "score": 5,
+      "score_reason": "Litmus does not show strong engagement, making it less impactful despite its novel premise.",
+      "posted": false,
+      "collected_at": "2026-04-17T03:53:36Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 94,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "723049ab208954b9bb4b8931591f62e6",
+      "title": "ReflexioAI/reflexio",
+      "url": "https://github.com/ReflexioAI/reflexio",
+      "source": "github",
+      "source_author": "ReflexioAI",
+      "topics": [],
+      "score": 5,
+      "score_reason": "ReflexioAI lacks significant engagement, limiting its novelty and relevance within the current developer landscape.",
+      "posted": false,
+      "collected_at": "2026-04-17T03:53:38Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 65,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "c6fe12488a60f5c4b0a8c64bdeadc65e",
+      "title": "yzhao062/anywhere-agents",
+      "url": "https://github.com/yzhao062/anywhere-agents",
+      "source": "github",
+      "source_author": "yzhao062",
+      "topics": [],
+      "score": 5,
+      "score_reason": "AI agent project with limited context and engagement, making its relevance unclear.",
+      "posted": false,
+      "collected_at": "2026-04-17T03:53:18Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 17,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "fad06e50a2c7235e5f5491a2e12ed27d",
+      "title": "bluegalaxy111/awesome-vibe-coding",
+      "url": "https://github.com/bluegalaxy111/awesome-vibe-coding",
+      "source": "github",
+      "source_author": "bluegalaxy111",
+      "topics": [],
+      "score": 5,
+      "score_reason": "Vibe coding project, quirky but lacks clear impact.",
+      "posted": false,
+      "collected_at": "2026-04-17T03:53:33Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 24,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "a908c466bc15bf172930d492116a1d60",
+      "title": "humanrouter/ddtree-mlx",
+      "url": "https://github.com/humanrouter/ddtree-mlx",
+      "source": "github",
+      "source_author": "humanrouter",
+      "topics": [],
+      "score": 4.5,
+      "score_reason": "Similar to Litmus, this item lacks engagement which diminishes its relevance to developers.",
+      "posted": false,
+      "collected_at": "2026-04-17T03:53:36Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 89,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "db384f66e7dab37e5cb5de02a2c8a8d9",
+      "title": "VanillaCoca/video-script-tool",
+      "url": "https://github.com/VanillaCoca/video-script-tool",
+      "source": "github",
+      "source_author": "VanillaCoca",
+      "topics": [],
+      "score": 4,
+      "score_reason": "Tool for video scripting, somewhat relevant but minimal buzz.",
+      "posted": false,
+      "collected_at": "2026-04-17T03:53:25Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 2,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "fe80ef5bb3aac18fbc73c5ad88f3907a",
+      "title": "ilhankilic/yaparai-mcp",
+      "url": "https://github.com/ilhankilic/yaparai-mcp",
+      "source": "github",
+      "source_author": "ilhankilic",
+      "topics": [],
+      "score": 4,
+      "score_reason": "Another minimal engagement tool, little impact.",
+      "posted": false,
+      "collected_at": "2026-04-17T03:53:34Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 4,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "706389862011e479d6b7ba502347b143",
+      "title": "xiaopeng1995n/trae-openai-switch",
+      "url": "https://github.com/xiaopeng1995n/trae-openai-switch",
+      "source": "github",
+      "source_author": "xiaopeng1995n",
+      "topics": [],
+      "score": 4,
+      "score_reason": "Contains backend functionality for switching AI models, but may not significantly alter developer workflows.",
+      "posted": false,
+      "collected_at": "2026-04-17T03:53:18Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 10,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "75fe1fa115ac88315ff10c9282b30796",
+      "title": "manman-zjp/swarm-Agent",
+      "url": "https://github.com/manman-zjp/swarm-Agent",
+      "source": "github",
+      "source_author": "manman-zjp",
+      "topics": [],
+      "score": 4,
+      "score_reason": "Swarm agent concept, novel but low visibility.",
+      "posted": false,
+      "collected_at": "2026-04-17T03:53:28Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 3,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "59c9c1703c2342d6f23c183edc6898a8",
+      "title": "SvReenen/Deskdrop",
+      "url": "https://github.com/SvReenen/Deskdrop",
+      "source": "github",
+      "source_author": "SvReenen",
+      "topics": [],
+      "score": 4,
+      "score_reason": "Moderately interesting tool with low engagement, not immediately impactful.",
+      "posted": false,
+      "collected_at": "2026-04-17T03:53:18Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 11,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "37721e8fc273da11135186e67157603b",
+      "title": "therahulgoel/skill-optimizer",
+      "url": "https://github.com/therahulgoel/skill-optimizer",
+      "source": "github",
+      "source_author": "therahulgoel",
+      "topics": [],
+      "score": 4,
+      "score_reason": "Skill optimization is relevant but engagement is minimal.",
+      "posted": false,
+      "collected_at": "2026-04-17T03:53:31Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 2,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "0c3cf0d89822dc3b84d48c95bf65ad89",
+      "title": "Web3CZ/Web3Hermes",
+      "url": "https://github.com/Web3CZ/Web3Hermes",
+      "source": "github",
+      "source_author": "Web3CZ",
+      "topics": [],
+      "score": 3.5,
+      "score_reason": "Web3-focused project that may have niche appeal but overall low impact and engagement.",
+      "posted": false,
+      "collected_at": "2026-04-17T03:53:20Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 89,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "34f998164b629b69b8c2f740a4f2fb67",
+      "title": "bahraminekoo/SwarmFlow",
+      "url": "https://github.com/bahraminekoo/SwarmFlow",
+      "source": "github",
+      "source_author": "bahraminekoo",
+      "topics": [],
+      "score": 3,
+      "score_reason": "Similar to existing swarm tools with little engagement.",
+      "posted": false,
+      "collected_at": "2026-04-17T03:53:28Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 2,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "5130ec159b2eafcfde4e74c6c13b07c3",
+      "title": "zeveck/audiogen",
+      "url": "https://github.com/zeveck/audiogen",
+      "source": "github",
+      "source_author": "zeveck",
+      "topics": [],
+      "score": 3,
+      "score_reason": "Focus on audio generation, but lacks notable traction.",
+      "posted": false,
+      "collected_at": "2026-04-17T03:53:27Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "a6ba1c83d45e259fb08ce218b0a8a7cc",
+      "title": "imcaptor/openclaw-poe-video",
+      "url": "https://github.com/imcaptor/openclaw-poe-video",
+      "source": "github",
+      "source_author": "imcaptor",
+      "topics": [],
+      "score": 3,
+      "score_reason": "Limited relevance and engagement; novelty factor low.",
+      "posted": false,
+      "collected_at": "2026-04-17T03:53:25Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "822e840f786ef60dce6aa9f6ba87e422",
+      "title": "GainSec/AutoProber",
+      "url": "https://github.com/GainSec/AutoProber",
+      "source": "github",
+      "source_author": "GainSec",
+      "topics": [],
+      "score": 3,
+      "score_reason": "Automated tool with minimal context provided, leading to low relevance.",
+      "posted": false,
+      "collected_at": "2026-04-17T03:53:20Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 87,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "b5fd023d3eb16c111d46f5a5b123d230",
+      "title": "devinrags11/devinrags11",
+      "url": "https://github.com/devinrags11/devinrags11",
+      "source": "github",
+      "source_author": "devinrags11",
+      "topics": [],
+      "score": 3,
+      "score_reason": "Low engagement tool with minimal relevance.",
+      "posted": false,
+      "collected_at": "2026-04-17T03:53:35Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "8663e2d1761f26dbdf9d1577fa1266c6",
+      "title": "immischein/UvA-AI-proxy",
+      "url": "https://github.com/immischein/UvA-AI-proxy",
+      "source": "github",
+      "source_author": "immischein",
+      "topics": [],
+      "score": 3,
+      "score_reason": "Proxy tool for AI applications, lacks clear impact or novel features.",
+      "posted": false,
+      "collected_at": "2026-04-17T03:53:19Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 3,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "14a282156b2d507ee3082203d7d8df40",
+      "title": "saqierma-cyber/free-api",
+      "url": "https://github.com/saqierma-cyber/free-api",
+      "source": "github",
+      "source_author": "saqierma-cyber",
+      "topics": [],
+      "score": 3,
+      "score_reason": "Offers a free API but does not present innovative solutions for developers.",
+      "posted": false,
+      "collected_at": "2026-04-17T03:53:19Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 3,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "fdf17d6f377ba5c0c934aa6b103bde0c",
+      "title": "Qcunyu/Deep-LuXun-skill",
+      "url": "https://github.com/Qcunyu/Deep-LuXun-skill",
+      "source": "github",
+      "source_author": "Qcunyu",
+      "topics": [],
+      "score": 2.5,
+      "score_reason": "Limited details available on this project, resulting in low relevance.",
+      "posted": false,
+      "collected_at": "2026-04-17T03:53:22Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 3,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "0bd88cbcaf66937e0fc84b5474a02bf6",
+      "title": "Shamnick/SmartCS",
+      "url": "https://github.com/Shamnick/SmartCS",
+      "source": "github",
+      "source_author": "Shamnick",
+      "topics": [],
+      "score": 2.5,
+      "score_reason": "No clear indication of how this tool affects developer work; engagement is very low.",
+      "posted": false,
+      "collected_at": "2026-04-17T03:53:22Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 8,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "3843b1d4f3201ee800fc8aad9dcbd0d5",
+      "title": "LapishLab/usv_audio_generation",
+      "url": "https://github.com/LapishLab/usv_audio_generation",
+      "source": "github",
+      "source_author": "LapishLab",
+      "topics": [],
+      "score": 2,
+      "score_reason": "No stars or engagement; minimal relevance.",
+      "posted": false,
+      "collected_at": "2026-04-17T03:53:27Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "eb5bb94523cbc312fa887c4ee6151aa2",
+      "title": "hmstelecom-cmyk/devin-",
+      "url": "https://github.com/hmstelecom-cmyk/devin-",
+      "source": "github",
+      "source_author": "hmstelecom-cmyk",
+      "topics": [],
+      "score": 2,
+      "score_reason": "No significant data or relevance; low engagement.",
+      "posted": false,
+      "collected_at": "2026-04-17T03:53:35Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "4e6eee0b788a9a66e4a6e4deaec78773",
+      "title": "wusitee/kimi-code-ide.el",
+      "url": "https://github.com/wusitee/kimi-code-ide.el",
+      "source": "github",
+      "source_author": "wusitee",
+      "topics": [],
+      "score": 2,
+      "score_reason": "Lacks significant features or insights relevant to developers.",
+      "posted": false,
+      "collected_at": "2026-04-17T03:53:24Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "14923b80aaf17a181f762a735f3c463c",
+      "title": "devinlw3636/devinlw3636",
+      "url": "https://github.com/devinlw3636/devinlw3636",
+      "source": "github",
+      "source_author": "devinlw3636",
+      "topics": [],
+      "score": 2,
+      "score_reason": "Zero engagement, no relevance evident.",
+      "posted": false,
+      "collected_at": "2026-04-17T03:53:35Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "61478f5b3f678643449bd82ae2107abc",
+      "title": "Goblin1024/oh-my-kimi",
+      "url": "https://github.com/Goblin1024/oh-my-kimi",
+      "source": "github",
+      "source_author": "Goblin1024",
+      "topics": [],
+      "score": 2,
+      "score_reason": "Minimal details and low engagement suggest limited interest from the developer community.",
+      "posted": false,
+      "collected_at": "2026-04-17T03:53:24Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "1fb62b2bf3af0b88a28f961eda1d0b10",
+      "title": "RISHIK92/genai-endsem",
+      "url": "https://github.com/RISHIK92/genai-endsem",
+      "source": "github",
+      "source_author": "RISHIK92",
+      "topics": [],
+      "score": 2,
+      "score_reason": "Very low engagement and unclear impact on developer tasks.",
+      "posted": false,
+      "collected_at": "2026-04-17T03:53:23Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "8f85cb4d3cdc523e55700d558bd7a8ae",
+      "title": "jameshgrn/firepass-mcp",
+      "url": "https://github.com/jameshgrn/firepass-mcp",
+      "source": "github",
+      "source_author": "jameshgrn",
+      "topics": [],
+      "score": 1.5,
+      "score_reason": "Project appears to lack distinct features or relevance to current developer needs.",
+      "posted": false,
+      "collected_at": "2026-04-17T03:53:24Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "dcfd0a36a5dbde30584ddf278f0db005",
+      "title": "nerua1/openclaw-bridge",
+      "url": "https://github.com/nerua1/openclaw-bridge",
+      "source": "github",
+      "source_author": "nerua1",
+      "topics": [],
+      "score": 1.5,
+      "score_reason": "Very niche project with no apparent novel contributions to the developer landscape.",
+      "posted": false,
+      "collected_at": "2026-04-17T03:53:24Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "5b738e11a599dc4df0ccd6b5c690b7b1",
+      "title": "zdyszj/whisper-mcp",
+      "url": "https://github.com/zdyszj/whisper-mcp",
+      "source": "github",
+      "source_author": "zdyszj",
+      "topics": [],
+      "score": 1.5,
+      "score_reason": "Minimal impact on developer workflows; engagement is nearly non-existent.",
+      "posted": false,
+      "collected_at": "2026-04-17T03:53:24Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
         "upvotes": 0
       }
     }
   ],
   "source": "github",
-  "updated_at": "2026-04-16T14:25:51Z"
+  "updated_at": "2026-04-17T03:58:24Z"
 }
