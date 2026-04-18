@@ -1,57 +1,97 @@
 {
-  "count": 10,
+  "count": 28,
   "items": [
     {
-      "id": "28001b197ea8d63196616f323b1e1b63",
-      "title": "VILA-Lab/Dive-into-Claude-Code",
-      "url": "https://github.com/VILA-Lab/Dive-into-Claude-Code",
+      "id": "ec971352b5f483e2c2d4e18f38d315f5",
+      "title": "kangarooking/cangjie-skill",
+      "url": "https://github.com/kangarooking/cangjie-skill",
       "source": "github",
-      "source_author": "VILA-Lab",
+      "source_author": "kangarooking",
       "topics": [],
-      "score": 7,
-      "score_reason": "A resource for a specific AI tool; good engagement.",
+      "score": 7.5,
+      "score_reason": "The project has a higher star count indicating some initial interest; could be relevant for developer skills.",
       "posted": false,
-      "collected_at": "2026-04-17T14:07:27Z",
+      "collected_at": "2026-04-18T03:37:49Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 78,
+        "stars": 115,
         "upvotes": 0
       }
     },
     {
-      "id": "ed198f315b6c1b1960ac318ff9522fce",
-      "title": "xiaomi-research/controlfoley",
-      "url": "https://github.com/xiaomi-research/controlfoley",
+      "id": "d24ac0b4e530c0b51d067aa85b8d66ce",
+      "title": "zhuqn1021/Agent-template",
+      "url": "https://github.com/zhuqn1021/Agent-template",
       "source": "github",
-      "source_author": "xiaomi-research",
+      "source_author": "zhuqn1021",
       "topics": [],
       "score": 6,
-      "score_reason": "Offers a unique approach to control but not widely relevant.",
+      "score_reason": "New GitHub repo for agent-based templates, but lacks initial traction.",
       "posted": false,
-      "collected_at": "2026-04-17T14:07:14Z",
+      "collected_at": "2026-04-18T03:38:04Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 3,
+        "stars": 69,
         "upvotes": 0
       }
     },
     {
-      "id": "649fb09384caa45699019ca9de5f2562",
-      "title": "abhisekjha/pith",
-      "url": "https://github.com/abhisekjha/pith",
+      "id": "75a71f5dbed6afff1dbe46c7ab9efdac",
+      "title": "aweussom/NoLlama",
+      "url": "https://github.com/aweussom/NoLlama",
       "source": "github",
-      "source_author": "abhisekjha",
+      "source_author": "aweussom",
       "topics": [],
-      "score": 5.5,
-      "score_reason": "Project with GitHub interest could be exploratory for developers.",
+      "score": 5,
+      "score_reason": "A small repo with no engagement, but might hold potential for developers looking for alternatives.",
       "posted": false,
-      "collected_at": "2026-04-17T14:07:05Z",
+      "collected_at": "2026-04-18T03:37:46Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 7,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "c0696f0454277f88f2c9449f1cf0a36c",
+      "title": "ldalcolmo/claude-vault",
+      "url": "https://github.com/ldalcolmo/claude-vault",
+      "source": "github",
+      "source_author": "ldalcolmo",
+      "topics": [],
+      "score": 5,
+      "score_reason": "unscored",
+      "posted": false,
+      "collected_at": "2026-04-18T03:37:58Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "0834fe8488b31fa092af604b6ae6e4dd",
+      "title": "kuberstar/qartez-mcp",
+      "url": "https://github.com/kuberstar/qartez-mcp",
+      "source": "github",
+      "source_author": "kuberstar",
+      "topics": [],
+      "score": 5,
+      "score_reason": "unscored",
+      "posted": false,
+      "collected_at": "2026-04-18T03:37:57Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
@@ -62,36 +102,16 @@
       }
     },
     {
-      "id": "1fda056c0cb4abbdda3e90ba9a0d61c1",
-      "title": "synergenius-fw/fwstack",
-      "url": "https://github.com/synergenius-fw/fwstack",
+      "id": "155c80cb901ce83f51532e78c9f90aa6",
+      "title": "zoxzzzzzzzzzzzz/eni-lime-KIMIAI-jailbreak",
+      "url": "https://github.com/zoxzzzzzzzzzzzz/eni-lime-KIMIAI-jailbreak",
       "source": "github",
-      "source_author": "synergenius-fw",
+      "source_author": "zoxzzzzzzzzzzzz",
       "topics": [],
       "score": 5,
-      "score_reason": "Framework with potential uses, yet limited visibility.",
+      "score_reason": "unscored",
       "posted": false,
-      "collected_at": "2026-04-17T14:07:23Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 10,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "f421cd0fbe60d08041fe456b3c36d595",
-      "title": "nasri82/claude-code-generator",
-      "url": "https://github.com/nasri82/claude-code-generator",
-      "source": "github",
-      "source_author": "nasri82",
-      "topics": [],
-      "score": 5,
-      "score_reason": "Code generator tool is interesting but hasn't gained traction.",
-      "posted": false,
-      "collected_at": "2026-04-17T14:07:20Z",
+      "collected_at": "2026-04-18T03:37:52Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
@@ -102,76 +122,16 @@
       }
     },
     {
-      "id": "0161108eccc220c43eee3b60cd11032c",
-      "title": "SAP-samples/joule-a2a-agent-toolkit",
-      "url": "https://github.com/SAP-samples/joule-a2a-agent-toolkit",
+      "id": "9501f38c2211e9bd1e026dfd2980e5e6",
+      "title": "dannyyaou/llm-political-eval",
+      "url": "https://github.com/dannyyaou/llm-political-eval",
       "source": "github",
-      "source_author": "SAP-samples",
+      "source_author": "dannyyaou",
       "topics": [],
       "score": 5,
-      "score_reason": "New toolkit for agent-based architecture but limited engagement.",
+      "score_reason": "unscored",
       "posted": false,
-      "collected_at": "2026-04-17T14:07:12Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 3,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "5aed43fd5d3ab1ee6aa4919b7e83b5dd",
-      "title": "LabGPT-science/LabGPT",
-      "url": "https://github.com/LabGPT-science/LabGPT",
-      "source": "github",
-      "source_author": "LabGPT-science",
-      "topics": [],
-      "score": 5,
-      "score_reason": "New GitHub project may attract attention in the scientific community.",
-      "posted": false,
-      "collected_at": "2026-04-17T14:07:08Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 3,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "d045cec7b1e9c82391ffae4b82c9d187",
-      "title": "wenliangya001/GPT-guide",
-      "url": "https://github.com/wenliangya001/GPT-guide",
-      "source": "github",
-      "source_author": "wenliangya001",
-      "topics": [],
-      "score": 4,
-      "score_reason": "GitHub project offers basic guidance; not particularly novel.",
-      "posted": false,
-      "collected_at": "2026-04-17T14:07:08Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 3,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "789c5d60a6c3d3e3b388522550696ba7",
-      "title": "hb20007/awesome-gen-ai-fails",
-      "url": "https://github.com/hb20007/awesome-gen-ai-fails",
-      "source": "github",
-      "source_author": "hb20007",
-      "topics": [],
-      "score": 4,
-      "score_reason": "Compiles fails related to GenAI which is somewhat niche.",
-      "posted": false,
-      "collected_at": "2026-04-17T14:07:12Z",
+      "collected_at": "2026-04-18T03:37:52Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
@@ -182,16 +142,176 @@
       }
     },
     {
-      "id": "51ab58111617f013bd4df71cbfbe0988",
-      "title": "Harman-7680/Devinderpal-Associates",
-      "url": "https://github.com/Harman-7680/Devinderpal-Associates",
+      "id": "f55f77ac2ece40b5b181e65dc2d91bf8",
+      "title": "lbdestinjacob-svg/Devin-",
+      "url": "https://github.com/lbdestinjacob-svg/Devin-",
       "source": "github",
-      "source_author": "Harman-7680",
+      "source_author": "lbdestinjacob-svg",
       "topics": [],
-      "score": 3,
-      "score_reason": "Minimal engagement and unclear utility.",
+      "score": 5,
+      "score_reason": "unscored",
       "posted": false,
-      "collected_at": "2026-04-17T14:07:25Z",
+      "collected_at": "2026-04-18T03:38:02Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "e15e25602a794f46654a6e3afeb86f4c",
+      "title": "To-Carpe-Diem/Deepseek-yourself-skill",
+      "url": "https://github.com/To-Carpe-Diem/Deepseek-yourself-skill",
+      "source": "github",
+      "source_author": "To-Carpe-Diem",
+      "topics": [],
+      "score": 5,
+      "score_reason": "unscored",
+      "posted": false,
+      "collected_at": "2026-04-18T03:37:50Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 3,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "d1321cbfecfa572a1679af0603d43453",
+      "title": "jiaran-king/MicroLM",
+      "url": "https://github.com/jiaran-king/MicroLM",
+      "source": "github",
+      "source_author": "jiaran-king",
+      "topics": [],
+      "score": 5,
+      "score_reason": "unscored",
+      "posted": false,
+      "collected_at": "2026-04-18T03:38:03Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 56,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "c6ba30975e891190d16b96a702459d3c",
+      "title": "samsys682/Windsurf-free",
+      "url": "https://github.com/samsys682/Windsurf-free",
+      "source": "github",
+      "source_author": "samsys682",
+      "topics": [],
+      "score": 5,
+      "score_reason": "unscored",
+      "posted": false,
+      "collected_at": "2026-04-18T03:38:01Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 2,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "0d95558d1896b12ea22287a4c8f14858",
+      "title": "arlington-labs/agentchat",
+      "url": "https://github.com/arlington-labs/agentchat",
+      "source": "github",
+      "source_author": "arlington-labs",
+      "topics": [],
+      "score": 5,
+      "score_reason": "Another GitHub project about agent chat but limited engagement.",
+      "posted": false,
+      "collected_at": "2026-04-18T03:38:04Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 52,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "7cbc0d8703956ab663949961e99ed3a0",
+      "title": "AGI-is-going-to-arrive/Memory-Palace-Openclaw",
+      "url": "https://github.com/AGI-is-going-to-arrive/Memory-Palace-Openclaw",
+      "source": "github",
+      "source_author": "AGI-is-going-to-arrive",
+      "topics": [],
+      "score": 5,
+      "score_reason": "unscored",
+      "posted": false,
+      "collected_at": "2026-04-18T03:37:59Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 20,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "2f6f0994b714a8e14ee0ef0107d473c2",
+      "title": "praneybehl/llm-wiki-plugin",
+      "url": "https://github.com/praneybehl/llm-wiki-plugin",
+      "source": "github",
+      "source_author": "praneybehl",
+      "topics": [],
+      "score": 5,
+      "score_reason": "unscored",
+      "posted": false,
+      "collected_at": "2026-04-18T03:38:00Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 12,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "e36284f6965032934557aea84ca5b17c",
+      "title": "MatthewK78/Rose",
+      "url": "https://github.com/MatthewK78/Rose",
+      "source": "github",
+      "source_author": "MatthewK78",
+      "topics": [],
+      "score": 4,
+      "score_reason": "Low engagement and stars; lacks notable relevance to current trends.",
+      "posted": false,
+      "collected_at": "2026-04-18T03:37:48Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 6,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "4e372947b38e8545a48f1e34dcb21565",
+      "title": "sunhao-java/kimi-code-switch",
+      "url": "https://github.com/sunhao-java/kimi-code-switch",
+      "source": "github",
+      "source_author": "sunhao-java",
+      "topics": [],
+      "score": 4,
+      "score_reason": "Low star count and engagement suggest limited developer interest.",
+      "posted": false,
+      "collected_at": "2026-04-18T03:37:52Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
@@ -200,8 +320,248 @@
         "stars": 1,
         "upvotes": 0
       }
+    },
+    {
+      "id": "2f88499f394e2a91f40ca03d5e14d888",
+      "title": "KarryViber/Orb",
+      "url": "https://github.com/KarryViber/Orb",
+      "source": "github",
+      "source_author": "KarryViber",
+      "topics": [],
+      "score": 4,
+      "score_reason": "Simple GitHub project with low engagement.",
+      "posted": false,
+      "collected_at": "2026-04-18T03:38:04Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 44,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "a1abc0e9c0cb18d2192398ce301b5e9d",
+      "title": "Euphie/anthropic-proxy",
+      "url": "https://github.com/Euphie/anthropic-proxy",
+      "source": "github",
+      "source_author": "Euphie",
+      "topics": [],
+      "score": 3,
+      "score_reason": "Though it introduces a new proxy concept, it shows minimal engagement.",
+      "posted": false,
+      "collected_at": "2026-04-18T03:37:46Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 10,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "6baa659cf5c7ecfea7b93c15a35567f8",
+      "title": "locaith/bio-memory-ai-locaith",
+      "url": "https://github.com/locaith/bio-memory-ai-locaith",
+      "source": "github",
+      "source_author": "locaith",
+      "topics": [],
+      "score": 2.5,
+      "score_reason": "Not much information; very low interest from the developer community.",
+      "posted": false,
+      "collected_at": "2026-04-18T03:37:59Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 18,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "fc65a057f8e62fee77f1cac5637ec873",
+      "title": "juliarvalenti/dotclaude",
+      "url": "https://github.com/juliarvalenti/dotclaude",
+      "source": "github",
+      "source_author": "juliarvalenti",
+      "topics": [],
+      "score": 1.5,
+      "score_reason": "No engagement; uncertain relevance to current developer needs.",
+      "posted": false,
+      "collected_at": "2026-04-18T03:37:58Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "85258cd18f3171de7f38ed2669e57667",
+      "title": "deployment-io/skills",
+      "url": "https://github.com/deployment-io/skills",
+      "source": "github",
+      "source_author": "deployment-io",
+      "topics": [],
+      "score": 1.5,
+      "score_reason": "Minimal engagement and unclear purpose; likely not relevant to many developers.",
+      "posted": false,
+      "collected_at": "2026-04-18T03:37:58Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "fcadf7bd44014b7d62123d4de9dc6c75",
+      "title": "aalxi/bio-swarm",
+      "url": "https://github.com/aalxi/bio-swarm",
+      "source": "github",
+      "source_author": "aalxi",
+      "topics": [],
+      "score": 1,
+      "score_reason": "Minimal engagement; likely uninteresting to the developer community.",
+      "posted": false,
+      "collected_at": "2026-04-18T03:37:55Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 2,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "78d6dfd3d9814a77e2dada94e40371b3",
+      "title": "unclebob/swarm-forge",
+      "url": "https://github.com/unclebob/swarm-forge",
+      "source": "github",
+      "source_author": "unclebob",
+      "topics": [],
+      "score": 1,
+      "score_reason": "Unsure of the utility or implications for developers based on the lack of interest.",
+      "posted": false,
+      "collected_at": "2026-04-18T03:37:55Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 2,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "3211b47e5b242983c65b996f0f3b697a",
+      "title": "zhuyansen/wx-favorites-report",
+      "url": "https://github.com/zhuyansen/wx-favorites-report",
+      "source": "github",
+      "source_author": "zhuyansen",
+      "topics": [],
+      "score": 1,
+      "score_reason": "The project is obscure and lacks engagement.",
+      "posted": false,
+      "collected_at": "2026-04-18T03:37:44Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 297,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "3465a67c60981d12e2469dd5c3bfbaa6",
+      "title": "bchao1/paper-finder",
+      "url": "https://github.com/bchao1/paper-finder",
+      "source": "github",
+      "source_author": "bchao1",
+      "topics": [],
+      "score": 1,
+      "score_reason": "The GitHub project provides limited context and relevance.",
+      "posted": false,
+      "collected_at": "2026-04-18T03:37:44Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 173,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "64b7244511a8d56f3b333a61c1e0a293",
+      "title": "briascoi/skillgrab",
+      "url": "https://github.com/briascoi/skillgrab",
+      "source": "github",
+      "source_author": "briascoi",
+      "topics": [],
+      "score": 1,
+      "score_reason": "The repository lacks clear application or novelty.",
+      "posted": false,
+      "collected_at": "2026-04-18T03:37:45Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 14,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "85c5ffb2ea9569f3789fb1b085845f53",
+      "title": "Lumio-Research/hermes-agent-rs",
+      "url": "https://github.com/Lumio-Research/hermes-agent-rs",
+      "source": "github",
+      "source_author": "Lumio-Research",
+      "topics": [],
+      "score": 1,
+      "score_reason": "No substantial information is provided to assess relevance.",
+      "posted": false,
+      "collected_at": "2026-04-18T03:37:46Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 11,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "dbc464a4701ef566350faa579843a2e8",
+      "title": "OpenCognit/Opencognit",
+      "url": "https://github.com/OpenCognit/Opencognit",
+      "source": "github",
+      "source_author": "OpenCognit",
+      "topics": [],
+      "score": 1,
+      "score_reason": "Little context or engagement makes it low priority.",
+      "posted": false,
+      "collected_at": "2026-04-18T03:37:46Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 10,
+        "upvotes": 0
+      }
     }
   ],
   "source": "github",
-  "updated_at": "2026-04-17T14:11:41Z"
+  "updated_at": "2026-04-18T03:42:15Z"
 }

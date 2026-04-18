@@ -340,10 +340,21 @@
         "reddit": 0,
         "twitter": 264
       }
+    },
+    "2026-04-18": {
+      "items_collected": 373,
+      "items_ranked": 132,
+      "items_posted": 0,
+      "by_source": {
+        "github": 164,
+        "hackernews": 116,
+        "reddit": 0,
+        "twitter": 93
+      }
     }
   },
-  "last_run": "2026-04-17T14:06:59.635230821Z",
-  "run_count": 120,
+  "last_run": "2026-04-18T03:37:40.530603584Z",
+  "run_count": 121,
   "total_posted": 0,
-  "updated_at": "2026-04-17T14:11:41Z"
+  "updated_at": "2026-04-18T03:42:15Z"
 }
