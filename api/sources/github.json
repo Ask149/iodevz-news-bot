@@ -1,137 +1,17 @@
 {
-  "count": 10,
+  "count": 7,
   "items": [
     {
-      "id": "57759c5918c51becc561ca1bfbc4ed07",
-      "title": "Korext/ai-attestation",
-      "url": "https://github.com/Korext/ai-attestation",
+      "id": "eb96fdbc9121cf888efce9dde066747c",
+      "title": "GuanxingLu/OpenPARL",
+      "url": "https://github.com/GuanxingLu/OpenPARL",
       "source": "github",
-      "source_author": "Korext",
+      "source_author": "GuanxingLu",
       "topics": [],
-      "score": 3,
-      "score_reason": "Low relevance despite some interest on GitHub.",
+      "score": 6,
+      "score_reason": "Features a developer tool on GitHub but seems to have limited visibility and engagement.",
       "posted": false,
-      "collected_at": "2026-04-21T08:19:14Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 33,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "d698f69885b27ab9b1e73fb90cf723ff",
-      "title": "alchaincyf/huashu-design",
-      "url": "https://github.com/alchaincyf/huashu-design",
-      "source": "github",
-      "source_author": "alchaincyf",
-      "topics": [],
-      "score": 3,
-      "score_reason": "GitHub project with no significant engagement.",
-      "posted": false,
-      "collected_at": "2026-04-21T08:18:56Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 737,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "87009132a14f0ab0ba28092943e2c813",
-      "title": "dontotl/genai-benchmark",
-      "url": "https://github.com/dontotl/genai-benchmark",
-      "source": "github",
-      "source_author": "dontotl",
-      "topics": [],
-      "score": 2,
-      "score_reason": "A GitHub repository with low utility indications.",
-      "posted": false,
-      "collected_at": "2026-04-21T08:19:04Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 1,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "d0a9701e6aec959002982935e2828a06",
-      "title": "manav8498/swarmweave",
-      "url": "https://github.com/manav8498/swarmweave",
-      "source": "github",
-      "source_author": "manav8498",
-      "topics": [],
-      "score": 2,
-      "score_reason": "Low engagement and unclear relevance.",
-      "posted": false,
-      "collected_at": "2026-04-21T08:19:09Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 4,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "16c5a074006ed7519f64c14a023577f8",
-      "title": "VarunChopra261/GenAI_Tutorial",
-      "url": "https://github.com/VarunChopra261/GenAI_Tutorial",
-      "source": "github",
-      "source_author": "VarunChopra261",
-      "topics": [],
-      "score": 2,
-      "score_reason": "Limited utility and engagement.",
-      "posted": false,
-      "collected_at": "2026-04-21T08:19:04Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 1,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "2acb23ceee10245d45373d4e0f7451b6",
-      "title": "YouMind-OpenLab/awesome-gpt-image-2",
-      "url": "https://github.com/YouMind-OpenLab/awesome-gpt-image-2",
-      "source": "github",
-      "source_author": "YouMind-OpenLab",
-      "topics": [],
-      "score": 2,
-      "score_reason": "Little engagement; project lacks widespread relevance.",
-      "posted": false,
-      "collected_at": "2026-04-21T08:19:00Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 17,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "30db9fcf47c044f5dc08a50070f36975",
-      "title": "Sumvia/end-conversation-mcp-server-zh",
-      "url": "https://github.com/Sumvia/end-conversation-mcp-server-zh",
-      "source": "github",
-      "source_author": "Sumvia",
-      "topics": [],
-      "score": 2,
-      "score_reason": "Minimal engagement and relevance.",
-      "posted": false,
-      "collected_at": "2026-04-21T08:19:02Z",
+      "collected_at": "2026-04-21T14:17:07Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
@@ -142,16 +22,56 @@
       }
     },
     {
-      "id": "7e5d2ba11580e3da9505023bbfcaed5a",
-      "title": "kisworo/kimi2api",
-      "url": "https://github.com/kisworo/kimi2api",
+      "id": "e770c30ed1f900ff28cc858753176f22",
+      "title": "luoxyhappy/CoInteract",
+      "url": "https://github.com/luoxyhappy/CoInteract",
       "source": "github",
-      "source_author": "kisworo",
+      "source_author": "luoxyhappy",
       "topics": [],
-      "score": 2,
-      "score_reason": "Bare minimum interest with low engagement.",
+      "score": 6,
+      "score_reason": "Another GitHub tool for developers, though it lacks novelty and engagement.",
       "posted": false,
-      "collected_at": "2026-04-21T08:19:05Z",
+      "collected_at": "2026-04-21T14:17:08Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 3,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "a0d87095a66c0f3b06822f7b22926911",
+      "title": "TheRealSeanDonahoe/ijfw",
+      "url": "https://github.com/TheRealSeanDonahoe/ijfw",
+      "source": "github",
+      "source_author": "TheRealSeanDonahoe",
+      "topics": [],
+      "score": 5.5,
+      "score_reason": "Has more stars indicating some interest, but lacks detailed information.",
+      "posted": false,
+      "collected_at": "2026-04-21T14:17:17Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 13,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "0a502c42685944a42870301364664415",
+      "title": "sophiaashi/Awesome-ccIDE",
+      "url": "https://github.com/sophiaashi/Awesome-ccIDE",
+      "source": "github",
+      "source_author": "sophiaashi",
+      "topics": [],
+      "score": 4,
+      "score_reason": "Low engagement and similarity to existing projects, reducing its relevance.",
+      "posted": false,
+      "collected_at": "2026-04-21T14:17:14Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
@@ -162,36 +82,56 @@
       }
     },
     {
-      "id": "256783c513e8bd7068ffe6fe2792cf37",
-      "title": "geekjourneyx/readme-generator",
-      "url": "https://github.com/geekjourneyx/readme-generator",
+      "id": "3505dd2fbf5a5b7aa64f99d5028ccae5",
+      "title": "Ishaan-Sharma-tech/ved-ai",
+      "url": "https://github.com/Ishaan-Sharma-tech/ved-ai",
       "source": "github",
-      "source_author": "geekjourneyx",
+      "source_author": "Ishaan-Sharma-tech",
       "topics": [],
-      "score": 2,
-      "score_reason": "Minimal response; lacks broader significance.",
+      "score": 4,
+      "score_reason": "Another entry-level tool without significant impact or engagement.",
       "posted": false,
-      "collected_at": "2026-04-21T08:19:12Z",
+      "collected_at": "2026-04-21T14:17:11Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 4,
+        "stars": 2,
         "upvotes": 0
       }
     },
     {
-      "id": "d896a797d3eaa5fabafc25306b280f33",
-      "title": "RAO-HABIB/AI_ART_WEBSITE",
-      "url": "https://github.com/RAO-HABIB/AI_ART_WEBSITE",
+      "id": "84dea63940249729c99b0fe82dc49a44",
+      "title": "Somaaishu/kind-construct",
+      "url": "https://github.com/Somaaishu/kind-construct",
       "source": "github",
-      "source_author": "RAO-HABIB",
+      "source_author": "Somaaishu",
       "topics": [],
-      "score": 2,
-      "score_reason": "GitHub repository with little indication of relevance or impact.",
+      "score": 4,
+      "score_reason": "Similar to other GitHub projects, lacking unique features or audience appeal.",
       "posted": false,
-      "collected_at": "2026-04-21T08:19:07Z",
+      "collected_at": "2026-04-21T14:17:09Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "33562202d70ee9ee5c7810e916091537",
+      "title": "Solar1222/LAW-Watermark",
+      "url": "https://github.com/Solar1222/LAW-Watermark",
+      "source": "github",
+      "source_author": "Solar1222",
+      "topics": [],
+      "score": 4,
+      "score_reason": "Focuses on watermarking, a niche topic with little broader impact.",
+      "posted": false,
+      "collected_at": "2026-04-21T14:17:09Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
@@ -203,5 +143,5 @@
     }
   ],
   "source": "github",
-  "updated_at": "2026-04-21T08:22:41Z"
+  "updated_at": "2026-04-21T14:21:40Z"
 }
