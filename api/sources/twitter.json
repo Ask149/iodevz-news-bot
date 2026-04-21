@@ -1,67 +1,307 @@
 {
-  "count": 3,
+  "count": 15,
   "items": [
     {
-      "id": "c6a73bba6e79db89d4a0850fcef8e438",
-      "title": "Have a big idea but no advertising budget? Make it yourself with Runway. All you need is a concept t...",
-      "url": "https://x.com/runwayml/status/2046226661629132921",
+      "id": "a7d2beb2811b87f65d368ddb8673e622",
+      "title": "Amazon is also investing an additional $5 billion in Anthropic today, with up to $20 billion more in...",
+      "url": "https://x.com/AnthropicAI/status/2046327625367625773",
       "source": "twitter",
-      "source_author": "RunwayML",
+      "source_author": "AnthropicAI",
+      "topics": [],
+      "score": 8.5,
+      "score_reason": "Substantial investment signals profound impact on AI tool availability.",
+      "posted": false,
+      "collected_at": "2026-04-21T03:56:50Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 932,
+        "replies": 26,
+        "retweets": 131,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "3b321a25b11584dd08961c5c6adc6cb8",
+      "title": "We recently shipped quality-of-life improvements to the Cursor CLI to make working with agents in th...",
+      "url": "https://x.com/cursor_ai/status/2046324136377721128",
+      "source": "twitter",
+      "source_author": "cursor_ai",
+      "topics": [],
+      "score": 8,
+      "score_reason": "Quality-of-life improvements in CLI tools are impactful for developers.",
+      "posted": false,
+      "collected_at": "2026-04-21T03:56:50Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 747,
+        "replies": 44,
+        "retweets": 63,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "083adc1b7b4c6c02e182f2d62cb3f442",
+      "title": "We're expanding our collaboration with Amazon to secure up to 5 gigawatts of compute for training an...",
+      "url": "https://x.com/AnthropicAI/status/2046327624092487688",
+      "source": "twitter",
+      "source_author": "AnthropicAI",
+      "topics": [],
+      "score": 8,
+      "score_reason": "Increased compute for AI training could greatly impact developer workflows.",
+      "posted": false,
+      "collected_at": "2026-04-21T03:56:50Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 9168,
+        "replies": 350,
+        "retweets": 856,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "7cfe200b6083b71da36535ab8a86e5ea",
+      "title": "We're launching the Anthropic STEM Fellows Program. \n\nAI will accelerate progress in science and eng...",
+      "url": "https://x.com/AnthropicAI/status/2046362119755727256",
+      "source": "twitter",
+      "source_author": "AnthropicAI",
+      "topics": [],
+      "score": 7,
+      "score_reason": "Promising program but lacks specific developer tools details.",
+      "posted": false,
+      "collected_at": "2026-04-21T03:56:50Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 3038,
+        "replies": 101,
+        "retweets": 365,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "91a7b6ee0d884b2e4c5a61ae94409cdc",
+      "title": "How do you add new capabilities to a fully post-trained language model, without retraining from scra...",
+      "url": "https://x.com/jacobcares/status/2046275042380824859",
+      "source": "twitter",
+      "source_author": "Allen_AI",
+      "topics": [],
+      "score": 7,
+      "score_reason": "Interesting question posed for advancing model capabilities.",
+      "posted": false,
+      "collected_at": "2026-04-21T03:56:50Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 145,
+        "replies": 4,
+        "retweets": 21,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "df59608de4c5525301a9a715467fffc9",
+      "title": "In collaboration with \n@github\n, \n@Microsoft\n, \n@npmjs\n, and \n@SocketSecurity\n, our security team ha...",
+      "url": "https://x.com/vercel/status/2046400830300172625",
+      "source": "twitter",
+      "source_author": "vercel",
+      "topics": [],
+      "score": 7,
+      "score_reason": "Collaboration with notable tech entities brings attention to security in dev tools.",
+      "posted": false,
+      "collected_at": "2026-04-21T03:56:50Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 684,
+        "replies": 34,
+        "retweets": 131,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "633b45974e213f8d1e147864660be326",
+      "title": "Imagine you fully post-trained \"YourModel v1\". Then, you've got better data — math, code, tool use...",
+      "url": "https://x.com/sadhikesaven/status/2046276978249257412",
+      "source": "twitter",
+      "source_author": "Allen_AI",
       "topics": [],
       "score": 6,
-      "score_reason": "Offers practical advice for developers, resonating with current trends.",
+      "score_reason": "Innovation in post-training models noted, but lacks direct impact.",
       "posted": false,
-      "collected_at": "2026-04-20T14:23:48Z",
+      "collected_at": "2026-04-21T03:56:50Z",
       "engagement": {
         "comments": 0,
-        "likes": 30,
-        "replies": 3,
-        "retweets": 4,
+        "likes": 91,
+        "replies": 4,
+        "retweets": 15,
         "stars": 0,
         "upvotes": 0
       }
     },
     {
-      "id": "63e7cd50e3f8620a63a8b9ee2498e04d",
-      "title": " Day 17 of the \n@cursor_ai\n #vibejam\n\nProudly sponsored by \n@cursor_ai\n + \n@boltdotnew\n + \n@heyglif\n...",
-      "url": "https://x.com/levelsio/status/2046004776693903757",
+      "id": "8371f2a27dfa021eccb14d6c67f47d7b",
+      "title": "Calling all builders  Google AI Pro and Ultra subscribers will now get increased usage limits and ac...",
+      "url": "https://x.com/GoogleAI/status/2046338574811853069",
       "source": "twitter",
-      "source_author": "levelsio",
+      "source_author": "GoogleAI",
+      "topics": [],
+      "score": 6,
+      "score_reason": "Increased usage limits for AI tools are notable but not groundbreaking.",
+      "posted": false,
+      "collected_at": "2026-04-21T03:56:50Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 788,
+        "replies": 40,
+        "retweets": 98,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "a8fd20cb833724777e22fffa7cc7ee8b",
+      "title": "You can now add a mobile app, slide deck, or animation to any web app you have built prior to Replit...",
+      "url": "https://x.com/Replit/status/2046286373553131671",
+      "source": "twitter",
+      "source_author": "replit",
+      "topics": [],
+      "score": 6,
+      "score_reason": "New features in Replit enhance usability for developers.",
+      "posted": false,
+      "collected_at": "2026-04-21T03:56:50Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 101,
+        "replies": 12,
+        "retweets": 14,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "b54d13e150966431fc74be572db72ac0",
+      "title": "Customize the CLI status bar using /statusline to surface the session and runtime signals you care a...",
+      "url": "https://x.com/cursor_ai/status/2046324141704548733",
+      "source": "twitter",
+      "source_author": "cursor_ai",
       "topics": [],
       "score": 5,
-      "score_reason": "unscored",
+      "score_reason": "Customization features in CLI tools are relevant, but not extremely novel.",
       "posted": false,
-      "collected_at": "2026-04-20T14:23:48Z",
+      "collected_at": "2026-04-21T03:56:50Z",
       "engagement": {
         "comments": 0,
-        "likes": 79,
-        "replies": 27,
-        "retweets": 7,
+        "likes": 38,
+        "replies": 3,
+        "retweets": 2,
         "stars": 0,
         "upvotes": 0
       }
     },
     {
-      "id": "6c7ebc76951d155fa5d59b4443f1f21b",
-      "title": "Get started at:",
-      "url": "https://x.com/runwayml/status/2046227071102222825",
+      "id": "db2a36edddcb50f1adbdadf8cb5bcffa",
+      "title": "LLMs that get lost in conversation. Robots that learn zero-shot. Diffusion models built for imbalanc...",
+      "url": "https://x.com/MSFTResearch/status/2046266206097662401",
       "source": "twitter",
-      "source_author": "RunwayML",
+      "source_author": "MSFTResearch",
       "topics": [],
-      "score": 2,
-      "score_reason": "Very low engagement and lack of clear relevance.",
+      "score": 5,
+      "score_reason": "While relevant, insights offered seem to skew towards academics.",
       "posted": false,
-      "collected_at": "2026-04-20T14:23:48Z",
+      "collected_at": "2026-04-21T03:56:50Z",
       "engagement": {
         "comments": 0,
-        "likes": 2,
+        "likes": 56,
+        "replies": 22,
+        "retweets": 8,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "06f6315018e3e558704f69a3406d810e",
+      "title": "Additional security bulletin updates include:\n\n• Clarification that account and project deletion d...",
+      "url": "https://x.com/vercel/status/2046400842505535917",
+      "source": "twitter",
+      "source_author": "vercel",
+      "topics": [],
+      "score": 5,
+      "score_reason": "Updates are relevant but lack broader context or application.",
+      "posted": false,
+      "collected_at": "2026-04-21T03:56:50Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 35,
         "replies": 0,
+        "retweets": 1,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "af1fad153e021b21d94c36e0165e5bdc",
+      "title": "In Episode 2 of \"The Shape of Things to Come,\" sustainability leader Amy Luers and optimization expe...",
+      "url": "https://x.com/MSFTResearch/status/2046302883507757520",
+      "source": "twitter",
+      "source_author": "MSFTResearch",
+      "topics": [],
+      "score": 4,
+      "score_reason": "Discussion on sustainability is relevant but not highly engaging.",
+      "posted": false,
+      "collected_at": "2026-04-21T03:56:50Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 8,
+        "replies": 0,
+        "retweets": 2,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "bd1a57fe1c064a0943399b78d13c6c62",
+      "title": "Week 4 winner of the Agent 4 Content Challenge: \n  \nRizwan Ahmed \n@rizwanahmedmp4\n \n\nBuilt: SlapStop...",
+      "url": "https://x.com/Replit/status/2046360512305537089",
+      "source": "twitter",
+      "source_author": "replit",
+      "topics": [],
+      "score": 4,
+      "score_reason": "Recognition of a developer is engaging but lacks technical value.",
+      "posted": false,
+      "collected_at": "2026-04-21T03:56:50Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 21,
+        "replies": 2,
         "retweets": 0,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "323db4eede5fb2aaa4c1f1bd750718f8",
+      "title": "Check out our blog post to learn more:",
+      "url": "https://x.com/GoogleAI/status/2046338578121142530",
+      "source": "twitter",
+      "source_author": "GoogleAI",
+      "topics": [],
+      "score": 3,
+      "score_reason": "Link points to a blog post without additional content value.",
+      "posted": false,
+      "collected_at": "2026-04-21T03:56:50Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 43,
+        "replies": 0,
+        "retweets": 3,
         "stars": 0,
         "upvotes": 0
       }
     }
   ],
   "source": "twitter",
-  "updated_at": "2026-04-20T14:24:46Z"
+  "updated_at": "2026-04-21T03:58:21Z"
 }
