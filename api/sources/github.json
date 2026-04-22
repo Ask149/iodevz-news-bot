@@ -1,57 +1,77 @@
 {
-  "count": 10,
+  "count": 7,
   "items": [
     {
-      "id": "7918d7a289015f32873285a76b5d6625",
-      "title": "ilang-ai/Imprint",
-      "url": "https://github.com/ilang-ai/Imprint",
+      "id": "d0f41f806fe9a98a8ac18a8a9b37a8c5",
+      "title": "peiyizhi0724/ChatGpt-Image-Studio",
+      "url": "https://github.com/peiyizhi0724/ChatGpt-Image-Studio",
       "source": "github",
-      "source_author": "ilang-ai",
+      "source_author": "peiyizhi0724",
       "topics": [],
-      "score": 5.5,
-      "score_reason": "Moderate engagement, may provide useful tools for certain developers.",
+      "score": 2,
+      "score_reason": "Similar to above, a ChatGpt image studio has niche appeal and lacks broad relevance.",
       "posted": false,
-      "collected_at": "2026-04-22T08:17:47Z",
+      "collected_at": "2026-04-22T14:17:08Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 8,
+        "stars": 24,
         "upvotes": 0
       }
     },
     {
-      "id": "9ad758ca3976d74deccc618ccf2c4163",
-      "title": "ktkarchive/codex-imagegen-2-skill-for-kimi",
-      "url": "https://github.com/ktkarchive/codex-imagegen-2-skill-for-kimi",
+      "id": "0c996016f5e07e58a07c280cc57bf435",
+      "title": "OpenStudy-dev/OpenStudy",
+      "url": "https://github.com/OpenStudy-dev/OpenStudy",
       "source": "github",
-      "source_author": "ktkarchive",
+      "source_author": "OpenStudy-dev",
       "topics": [],
-      "score": 5,
-      "score_reason": "unscored",
+      "score": 2,
+      "score_reason": "OpenStudy appears to have limited appeal and novelty for the current developer landscape.",
       "posted": false,
-      "collected_at": "2026-04-22T08:17:38Z",
+      "collected_at": "2026-04-22T14:17:05Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 9,
+        "stars": 38,
         "upvotes": 0
       }
     },
     {
-      "id": "a63d615570d3a54ce40655ec5e827de0",
-      "title": "lookcorner/windsurf-proxy-go",
-      "url": "https://github.com/lookcorner/windsurf-proxy-go",
+      "id": "c2692dc77f49966ff7e3136509c4866e",
+      "title": "ShivanshiSharma05/genai_qa_system",
+      "url": "https://github.com/ShivanshiSharma05/genai_qa_system",
       "source": "github",
-      "source_author": "lookcorner",
+      "source_author": "ShivanshiSharma05",
       "topics": [],
-      "score": 5,
-      "score_reason": "unscored",
+      "score": 1.5,
+      "score_reason": "GenAI QA system appears to be a small-scale project with unclear implications for developers.",
       "posted": false,
-      "collected_at": "2026-04-22T08:17:48Z",
+      "collected_at": "2026-04-22T14:17:12Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "f0e8c62312480e1b7ebefb1de2a4250e",
+      "title": "GitHub-Ninghai/AI4S_Data_Agent_Swarm",
+      "url": "https://github.com/GitHub-Ninghai/AI4S_Data_Agent_Swarm",
+      "source": "github",
+      "source_author": "GitHub-Ninghai",
+      "topics": [],
+      "score": 1,
+      "score_reason": "The AI swarm concept lacks specific details that might engage a broader developer base.",
+      "posted": false,
+      "collected_at": "2026-04-22T14:17:18Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
@@ -62,146 +82,66 @@
       }
     },
     {
-      "id": "0391a0916e5765a7e8868894dddc8058",
-      "title": "WhiteTowerAI/imagine-skill",
-      "url": "https://github.com/WhiteTowerAI/imagine-skill",
+      "id": "499e9c42de58acc759f58db8eb92017a",
+      "title": "ShresthSamyak/LLM_DIET",
+      "url": "https://github.com/ShresthSamyak/LLM_DIET",
       "source": "github",
-      "source_author": "WhiteTowerAI",
-      "topics": [],
-      "score": 5,
-      "score_reason": "unscored",
-      "posted": false,
-      "collected_at": "2026-04-22T08:17:39Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 1,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "76f276661f73479701fe4a8ff4329bde",
-      "title": "TencentARC/OmniScript",
-      "url": "https://github.com/TencentARC/OmniScript",
-      "source": "github",
-      "source_author": "TencentARC",
-      "topics": [],
-      "score": 5,
-      "score_reason": "unscored",
-      "posted": false,
-      "collected_at": "2026-04-22T08:17:40Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 1,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "eb2cb12f0e1caa00b7f4c6badbe4a94e",
-      "title": "SparkEngineAI/QuantClaw-plugin",
-      "url": "https://github.com/SparkEngineAI/QuantClaw-plugin",
-      "source": "github",
-      "source_author": "SparkEngineAI",
-      "topics": [],
-      "score": 5,
-      "score_reason": "Development of a plugin with potential niche use.",
-      "posted": false,
-      "collected_at": "2026-04-22T08:17:46Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 49,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "be1f683449f29b4db5b385118f4aee3e",
-      "title": "ask-sol/openagent",
-      "url": "https://github.com/ask-sol/openagent",
-      "source": "github",
-      "source_author": "ask-sol",
-      "topics": [],
-      "score": 5,
-      "score_reason": "unscored",
-      "posted": false,
-      "collected_at": "2026-04-22T08:17:35Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 3,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "e1d68af620c129e79c1160396eb29f64",
-      "title": "tashfeenahmed/freellmapi",
-      "url": "https://github.com/tashfeenahmed/freellmapi",
-      "source": "github",
-      "source_author": "tashfeenahmed",
-      "topics": [],
-      "score": 5,
-      "score_reason": "unscored",
-      "posted": false,
-      "collected_at": "2026-04-22T08:17:31Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 32,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "2d888a019b6a950328208d559a83e01f",
-      "title": "zaffre001/unity-claude-template",
-      "url": "https://github.com/zaffre001/unity-claude-template",
-      "source": "github",
-      "source_author": "zaffre001",
-      "topics": [],
-      "score": 4.5,
-      "score_reason": "Limited engagement and unclear significance.",
-      "posted": false,
-      "collected_at": "2026-04-22T08:17:44Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 3,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "86ec8fdc0f9ff0291948755c10ef538c",
-      "title": "leigest519/OpenGame",
-      "url": "https://github.com/leigest519/OpenGame",
-      "source": "github",
-      "source_author": "leigest519",
+      "source_author": "ShresthSamyak",
       "topics": [],
       "score": 1,
-      "score_reason": "A general game repository; not directly impactful for most developers.",
+      "score_reason": "LLM_DIET seems to be an underdeveloped idea with limited insights for developers.",
       "posted": false,
-      "collected_at": "2026-04-22T08:17:34Z",
+      "collected_at": "2026-04-22T14:17:25Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 230,
+        "stars": 3,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "162c4e8cfa45f9c2e8a0be6fad06aead",
+      "title": "usikrosik-ai/devin",
+      "url": "https://github.com/usikrosik-ai/devin",
+      "source": "github",
+      "source_author": "usikrosik-ai",
+      "topics": [],
+      "score": 1,
+      "score_reason": "Devin appears to be a minimal contribution with no notable impact anticipated.",
+      "posted": false,
+      "collected_at": "2026-04-22T14:17:27Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "addd0ef78393fe0df8786ee130d0db33",
+      "title": "ConardLi/web-design-skill",
+      "url": "https://github.com/ConardLi/web-design-skill",
+      "source": "github",
+      "source_author": "ConardLi",
+      "topics": [],
+      "score": 1,
+      "score_reason": "Web design skills repository shows minimal connection to current developer tool trends.",
+      "posted": false,
+      "collected_at": "2026-04-22T14:17:30Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 132,
         "upvotes": 0
       }
     }
   ],
   "source": "github",
-  "updated_at": "2026-04-22T08:21:30Z"
+  "updated_at": "2026-04-22T14:21:42Z"
 }

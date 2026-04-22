@@ -1,167 +1,47 @@
 {
-  "count": 8,
+  "count": 2,
   "items": [
     {
-      "id": "f95d4678a2825444444080560ae13dce",
-      "title": "What makes ChatGPT Images 2.0 a state-of-the-art image generation model?\n\nResearchers behind the mod...",
-      "url": "https://x.com/OpenAI/status/2046691647036227700",
-      "source": "twitter",
-      "source_author": "OpenAI",
-      "topics": [],
-      "score": 9.5,
-      "score_reason": "High engagement and showcases advancements in AI image generation.",
-      "posted": false,
-      "collected_at": "2026-04-22T08:20:39Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 2825,
-        "replies": 139,
-        "retweets": 235,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "b558006467b1527bb8d7d93dd4468b07",
-      "title": "Deep Research and Deep Research Max are our latest autonomous research agents powered by Gemini 3.1 ...",
-      "url": "https://x.com/GoogleDeepMind/status/2046627042335060342",
+      "id": "de6e00dcc2b86123afbfcf107d0f303c",
+      "title": "Only 25% of organizations have moved AI into production at scale. We’re working to change that. \n\n...",
+      "url": "https://x.com/GoogleDeepMind/status/2046927845851627657",
       "source": "twitter",
       "source_author": "GoogleDeepMind",
       "topics": [],
-      "score": 9,
-      "score_reason": "Introduces new autonomous research agents which can impact developer workflows.",
+      "score": 7.5,
+      "score_reason": "Insights on AI production scaling are highly relevant for developers aiming to implement AI solutions effectively.",
       "posted": false,
-      "collected_at": "2026-04-22T08:20:39Z",
+      "collected_at": "2026-04-22T14:20:18Z",
       "engagement": {
         "comments": 0,
-        "likes": 1666,
-        "replies": 47,
-        "retweets": 200,
+        "likes": 108,
+        "replies": 17,
+        "retweets": 9,
         "stars": 0,
         "upvotes": 0
       }
     },
     {
-      "id": "14d208e5d11716a5fc8ca146ff4846e6",
-      "title": " Deep Research: Optimized for speed and efficiency. Perfect for interactive apps needing quicker res...",
-      "url": "https://x.com/GoogleDeepMind/status/2046627044453134389",
+      "id": "c4e5253843eab95aa980f7e762878b5f",
+      "title": "Today we're sharing a major Skala update: new paper and model release. Skala is a deep-learned XC fu...",
+      "url": "https://x.com/vdbergrianne/status/2046889437414469976",
       "source": "twitter",
-      "source_author": "GoogleDeepMind",
-      "topics": [],
-      "score": 8.5,
-      "score_reason": "Optimizations for interactive apps can enhance developer efficiency.",
-      "posted": false,
-      "collected_at": "2026-04-22T08:20:39Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 250,
-        "replies": 6,
-        "retweets": 35,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "99480aa3f3a623b78dac4c870e0f9653",
-      "title": "One word: relentless. just in the past two weeks, we’ve shipped:\n\n Genie 3 - the most advanced wor...",
-      "url": "https://x.com/demishassabis/status/1953887339094143156",
-      "source": "twitter",
-      "source_author": "DemisHassabis",
-      "topics": [],
-      "score": 8,
-      "score_reason": "Announces significant improvements in AI performance with high community engagement.",
-      "posted": false,
-      "collected_at": "2026-04-22T08:20:39Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 9631,
-        "replies": 485,
-        "retweets": 1134,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "360a2c7149df7c430c3b71ce20e039d9",
-      "title": "Becoming an RL diehard in the past year and thinking about RL for most of my waking hours inadverten...",
-      "url": "https://x.com/_jasonwei/status/1945294042138599722",
-      "source": "twitter",
-      "source_author": "_jasonwei",
+      "source_author": "MSFTResearch",
       "topics": [],
       "score": 7,
-      "score_reason": "Insights into reinforcement learning trends may interest developers in AI research.",
+      "score_reason": "Major updates in Skala could enhance tools for developers working on deep learning models.",
       "posted": false,
-      "collected_at": "2026-04-22T08:20:39Z",
+      "collected_at": "2026-04-22T14:20:18Z",
       "engagement": {
         "comments": 0,
-        "likes": 3390,
-        "replies": 127,
-        "retweets": 435,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "892d6f2ff2074416b43e9c6d9ebcf4e3",
-      "title": "Now available in AutoDiscovery: Reuse already-uploaded datasets, modify session configurations, \u0026 in...",
-      "url": "https://x.com/allen_ai/status/2046655368927825999",
-      "source": "twitter",
-      "source_author": "Allen_AI",
-      "topics": [],
-      "score": 6.5,
-      "score_reason": "New features in AutoDiscovery could streamline developer processes.",
-      "posted": false,
-      "collected_at": "2026-04-22T08:20:39Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 46,
-        "replies": 3,
-        "retweets": 6,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "fcb5e4d74f240982550fc655a8f15724",
-      "title": "Publish an app in one click ",
-      "url": "https://x.com/Replit/status/2046703812207898824",
-      "source": "twitter",
-      "source_author": "replit",
-      "topics": [],
-      "score": 6,
-      "score_reason": "Simplifying app publication could attract developer interest.",
-      "posted": false,
-      "collected_at": "2026-04-22T08:20:39Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 49,
-        "replies": 3,
-        "retweets": 4,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "2e0fc1c883f5c16cab07dd987920a41c",
-      "title": " Day 19 of the \n@cursor_ai\n #vibejam!!!\n\nProudly sponsored by \n@cursor_ai\n + \n@boltdotnew\n + \n@heygl...",
-      "url": "https://x.com/levelsio/status/2046695726789390776",
-      "source": "twitter",
-      "source_author": "levelsio",
-      "topics": [],
-      "score": 5,
-      "score_reason": "unscored",
-      "posted": false,
-      "collected_at": "2026-04-22T08:20:39Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 110,
-        "replies": 30,
-        "retweets": 12,
+        "likes": 41,
+        "replies": 1,
+        "retweets": 15,
         "stars": 0,
         "upvotes": 0
       }
     }
   ],
   "source": "twitter",
-  "updated_at": "2026-04-22T08:21:30Z"
+  "updated_at": "2026-04-22T14:21:42Z"
 }
