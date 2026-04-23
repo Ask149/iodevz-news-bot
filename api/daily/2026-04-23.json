@@ -1,6 +1,27 @@
 {
-  "count": 120,
+  "count": 163,
+  "date": "2026-04-23",
   "items": [
+    {
+      "id": "70fc53ba5fba77c232997be641bf5600",
+      "title": "Introducing workspace agents in ChatGPT—shared agents that can handle complex tasks and long-runni...",
+      "url": "https://x.com/OpenAI/status/2047008987665809771",
+      "source": "twitter",
+      "source_author": "OpenAI",
+      "topics": [],
+      "score": 9.5,
+      "score_reason": "Introduces new capabilities in ChatGPT that can significantly enhance developer productivity.",
+      "posted": false,
+      "collected_at": "2026-04-23T03:59:13Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 13770,
+        "replies": 573,
+        "retweets": 1929,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
     {
       "id": "5f8b007e45d3b14e9f01511573f6e9b0",
       "title": "Show HN: Netlify for Agents",
@@ -22,6 +43,26 @@
       }
     },
     {
+      "id": "425aa0f154c53096054467b894717195",
+      "title": "openai/privacy-filter",
+      "url": "https://github.com/openai/privacy-filter",
+      "source": "github",
+      "source_author": "openai",
+      "topics": [],
+      "score": 9,
+      "score_reason": "Addresses critical privacy issues with AI, impacting developer practices significantly.",
+      "posted": false,
+      "collected_at": "2026-04-23T03:56:04Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 487,
+        "upvotes": 0
+      }
+    },
+    {
       "id": "6236ea29365358fc1522d40ae58a95c0",
       "title": "Workspace Agents in ChatGPT",
       "url": "https://openai.com/index/introducing-workspace-agents-in-chatgpt/",
@@ -39,6 +80,26 @@
         "retweets": 0,
         "stars": 0,
         "upvotes": 115
+      }
+    },
+    {
+      "id": "97f620b7cc9eb7c3051e3d9db6f6d449",
+      "title": "What used to take a 9-month build cycle now ships in 3 days with Replit.",
+      "url": "https://x.com/Replit/status/2047073273121247744",
+      "source": "twitter",
+      "source_author": "replit",
+      "topics": [],
+      "score": 9,
+      "score_reason": "Highlights a significant reduction in build cycle time, impacting developer efficiency.",
+      "posted": false,
+      "collected_at": "2026-04-23T03:59:13Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 35,
+        "replies": 2,
+        "retweets": 4,
+        "stars": 0,
+        "upvotes": 0
       }
     },
     {
@@ -82,6 +143,26 @@
       }
     },
     {
+      "id": "7c7422e135ea745cbf28dd01a5307c76",
+      "title": "Workspace agents can work across tools—pulling context from docs, email, chats, code, and systems,...",
+      "url": "https://x.com/OpenAI/status/2047008991944069624",
+      "source": "twitter",
+      "source_author": "OpenAI",
+      "topics": [],
+      "score": 9,
+      "score_reason": "Describes advanced functionalities for workspace agents that can improve workflows across multiple tools.",
+      "posted": false,
+      "collected_at": "2026-04-23T03:59:13Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 411,
+        "replies": 18,
+        "retweets": 20,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
       "id": "f059aacd6e597217c4ac38b5da18065c",
       "title": "OpenAI: Workspace Agents for Business",
       "url": "https://openai.com/business/workspace-agents/",
@@ -99,6 +180,26 @@
         "retweets": 0,
         "stars": 0,
         "upvotes": 47
+      }
+    },
+    {
+      "id": "a44e4919f754ac9d55e81306ee19c221",
+      "title": "We’re launching Gemini Enterprise Agent Platform with \n@GoogleCloud\n: a platform for businesses to...",
+      "url": "https://x.com/GoogleDeepMind/status/2046983340524269713",
+      "source": "twitter",
+      "source_author": "GoogleDeepMind",
+      "topics": [],
+      "score": 8.5,
+      "score_reason": "Launch of a new enterprise agent platform which could impact how businesses utilize AI.",
+      "posted": false,
+      "collected_at": "2026-04-23T03:59:13Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 1085,
+        "replies": 42,
+        "retweets": 141,
+        "stars": 0,
+        "upvotes": 0
       }
     },
     {
@@ -202,6 +303,26 @@
       }
     },
     {
+      "id": "9ccf249167457d37355d93e3b465d673",
+      "title": "We’ve post trained a model on top of Qwen that achieves Pareto optimality on accuracy-cost curves....",
+      "url": "https://x.com/AravSrinivas/status/2047019688920756504",
+      "source": "twitter",
+      "source_author": "AravSrinivas",
+      "topics": [],
+      "score": 8,
+      "score_reason": "Reports on an innovative post-training model that could enhance performance metrics in AI applications.",
+      "posted": false,
+      "collected_at": "2026-04-23T03:59:13Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 375,
+        "replies": 22,
+        "retweets": 26,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
       "id": "0370272463b3d6315a058ab46d668cc4",
       "title": "Show HN: Legal Action Boundary Eval for agentic legal workflows",
       "url": "https://github.com/bigkan8/legal-action-boundary-eval",
@@ -239,6 +360,46 @@
         "retweets": 0,
         "stars": 0,
         "upvotes": 35
+      }
+    },
+    {
+      "id": "59cdba45a6065cc462e5e80c72600b96",
+      "title": "AutoAdapt automates the design and tuning of domain adaptation workflows for large language models. ...",
+      "url": "https://x.com/MSFTResearch/status/2046991691895226631",
+      "source": "twitter",
+      "source_author": "MSFTResearch",
+      "topics": [],
+      "score": 7.5,
+      "score_reason": "Presents a tool for automating the workflow in domain adaptation which could be valuable for developers using LLMs.",
+      "posted": false,
+      "collected_at": "2026-04-23T03:59:13Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 46,
+        "replies": 2,
+        "retweets": 12,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "7e969ea0c071c183e72c6786c760c3cd",
+      "title": "nateherkai/token-dashboard",
+      "url": "https://github.com/nateherkai/token-dashboard",
+      "source": "github",
+      "source_author": "nateherkai",
+      "topics": [],
+      "score": 7.5,
+      "score_reason": "Introduces a fresh take on token dashboards, appealing to developers working with APIs.",
+      "posted": false,
+      "collected_at": "2026-04-23T03:56:02Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 203,
+        "upvotes": 0
       }
     },
     {
@@ -342,6 +503,26 @@
       }
     },
     {
+      "id": "71e9794330da708ab61b3ce4fcfd6cc3",
+      "title": "Last month, we published our look into what 81,000 people told us they want from AI.\n\nIn new researc...",
+      "url": "https://x.com/AnthropicAI/status/2047006548149289017",
+      "source": "twitter",
+      "source_author": "AnthropicAI",
+      "topics": [],
+      "score": 7,
+      "score_reason": "Highlights developer preferences related to AI, indicating areas for potential improvements in tools.",
+      "posted": false,
+      "collected_at": "2026-04-23T03:59:13Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 1725,
+        "replies": 146,
+        "retweets": 193,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
       "id": "50e45f1dcbc1b172039182aec69c6994",
       "title": "Show HN: MemReader: From Passive to Active Extraction for Long-Term Agent Memory",
       "url": "https://arxiv.org/abs/2604.07877",
@@ -379,6 +560,26 @@
         "retweets": 0,
         "stars": 0,
         "upvotes": 3
+      }
+    },
+    {
+      "id": "d0d870462ec9989219b2bf33be5ad85e",
+      "title": "EimanTahir027/MCP-powered-Agentic-RAG",
+      "url": "https://github.com/EimanTahir027/MCP-powered-Agentic-RAG",
+      "source": "github",
+      "source_author": "EimanTahir027",
+      "topics": [],
+      "score": 7,
+      "score_reason": "Explores agentic AI in the context of retrieval-augmented generation, relevant for current AI trends.",
+      "posted": false,
+      "collected_at": "2026-04-23T03:56:13Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 3,
+        "upvotes": 0
       }
     },
     {
@@ -459,6 +660,26 @@
         "retweets": 0,
         "stars": 0,
         "upvotes": 7
+      }
+    },
+    {
+      "id": "60ac1e51c54761c6d5a4da541128366b",
+      "title": "Michele Catasta (\n@pirroh\n) at Google Cloud Next talking about what's new with Gemini, agentic appli...",
+      "url": "https://x.com/MannyBernabe/status/2047064397726838839",
+      "source": "twitter",
+      "source_author": "replit",
+      "topics": [],
+      "score": 7,
+      "score_reason": "Discusses updates to Gemini, relevant for those following agentic AI developments.",
+      "posted": false,
+      "collected_at": "2026-04-23T03:59:13Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 21,
+        "replies": 2,
+        "retweets": 4,
+        "stars": 0,
+        "upvotes": 0
       }
     },
     {
@@ -582,6 +803,26 @@
       }
     },
     {
+      "id": "354b61c8fb1405f078751dbf43e40e5a",
+      "title": "And those in occupations that show high Claude usage—like software engineering—were more worried...",
+      "url": "https://x.com/AnthropicAI/status/2047006554403057776",
+      "source": "twitter",
+      "source_author": "AnthropicAI",
+      "topics": [],
+      "score": 6.5,
+      "score_reason": "Discusses concerns in software engineering occupations about AI use, relevant for industry insight.",
+      "posted": false,
+      "collected_at": "2026-04-23T03:59:13Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 206,
+        "replies": 17,
+        "retweets": 23,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
       "id": "143b8d9394e3a05f584e664e93866c80",
       "title": "Show HN: API Ingest – Agentic Search (Inter) API Docs",
       "url": "https://github.com/mohidbt/api-ingest",
@@ -599,6 +840,26 @@
         "retweets": 0,
         "stars": 0,
         "upvotes": 2
+      }
+    },
+    {
+      "id": "7291b2f4f2800e568bc0e2ee64d7263e",
+      "title": "kimlawtech/korean-contracts",
+      "url": "https://github.com/kimlawtech/korean-contracts",
+      "source": "github",
+      "source_author": "kimlawtech",
+      "topics": [],
+      "score": 6.5,
+      "score_reason": "Focuses on legal applications of AI, which is a nascent and growing field.",
+      "posted": false,
+      "collected_at": "2026-04-23T03:56:15Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 33,
+        "upvotes": 0
       }
     },
     {
@@ -759,6 +1020,26 @@
         "retweets": 0,
         "stars": 0,
         "upvotes": 1
+      }
+    },
+    {
+      "id": "18ecd4bde71203484abcbc4edca69bed",
+      "title": "injaneity/pi-computer-use",
+      "url": "https://github.com/injaneity/pi-computer-use",
+      "source": "github",
+      "source_author": "injaneity",
+      "topics": [],
+      "score": 6,
+      "score_reason": "Relevant for developers interested in monitoring computer usage with innovative insights.",
+      "posted": false,
+      "collected_at": "2026-04-23T03:56:07Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 271,
+        "upvotes": 0
       }
     },
     {
@@ -979,6 +1260,26 @@
         "retweets": 0,
         "stars": 0,
         "upvotes": 1
+      }
+    },
+    {
+      "id": "d135896fcdb45be9a442b201f27f7220",
+      "title": "Add Cursor to Slack: \nhttp://\ncursor.com/api/install-sl\nack-app\n…",
+      "url": "https://x.com/cursor_ai/status/2047000519043141766",
+      "source": "twitter",
+      "source_author": "cursor_ai",
+      "topics": [],
+      "score": 5,
+      "score_reason": "It's a Slack app integration that may not offer significant novelty.",
+      "posted": false,
+      "collected_at": "2026-04-23T03:59:13Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 36,
+        "replies": 7,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 0
       }
     },
     {
@@ -1222,6 +1523,66 @@
       }
     },
     {
+      "id": "4be1f4bdea0d95028c77fe637fb75096",
+      "title": "Jaxon1216/interview-analyzer-skill",
+      "url": "https://github.com/Jaxon1216/interview-analyzer-skill",
+      "source": "github",
+      "source_author": "Jaxon1216",
+      "topics": [],
+      "score": 5,
+      "score_reason": "unscored",
+      "posted": false,
+      "collected_at": "2026-04-23T03:56:19Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 9,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "4cf73c9b566c096aa89374447e5486fa",
+      "title": "It gives access to 200+ of the world’s leading models through the Model Garden.\n\nThis includes our...",
+      "url": "https://x.com/GoogleDeepMind/status/2046983343481270459",
+      "source": "twitter",
+      "source_author": "GoogleDeepMind",
+      "topics": [],
+      "score": 5,
+      "score_reason": "unscored",
+      "posted": false,
+      "collected_at": "2026-04-23T03:59:13Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 122,
+        "replies": 4,
+        "retweets": 8,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "ea8b4ee707b6143390dc26b28c5f9f53",
+      "title": "lidge-jun/ima2-gen",
+      "url": "https://github.com/lidge-jun/ima2-gen",
+      "source": "github",
+      "source_author": "lidge-jun",
+      "topics": [],
+      "score": 5,
+      "score_reason": "unscored",
+      "posted": false,
+      "collected_at": "2026-04-23T03:56:04Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 32,
+        "upvotes": 0
+      }
+    },
+    {
       "id": "6660bff1fed69071d78b04a53a4eb912",
       "title": "I'm Using Claude Code for Everything Else but Coding",
       "url": "https://chandlernguyen.com/blog/2026/04/22/im-using-claude-code-for-everything-else-but-coding/",
@@ -1299,6 +1660,46 @@
         "retweets": 0,
         "stars": 0,
         "upvotes": 1
+      }
+    },
+    {
+      "id": "2b3333ad5187556fa625bc0f75cc6c4c",
+      "title": "chrisryugj/korean-dart-mcp",
+      "url": "https://github.com/chrisryugj/korean-dart-mcp",
+      "source": "github",
+      "source_author": "chrisryugj",
+      "topics": [],
+      "score": 5,
+      "score_reason": "Explores a unique domain but lacks visibility and clear appeal to developers.",
+      "posted": false,
+      "collected_at": "2026-04-23T03:56:15Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 31,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "acd940641c363c6439f96dc45a419844",
+      "title": "To truly understand AI’s economic impact, we’ll need to collect much more qualitative data like ...",
+      "url": "https://x.com/AnthropicAI/status/2047006557183897664",
+      "source": "twitter",
+      "source_author": "AnthropicAI",
+      "topics": [],
+      "score": 5,
+      "score_reason": "unscored",
+      "posted": false,
+      "collected_at": "2026-04-23T03:59:13Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 109,
+        "replies": 11,
+        "retweets": 9,
+        "stars": 0,
+        "upvotes": 0
       }
     },
     {
@@ -1382,6 +1783,26 @@
       }
     },
     {
+      "id": "fe1ee0c88418c5ec6201ec1a7059aae7",
+      "title": "dezgit2025/auto-memory",
+      "url": "https://github.com/dezgit2025/auto-memory",
+      "source": "github",
+      "source_author": "dezgit2025",
+      "topics": [],
+      "score": 5,
+      "score_reason": "Github project with initial interest but no significant engagement, indicating limited impact.",
+      "posted": false,
+      "collected_at": "2026-04-23T03:56:24Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 103,
+        "upvotes": 0
+      }
+    },
+    {
       "id": "fcc6417bdaefa897ac5b6bb4419d54a6",
       "title": "OpClave- council of LLMs to get one synthesized answer",
       "url": "https://www.opclave.com",
@@ -1399,6 +1820,46 @@
         "retweets": 0,
         "stars": 0,
         "upvotes": 1
+      }
+    },
+    {
+      "id": "57a13fa6caa08dcc399ad590f733f8ce",
+      "title": "Yaolinwang/AITD",
+      "url": "https://github.com/Yaolinwang/AITD",
+      "source": "github",
+      "source_author": "Yaolinwang",
+      "topics": [],
+      "score": 5,
+      "score_reason": "unscored",
+      "posted": false,
+      "collected_at": "2026-04-23T03:56:24Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 150,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "0147d9cd57633cd9b9080fcef81e4b31",
+      "title": "pratikyadav0205/CL4TIS25",
+      "url": "https://github.com/pratikyadav0205/CL4TIS25",
+      "source": "github",
+      "source_author": "pratikyadav0205",
+      "topics": [],
+      "score": 5,
+      "score_reason": "unscored",
+      "posted": false,
+      "collected_at": "2026-04-23T03:56:22Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
+        "upvotes": 0
       }
     },
     {
@@ -1442,6 +1903,26 @@
       }
     },
     {
+      "id": "0c97f0626e401339ab18d59273edc7d4",
+      "title": "Mention @​Cursor to kick off tasks in Slack and see updates of its work streaming in real time.\n\nC...",
+      "url": "https://x.com/cursor_ai/status/2047000517751288303",
+      "source": "twitter",
+      "source_author": "cursor_ai",
+      "topics": [],
+      "score": 4.5,
+      "score_reason": "An integration within Slack, though not highly engaging, indicates a new trend in task management.",
+      "posted": false,
+      "collected_at": "2026-04-23T03:59:13Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 791,
+        "replies": 37,
+        "retweets": 66,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
       "id": "f9a7b1c046ae496ab67617a859c5f020",
       "title": "Why Gen AI Isn't Quite Cost-Effective at Creating 3D Game Worlds",
       "url": "https://wjamesau.substack.com/p/why-gen-ai-isnt-quite-cost-effective",
@@ -1479,6 +1960,26 @@
         "retweets": 0,
         "stars": 0,
         "upvotes": 1
+      }
+    },
+    {
+      "id": "e80f8a14531d77cf613efb56d235f9ac",
+      "title": "jwangkun/hermes-agent-guide",
+      "url": "https://github.com/jwangkun/hermes-agent-guide",
+      "source": "github",
+      "source_author": "jwangkun",
+      "topics": [],
+      "score": 4.5,
+      "score_reason": "Provides introductory guidance for agentic technologies, but not innovative enough.",
+      "posted": false,
+      "collected_at": "2026-04-23T03:56:18Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 21,
+        "upvotes": 0
       }
     },
     {
@@ -1542,6 +2043,26 @@
       }
     },
     {
+      "id": "36dedd1cd0e0b6361f54b413ec5835c2",
+      "title": "This #EarthDay marks 10 years of Ai2 helping get real-time intelligence into the hands of the people...",
+      "url": "https://x.com/allen_ai/status/2047048252499849586",
+      "source": "twitter",
+      "source_author": "Allen_AI",
+      "topics": [],
+      "score": 4,
+      "score_reason": "Milestones for an organization that may interest ecosystem participants but offers no new insights.",
+      "posted": false,
+      "collected_at": "2026-04-23T03:59:13Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 1,
+        "replies": 2,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
       "id": "d2f3f4e9db2ccdd25cca0679181eab46",
       "title": "Anthropic Economic Index Survey",
       "url": "https://www.anthropic.com/research/economic-index-survey-announcement",
@@ -1599,6 +2120,26 @@
         "retweets": 0,
         "stars": 0,
         "upvotes": 1
+      }
+    },
+    {
+      "id": "7943dbffe68dd75836df72e843d9d885",
+      "title": "bryant24hao/deskpet-firmware",
+      "url": "https://github.com/bryant24hao/deskpet-firmware",
+      "source": "github",
+      "source_author": "bryant24hao",
+      "topics": [],
+      "score": 4,
+      "score_reason": "Though it has potential, it seems limited in application and engagement.",
+      "posted": false,
+      "collected_at": "2026-04-23T03:56:03Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 19,
+        "upvotes": 0
       }
     },
     {
@@ -1702,6 +2243,26 @@
       }
     },
     {
+      "id": "f1fc692e26ff2e71aba020182099b1f1",
+      "title": "OlmoEarth is our open foundation model for Earth observation, built to help accelerate how AI is app...",
+      "url": "https://x.com/allen_ai/status/2047048256757076206",
+      "source": "twitter",
+      "source_author": "Allen_AI",
+      "topics": [],
+      "score": 3.5,
+      "score_reason": "Limited engagement with the project focused on Earth observation, not directly aimed at developers.",
+      "posted": false,
+      "collected_at": "2026-04-23T03:59:13Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 1,
+        "replies": 1,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
       "id": "e30a979fbda0d851e85e8f1b92fddd95",
       "title": "A 'Barbaric' Problem in American Hospitals Is Only Getting Bigger",
       "url": "https://www.theatlantic.com/health/2026/04/emergency-department-boarding-crisis/686765/",
@@ -1799,6 +2360,26 @@
         "retweets": 0,
         "stars": 0,
         "upvotes": 2
+      }
+    },
+    {
+      "id": "b2e8f6e1e9f1a4e494f81b73a8af4bfe",
+      "title": "abrahamcasanova/meeseeks-hive",
+      "url": "https://github.com/abrahamcasanova/meeseeks-hive",
+      "source": "github",
+      "source_author": "abrahamcasanova",
+      "topics": [],
+      "score": 3,
+      "score_reason": "Minimal interest or engagement, indicating a lack of broader relevance.",
+      "posted": false,
+      "collected_at": "2026-04-23T03:56:14Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 3,
+        "upvotes": 0
       }
     },
     {
@@ -1942,6 +2523,26 @@
       }
     },
     {
+      "id": "6a765aa9415d51c7bf8dedde1346876e",
+      "title": "kernullist/windbg-decompile-ext",
+      "url": "https://github.com/kernullist/windbg-decompile-ext",
+      "source": "github",
+      "source_author": "kernullist",
+      "topics": [],
+      "score": 3,
+      "score_reason": "Accessible project with preliminary interest but no notable features or engagement.",
+      "posted": false,
+      "collected_at": "2026-04-23T03:56:23Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 68,
+        "upvotes": 0
+      }
+    },
+    {
       "id": "cb0866ab4687391590447373bc08910c",
       "title": "Andreessen, Thrive Poised for Windfall from SpaceX's Cursor Bid",
       "url": "https://www.bloomberg.com/news/articles/2026-04-22/andreessen-thrive-poised-for-windfall-from-spacex-s-cursor-bid",
@@ -1959,6 +2560,26 @@
         "retweets": 0,
         "stars": 0,
         "upvotes": 1
+      }
+    },
+    {
+      "id": "560012c0b341088179d42b89b7684e81",
+      "title": "RonieNeubauer/cli2mcp",
+      "url": "https://github.com/RonieNeubauer/cli2mcp",
+      "source": "github",
+      "source_author": "RonieNeubauer",
+      "topics": [],
+      "score": 3,
+      "score_reason": "Limited application and no engagement, making it less relevant.",
+      "posted": false,
+      "collected_at": "2026-04-23T03:56:20Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 4,
+        "upvotes": 0
       }
     },
     {
@@ -2022,6 +2643,26 @@
       }
     },
     {
+      "id": "39905a9518c92b2bd878fb6fad46d8a1",
+      "title": "P-r-e-m-i-u-m/weekly-builds-community",
+      "url": "https://github.com/P-r-e-m-i-u-m/weekly-builds-community",
+      "source": "github",
+      "source_author": "P-r-e-m-i-u-m",
+      "topics": [],
+      "score": 2.5,
+      "score_reason": "Seems like a community project but lacks clarity and traction.",
+      "posted": false,
+      "collected_at": "2026-04-23T03:56:09Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 2,
+        "upvotes": 0
+      }
+    },
+    {
       "id": "bcc5afab0720b534df7f1ab00d7ba5f7",
       "title": "ICE Got My Data – EFFector 38.8",
       "url": "https://www.eff.org/deeplinks/2026/04/how-ice-got-my-data-effector-388",
@@ -2039,6 +2680,26 @@
         "retweets": 0,
         "stars": 0,
         "upvotes": 5
+      }
+    },
+    {
+      "id": "ba7dc55e8be90ac191d7d3843b71d55f",
+      "title": "Earlier this month, the inaugural Runway AI Summit brought together over 700 leaders across media, e...",
+      "url": "https://x.com/runwayml/status/2046989086771069202",
+      "source": "twitter",
+      "source_author": "RunwayML",
+      "topics": [],
+      "score": 2,
+      "score_reason": "An event report that lacks actionable content for developers.",
+      "posted": false,
+      "collected_at": "2026-04-23T03:59:13Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 50,
+        "replies": 8,
+        "retweets": 9,
+        "stars": 0,
+        "upvotes": 0
       }
     },
     {
@@ -2142,6 +2803,66 @@
       }
     },
     {
+      "id": "c4ef68fafcbeebf4a79a8c1f61ce5670",
+      "title": "bielsant/etl-genai-local",
+      "url": "https://github.com/bielsant/etl-genai-local",
+      "source": "github",
+      "source_author": "bielsant",
+      "topics": [],
+      "score": 2,
+      "score_reason": "Barely relevant and insufficient detail to attract interest.",
+      "posted": false,
+      "collected_at": "2026-04-23T03:56:09Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "d7a367b782c8e42849e5fa2dba41fb89",
+      "title": "valuemomentum-enterprise-QE/Devin",
+      "url": "https://github.com/valuemomentum-enterprise-QE/Devin",
+      "source": "github",
+      "source_author": "valuemomentum-enterprise-QE",
+      "topics": [],
+      "score": 2,
+      "score_reason": "No engagement and unclear value added for developers.",
+      "posted": false,
+      "collected_at": "2026-04-23T03:56:22Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "f7bd64134b51786f999eec78fa905c68",
+      "title": "msrikanthkan/devin",
+      "url": "https://github.com/msrikanthkan/devin",
+      "source": "github",
+      "source_author": "msrikanthkan",
+      "topics": [],
+      "score": 2,
+      "score_reason": "Another low-engagement Github project with no clear advantages for developers.",
+      "posted": false,
+      "collected_at": "2026-04-23T03:56:22Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
       "id": "1482a56de14d9f2c3d203e2fd13918a6",
       "title": "Anthropic's Leaked Code Tests Copyright Challenges in A.I. Era",
       "url": "https://www.nytimes.com/2026/04/22/technology/anthropic-code-leak-copyright.html",
@@ -2219,6 +2940,46 @@
         "retweets": 0,
         "stars": 0,
         "upvotes": 2
+      }
+    },
+    {
+      "id": "f21838ad06f0cfb3b905f92a1fa0a6cc",
+      "title": "Yimikami/cursor-byok",
+      "url": "https://github.com/Yimikami/cursor-byok",
+      "source": "github",
+      "source_author": "Yimikami",
+      "topics": [],
+      "score": 1.5,
+      "score_reason": "No engagement, suggesting it's not particularly interesting to developers.",
+      "posted": false,
+      "collected_at": "2026-04-23T03:56:19Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 8,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "15401a5c70c9130bf519c714f01d19a3",
+      "title": "wuyoscar/gpt_image_2_skill",
+      "url": "https://github.com/wuyoscar/gpt_image_2_skill",
+      "source": "github",
+      "source_author": "wuyoscar",
+      "topics": [],
+      "score": 1.5,
+      "score_reason": "Lacks innovation, visibility, and specific targeting of developers.",
+      "posted": false,
+      "collected_at": "2026-04-23T03:56:19Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 16,
+        "upvotes": 0
       }
     },
     {
@@ -2322,6 +3083,46 @@
       }
     },
     {
+      "id": "2a07ef5e18f29589c8178645c1bb6541",
+      "title": "hotcoding85/Genai-home-assignment",
+      "url": "https://github.com/hotcoding85/Genai-home-assignment",
+      "source": "github",
+      "source_author": "hotcoding85",
+      "topics": [],
+      "score": 1,
+      "score_reason": "Seems unrelated to current developer interests and trends.",
+      "posted": false,
+      "collected_at": "2026-04-23T03:56:09Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "26732ba60a3b66bd43293d4b4b3f4d98",
+      "title": "Access all talks on demand at:",
+      "url": "https://x.com/runwayml/status/2046989408352497944",
+      "source": "twitter",
+      "source_author": "RunwayML",
+      "topics": [],
+      "score": 1,
+      "score_reason": "Very low engagement report with no substance for developers.",
+      "posted": false,
+      "collected_at": "2026-04-23T03:59:13Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 7,
+        "replies": 1,
+        "retweets": 1,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
       "id": "095635340a66e4f53f79c7c118e16830",
       "title": "Show HN: I made a simpler API for Chrome's on-device LLM",
       "url": "https://www.npmjs.com/package/simple-chromium-ai",
@@ -2359,6 +3160,46 @@
         "retweets": 0,
         "stars": 0,
         "upvotes": 1
+      }
+    },
+    {
+      "id": "487a2851d5d74bd316f233d72ed91d24",
+      "title": "NomaDamas/god-tibo-imagen",
+      "url": "https://github.com/NomaDamas/god-tibo-imagen",
+      "source": "github",
+      "source_author": "NomaDamas",
+      "topics": [],
+      "score": 1,
+      "score_reason": "Appears disconnected from both broader technology themes and trends.",
+      "posted": false,
+      "collected_at": "2026-04-23T03:56:06Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 27,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "3b7a6eac72a6744e1f3d4ffce9374b9b",
+      "title": "zykkk-power/qqbot-remind-absolute-skill",
+      "url": "https://github.com/zykkk-power/qqbot-remind-absolute-skill",
+      "source": "github",
+      "source_author": "zykkk-power",
+      "topics": [],
+      "score": 1,
+      "score_reason": "Not relevant and lacks any significant features or appeal.",
+      "posted": false,
+      "collected_at": "2026-04-23T03:56:18Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 11,
+        "upvotes": 0
       }
     },
     {
@@ -2400,8 +3241,27 @@
         "stars": 0,
         "upvotes": 4
       }
+    },
+    {
+      "id": "2d1f8edf4ee6e35ef359536d13f82002",
+      "title": "2boysfromtown/hyperframes-motion",
+      "url": "https://github.com/2boysfromtown/hyperframes-motion",
+      "source": "github",
+      "source_author": "2boysfromtown",
+      "topics": [],
+      "score": 1,
+      "score_reason": "No visibility and minimal technical depth noted.",
+      "posted": false,
+      "collected_at": "2026-04-23T03:56:12Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
+        "upvotes": 0
+      }
     }
   ],
-  "source": "hackernews",
   "updated_at": "2026-04-23T04:00:55Z"
 }
