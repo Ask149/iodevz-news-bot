@@ -1,347 +1,47 @@
 {
-  "count": 17,
+  "count": 2,
   "items": [
     {
-      "id": "70fc53ba5fba77c232997be641bf5600",
-      "title": "Introducing workspace agents in ChatGPT—shared agents that can handle complex tasks and long-runni...",
-      "url": "https://x.com/OpenAI/status/2047008987665809771",
-      "source": "twitter",
-      "source_author": "OpenAI",
-      "topics": [],
-      "score": 9.5,
-      "score_reason": "Introduces new capabilities in ChatGPT that can significantly enhance developer productivity.",
-      "posted": false,
-      "collected_at": "2026-04-23T03:59:13Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 13770,
-        "replies": 573,
-        "retweets": 1929,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "97f620b7cc9eb7c3051e3d9db6f6d449",
-      "title": "What used to take a 9-month build cycle now ships in 3 days with Replit.",
-      "url": "https://x.com/Replit/status/2047073273121247744",
-      "source": "twitter",
-      "source_author": "replit",
-      "topics": [],
-      "score": 9,
-      "score_reason": "Highlights a significant reduction in build cycle time, impacting developer efficiency.",
-      "posted": false,
-      "collected_at": "2026-04-23T03:59:13Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 35,
-        "replies": 2,
-        "retweets": 4,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "7c7422e135ea745cbf28dd01a5307c76",
-      "title": "Workspace agents can work across tools—pulling context from docs, email, chats, code, and systems,...",
-      "url": "https://x.com/OpenAI/status/2047008991944069624",
-      "source": "twitter",
-      "source_author": "OpenAI",
-      "topics": [],
-      "score": 9,
-      "score_reason": "Describes advanced functionalities for workspace agents that can improve workflows across multiple tools.",
-      "posted": false,
-      "collected_at": "2026-04-23T03:59:13Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 411,
-        "replies": 18,
-        "retweets": 20,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "a44e4919f754ac9d55e81306ee19c221",
-      "title": "We’re launching Gemini Enterprise Agent Platform with \n@GoogleCloud\n: a platform for businesses to...",
-      "url": "https://x.com/GoogleDeepMind/status/2046983340524269713",
+      "id": "793d56fb8e2f7d87f6bb67411d46ca4f",
+      "title": "Meet Vision Banana  from \n@GoogleDeepMind\n! We provide strong evidence that image generators are gen...",
+      "url": "https://x.com/RSoricut/status/2047119197319393615",
       "source": "twitter",
       "source_author": "GoogleDeepMind",
       "topics": [],
-      "score": 8.5,
-      "score_reason": "Launch of a new enterprise agent platform which could impact how businesses utilize AI.",
+      "score": 9,
+      "score_reason": "High engagement indicates major interest in advancements of image generation.",
       "posted": false,
-      "collected_at": "2026-04-23T03:59:13Z",
+      "collected_at": "2026-04-23T14:23:28Z",
       "engagement": {
         "comments": 0,
-        "likes": 1085,
-        "replies": 42,
-        "retweets": 141,
+        "likes": 426,
+        "replies": 19,
+        "retweets": 67,
         "stars": 0,
         "upvotes": 0
       }
     },
     {
-      "id": "9ccf249167457d37355d93e3b465d673",
-      "title": "We’ve post trained a model on top of Qwen that achieves Pareto optimality on accuracy-cost curves....",
-      "url": "https://x.com/AravSrinivas/status/2047019688920756504",
-      "source": "twitter",
-      "source_author": "AravSrinivas",
-      "topics": [],
-      "score": 8,
-      "score_reason": "Reports on an innovative post-training model that could enhance performance metrics in AI applications.",
-      "posted": false,
-      "collected_at": "2026-04-23T03:59:13Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 375,
-        "replies": 22,
-        "retweets": 26,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "59cdba45a6065cc462e5e80c72600b96",
-      "title": "AutoAdapt automates the design and tuning of domain adaptation workflows for large language models. ...",
-      "url": "https://x.com/MSFTResearch/status/2046991691895226631",
-      "source": "twitter",
-      "source_author": "MSFTResearch",
-      "topics": [],
-      "score": 7.5,
-      "score_reason": "Presents a tool for automating the workflow in domain adaptation which could be valuable for developers using LLMs.",
-      "posted": false,
-      "collected_at": "2026-04-23T03:59:13Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 46,
-        "replies": 2,
-        "retweets": 12,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "71e9794330da708ab61b3ce4fcfd6cc3",
-      "title": "Last month, we published our look into what 81,000 people told us they want from AI.\n\nIn new researc...",
-      "url": "https://x.com/AnthropicAI/status/2047006548149289017",
-      "source": "twitter",
-      "source_author": "AnthropicAI",
-      "topics": [],
-      "score": 7,
-      "score_reason": "Highlights developer preferences related to AI, indicating areas for potential improvements in tools.",
-      "posted": false,
-      "collected_at": "2026-04-23T03:59:13Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 1725,
-        "replies": 146,
-        "retweets": 193,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "60ac1e51c54761c6d5a4da541128366b",
-      "title": "Michele Catasta (\n@pirroh\n) at Google Cloud Next talking about what's new with Gemini, agentic appli...",
-      "url": "https://x.com/MannyBernabe/status/2047064397726838839",
-      "source": "twitter",
-      "source_author": "replit",
-      "topics": [],
-      "score": 7,
-      "score_reason": "Discusses updates to Gemini, relevant for those following agentic AI developments.",
-      "posted": false,
-      "collected_at": "2026-04-23T03:59:13Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 21,
-        "replies": 2,
-        "retweets": 4,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "354b61c8fb1405f078751dbf43e40e5a",
-      "title": "And those in occupations that show high Claude usage—like software engineering—were more worried...",
-      "url": "https://x.com/AnthropicAI/status/2047006554403057776",
-      "source": "twitter",
-      "source_author": "AnthropicAI",
-      "topics": [],
-      "score": 6.5,
-      "score_reason": "Discusses concerns in software engineering occupations about AI use, relevant for industry insight.",
-      "posted": false,
-      "collected_at": "2026-04-23T03:59:13Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 206,
-        "replies": 17,
-        "retweets": 23,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "d135896fcdb45be9a442b201f27f7220",
-      "title": "Add Cursor to Slack: \nhttp://\ncursor.com/api/install-sl\nack-app\n…",
-      "url": "https://x.com/cursor_ai/status/2047000519043141766",
-      "source": "twitter",
-      "source_author": "cursor_ai",
-      "topics": [],
-      "score": 5,
-      "score_reason": "It's a Slack app integration that may not offer significant novelty.",
-      "posted": false,
-      "collected_at": "2026-04-23T03:59:13Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 36,
-        "replies": 7,
-        "retweets": 0,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "4cf73c9b566c096aa89374447e5486fa",
-      "title": "It gives access to 200+ of the world’s leading models through the Model Garden.\n\nThis includes our...",
-      "url": "https://x.com/GoogleDeepMind/status/2046983343481270459",
-      "source": "twitter",
-      "source_author": "GoogleDeepMind",
-      "topics": [],
-      "score": 5,
-      "score_reason": "unscored",
-      "posted": false,
-      "collected_at": "2026-04-23T03:59:13Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 122,
-        "replies": 4,
-        "retweets": 8,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "acd940641c363c6439f96dc45a419844",
-      "title": "To truly understand AI’s economic impact, we’ll need to collect much more qualitative data like ...",
-      "url": "https://x.com/AnthropicAI/status/2047006557183897664",
-      "source": "twitter",
-      "source_author": "AnthropicAI",
-      "topics": [],
-      "score": 5,
-      "score_reason": "unscored",
-      "posted": false,
-      "collected_at": "2026-04-23T03:59:13Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 109,
-        "replies": 11,
-        "retweets": 9,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "0c97f0626e401339ab18d59273edc7d4",
-      "title": "Mention @​Cursor to kick off tasks in Slack and see updates of its work streaming in real time.\n\nC...",
-      "url": "https://x.com/cursor_ai/status/2047000517751288303",
-      "source": "twitter",
-      "source_author": "cursor_ai",
-      "topics": [],
-      "score": 4.5,
-      "score_reason": "An integration within Slack, though not highly engaging, indicates a new trend in task management.",
-      "posted": false,
-      "collected_at": "2026-04-23T03:59:13Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 791,
-        "replies": 37,
-        "retweets": 66,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "36dedd1cd0e0b6361f54b413ec5835c2",
-      "title": "This #EarthDay marks 10 years of Ai2 helping get real-time intelligence into the hands of the people...",
-      "url": "https://x.com/allen_ai/status/2047048252499849586",
-      "source": "twitter",
-      "source_author": "Allen_AI",
-      "topics": [],
-      "score": 4,
-      "score_reason": "Milestones for an organization that may interest ecosystem participants but offers no new insights.",
-      "posted": false,
-      "collected_at": "2026-04-23T03:59:13Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 1,
-        "replies": 2,
-        "retweets": 0,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "f1fc692e26ff2e71aba020182099b1f1",
-      "title": "OlmoEarth is our open foundation model for Earth observation, built to help accelerate how AI is app...",
-      "url": "https://x.com/allen_ai/status/2047048256757076206",
-      "source": "twitter",
-      "source_author": "Allen_AI",
-      "topics": [],
-      "score": 3.5,
-      "score_reason": "Limited engagement with the project focused on Earth observation, not directly aimed at developers.",
-      "posted": false,
-      "collected_at": "2026-04-23T03:59:13Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 1,
-        "replies": 1,
-        "retweets": 0,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "ba7dc55e8be90ac191d7d3843b71d55f",
-      "title": "Earlier this month, the inaugural Runway AI Summit brought together over 700 leaders across media, e...",
-      "url": "https://x.com/runwayml/status/2046989086771069202",
+      "id": "603e05f0e135f37c2fdcf6ba3e395011",
+      "title": "Runway meetup in Tokyo, Japan. Huge shoutout to Miho, Hero, and Yves for organizing a fantastic comm...",
+      "url": "https://x.com/c_valenzuelab/status/2047308315928006912",
       "source": "twitter",
       "source_author": "RunwayML",
       "topics": [],
-      "score": 2,
-      "score_reason": "An event report that lacks actionable content for developers.",
+      "score": 3,
+      "score_reason": "Although community-focused, it isn’t directly impactful on developer tools.",
       "posted": false,
-      "collected_at": "2026-04-23T03:59:13Z",
+      "collected_at": "2026-04-23T14:23:28Z",
       "engagement": {
         "comments": 0,
-        "likes": 50,
-        "replies": 8,
-        "retweets": 9,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "26732ba60a3b66bd43293d4b4b3f4d98",
-      "title": "Access all talks on demand at:",
-      "url": "https://x.com/runwayml/status/2046989408352497944",
-      "source": "twitter",
-      "source_author": "RunwayML",
-      "topics": [],
-      "score": 1,
-      "score_reason": "Very low engagement report with no substance for developers.",
-      "posted": false,
-      "collected_at": "2026-04-23T03:59:13Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 7,
-        "replies": 1,
-        "retweets": 1,
+        "likes": 32,
+        "replies": 3,
+        "retweets": 2,
         "stars": 0,
         "upvotes": 0
       }
     }
   ],
   "source": "twitter",
-  "updated_at": "2026-04-23T04:00:55Z"
+  "updated_at": "2026-04-23T14:24:36Z"
 }
