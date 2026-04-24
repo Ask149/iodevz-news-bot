@@ -1,41 +1,161 @@
 {
-  "count": 2,
+  "count": 8,
   "items": [
     {
-      "id": "793d56fb8e2f7d87f6bb67411d46ca4f",
-      "title": "Meet Vision Banana  from \n@GoogleDeepMind\n! We provide strong evidence that image generators are gen...",
-      "url": "https://x.com/RSoricut/status/2047119197319393615",
+      "id": "45dfa6f6e2e849b489b9260b8335f047",
+      "title": "Introducing GPT-5.5\n\nA new class of intelligence for real work and powering agents, built to underst...",
+      "url": "https://x.com/OpenAI/status/2047376561205325845",
       "source": "twitter",
-      "source_author": "GoogleDeepMind",
+      "source_author": "OpenAI",
       "topics": [],
-      "score": 9,
-      "score_reason": "High engagement indicates major interest in advancements of image generation.",
+      "score": 9.5,
+      "score_reason": "GPT-5.5 introduces significant advancements that fundamentally affect developer workflows.",
       "posted": false,
-      "collected_at": "2026-04-23T14:23:28Z",
+      "collected_at": "2026-04-24T04:02:33Z",
       "engagement": {
         "comments": 0,
-        "likes": 426,
-        "replies": 19,
-        "retweets": 67,
+        "likes": 41342,
+        "replies": 1902,
+        "retweets": 8629,
         "stars": 0,
         "upvotes": 0
       }
     },
     {
-      "id": "603e05f0e135f37c2fdcf6ba3e395011",
-      "title": "Runway meetup in Tokyo, Japan. Huge shoutout to Miho, Hero, and Yves for organizing a fantastic comm...",
-      "url": "https://x.com/c_valenzuelab/status/2047308315928006912",
+      "id": "6d9571375a35da2884fd19b0b8d4a3c4",
+      "title": "In ChatGPT, full-stack inference improvements enable a more capable model at faster speed. This effi...",
+      "url": "https://x.com/OpenAI/status/2047376567559668222",
       "source": "twitter",
-      "source_author": "RunwayML",
+      "source_author": "OpenAI",
       "topics": [],
-      "score": 3,
-      "score_reason": "Although community-focused, it isn’t directly impactful on developer tools.",
+      "score": 8,
+      "score_reason": "Improvements in ChatGPT represent meaningful upgrades that can enhance development efficiency.",
       "posted": false,
-      "collected_at": "2026-04-23T14:23:28Z",
+      "collected_at": "2026-04-24T04:02:33Z",
       "engagement": {
         "comments": 0,
-        "likes": 32,
-        "replies": 3,
+        "likes": 1622,
+        "replies": 20,
+        "retweets": 68,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "eb9a79845b7d2bd1498be6a25342b24c",
+      "title": "This is Decoupled DiLoCo: our new resilient and flexible way to train advanced AI models across mult...",
+      "url": "https://x.com/GoogleDeepMind/status/2047330981145669790",
+      "source": "twitter",
+      "source_author": "GoogleDeepMind",
+      "topics": [],
+      "score": 7.5,
+      "score_reason": "Decoupled DiLoCo could change how models are trained, impacting developers working on AI systems.",
+      "posted": false,
+      "collected_at": "2026-04-24T04:02:33Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 1024,
+        "replies": 58,
+        "retweets": 171,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "b76236752d5c7177312c6e3e16766b29",
+      "title": "Gemini Embedding 2 is now generally available in the Gemini API and Vertex AI!\n\nStart building with ...",
+      "url": "https://x.com/googleaidevs/status/2046990222408200316",
+      "source": "twitter",
+      "source_author": "GoogleDeepMind",
+      "topics": [],
+      "score": 7,
+      "score_reason": "Gemini Embedding 2's availability in the API can open new possibilities for developers but lacks groundbreaking novelty.",
+      "posted": false,
+      "collected_at": "2026-04-24T04:02:33Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 2866,
+        "replies": 64,
+        "retweets": 360,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "4acfc341ae7a10976c1c09e752349484",
+      "title": "Last week, we launched Gemini 3.1 TTS, our latest and best text-to-speech model. This new model intr...",
+      "url": "https://x.com/GoogleAI/status/2047377023656436013",
+      "source": "twitter",
+      "source_author": "GoogleAI",
+      "topics": [],
+      "score": 3.5,
+      "score_reason": "While TTS improvements are notable, they are more incremental than transformative at this point.",
+      "posted": false,
+      "collected_at": "2026-04-24T04:02:33Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 390,
+        "replies": 29,
+        "retweets": 54,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "393afee0cc84b6fa8a81efa76540ae1a",
+      "title": "Congratulations to Philippe Laban, Jennifer Neville, and collaborators on their Best Paper Award at ...",
+      "url": "https://x.com/MSFTResearch/status/2047354622377906505",
+      "source": "twitter",
+      "source_author": "MSFTResearch",
+      "topics": [],
+      "score": 3,
+      "score_reason": "The award recognition is noteworthy, but it does not directly impact developer practices.",
+      "posted": false,
+      "collected_at": "2026-04-24T04:02:33Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 146,
+        "replies": 11,
+        "retweets": 25,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "df2263e8dbe0f51748f4778b071ec758",
+      "title": "OlmoEarth Studio now lets you compute \u0026 export custom embedding vectors from our OlmoEarth foundatio...",
+      "url": "https://x.com/allen_ai/status/2047404399983505676",
+      "source": "twitter",
+      "source_author": "Allen_AI",
+      "topics": [],
+      "score": 2.5,
+      "score_reason": "OlmoEarth Studio's new feature lacks significant novelty or engagement, limiting its impact.",
+      "posted": false,
+      "collected_at": "2026-04-24T04:02:33Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 36,
+        "replies": 2,
+        "retweets": 3,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "a279f5f8787c3725b22a200ee80b6671",
+      "title": " Day 21 of the \n@cursor_ai\n #vibejam\n\nProudly sponsored by \n@cursor_ai\n + \n@boltdotnew\n + \n@heyglif\n...",
+      "url": "https://x.com/levelsio/status/2047445128827047972",
+      "source": "twitter",
+      "source_author": "levelsio",
+      "topics": [],
+      "score": 1.5,
+      "score_reason": "The event is low on substance and relevance for developers.",
+      "posted": false,
+      "collected_at": "2026-04-24T04:02:33Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 53,
+        "replies": 19,
         "retweets": 2,
         "stars": 0,
         "upvotes": 0
@@ -43,5 +163,5 @@
     }
   ],
   "source": "twitter",
-  "updated_at": "2026-04-23T14:24:36Z"
+  "updated_at": "2026-04-24T04:04:30Z"
 }
