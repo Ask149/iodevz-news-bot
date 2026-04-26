@@ -1,127 +1,167 @@
 {
-  "count": 6,
+  "count": 8,
   "items": [
     {
-      "id": "1bca23a96b662e449fdad7bca72c5291",
-      "title": "ksimback/tech-debt-skill",
-      "url": "https://github.com/ksimback/tech-debt-skill",
+      "id": "d734edf82b5fc41b2d6cb0e5a2041214",
+      "title": "mage0535/vibe-coding-universal",
+      "url": "https://github.com/mage0535/vibe-coding-universal",
       "source": "github",
-      "source_author": "ksimback",
+      "source_author": "mage0535",
+      "topics": [],
+      "score": 6,
+      "score_reason": "Has potential for creative coding, moderate relevance.",
+      "posted": false,
+      "collected_at": "2026-04-26T13:48:01Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 18,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "a9cc0ea0df8dcc49c09e44d1bb9860d2",
+      "title": "drhalto/agentmako",
+      "url": "https://github.com/drhalto/agentmako",
+      "source": "github",
+      "source_author": "drhalto",
+      "topics": [],
+      "score": 5,
+      "score_reason": "Interesting concept, but limited engagement seen.",
+      "posted": false,
+      "collected_at": "2026-04-26T13:48:01Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 10,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "49ad9202ee23b7f05baacdc9a47e1c40",
+      "title": "gouzigouzi/attention-residuals-reproduction",
+      "url": "https://github.com/gouzigouzi/attention-residuals-reproduction",
+      "source": "github",
+      "source_author": "gouzigouzi",
+      "topics": [],
+      "score": 5,
+      "score_reason": "Research-oriented, with potential interest but low engagement.",
+      "posted": false,
+      "collected_at": "2026-04-26T13:47:52Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 10,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "d76423daab392c011fa72017e5b08dba",
+      "title": "AI-Santiago/GenAIR",
+      "url": "https://github.com/AI-Santiago/GenAIR",
+      "source": "github",
+      "source_author": "AI-Santiago",
       "topics": [],
       "score": 4,
-      "score_reason": "Addresses tech debt but lacks significant novelty or engagement.",
+      "score_reason": "Modestly interesting, but lacks broad applicability.",
       "posted": false,
-      "collected_at": "2026-04-26T08:03:53Z",
+      "collected_at": "2026-04-26T13:47:51Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 111,
+        "stars": 2,
         "upvotes": 0
       }
     },
     {
-      "id": "44e07ad6a39022b015f1ba281b4cabd7",
-      "title": "worldwonderer/oh-story-claudecode",
-      "url": "https://github.com/worldwonderer/oh-story-claudecode",
+      "id": "55f2f0bd61ba7a4809c65d6050ffae8d",
+      "title": "maile456/mcp-chat",
+      "url": "https://github.com/maile456/mcp-chat",
       "source": "github",
-      "source_author": "worldwonderer",
+      "source_author": "maile456",
       "topics": [],
       "score": 3,
-      "score_reason": "Has potential interest but lacks context for impact or relevance.",
+      "score_reason": "Lacks significant interest and application for developers.",
       "posted": false,
-      "collected_at": "2026-04-26T08:03:53Z",
+      "collected_at": "2026-04-26T13:48:02Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 94,
+        "stars": 6,
         "upvotes": 0
       }
     },
     {
-      "id": "02f7fe4f44fb0cf49521d870fa76c086",
-      "title": "jiangmuran/claude-image",
-      "url": "https://github.com/jiangmuran/claude-image",
+      "id": "b155959388ec0837a7d2a3306f392a60",
+      "title": "ShivanshiSharma05/ai-hiring-intelligence-platform",
+      "url": "https://github.com/ShivanshiSharma05/ai-hiring-intelligence-platform",
       "source": "github",
-      "source_author": "jiangmuran",
+      "source_author": "ShivanshiSharma05",
+      "topics": [],
+      "score": 3,
+      "score_reason": "Concept may be interesting but lacks engagement and novelty.",
+      "posted": false,
+      "collected_at": "2026-04-26T13:47:51Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 2,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "eddea4b04816a5df1b6c8032591af6f5",
+      "title": "antirez/llama.cpp-deepseek-v4-flash",
+      "url": "https://github.com/antirez/llama.cpp-deepseek-v4-flash",
+      "source": "github",
+      "source_author": "antirez",
+      "topics": [],
+      "score": 3,
+      "score_reason": "Limited engagement and no clear implications for developers.",
+      "posted": false,
+      "collected_at": "2026-04-26T13:47:49Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 14,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "a8536e6cd89e84bfc36fa1b6e6bc9e2f",
+      "title": "cliprise/awesome-ai-video-maker-prompts",
+      "url": "https://github.com/cliprise/awesome-ai-video-maker-prompts",
+      "source": "github",
+      "source_author": "cliprise",
       "topics": [],
       "score": 2,
-      "score_reason": "Minimal engagement and unclear relevance to developer tools.",
+      "score_reason": "Not substantial enough for a technical audience.",
       "posted": false,
-      "collected_at": "2026-04-26T08:03:54Z",
+      "collected_at": "2026-04-26T13:47:53Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 9,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "fd195f648652767c897ea26afe080c2a",
-      "title": "getagentseal/founder-playbook",
-      "url": "https://github.com/getagentseal/founder-playbook",
-      "source": "github",
-      "source_author": "getagentseal",
-      "topics": [],
-      "score": 2,
-      "score_reason": "Focus on a founder playbook without clear AI or developer implications.",
-      "posted": false,
-      "collected_at": "2026-04-26T08:04:09Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 9,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "0e80e3c80f591c840ede07cc0ddd60b6",
-      "title": "smixs/visual-skills",
-      "url": "https://github.com/smixs/visual-skills",
-      "source": "github",
-      "source_author": "smixs",
-      "topics": [],
-      "score": 2,
-      "score_reason": "Lacks clear impact or engagement within the technical development community.",
-      "posted": false,
-      "collected_at": "2026-04-26T08:04:10Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 7,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "2e80dbeaadc6c1808b518d646cd8d3ef",
-      "title": "ljz15626528087/VidMarmot",
-      "url": "https://github.com/ljz15626528087/VidMarmot",
-      "source": "github",
-      "source_author": "ljz15626528087",
-      "topics": [],
-      "score": 1,
-      "score_reason": "Very low engagement and not relevant to current technology trends.",
-      "posted": false,
-      "collected_at": "2026-04-26T08:04:02Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 1,
+        "stars": 5,
         "upvotes": 0
       }
     }
   ],
   "source": "github",
-  "updated_at": "2026-04-26T08:07:28Z"
+  "updated_at": "2026-04-26T13:51:30Z"
 }
