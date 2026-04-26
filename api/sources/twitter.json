@@ -1,267 +1,47 @@
 {
-  "count": 13,
+  "count": 2,
   "items": [
     {
-      "id": "908c7d86ec21585663162c32fd7f7577",
-      "title": "Update: GPT-5.5 and GPT-5.5 Pro are now available in the API.",
-      "url": "https://x.com/OpenAI/status/2047743592278745425",
+      "id": "42d80eb8f1d733da445c1d67e31b0b52",
+      "title": "DeepSeek-V4-Pro API is 75% OFF until May 5th, 2026, 15:59 (UTC Time)! Don't miss out on this massive...",
+      "url": "https://x.com/deepseek_ai/status/2048062777357750316",
       "source": "twitter",
-      "source_author": "OpenAI",
-      "topics": [],
-      "score": 9.5,
-      "score_reason": "GPT-5.5's release is a significant advancement in AI capabilities, directly impacting developers using the API.",
-      "posted": false,
-      "collected_at": "2026-04-25T03:44:43Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 4631,
-        "replies": 182,
-        "retweets": 306,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "05143e145918ecff48395415a21518de",
-      "title": "New Anthropic research: Project Deal.\n\nWe created a marketplace for employees in our San Francisco o...",
-      "url": "https://x.com/AnthropicAI/status/2047728360818696302",
-      "source": "twitter",
-      "source_author": "AnthropicAI",
-      "topics": [],
-      "score": 9.5,
-      "score_reason": "The introduction of a marketplace for AI employees is transformative for workforce dynamics.",
-      "posted": false,
-      "collected_at": "2026-04-25T03:44:43Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 4486,
-        "replies": 229,
-        "retweets": 522,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "4a932ba0abaf38dab06de68b063e7d69",
-      "title": "Today we’re introducing two big steps for health at OpenAI:\n\n- ChatGPT for Clinicians, a free vers...",
-      "url": "https://x.com/thekaransinghal/status/2047091103170785324",
-      "source": "twitter",
-      "source_author": "OpenAI",
-      "topics": [],
-      "score": 9,
-      "score_reason": "ChatGPT for Clinicians represents a new and relevant application of AI in healthcare, which is a critical area for developers.",
-      "posted": false,
-      "collected_at": "2026-04-25T03:44:43Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 4644,
-        "replies": 242,
-        "retweets": 684,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "2e19c0f9844005842bb40a9492c2300b",
-      "title": "Markets of AI agents could provide value, but there are plenty of rough edges. Access to higher-qual...",
-      "url": "https://x.com/AnthropicAI/status/2047728384503939464",
-      "source": "twitter",
-      "source_author": "AnthropicAI",
+      "source_author": "deepseek_ai",
       "topics": [],
       "score": 8,
-      "score_reason": "Discussing the rough edges of AI agent markets highlights significant considerations for developers.",
+      "score_reason": "High engagement signal indicates strong interest in AI tools that can influence developer adoption.",
       "posted": false,
-      "collected_at": "2026-04-25T03:44:43Z",
+      "collected_at": "2026-04-26T04:07:10Z",
       "engagement": {
         "comments": 0,
-        "likes": 213,
-        "replies": 17,
-        "retweets": 10,
+        "likes": 6733,
+        "replies": 240,
+        "retweets": 859,
         "stars": 0,
         "upvotes": 0
       }
     },
     {
-      "id": "22a4477113de3d972fb24660e0de6c92",
-      "title": "We've also added multi-root workspaces for cross-repo changes.\n\nA single agent session can now targe...",
-      "url": "https://x.com/cursor_ai/status/2047764654760632725",
+      "id": "f617f1bc40bdc47c99f6a344cdabf414",
+      "title": " Day 23 of the \n@cursor_ai\n #vibejam\n\nProudly sponsored by \n@cursor_ai\n + \n@boltdotnew\n + \n@heyglif\n...",
+      "url": "https://x.com/levelsio/status/2048176274787471385",
       "source": "twitter",
-      "source_author": "cursor_ai",
+      "source_author": "levelsio",
       "topics": [],
-      "score": 7.5,
-      "score_reason": "Multi-root workspaces for cross-repo changes are beneficial for collaborative environments, adding value for developers.",
+      "score": 3.5,
+      "score_reason": "Event-related, less focus on developer tools or AI advancements.",
       "posted": false,
-      "collected_at": "2026-04-25T03:44:43Z",
+      "collected_at": "2026-04-26T04:07:10Z",
       "engagement": {
         "comments": 0,
-        "likes": 142,
-        "replies": 10,
-        "retweets": 6,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "50d97f1eea25e529d2ce600ebcb29064",
-      "title": "Introducing /multitask in the new Cursor 3 interface.\n\nCursor can now run async subagents to paralle...",
-      "url": "https://x.com/cursor_ai/status/2047764651363180839",
-      "source": "twitter",
-      "source_author": "cursor_ai",
-      "topics": [],
-      "score": 7,
-      "score_reason": "Cursor's new async features improve operational efficiency, which is relevant but not groundbreaking.",
-      "posted": false,
-      "collected_at": "2026-04-25T03:44:43Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 1608,
-        "replies": 79,
-        "retweets": 166,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "a29544656b726c7ef6d17e4ee0c34b4d",
-      "title": "We’ve invested deeply in security at Replit, including our recent launches with Security Agent + A...",
-      "url": "https://x.com/Replit/status/2047725350151708801",
-      "source": "twitter",
-      "source_author": "replit",
-      "topics": [],
-      "score": 6.5,
-      "score_reason": "Security investments are vital, but the announcement lacks specific insights on developer impact.",
-      "posted": false,
-      "collected_at": "2026-04-25T03:44:43Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 168,
-        "replies": 16,
-        "retweets": 52,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "2849b3c2cf4f0f0c6091755ddcec45ec",
-      "title": "Our teams have been busyyy! Here are some key updates from the past week: \n\n— \n@GoogleCloud\n unvei...",
-      "url": "https://x.com/GoogleAI/status/2047802944188269023",
-      "source": "twitter",
-      "source_author": "GoogleAI",
-      "topics": [],
-      "score": 6,
-      "score_reason": "General updates from Google AI are informative but do not present new tools or innovations.",
-      "posted": false,
-      "collected_at": "2026-04-25T03:44:43Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 174,
-        "replies": 13,
-        "retweets": 25,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "671f510ac2c853464f79652bb00248ae",
-      "title": "For \n@DemisHassabis\n, the path to AGI started in 1988 with an Amiga 500 and a game of Othello. \n\nHis...",
-      "url": "https://x.com/GoogleDeepMind/status/2047693241521152108",
-      "source": "twitter",
-      "source_author": "GoogleDeepMind",
-      "topics": [],
-      "score": 5.5,
-      "score_reason": "While historical insights from Demis Hassabis are interesting, they don't directly affect current developer practices.",
-      "posted": false,
-      "collected_at": "2026-04-25T03:44:43Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 604,
-        "replies": 39,
-        "retweets": 73,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "10239adf10d614758d08fe402f401ad4",
-      "title": "Introducing our fourth annual AI Festival jurors.\n\nSubmissions close Monday, April 27. Enter your pr...",
-      "url": "https://x.com/runwayml/status/2047731191902511466",
-      "source": "twitter",
-      "source_author": "RunwayML",
-      "topics": [],
-      "score": 4.5,
-      "score_reason": "Juror announcements for an AI festival are not highly engaging or directly relevant to developers.",
-      "posted": false,
-      "collected_at": "2026-04-25T03:44:43Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 46,
-        "replies": 4,
-        "retweets": 12,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "1cc06f73ca5e888604448544d590db98",
-      "title": "You can also easily add a mobile app to your project once imported.\n \nMore details here:",
-      "url": "https://x.com/Replit/status/2047727263245070400",
-      "source": "twitter",
-      "source_author": "replit",
-      "topics": [],
-      "score": 3,
-      "score_reason": "The announcement lacks substantial details and does not present significant changes or tools for developers.",
-      "posted": false,
-      "collected_at": "2026-04-25T03:44:43Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 18,
-        "replies": 2,
-        "retweets": 2,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "d4f93a3af8d729fc081ed3df16544f4c",
-      "title": "To read our write-up in full, see here:",
-      "url": "https://x.com/AnthropicAI/status/2047728386148122990",
-      "source": "twitter",
-      "source_author": "AnthropicAI",
-      "topics": [],
-      "score": 2,
-      "score_reason": "This seems to be a mere pointer to a write-up without any novel content or insights.",
-      "posted": false,
-      "collected_at": "2026-04-25T03:44:43Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 228,
-        "replies": 13,
-        "retweets": 20,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "f36927db22efa41b252f63f3d64cb36d",
-      "title": "Submit and buy tickets:",
-      "url": "https://x.com/runwayml/status/2047731194159137254",
-      "source": "twitter",
-      "source_author": "RunwayML",
-      "topics": [],
-      "score": 1,
-      "score_reason": "Promotional tweets with no significant content or insights for developers have low engagement potential.",
-      "posted": false,
-      "collected_at": "2026-04-25T03:44:43Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 3,
-        "replies": 0,
-        "retweets": 0,
+        "likes": 63,
+        "replies": 15,
+        "retweets": 11,
         "stars": 0,
         "upvotes": 0
       }
     }
   ],
   "source": "twitter",
-  "updated_at": "2026-04-25T03:46:05Z"
+  "updated_at": "2026-04-26T04:08:11Z"
 }
