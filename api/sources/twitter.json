@@ -1,47 +1,167 @@
 {
-  "count": 2,
+  "count": 8,
   "items": [
     {
-      "id": "03e8409095eaba34e5776e1c49dcdc33",
-      "title": "A decade ago in Korea, AlphaGo showed AI’s potential.\n\nTogether with the Korean government, we’r...",
-      "url": "https://x.com/GoogleDeepMind/status/2048714939125109178",
+      "id": "5112c0bd34bcb0403af897b1626cb7b1",
+      "title": "Introducing YouCode: The best search engine for developers. Available now at \nhttp://\ncode.you.com. ...",
+      "url": "https://x.com/RichardSocher/status/1521590973469396993",
       "source": "twitter",
-      "source_author": "GoogleDeepMind",
+      "source_author": "RichardSocher",
       "topics": [],
-      "score": 7.5,
-      "score_reason": "Reflects on a major AI milestone, relevant to the field but not new information.",
+      "score": 9,
+      "score_reason": "A powerful new search engine for developers that could significantly streamline their workflow.",
       "posted": false,
-      "collected_at": "2026-04-27T14:38:40Z",
+      "collected_at": "2026-04-28T04:26:33Z",
       "engagement": {
         "comments": 0,
-        "likes": 443,
-        "replies": 26,
-        "retweets": 90,
+        "likes": 2688,
+        "replies": 67,
+        "retweets": 499,
         "stars": 0,
         "upvotes": 0
       }
     },
     {
-      "id": "f3ed61d7a018c144caf62df4dc17e5e7",
-      "title": "Tomorrow we go live with \n@Replit\n CTO \n@lhchavez\n to nerd out on how they approach security at the ...",
-      "url": "https://x.com/raymmar/status/2048754498890289218",
+      "id": "f1b26e75ef4cc29226219a08d31381ab",
+      "title": "I get asked a lot about how we manage research GPU clusters at Runway, so we wrote it up.\n\nWe go dee...",
+      "url": "https://x.com/kamilsindi/status/2048874303337210359",
+      "source": "twitter",
+      "source_author": "RunwayML",
+      "topics": [],
+      "score": 7,
+      "score_reason": "Insight on managing GPU clusters is valuable for developers working in AI and machine learning.",
+      "posted": false,
+      "collected_at": "2026-04-28T04:26:33Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 47,
+        "replies": 3,
+        "retweets": 5,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "23f6ea1ace0158b2dcdd947aded88e28",
+      "title": "Our first online Runway API Hackathon begins next week. One weekend. Free API credits. $25,000 in pr...",
+      "url": "https://x.com/runwayml/status/2048814103402017274",
+      "source": "twitter",
+      "source_author": "RunwayML",
+      "topics": [],
+      "score": 6.5,
+      "score_reason": "An API hackathon can stimulate developer creativity and engagement with new tools.",
+      "posted": false,
+      "collected_at": "2026-04-28T04:26:33Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 149,
+        "replies": 14,
+        "retweets": 32,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "ab81262402a28a45e4e7d19e7c1468ad",
+      "title": "Introspection is overrated.\nExecute daily. Predict quarterly. Ship.\nAmjad and Haya on building Repli...",
+      "url": "https://x.com/Replit/status/2048839872945807422",
       "source": "twitter",
       "source_author": "replit",
       "topics": [],
-      "score": 6.5,
-      "score_reason": "Interesting event on security in developer tools, though less impactful than game-changing insights.",
+      "score": 5.5,
+      "score_reason": "General advice about execution isn't novel but may resonate in a practical sense.",
       "posted": false,
-      "collected_at": "2026-04-27T14:38:40Z",
+      "collected_at": "2026-04-28T04:26:33Z",
       "engagement": {
         "comments": 0,
-        "likes": 18,
-        "replies": 3,
+        "likes": 40,
+        "replies": 0,
         "retweets": 4,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "8cd68b6230ddb0e359408968301f74c3",
+      "title": "20 builders. 8 weeks. One goal: first dollar of revenue.\nThe first episode of Race to Revenue premie...",
+      "url": "https://x.com/Replit/status/2048869935229579329",
+      "source": "twitter",
+      "source_author": "replit",
+      "topics": [],
+      "score": 5,
+      "score_reason": "Not particularly innovative but could interest those following entrepreneurial journeys.",
+      "posted": false,
+      "collected_at": "2026-04-28T04:26:33Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 87,
+        "replies": 7,
+        "retweets": 11,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "dd024148011d53d83373ca3fbf3bb201",
+      "title": " Day 25 of the \n@cursor_ai\n #vibejam\n\nProudly sponsored by \n@cursor_ai\n + \n@boltdotnew\n + \n@heyglif\n...",
+      "url": "https://x.com/levelsio/status/2048773325401305214",
+      "source": "twitter",
+      "source_author": "levelsio",
+      "topics": [],
+      "score": 4.5,
+      "score_reason": "Sponsorship tweet that lacks additional content or insight for developers.",
+      "posted": false,
+      "collected_at": "2026-04-28T04:26:33Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 83,
+        "replies": 40,
+        "retweets": 8,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "0b0673b699910334d5ef1bef643bd417",
+      "title": "Coming May 14 at Microsoft Research Forum: a new release and demo from MSR AI Frontiers.\n \nPlus new ...",
+      "url": "https://x.com/MSFTResearch/status/2048889966189556059",
+      "source": "twitter",
+      "source_author": "MSFTResearch",
+      "topics": [],
+      "score": 3,
+      "score_reason": "Announcement lacks details or specific insights relevant to developers.",
+      "posted": false,
+      "collected_at": "2026-04-28T04:26:33Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 13,
+        "replies": 1,
+        "retweets": 3,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "04ba16e3b34d2b4b9601e6b1cd447f85",
+      "title": "Register now: \nhttps://\nrunwayml.com/api-hackathon",
+      "url": "https://x.com/runwayml/status/2048814105511743751",
+      "source": "twitter",
+      "source_author": "RunwayML",
+      "topics": [],
+      "score": 3,
+      "score_reason": "Registration tweet lacks substantive content to engage an audience.",
+      "posted": false,
+      "collected_at": "2026-04-28T04:26:33Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 12,
+        "replies": 0,
+        "retweets": 1,
         "stars": 0,
         "upvotes": 0
       }
     }
   ],
   "source": "twitter",
-  "updated_at": "2026-04-27T14:39:45Z"
+  "updated_at": "2026-04-28T04:28:18Z"
 }
