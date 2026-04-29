@@ -1,5 +1,6 @@
 {
-  "count": 103,
+  "count": 134,
+  "date": "2026-04-29",
   "items": [
     {
       "id": "a4949453c5bce1923d6be762a692fa91",
@@ -39,6 +40,26 @@
         "retweets": 0,
         "stars": 0,
         "upvotes": 1956
+      }
+    },
+    {
+      "id": "17ee4b2039046dfc981215a3ccc85c57",
+      "title": "Earlier this month, an Erdős problem that had been open for 60 years was solved with help from GPT-...",
+      "url": "https://x.com/OpenAI/status/2049182118069358967",
+      "source": "twitter",
+      "source_author": "OpenAI",
+      "topics": [],
+      "score": 9.5,
+      "score_reason": "Highlights a significant mathematical breakthrough aided by AI, showcasing AI's potential in problem-solving.",
+      "posted": false,
+      "collected_at": "2026-04-29T04:13:01Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 1875,
+        "replies": 159,
+        "retweets": 225,
+        "stars": 0,
+        "upvotes": 0
       }
     },
     {
@@ -242,6 +263,26 @@
       }
     },
     {
+      "id": "c64bb57213de5d0414fce8fdaa965395",
+      "title": "Learn how to generate videos with consistent characters and voices using references, character sheet...",
+      "url": "https://x.com/runwayml/status/2049194527445881103",
+      "source": "twitter",
+      "source_author": "RunwayML",
+      "topics": [],
+      "score": 8,
+      "score_reason": "Discusses AI in video generation, appealing to creators and developers interested in new media technologies.",
+      "posted": false,
+      "collected_at": "2026-04-29T04:13:01Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 156,
+        "replies": 14,
+        "retweets": 23,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
       "id": "310187f2034bf3710d3675fe7cd1bc59",
       "title": "vLLM-Compile: Bringing Compiler Optimizations to LLM Inference",
       "url": "https://docs.google.com/presentation/d/17WYU9T9qouY20zJg-7n_kV8DrMRJ2LHeNh_WXD6bUmc/view",
@@ -402,6 +443,26 @@
       }
     },
     {
+      "id": "d468bfae39a7b1efa1a99b63c394166c",
+      "title": "As AI evolves, education must keep pace. \n\nSince 2023, the Experience AI program – developed in c...",
+      "url": "https://x.com/GoogleDeepMind/status/2049174327124263379",
+      "source": "twitter",
+      "source_author": "GoogleDeepMind",
+      "topics": [],
+      "score": 7.5,
+      "score_reason": "Addresses AI education and training, which is highly relevant for developers adapting to evolving AI technologies.",
+      "posted": false,
+      "collected_at": "2026-04-29T04:13:01Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 155,
+        "replies": 14,
+        "retweets": 19,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
       "id": "18e7ec6981833720984be915c4f2b11d",
       "title": "The versioned filesystem for AI agents",
       "url": "https://coregit.dev",
@@ -502,6 +563,26 @@
       }
     },
     {
+      "id": "0e946b21a4731d8afc53b473901c6261",
+      "title": "Ready to have some fun building this weekend?",
+      "url": "https://x.com/Replit/status/2049241990622265537",
+      "source": "twitter",
+      "source_author": "replit",
+      "topics": [],
+      "score": 7,
+      "score_reason": "Encourages community engagement in AI development, relevant for developers looking to collaborate and innovate.",
+      "posted": false,
+      "collected_at": "2026-04-29T04:13:01Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 155,
+        "replies": 23,
+        "retweets": 33,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
       "id": "ff94688965c109092cad6d62535c13f8",
       "title": "OpenAI Models on Amazon Bedrock",
       "url": "https://aws.amazon.com/bedrock/openai/",
@@ -582,6 +663,26 @@
       }
     },
     {
+      "id": "2d78c28651cc1cdef660905b8fe34549",
+      "title": " 93% of educators say the training increased their knowledge of AI concepts\n 87% feel more confident...",
+      "url": "https://x.com/GoogleDeepMind/status/2049174330064470022",
+      "source": "twitter",
+      "source_author": "GoogleDeepMind",
+      "topics": [],
+      "score": 6.5,
+      "score_reason": "Highlights educator sentiment towards AI training, indicating trends in AI integration into learning.",
+      "posted": false,
+      "collected_at": "2026-04-29T04:13:01Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 68,
+        "replies": 5,
+        "retweets": 5,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
       "id": "91d85350a5e7b17d135f64008fdda7c7",
       "title": "US State Department upgrades AI theft accusations to target China AI companies",
       "url": "https://www.chinapulse.com/data-news/2026/04/27/extraction-and-distillation-us-state-department-upgrades-ai-theft-accusations-to-target-chinas-deepseek-moonshot-ai-and-minimax/",
@@ -619,6 +720,26 @@
         "retweets": 0,
         "stars": 0,
         "upvotes": 2
+      }
+    },
+    {
+      "id": "42483b6b08f232dcc595e0eb6af45925",
+      "title": "matrix-agent/awesome-agentic-world-modeling",
+      "url": "https://github.com/matrix-agent/awesome-agentic-world-modeling",
+      "source": "github",
+      "source_author": "matrix-agent",
+      "topics": [],
+      "score": 6,
+      "score_reason": "Curated resource on agentic world modeling, relevant but more of a reference collection.",
+      "posted": false,
+      "collected_at": "2026-04-29T04:10:18Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 111,
+        "upvotes": 0
       }
     },
     {
@@ -679,6 +800,26 @@
         "retweets": 0,
         "stars": 0,
         "upvotes": 7
+      }
+    },
+    {
+      "id": "5151cc779ba5bd320b0aa53ce7638fce",
+      "title": "It was a huge honour to meet with President \n@Jaemyung_Lee\n in Seoul. Deeply appreciate and impresse...",
+      "url": "https://x.com/demishassabis/status/2049291051266142574",
+      "source": "twitter",
+      "source_author": "DemisHassabis",
+      "topics": [],
+      "score": 6,
+      "score_reason": "A personal interaction with a political figure, though it highlights AI impact on international relations.",
+      "posted": false,
+      "collected_at": "2026-04-29T04:13:01Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 656,
+        "replies": 39,
+        "retweets": 108,
+        "stars": 0,
+        "upvotes": 0
       }
     },
     {
@@ -842,6 +983,26 @@
       }
     },
     {
+      "id": "335faed83d087219f07ce331a7974be7",
+      "title": "This year's AI Accelerator winners shipped agents for finance teams, application security, and real ...",
+      "url": "https://x.com/vercel/status/2049263005259747822",
+      "source": "twitter",
+      "source_author": "vercel",
+      "topics": [],
+      "score": 5.5,
+      "score_reason": "Reports on AI Accelerator winners, interesting for developers focused on applied AI projects.",
+      "posted": false,
+      "collected_at": "2026-04-29T04:13:01Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 39,
+        "replies": 5,
+        "retweets": 11,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
       "id": "0f6895bda2e212ddf77bb40e40097100",
       "title": "Show HN: I built an AI agent to diagnose technical issues",
       "url": "https://rinhelp.com",
@@ -902,6 +1063,26 @@
       }
     },
     {
+      "id": "e47beb54ef831d2ded471b90fc7e1b53",
+      "title": "Listen to the OpenAI Podcast on—\nSpotify\n\nhttps://\nopen.spotify.com/show/0zojMEDiz\nKMh3aTxnGLENP\n\ufffd...",
+      "url": "https://x.com/OpenAI/status/2049182122099798209",
+      "source": "twitter",
+      "source_author": "OpenAI",
+      "topics": [],
+      "score": 5,
+      "score_reason": "unscored",
+      "posted": false,
+      "collected_at": "2026-04-29T04:13:01Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 83,
+        "replies": 7,
+        "retweets": 4,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
       "id": "efae5f478c4ae286f3d4b926a60f880b",
       "title": "Instacart co-founder launches hedge fund backing AI agents",
       "url": "https://www.privatebankerinternational.com/news/instacart-co-founder-launches-hedge-fund-backing-ai-agents-over-portfolio-managers/",
@@ -919,6 +1100,26 @@
         "retweets": 0,
         "stars": 0,
         "upvotes": 1
+      }
+    },
+    {
+      "id": "26324c5ec70aef07136f7fa21ca0d21c",
+      "title": "martinuszandee0521/NS-FW-AI-Image-and-Video-Generator-2026",
+      "url": "https://github.com/martinuszandee0521/NS-FW-AI-Image-and-Video-Generator-2026",
+      "source": "github",
+      "source_author": "martinuszandee0521",
+      "topics": [],
+      "score": 5,
+      "score_reason": "Decent project for generating media but lacks breakthrough value.",
+      "posted": false,
+      "collected_at": "2026-04-29T04:10:23Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 40,
+        "upvotes": 0
       }
     },
     {
@@ -1162,6 +1363,26 @@
       }
     },
     {
+      "id": "cac4cea8a3869bf64735b42c5b4986f2",
+      "title": "yerdaulet-damir/vibecodex",
+      "url": "https://github.com/yerdaulet-damir/vibecodex",
+      "source": "github",
+      "source_author": "yerdaulet-damir",
+      "topics": [],
+      "score": 5,
+      "score_reason": "unscored",
+      "posted": false,
+      "collected_at": "2026-04-29T04:10:28Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 2,
+        "upvotes": 0
+      }
+    },
+    {
       "id": "730483653018d2245e2b6239d9058e6c",
       "title": "Show HN: Create Professional Excel Files with AI Agents",
       "url": "https://zspreadsheet.com",
@@ -1199,6 +1420,26 @@
         "retweets": 0,
         "stars": 0,
         "upvotes": 1
+      }
+    },
+    {
+      "id": "0de3fde8cc555900ccbe624db50a6f4f",
+      "title": "99xAgency/GodModeSkill",
+      "url": "https://github.com/99xAgency/GodModeSkill",
+      "source": "github",
+      "source_author": "99xAgency",
+      "topics": [],
+      "score": 5,
+      "score_reason": "Mildly innovative, but mostly serves niche functionalities without broad appeal.",
+      "posted": false,
+      "collected_at": "2026-04-29T04:10:13Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 130,
+        "upvotes": 0
       }
     },
     {
@@ -1279,6 +1520,26 @@
         "retweets": 0,
         "stars": 0,
         "upvotes": 1
+      }
+    },
+    {
+      "id": "f956a7b4e8a6bd9b5bdb977050116818",
+      "title": "RichSchefren/atlas",
+      "url": "https://github.com/RichSchefren/atlas",
+      "source": "github",
+      "source_author": "RichSchefren",
+      "topics": [],
+      "score": 4.5,
+      "score_reason": "Small feature set that doesn’t offer groundbreaking changes for developers.",
+      "posted": false,
+      "collected_at": "2026-04-29T04:10:14Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 22,
+        "upvotes": 0
       }
     },
     {
@@ -1462,6 +1723,26 @@
       }
     },
     {
+      "id": "90b8a8aa41ac637986ed40b3511089c0",
+      "title": "yangshun/teenycode",
+      "url": "https://github.com/yangshun/teenycode",
+      "source": "github",
+      "source_author": "yangshun",
+      "topics": [],
+      "score": 4,
+      "score_reason": "Relatively simple tool that adds minimal value to the developer experience.",
+      "posted": false,
+      "collected_at": "2026-04-29T04:10:15Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 58,
+        "upvotes": 0
+      }
+    },
+    {
       "id": "42ed8c3757366e990b8f27aba6031400",
       "title": "'Stole a charity': Elon Musk accuses Sam Altman of betrayal in courtroom",
       "url": "https://www.theguardian.com/technology/2026/apr/28/sam-altman-open-ai-elon-musk-trial",
@@ -1642,6 +1923,46 @@
       }
     },
     {
+      "id": "652bf34c53c8277a8a197385fd6b452d",
+      "title": "AeternaLabsHQ/pullmd",
+      "url": "https://github.com/AeternaLabsHQ/pullmd",
+      "source": "github",
+      "source_author": "AeternaLabsHQ",
+      "topics": [],
+      "score": 3,
+      "score_reason": "Somewhat relevant but lacks traction and clear use cases.",
+      "posted": false,
+      "collected_at": "2026-04-29T04:10:26Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 58,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "2fb767f91f7765adb97ec1a8997162a2",
+      "title": "johnpapa/ai-ready",
+      "url": "https://github.com/johnpapa/ai-ready",
+      "source": "github",
+      "source_author": "johnpapa",
+      "topics": [],
+      "score": 3,
+      "score_reason": "A GitHub project with limited engagement; lacks clarity on its impact or novelty.",
+      "posted": false,
+      "collected_at": "2026-04-29T04:10:28Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
+        "upvotes": 0
+      }
+    },
+    {
       "id": "e00b54886d0e70c51b1f5154b74c6f48",
       "title": "Crystal Sapphire Pokemon: Claude Code (Opus 4-7) vs. Codex (GPT 5.5)",
       "url": "https://www.twitch.tv/pokemon_race",
@@ -1702,6 +2023,86 @@
       }
     },
     {
+      "id": "72070b7a04f9404e53b8cba1ce802b84",
+      "title": "kzt-kingston/openclaw-guide",
+      "url": "https://github.com/kzt-kingston/openclaw-guide",
+      "source": "github",
+      "source_author": "kzt-kingston",
+      "topics": [],
+      "score": 3,
+      "score_reason": "Another low-engagement GitHub project lacking clear innovation details.",
+      "posted": false,
+      "collected_at": "2026-04-29T04:10:29Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 11,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "585964711931e49ea34da646b22444bb",
+      "title": "ez-lbz/APIMitmHack",
+      "url": "https://github.com/ez-lbz/APIMitmHack",
+      "source": "github",
+      "source_author": "ez-lbz",
+      "topics": [],
+      "score": 3,
+      "score_reason": "Few stars and no community interaction make it seem unremarkable.",
+      "posted": false,
+      "collected_at": "2026-04-29T04:10:29Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 11,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "776ca654700626ffbf4d0d215ee268ba",
+      "title": "divbasson/DesktopClaw",
+      "url": "https://github.com/divbasson/DesktopClaw",
+      "source": "github",
+      "source_author": "divbasson",
+      "topics": [],
+      "score": 3,
+      "score_reason": "Limited engagement and unclear significance reduce its relevance.",
+      "posted": false,
+      "collected_at": "2026-04-29T04:10:29Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 11,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "ec7be379463cfc3c28a3e04cd07ed924",
+      "title": "matsurih/devin-vscode-extension",
+      "url": "https://github.com/matsurih/devin-vscode-extension",
+      "source": "github",
+      "source_author": "matsurih",
+      "topics": [],
+      "score": 3,
+      "score_reason": "Another GitHub project with low engagement, offering no apparent innovation.",
+      "posted": false,
+      "collected_at": "2026-04-29T04:10:32Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
+        "upvotes": 0
+      }
+    },
+    {
       "id": "5739ceb4f407b7a2215dead8d759ef50",
       "title": "You Take Notes but Never Get Smarter",
       "url": "https://meda.io/why-you-take-notes-but-never-get-smarter/",
@@ -1719,6 +2120,66 @@
         "retweets": 0,
         "stars": 0,
         "upvotes": 5
+      }
+    },
+    {
+      "id": "b90c1438535b84cc22f0423183a20538",
+      "title": "davidwuw0811-boop/awesome-gpt-image2-prompts",
+      "url": "https://github.com/davidwuw0811-boop/awesome-gpt-image2-prompts",
+      "source": "github",
+      "source_author": "davidwuw0811-boop",
+      "topics": [],
+      "score": 3,
+      "score_reason": "Repository of prompts, useful but lacks significant novelty or impact.",
+      "posted": false,
+      "collected_at": "2026-04-29T04:10:16Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 37,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "a27f68444b12cbeca1a12cc51a65def4",
+      "title": "insistanan/GPT_Image_Playground",
+      "url": "https://github.com/insistanan/GPT_Image_Playground",
+      "source": "github",
+      "source_author": "insistanan",
+      "topics": [],
+      "score": 3,
+      "score_reason": "Similar to other tools, does not stand out in a crowded space of AI applications.",
+      "posted": false,
+      "collected_at": "2026-04-29T04:10:16Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 29,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "87037ddfefc2ec751685d0fdb19e14c9",
+      "title": "chanf/chat2api",
+      "url": "https://github.com/chanf/chat2api",
+      "source": "github",
+      "source_author": "chanf",
+      "topics": [],
+      "score": 2.5,
+      "score_reason": "Limited functionality and engagement indicates low relevance.",
+      "posted": false,
+      "collected_at": "2026-04-29T04:10:21Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 3,
+        "upvotes": 0
       }
     },
     {
@@ -1742,6 +2203,26 @@
       }
     },
     {
+      "id": "3683934e794eded361d78f4b240e1a89",
+      "title": "AgriciDaniel/codex-seo",
+      "url": "https://github.com/AgriciDaniel/codex-seo",
+      "source": "github",
+      "source_author": "AgriciDaniel",
+      "topics": [],
+      "score": 2.5,
+      "score_reason": "Potentially useful niche but lacks broad developer interest.",
+      "posted": false,
+      "collected_at": "2026-04-29T04:10:26Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 28,
+        "upvotes": 0
+      }
+    },
+    {
       "id": "da7a7bcfc1880b09bb51f20cf75372dd",
       "title": "Closing Windows and Flipping Coins",
       "url": "https://nicholasdecker.substack.com/p/opening-and-closing-windows",
@@ -1759,6 +2240,26 @@
         "retweets": 0,
         "stars": 0,
         "upvotes": 1
+      }
+    },
+    {
+      "id": "2267e744a58fed810641ba8befa539ac",
+      "title": "EceDalpolat/miuul-genai2",
+      "url": "https://github.com/EceDalpolat/miuul-genai2",
+      "source": "github",
+      "source_author": "EceDalpolat",
+      "topics": [],
+      "score": 2,
+      "score_reason": "A low-star repository with limited engagement and potential impact.",
+      "posted": false,
+      "collected_at": "2026-04-29T04:10:20Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 2,
+        "upvotes": 0
       }
     },
     {
@@ -1819,6 +2320,26 @@
         "retweets": 0,
         "stars": 0,
         "upvotes": 8
+      }
+    },
+    {
+      "id": "da143e6db9c284257eed4c2ca0435b69",
+      "title": "SwarnadeepSeth/ThinkerSwarmHF",
+      "url": "https://github.com/SwarnadeepSeth/ThinkerSwarmHF",
+      "source": "github",
+      "source_author": "SwarnadeepSeth",
+      "topics": [],
+      "score": 2,
+      "score_reason": "Primarily a low-engagement project lacking broad implications.",
+      "posted": false,
+      "collected_at": "2026-04-29T04:10:25Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
+        "upvotes": 0
       }
     },
     {
@@ -1899,6 +2420,26 @@
         "retweets": 0,
         "stars": 0,
         "upvotes": 4
+      }
+    },
+    {
+      "id": "cfd491f67a2f7c45cfa5ab90280a48f6",
+      "title": "Newuxtreme/watch-video-skill",
+      "url": "https://github.com/Newuxtreme/watch-video-skill",
+      "source": "github",
+      "source_author": "Newuxtreme",
+      "topics": [],
+      "score": 1.5,
+      "score_reason": "Project without context or demonstrated impact on developer workflows.",
+      "posted": false,
+      "collected_at": "2026-04-29T04:10:23Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 3,
+        "upvotes": 0
       }
     },
     {
@@ -2002,6 +2543,46 @@
       }
     },
     {
+      "id": "39423e205b03684f8b3a5819cfc30169",
+      "title": "swapwarick/agent-diaries-core",
+      "url": "https://github.com/swapwarick/agent-diaries-core",
+      "source": "github",
+      "source_author": "swapwarick",
+      "topics": [],
+      "score": 1,
+      "score_reason": "Insufficient context or utility to capture developer interest.",
+      "posted": false,
+      "collected_at": "2026-04-29T04:10:25Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "9d481f197af37d17e9c264a04934de78",
+      "title": "ykamoji/expressive-audio-mcp",
+      "url": "https://github.com/ykamoji/expressive-audio-mcp",
+      "source": "github",
+      "source_author": "ykamoji",
+      "topics": [],
+      "score": 1,
+      "score_reason": "No apparent utility or user interest reflected.",
+      "posted": false,
+      "collected_at": "2026-04-29T04:10:24Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
       "id": "053f3004cd8ee05d2659f8fd0ca78f20",
       "title": "We ran a 9B model against Anthropic's Mythos on Firefox. See the early results",
       "url": "https://shipitclean.com/news",
@@ -2042,6 +2623,46 @@
       }
     },
     {
+      "id": "f1ea7e99193849706a178e1a8647350b",
+      "title": "v1dit/ml-labs",
+      "url": "https://github.com/v1dit/ml-labs",
+      "source": "github",
+      "source_author": "v1dit",
+      "topics": [],
+      "score": 1,
+      "score_reason": "Very low engagement suggests minimal interest or utility.",
+      "posted": false,
+      "collected_at": "2026-04-29T04:10:25Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "8905256ad7ca743b446282702b0f5011",
+      "title": "grisuno/toposwarm",
+      "url": "https://github.com/grisuno/toposwarm",
+      "source": "github",
+      "source_author": "grisuno",
+      "topics": [],
+      "score": 1,
+      "score_reason": "Low engagement generally indicates a lack of relevance.",
+      "posted": false,
+      "collected_at": "2026-04-29T04:10:25Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
+        "upvotes": 0
+      }
+    },
+    {
       "id": "bf05ae04b64b837bcc6e9fd2446801d3",
       "title": "LLM Budget Guard – open-source runtime cutoff for OpenAI/Anthropic",
       "url": "https://www.llmeter.org/validate/budget-guard",
@@ -2062,6 +2683,5 @@
       }
     }
   ],
-  "source": "hackernews",
   "updated_at": "2026-04-29T04:14:20Z"
 }
