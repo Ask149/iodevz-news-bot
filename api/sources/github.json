@@ -1,167 +1,67 @@
 {
-  "count": 8,
+  "count": 3,
   "items": [
     {
-      "id": "b4a794ace76337366e8deb65b9f9c0e9",
-      "title": "stainlu/hermes-labyrinth",
-      "url": "https://github.com/stainlu/hermes-labyrinth",
+      "id": "b0c0716096a9af7bf13603cd046e978e",
+      "title": "mapick-ai/mapick",
+      "url": "https://github.com/mapick-ai/mapick",
       "source": "github",
-      "source_author": "stainlu",
+      "source_author": "mapick-ai",
       "topics": [],
-      "score": 7,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "score": 5.5,
+      "score_reason": "While it has more stars, it still shows limited engagement and novelty.",
       "posted": false,
-      "collected_at": "2026-04-29T08:39:35Z",
+      "collected_at": "2026-04-29T14:40:04Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 205,
+        "stars": 13,
         "upvotes": 0
       }
     },
     {
-      "id": "0fc78bc0d5326842bf872ed4ba2900e9",
-      "title": "codejunkie99/brain",
-      "url": "https://github.com/codejunkie99/brain",
+      "id": "eaff9f7c5e5eaaa25dbf4b046c14aa57",
+      "title": "finch-xu/cc-router",
+      "url": "https://github.com/finch-xu/cc-router",
       "source": "github",
-      "source_author": "codejunkie99",
+      "source_author": "finch-xu",
       "topics": [],
       "score": 5,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "score_reason": "unscored",
       "posted": false,
-      "collected_at": "2026-04-29T08:39:44Z",
+      "collected_at": "2026-04-29T14:39:56Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 22,
+        "stars": 3,
         "upvotes": 0
       }
     },
     {
-      "id": "453772c8a98f4976e302ce8e87192160",
-      "title": "amritgupta0680/Genai-portfolio",
-      "url": "https://github.com/amritgupta0680/Genai-portfolio",
+      "id": "fc81cced3385cfe250a0a0f4db6a5ac3",
+      "title": "fudan-generative-vision/Hallo-Live",
+      "url": "https://github.com/fudan-generative-vision/Hallo-Live",
       "source": "github",
-      "source_author": "amritgupta0680",
+      "source_author": "fudan-generative-vision",
       "topics": [],
       "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "score_reason": "The project appears to have low engagement and lacks distinctive features.",
       "posted": false,
-      "collected_at": "2026-04-29T08:39:38Z",
+      "collected_at": "2026-04-29T14:39:57Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 2,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "86228effa39298477f4d2797300d6e9f",
-      "title": "laura-dietz/ir-genai-coding-exercises",
-      "url": "https://github.com/laura-dietz/ir-genai-coding-exercises",
-      "source": "github",
-      "source_author": "laura-dietz",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-04-29T08:39:38Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 2,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "cb8af855627882d9db684ecc29a58400",
-      "title": "Heis-Devine/Heis-Devine",
-      "url": "https://github.com/Heis-Devine/Heis-Devine",
-      "source": "github",
-      "source_author": "Heis-Devine",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-04-29T08:39:51Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 1,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "fc1898b74ef1e7ce6ed81da054f4ee14",
-      "title": "neo-sky/ironclaw-skills",
-      "url": "https://github.com/neo-sky/ironclaw-skills",
-      "source": "github",
-      "source_author": "neo-sky",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-04-29T08:39:46Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 1,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "aa0628ba205379e080ade2b8119b13c4",
-      "title": "mujiu612/voice-router",
-      "url": "https://github.com/mujiu612/voice-router",
-      "source": "github",
-      "source_author": "mujiu612",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-04-29T08:39:42Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 1,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "bd15647af39574a54471f64f220aa9a9",
-      "title": "harshscaler/GenAI-Sec-A",
-      "url": "https://github.com/harshscaler/GenAI-Sec-A",
-      "source": "github",
-      "source_author": "harshscaler",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-04-29T08:39:38Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 1,
+        "stars": 3,
         "upvotes": 0
       }
     }
   ],
   "source": "github",
-  "updated_at": "2026-04-29T08:43:09Z"
+  "updated_at": "2026-04-29T14:43:49Z"
 }
