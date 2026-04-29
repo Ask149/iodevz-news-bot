@@ -1,167 +1,47 @@
 {
-  "count": 8,
+  "count": 2,
   "items": [
     {
-      "id": "17ee4b2039046dfc981215a3ccc85c57",
-      "title": "Earlier this month, an Erdős problem that had been open for 60 years was solved with help from GPT-...",
-      "url": "https://x.com/OpenAI/status/2049182118069358967",
+      "id": "7e7dec2849881131750f8f397fce53d3",
+      "title": "Free Agent usage starts at 5:00am PST on May 2 for 24 hours",
+      "url": "https://x.com/Replit/status/2049241992262267098",
       "source": "twitter",
-      "source_author": "OpenAI",
+      "source_author": "replit",
       "topics": [],
-      "score": 9.5,
-      "score_reason": "Highlights a significant mathematical breakthrough aided by AI, showcasing AI's potential in problem-solving.",
+      "score": 6,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-04-29T04:13:01Z",
+      "collected_at": "2026-04-29T08:42:18Z",
       "engagement": {
         "comments": 0,
-        "likes": 1875,
-        "replies": 159,
-        "retweets": 225,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "c64bb57213de5d0414fce8fdaa965395",
-      "title": "Learn how to generate videos with consistent characters and voices using references, character sheet...",
-      "url": "https://x.com/runwayml/status/2049194527445881103",
-      "source": "twitter",
-      "source_author": "RunwayML",
-      "topics": [],
-      "score": 8,
-      "score_reason": "Discusses AI in video generation, appealing to creators and developers interested in new media technologies.",
-      "posted": false,
-      "collected_at": "2026-04-29T04:13:01Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 156,
-        "replies": 14,
-        "retweets": 23,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "d468bfae39a7b1efa1a99b63c394166c",
-      "title": "As AI evolves, education must keep pace. \n\nSince 2023, the Experience AI program – developed in c...",
-      "url": "https://x.com/GoogleDeepMind/status/2049174327124263379",
-      "source": "twitter",
-      "source_author": "GoogleDeepMind",
-      "topics": [],
-      "score": 7.5,
-      "score_reason": "Addresses AI education and training, which is highly relevant for developers adapting to evolving AI technologies.",
-      "posted": false,
-      "collected_at": "2026-04-29T04:13:01Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 155,
-        "replies": 14,
+        "likes": 115,
+        "replies": 8,
         "retweets": 19,
         "stars": 0,
         "upvotes": 0
       }
     },
     {
-      "id": "0e946b21a4731d8afc53b473901c6261",
-      "title": "Ready to have some fun building this weekend?",
-      "url": "https://x.com/Replit/status/2049241990622265537",
+      "id": "e6f12fcc0ab7cc61613531a053684b64",
+      "title": " Day 26 of the \n@cursor_ai\n #vibejam\n\nProudly sponsored by \n@cursor_ai\n + \n@boltdotnew\n + \n@heyglif\n...",
+      "url": "https://x.com/levelsio/status/2049244830899872021",
       "source": "twitter",
-      "source_author": "replit",
-      "topics": [],
-      "score": 7,
-      "score_reason": "Encourages community engagement in AI development, relevant for developers looking to collaborate and innovate.",
-      "posted": false,
-      "collected_at": "2026-04-29T04:13:01Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 155,
-        "replies": 23,
-        "retweets": 33,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "2d78c28651cc1cdef660905b8fe34549",
-      "title": " 93% of educators say the training increased their knowledge of AI concepts\n 87% feel more confident...",
-      "url": "https://x.com/GoogleDeepMind/status/2049174330064470022",
-      "source": "twitter",
-      "source_author": "GoogleDeepMind",
-      "topics": [],
-      "score": 6.5,
-      "score_reason": "Highlights educator sentiment towards AI training, indicating trends in AI integration into learning.",
-      "posted": false,
-      "collected_at": "2026-04-29T04:13:01Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 68,
-        "replies": 5,
-        "retweets": 5,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "5151cc779ba5bd320b0aa53ce7638fce",
-      "title": "It was a huge honour to meet with President \n@Jaemyung_Lee\n in Seoul. Deeply appreciate and impresse...",
-      "url": "https://x.com/demishassabis/status/2049291051266142574",
-      "source": "twitter",
-      "source_author": "DemisHassabis",
-      "topics": [],
-      "score": 6,
-      "score_reason": "A personal interaction with a political figure, though it highlights AI impact on international relations.",
-      "posted": false,
-      "collected_at": "2026-04-29T04:13:01Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 656,
-        "replies": 39,
-        "retweets": 108,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "335faed83d087219f07ce331a7974be7",
-      "title": "This year's AI Accelerator winners shipped agents for finance teams, application security, and real ...",
-      "url": "https://x.com/vercel/status/2049263005259747822",
-      "source": "twitter",
-      "source_author": "vercel",
-      "topics": [],
-      "score": 5.5,
-      "score_reason": "Reports on AI Accelerator winners, interesting for developers focused on applied AI projects.",
-      "posted": false,
-      "collected_at": "2026-04-29T04:13:01Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 39,
-        "replies": 5,
-        "retweets": 11,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "e47beb54ef831d2ded471b90fc7e1b53",
-      "title": "Listen to the OpenAI Podcast on—\nSpotify\n\nhttps://\nopen.spotify.com/show/0zojMEDiz\nKMh3aTxnGLENP\n\ufffd...",
-      "url": "https://x.com/OpenAI/status/2049182122099798209",
-      "source": "twitter",
-      "source_author": "OpenAI",
+      "source_author": "levelsio",
       "topics": [],
       "score": 5,
-      "score_reason": "unscored",
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-04-29T04:13:01Z",
+      "collected_at": "2026-04-29T08:42:18Z",
       "engagement": {
         "comments": 0,
-        "likes": 83,
-        "replies": 7,
-        "retweets": 4,
+        "likes": 62,
+        "replies": 32,
+        "retweets": 0,
         "stars": 0,
         "upvotes": 0
       }
     }
   ],
   "source": "twitter",
-  "updated_at": "2026-04-29T04:14:20Z"
+  "updated_at": "2026-04-29T08:43:09Z"
 }
