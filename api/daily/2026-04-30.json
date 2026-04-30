@@ -1,6 +1,27 @@
 {
-  "count": 114,
+  "count": 150,
+  "date": "2026-04-30",
   "items": [
+    {
+      "id": "fc6a29009310ffda141e35f0beb8099b",
+      "title": "We’re introducing the Cursor SDK so you can build agents with the same runtime, harness, and model...",
+      "url": "https://x.com/cursor_ai/status/2049499866217185492",
+      "source": "twitter",
+      "source_author": "cursor_ai",
+      "topics": [],
+      "score": 9.5,
+      "score_reason": "Introducing an SDK for building AI agents is highly relevant and impactful.",
+      "posted": false,
+      "collected_at": "2026-04-30T04:15:28Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 6793,
+        "replies": 303,
+        "retweets": 996,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
     {
       "id": "38a9cc594d6facfde99a59c54514ae1a",
       "title": "HERMES.md in commit messages causes requests to route to extra usage billing",
@@ -182,6 +203,26 @@
       }
     },
     {
+      "id": "de76dfc290ad3ed9a4924b2ff45d87b5",
+      "title": "New on the Science Blog: We gave Claude 99 problems analyzing real biological data and compared its ...",
+      "url": "https://x.com/AnthropicAI/status/2049624600741560340",
+      "source": "twitter",
+      "source_author": "AnthropicAI",
+      "topics": [],
+      "score": 8,
+      "score_reason": "Comparing AI's analysis capabilities on biological data has high novelty and relevance.",
+      "posted": false,
+      "collected_at": "2026-04-30T04:15:28Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 1267,
+        "replies": 101,
+        "retweets": 151,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
       "id": "98c4cbfc11e308fd0b1f005be86d7f7f",
       "title": "Show HN: MAItion – Open-source RAG with pluggable connectors and chat UI",
       "url": "https://github.com/WikiTeq/mAItion",
@@ -342,6 +383,26 @@
       }
     },
     {
+      "id": "28f69494ce32698cf7eb0f6292e7afd6",
+      "title": "BioMysteryBench, our new bioinformatics eval, tests whether Claude can devise creative solutions to ...",
+      "url": "https://x.com/AnthropicAI/status/2049624602486383078",
+      "source": "twitter",
+      "source_author": "AnthropicAI",
+      "topics": [],
+      "score": 7.5,
+      "score_reason": "The new bioinformatics evaluation benchmarks creative AI solutions, making it impactful.",
+      "posted": false,
+      "collected_at": "2026-04-30T04:15:28Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 187,
+        "replies": 11,
+        "retweets": 23,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
       "id": "806ca7f31da03bcc0d0b8267a603eb2c",
       "title": "A Comprehensive Zig SDK for Cloudflare Workers",
       "url": "https://github.com/nilslice/workers-zig",
@@ -419,6 +480,26 @@
         "retweets": 0,
         "stars": 0,
         "upvotes": 2
+      }
+    },
+    {
+      "id": "7702bc78cbd8bdcb4b75bae5ab07c322",
+      "title": "Want to secure an early ticket to OpenAI DevDay? Build something with GPT-5.5 and Image Gen.\n\nEach w...",
+      "url": "https://x.com/OpenAI/status/2049535650626785334",
+      "source": "twitter",
+      "source_author": "OpenAI",
+      "topics": [],
+      "score": 7,
+      "score_reason": "Encouraging developers to leverage GPT-5.5 engages and drives tool adoption.",
+      "posted": false,
+      "collected_at": "2026-04-30T04:15:28Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 1759,
+        "replies": 169,
+        "retweets": 160,
+        "stars": 0,
+        "upvotes": 0
       }
     },
     {
@@ -622,6 +703,26 @@
       }
     },
     {
+      "id": "edd3838f35cc90ddab5d1bb9b8694bdb",
+      "title": "We’re talking about Goblins.",
+      "url": "https://x.com/OpenAI/status/2049690533845663830",
+      "source": "twitter",
+      "source_author": "OpenAI",
+      "topics": [],
+      "score": 6.5,
+      "score_reason": "Discussing AI training quirks provides insight into system behavior, relevant for developers.",
+      "posted": false,
+      "collected_at": "2026-04-30T04:15:28Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 1391,
+        "replies": 179,
+        "retweets": 333,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
       "id": "589d16dfb31092852141e6e9ec7b9976",
       "title": "Show HN: GrandPerspective-style treemaps for the web and disk usage visualizer",
       "url": "https://imbue-ai.github.io/gp-treemap/gallery/",
@@ -679,6 +780,26 @@
         "retweets": 0,
         "stars": 0,
         "upvotes": 4
+      }
+    },
+    {
+      "id": "4e1cc31dfbff3456ddf6711b08dbc64d",
+      "title": "DanOps-1/Gpt-Agreement-Payment",
+      "url": "https://github.com/DanOps-1/Gpt-Agreement-Payment",
+      "source": "github",
+      "source_author": "DanOps-1",
+      "topics": [],
+      "score": 6,
+      "score_reason": "While it has some stars, it lacks engagement or unique features.",
+      "posted": false,
+      "collected_at": "2026-04-30T04:12:46Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 403,
+        "upvotes": 0
       }
     },
     {
@@ -902,6 +1023,26 @@
       }
     },
     {
+      "id": "67edf513fd3516920070997a257a7dfa",
+      "title": "mrslimslim/gpt-image-canvas",
+      "url": "https://github.com/mrslimslim/gpt-image-canvas",
+      "source": "github",
+      "source_author": "mrslimslim",
+      "topics": [],
+      "score": 5.5,
+      "score_reason": "Offers creativity with images but isn't groundbreaking.",
+      "posted": false,
+      "collected_at": "2026-04-30T04:12:46Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 49,
+        "upvotes": 0
+      }
+    },
+    {
       "id": "608d3ba26404786a3eab31e4373f4ea6",
       "title": "Show HN: Stream iOS Simulators to a Browser Window",
       "url": "https://github.com/EvanBacon/serve-sim",
@@ -939,6 +1080,26 @@
         "retweets": 0,
         "stars": 0,
         "upvotes": 3
+      }
+    },
+    {
+      "id": "c5611e191d65594cb2f9d7ed15c181dd",
+      "title": "swarmclawai/swarmbox",
+      "url": "https://github.com/swarmclawai/swarmbox",
+      "source": "github",
+      "source_author": "swarmclawai",
+      "topics": [],
+      "score": 5,
+      "score_reason": "Minimal engagement and no novel features.",
+      "posted": false,
+      "collected_at": "2026-04-30T04:12:54Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
+        "upvotes": 0
       }
     },
     {
@@ -1082,6 +1243,26 @@
       }
     },
     {
+      "id": "14b92b030e0e7073d319850f528018e7",
+      "title": "Goblin and related magical mentions were overrewarded in training, and the behavior was reinforced o...",
+      "url": "https://x.com/OpenAI/status/2049690541269688478",
+      "source": "twitter",
+      "source_author": "OpenAI",
+      "topics": [],
+      "score": 5,
+      "score_reason": "Insights into AI behavior can intrigue but may not significantly change developer practices.",
+      "posted": false,
+      "collected_at": "2026-04-30T04:15:28Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 135,
+        "replies": 18,
+        "retweets": 15,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
       "id": "ed92020b8a05d93c73c276fb84a1c499",
       "title": "LFM2-24B-A2B: Scaling Up the LFM2 Architecture",
       "url": "https://www.liquid.ai/blog/lfm2-24b-a2b",
@@ -1179,6 +1360,66 @@
         "retweets": 0,
         "stars": 0,
         "upvotes": 4
+      }
+    },
+    {
+      "id": "6c36525b7d03821582ceda2566ef5943",
+      "title": "GetSmallAI/SmallHarness",
+      "url": "https://github.com/GetSmallAI/SmallHarness",
+      "source": "github",
+      "source_author": "GetSmallAI",
+      "topics": [],
+      "score": 5,
+      "score_reason": "unscored",
+      "posted": false,
+      "collected_at": "2026-04-30T04:13:02Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 77,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "c6d35e8bbabe2f0f3f4b4ca1588ccb8e",
+      "title": "Createya-ai/Createya-mcp",
+      "url": "https://github.com/Createya-ai/Createya-mcp",
+      "source": "github",
+      "source_author": "Createya-ai",
+      "topics": [],
+      "score": 5,
+      "score_reason": "unscored",
+      "posted": false,
+      "collected_at": "2026-04-30T04:13:00Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 4,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "417c1ceca6510a52b26029ffdccbab12",
+      "title": "Julpygo/Claude-Code-AI-Design",
+      "url": "https://github.com/Julpygo/Claude-Code-AI-Design",
+      "source": "github",
+      "source_author": "Julpygo",
+      "topics": [],
+      "score": 5,
+      "score_reason": "unscored",
+      "posted": false,
+      "collected_at": "2026-04-30T04:12:43Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 57,
+        "upvotes": 0
       }
     },
     {
@@ -1282,6 +1523,26 @@
       }
     },
     {
+      "id": "5dfe96d0cf5212096401fa481c1053fe",
+      "title": "therichardngai-code/gpt-image-2-pro-max",
+      "url": "https://github.com/therichardngai-code/gpt-image-2-pro-max",
+      "source": "github",
+      "source_author": "therichardngai-code",
+      "topics": [],
+      "score": 5,
+      "score_reason": "Similar tools exist, limiting its novelty.",
+      "posted": false,
+      "collected_at": "2026-04-30T04:12:46Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 40,
+        "upvotes": 0
+      }
+    },
+    {
       "id": "53eec6f91f08fd6b9ad3b31a0b866bac",
       "title": "Larry's Risky Business",
       "url": "https://www.theverge.com/ai-artificial-intelligence/920378/oracle-openai-datacenter-buildout",
@@ -1322,6 +1583,26 @@
       }
     },
     {
+      "id": "805a16dae7b1aabb7a5c8d9360ec6f67",
+      "title": "mkbula/HideMyData",
+      "url": "https://github.com/mkbula/HideMyData",
+      "source": "github",
+      "source_author": "mkbula",
+      "topics": [],
+      "score": 5,
+      "score_reason": "unscored",
+      "posted": false,
+      "collected_at": "2026-04-30T04:12:44Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 27,
+        "upvotes": 0
+      }
+    },
+    {
       "id": "b882c76dcb76ab6ad3ed58e7dd9a93b1",
       "title": "Amazon is offering new OpenAI products on AWS",
       "url": "https://techcrunch.com/2026/04/28/amazon-is-already-offering-new-openai-products-on-aws/",
@@ -1339,6 +1620,46 @@
         "retweets": 0,
         "stars": 0,
         "upvotes": 2
+      }
+    },
+    {
+      "id": "c0af76a69e863d8ad95586ab0a22da63",
+      "title": "Growth-Circle/cadis",
+      "url": "https://github.com/Growth-Circle/cadis",
+      "source": "github",
+      "source_author": "Growth-Circle",
+      "topics": [],
+      "score": 5,
+      "score_reason": "unscored",
+      "posted": false,
+      "collected_at": "2026-04-30T04:12:44Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 37,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "0436ffec6721bac9d59d990eaff2baf1",
+      "title": "PatrickHeizer/M.A-Engine",
+      "url": "https://github.com/PatrickHeizer/M.A-Engine",
+      "source": "github",
+      "source_author": "PatrickHeizer",
+      "topics": [],
+      "score": 5,
+      "score_reason": "unscored",
+      "posted": false,
+      "collected_at": "2026-04-30T04:12:44Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 46,
+        "upvotes": 0
       }
     },
     {
@@ -1379,6 +1700,26 @@
         "retweets": 0,
         "stars": 0,
         "upvotes": 3
+      }
+    },
+    {
+      "id": "ecaf8f3707cfb41b39e4b23845ba5935",
+      "title": "rampstackco/claude-skills",
+      "url": "https://github.com/rampstackco/claude-skills",
+      "source": "github",
+      "source_author": "rampstackco",
+      "topics": [],
+      "score": 5,
+      "score_reason": "unscored",
+      "posted": false,
+      "collected_at": "2026-04-30T04:12:43Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 38,
+        "upvotes": 0
       }
     },
     {
@@ -1502,6 +1843,26 @@
       }
     },
     {
+      "id": "628092dccc612e2b81ba2ae90f2cfd53",
+      "title": "sandeco/reversa",
+      "url": "https://github.com/sandeco/reversa",
+      "source": "github",
+      "source_author": "sandeco",
+      "topics": [],
+      "score": 4.5,
+      "score_reason": "Moderate stars but little to distinguish its impact.",
+      "posted": false,
+      "collected_at": "2026-04-30T04:12:47Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 169,
+        "upvotes": 0
+      }
+    },
+    {
       "id": "edf0bac3198617246f96d681f28d0206",
       "title": "Creating a Dashboard with Claude Design",
       "url": "https://theautomatedoperator.substack.com/p/creating-a-dashboard-with-claude",
@@ -1519,6 +1880,46 @@
         "retweets": 0,
         "stars": 0,
         "upvotes": 1
+      }
+    },
+    {
+      "id": "8ee476c2695096414b735407f8188335",
+      "title": "Ship 26 tickets just dropped.\n\nLondon, Berlin, New York, Sydney, San Francisco.\n\nHear from customers...",
+      "url": "https://x.com/vercel/status/2049504889534054904",
+      "source": "twitter",
+      "source_author": "vercel",
+      "topics": [],
+      "score": 4.5,
+      "score_reason": "Announcement about tickets is less relevant and impactful for a developer audience.",
+      "posted": false,
+      "collected_at": "2026-04-30T04:15:28Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 158,
+        "replies": 24,
+        "retweets": 34,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "f24f307f9182de7dc0d357b8440eba54",
+      "title": "T8mars/comfyui-gpt-image2-prompt-T8",
+      "url": "https://github.com/T8mars/comfyui-gpt-image2-prompt-T8",
+      "source": "github",
+      "source_author": "T8mars",
+      "topics": [],
+      "score": 4,
+      "score_reason": "Lacks engagement and originality.",
+      "posted": false,
+      "collected_at": "2026-04-30T04:12:46Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 26,
+        "upvotes": 0
       }
     },
     {
@@ -1562,6 +1963,26 @@
       }
     },
     {
+      "id": "b6165122bf479304c71e30213eb9b199",
+      "title": "mizchi/skills",
+      "url": "https://github.com/mizchi/skills",
+      "source": "github",
+      "source_author": "mizchi",
+      "topics": [],
+      "score": 4,
+      "score_reason": "Standard utility without significant novel contributions.",
+      "posted": false,
+      "collected_at": "2026-04-30T04:12:47Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 109,
+        "upvotes": 0
+      }
+    },
+    {
       "id": "2825d0dc36c435f32961239b3b75af26",
       "title": "List of all the domain .well-known files",
       "url": "https://wkdomains.com/well-known-files",
@@ -1602,6 +2023,26 @@
       }
     },
     {
+      "id": "70a51884862efc3103f65436a5cdc0bc",
+      "title": "ZhiYi-R/moon-bridge",
+      "url": "https://github.com/ZhiYi-R/moon-bridge",
+      "source": "github",
+      "source_author": "ZhiYi-R",
+      "topics": [],
+      "score": 4,
+      "score_reason": "No distinguishing factor from existing solutions.",
+      "posted": false,
+      "collected_at": "2026-04-30T04:12:44Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 26,
+        "upvotes": 0
+      }
+    },
+    {
       "id": "ba07ce65ef4bd3f5ad49b7ce7f5c6907",
       "title": "Fast Tight Spectral-Norm Bounds",
       "url": "https://jiha-kim.github.io/posts/fast-spectral-norm-bounds-from-scaled-gram-moments/",
@@ -1639,6 +2080,46 @@
         "retweets": 0,
         "stars": 0,
         "upvotes": 2
+      }
+    },
+    {
+      "id": "67f8a004e1adecbf3866c06aac2ddfea",
+      "title": "endless-sky-team/ai-trading-agent",
+      "url": "https://github.com/endless-sky-team/ai-trading-agent",
+      "source": "github",
+      "source_author": "endless-sky-team",
+      "topics": [],
+      "score": 4,
+      "score_reason": "An AI trading agent is interesting but lacks significant novelty or broad developer impact.",
+      "posted": false,
+      "collected_at": "2026-04-30T04:13:03Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 59,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "440378389d0fb937829a89807eefa756",
+      "title": "skydoves/compose-performance-skills",
+      "url": "https://github.com/skydoves/compose-performance-skills",
+      "source": "github",
+      "source_author": "skydoves",
+      "topics": [],
+      "score": 3.5,
+      "score_reason": "While it has many stars, it lacks immediate developer relevance or novel insights.",
+      "posted": false,
+      "collected_at": "2026-04-30T04:12:42Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 149,
+        "upvotes": 0
       }
     },
     {
@@ -1762,6 +2243,46 @@
       }
     },
     {
+      "id": "f51c4f2149f7e1fb5a0a6f51dce0c330",
+      "title": "zeke/swiss-design-skill",
+      "url": "https://github.com/zeke/swiss-design-skill",
+      "source": "github",
+      "source_author": "zeke",
+      "topics": [],
+      "score": 3.5,
+      "score_reason": "The Swiss design skill offers limited insights into broader AI or developer tools.",
+      "posted": false,
+      "collected_at": "2026-04-30T04:13:03Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 49,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "4776b678303470fc3deaf4467f286971",
+      "title": "peterRooo/awesome-gpt-image-2-prompts",
+      "url": "https://github.com/peterRooo/awesome-gpt-image-2-prompts",
+      "source": "github",
+      "source_author": "peterRooo",
+      "topics": [],
+      "score": 3.5,
+      "score_reason": "Low stars and no real user engagement.",
+      "posted": false,
+      "collected_at": "2026-04-30T04:12:46Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 30,
+        "upvotes": 0
+      }
+    },
+    {
       "id": "c6567feaacbf7775af97c040b2302765",
       "title": "FCC orders review of ABC licenses after Kimmel joke offends Trump and First Lady",
       "url": "https://arstechnica.com/tech-policy/2026/04/fcc-orders-review-of-abc-licenses-after-kimmel-joke-offends-trump-and-first-lady/",
@@ -1779,6 +2300,26 @@
         "retweets": 0,
         "stars": 0,
         "upvotes": 9
+      }
+    },
+    {
+      "id": "45d7dac6df55e06b7f221e2a6dbe3c03",
+      "title": "hakmas1010/AuraBeats",
+      "url": "https://github.com/hakmas1010/AuraBeats",
+      "source": "github",
+      "source_author": "hakmas1010",
+      "topics": [],
+      "score": 3,
+      "score_reason": "Very few stars, suggest no traction in the community.",
+      "posted": false,
+      "collected_at": "2026-04-30T04:12:53Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
+        "upvotes": 0
       }
     },
     {
@@ -1902,6 +2443,26 @@
       }
     },
     {
+      "id": "f8c8047380ead44ccada51b01c34135c",
+      "title": "lunashia/o-m_beatmap_trainer",
+      "url": "https://github.com/lunashia/o-m_beatmap_trainer",
+      "source": "github",
+      "source_author": "lunashia",
+      "topics": [],
+      "score": 2.5,
+      "score_reason": "Almost no interest or engagement from prospective users.",
+      "posted": false,
+      "collected_at": "2026-04-30T04:12:53Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
+        "upvotes": 0
+      }
+    },
+    {
       "id": "dce3a52b90aec42def06cc927b5101b1",
       "title": "When a tornado hits after US Government mass-deploy auto kill-switch",
       "url": "https://twitter.com/gatlin_didier/status/2049617318112534743",
@@ -1919,6 +2480,26 @@
         "retweets": 0,
         "stars": 0,
         "upvotes": 3
+      }
+    },
+    {
+      "id": "2be5fd6dfa7f9672efec6621683ebb4e",
+      "title": "altaidevorg/isanagent",
+      "url": "https://github.com/altaidevorg/isanagent",
+      "source": "github",
+      "source_author": "altaidevorg",
+      "topics": [],
+      "score": 2,
+      "score_reason": "Very low visibility and community attention.",
+      "posted": false,
+      "collected_at": "2026-04-30T04:12:57Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 10,
+        "upvotes": 0
       }
     },
     {
@@ -2062,6 +2643,26 @@
       }
     },
     {
+      "id": "cdc3ab51cbc77317ead89cdfb1521f44",
+      "title": "navishachiku/agentskill-config",
+      "url": "https://github.com/navishachiku/agentskill-config",
+      "source": "github",
+      "source_author": "navishachiku",
+      "topics": [],
+      "score": 2,
+      "score_reason": "Negligible engagement; lacks any unique features.",
+      "posted": false,
+      "collected_at": "2026-04-30T04:12:56Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
+        "upvotes": 0
+      }
+    },
+    {
       "id": "a8c439b784cdc5dc48956e0131aedf1a",
       "title": "OpenAI has, in practice, abandoned its Stargate JV",
       "url": "https://www.ft.com/content/664a57e2-dffa-401e-81ad-55129ffb0e89",
@@ -2079,6 +2680,46 @@
         "retweets": 0,
         "stars": 0,
         "upvotes": 10
+      }
+    },
+    {
+      "id": "fe6a6b10e4a01343c558556ca6472dea",
+      "title": "lydiaaam/llm-ui-coord-benchmark",
+      "url": "https://github.com/lydiaaam/llm-ui-coord-benchmark",
+      "source": "github",
+      "source_author": "lydiaaam",
+      "topics": [],
+      "score": 2,
+      "score_reason": "The benchmark lacks engagement, indicating lesser interest in its novelty or impact.",
+      "posted": false,
+      "collected_at": "2026-04-30T04:13:02Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 75,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "0175a62144d1f00157c756d0b8fc89c1",
+      "title": "ephraimduncan/codex-cursor",
+      "url": "https://github.com/ephraimduncan/codex-cursor",
+      "source": "github",
+      "source_author": "ephraimduncan",
+      "topics": [],
+      "score": 2,
+      "score_reason": "Minimal stars indicating limited appeal.",
+      "posted": false,
+      "collected_at": "2026-04-30T04:12:58Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 16,
+        "upvotes": 0
       }
     },
     {
@@ -2122,6 +2763,26 @@
       }
     },
     {
+      "id": "7cd0eec7bb4d7f38a2664e8b473454c5",
+      "title": "fvrodrigues/devin",
+      "url": "https://github.com/fvrodrigues/devin",
+      "source": "github",
+      "source_author": "fvrodrigues",
+      "topics": [],
+      "score": 1,
+      "score_reason": "Zero engagement reflects no interest from developers.",
+      "posted": false,
+      "collected_at": "2026-04-30T04:13:01Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
       "id": "d58b9cbacb64c2d2206b019711db23b7",
       "title": "AI agents (Grok vs. GPT-4o mini) compete in live crypto paper trading",
       "url": "https://cryptoaiarena.com/",
@@ -2139,6 +2800,26 @@
         "retweets": 0,
         "stars": 0,
         "upvotes": 1
+      }
+    },
+    {
+      "id": "ec7e463a26ad783494499953286a9c5c",
+      "title": "noonghunna/club-3090",
+      "url": "https://github.com/noonghunna/club-3090",
+      "source": "github",
+      "source_author": "noonghunna",
+      "topics": [],
+      "score": 1,
+      "score_reason": "No community response or engagement whatsoever.",
+      "posted": false,
+      "collected_at": "2026-04-30T04:13:02Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 90,
+        "upvotes": 0
       }
     },
     {
@@ -2222,6 +2903,26 @@
       }
     },
     {
+      "id": "d605860225854c1b5c9f7ea67a1e5337",
+      "title": "openclaw/plugin-inspector",
+      "url": "https://github.com/openclaw/plugin-inspector",
+      "source": "github",
+      "source_author": "openclaw",
+      "topics": [],
+      "score": 1,
+      "score_reason": "No interest reflects in low visibility.",
+      "posted": false,
+      "collected_at": "2026-04-30T04:12:57Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 10,
+        "upvotes": 0
+      }
+    },
+    {
       "id": "e4eb7f7584e9dd1ad180b37e8cda6020",
       "title": "Love It or Lehane It",
       "url": "https://puck.news/openai-softens-ai-jobpocalypse-doom-messaging-amid-public-backlash/",
@@ -2239,6 +2940,26 @@
         "retweets": 0,
         "stars": 0,
         "upvotes": 3
+      }
+    },
+    {
+      "id": "5af23e0ae1a5cdfe7dc69ad3f895dd12",
+      "title": "bradautomates/claude-video",
+      "url": "https://github.com/bradautomates/claude-video",
+      "source": "github",
+      "source_author": "bradautomates",
+      "topics": [],
+      "score": 1,
+      "score_reason": "Likely too niche and low in relevance for a broader developer audience.",
+      "posted": false,
+      "collected_at": "2026-04-30T04:12:42Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 136,
+        "upvotes": 0
       }
     },
     {
@@ -2282,6 +3003,5 @@
       }
     }
   ],
-  "source": "hackernews",
   "updated_at": "2026-04-30T04:17:08Z"
 }
