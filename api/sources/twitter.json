@@ -1,247 +1,47 @@
 {
-  "count": 12,
+  "count": 2,
   "items": [
     {
-      "id": "b84dbf00b50e08fb94ee772fe9a65f23",
-      "title": "It's never been easier to do everyday work with Codex.\n\nChoose your role, connect the apps you use e...",
-      "url": "https://x.com/OpenAI/status/2049928776147230886",
+      "id": "774213649ae2452df04d9cb3bd9d3fea",
+      "title": "Replit is turning 10, and we are making Agent free\n\nGet ready to have fun building!\n\nWant prizes? Jo...",
+      "url": "https://x.com/Replit/status/2049958677076213889",
       "source": "twitter",
-      "source_author": "OpenAI",
-      "topics": [],
-      "score": 9,
-      "score_reason": "OpenAI's Codex simplifies everyday tasks, showing a significant impact on developer workflows.",
-      "posted": false,
-      "collected_at": "2026-05-01T04:41:05Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 4019,
-        "replies": 242,
-        "retweets": 429,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "53db6e1a09a9746e825d00d1c742061c",
-      "title": "Last week, we made Gemini Embedding 2, our first natively multimodal embedding model, available to t...",
-      "url": "https://x.com/GoogleAI/status/2049903687016063456",
-      "source": "twitter",
-      "source_author": "GoogleAI",
-      "topics": [],
-      "score": 8.5,
-      "score_reason": "Gemini Embedding 2's release highlights advancements in multimodal AI, relevant to the technical audience.",
-      "posted": false,
-      "collected_at": "2026-05-01T04:41:05Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 1195,
-        "replies": 46,
-        "retweets": 189,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "d9cd6726a373a70af65dd422080414fe",
-      "title": "Cursor Security Review is now available for Teams and Enterprise plans.\n\nRun two types of always-on ...",
-      "url": "https://x.com/cursor_ai/status/2049926283061035254",
-      "source": "twitter",
-      "source_author": "cursor_ai",
+      "source_author": "replit",
       "topics": [],
       "score": 8,
-      "score_reason": "Cursor's security review features are relevant and indicate evolving developer tool capabilities.",
+      "score_reason": "Replit's move to make their platform friendlier with agentic capabilities can change how developers engage with coding environments.",
       "posted": false,
-      "collected_at": "2026-05-01T04:41:05Z",
+      "collected_at": "2026-05-01T08:32:48Z",
       "engagement": {
         "comments": 0,
-        "likes": 1210,
-        "replies": 56,
-        "retweets": 153,
+        "likes": 465,
+        "replies": 44,
+        "retweets": 63,
         "stars": 0,
         "upvotes": 0
       }
     },
     {
-      "id": "e4899fd153d5e4b8f639630020580e9b",
-      "title": "AI co-clinician is our new research initiative to help explore how multimodal agents could better su...",
-      "url": "https://x.com/GoogleDeepMind/status/2049867061279457761",
-      "source": "twitter",
-      "source_author": "GoogleDeepMind",
-      "topics": [],
-      "score": 7.5,
-      "score_reason": "Research on multimodal agents could influence development practices in healthcare.",
-      "posted": false,
-      "collected_at": "2026-05-01T04:41:05Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 786,
-        "replies": 58,
-        "retweets": 182,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "c8fb11cd95b1258681022d758591c2dd",
-      "title": "How do people seek guidance from Claude?\n\nWe looked at 1M conversations to understand what questions...",
-      "url": "https://x.com/AnthropicAI/status/2049927618397614466",
+      "id": "5806cd2cd4c9854fe94e3dc92b4cb219",
+      "title": "All data in this study was collected and analyzed using our privacy-preserving tool.\n\nRead more:",
+      "url": "https://x.com/AnthropicAI/status/2049927629420245494",
       "source": "twitter",
       "source_author": "AnthropicAI",
       "topics": [],
-      "score": 7,
-      "score_reason": "Analysis of guidance-seeking from Claude may contribute to understanding AI interactions.",
+      "score": 1,
+      "score_reason": "The tweet about a privacy-preserving tool lacks substance for developer interest.",
       "posted": false,
-      "collected_at": "2026-05-01T04:41:05Z",
+      "collected_at": "2026-05-01T08:32:48Z",
       "engagement": {
         "comments": 0,
-        "likes": 1614,
-        "replies": 186,
-        "retweets": 226,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "107e6cc066ef6bb1383a2d6c974f2828",
-      "title": "From draft to deck, review the work as it takes shape inside Codex. \n\nOpen the file, ask for changes...",
-      "url": "https://x.com/OpenAI/status/2049928782019256561",
-      "source": "twitter",
-      "source_author": "OpenAI",
-      "topics": [],
-      "score": 7,
-      "score_reason": "Integrating Codex into drafting workflows demonstrates practical application but less novelty.",
-      "posted": false,
-      "collected_at": "2026-05-01T04:41:05Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 228,
-        "replies": 8,
-        "retweets": 13,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "9a8b0ec0bb39b7bab632e17a687247e5",
-      "title": "To keep patient safety at the forefront, the system also runs on a dual agent architecture.\n\nA built...",
-      "url": "https://x.com/GoogleDeepMind/status/2049867072193085781",
-      "source": "twitter",
-      "source_author": "GoogleDeepMind",
-      "topics": [],
-      "score": 6.5,
-      "score_reason": "Dual-agent architecture for patient safety is innovative but with limited immediate relevance to general developers.",
-      "posted": false,
-      "collected_at": "2026-05-01T04:41:05Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 58,
-        "replies": 4,
-        "retweets": 1,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "7d271c37d960730969b6c715260bc1ba",
-      "title": "New paper! \nhttps://\nallenai.org/papers/olmpool\n\nThis tackles a puzzle we found during the training ...",
-      "url": "https://x.com/abertsch72/status/2049958232760648137",
-      "source": "twitter",
-      "source_author": "Allen_AI",
-      "topics": [],
-      "score": 5.5,
-      "score_reason": "New paper on model training puzzles may intrigue academics but lacks wide engagement.",
-      "posted": false,
-      "collected_at": "2026-05-01T04:41:05Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 67,
-        "replies": 3,
-        "retweets": 20,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "9cec511c6eee5a7f4c85256d8e2bc592",
-      "title": "We’re advancing this research with academics and institutions globally, and will gradually expand ...",
-      "url": "https://x.com/GoogleDeepMind/status/2049867075074539583",
-      "source": "twitter",
-      "source_author": "GoogleDeepMind",
-      "topics": [],
-      "score": 5,
-      "score_reason": "unscored",
-      "posted": false,
-      "collected_at": "2026-05-01T04:41:05Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 53,
-        "replies": 2,
-        "retweets": 5,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "3652b7959e2c54789f47a63f650d316a",
-      "title": "Customize these Cursor-managed security agents to match your team’s requirements.\n\nAdjust triggers...",
-      "url": "https://x.com/cursor_ai/status/2049926285518848093",
-      "source": "twitter",
-      "source_author": "cursor_ai",
-      "topics": [],
-      "score": 5,
-      "score_reason": "Customization of security agents is useful but not a groundbreaking advancement.",
-      "posted": false,
-      "collected_at": "2026-05-01T04:41:05Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 57,
-        "replies": 4,
-        "retweets": 1,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "60772b31b49e440515262f3aa5e2be10",
-      "title": "Safe agents don’t guarantee a safe ecosystem of interconnected agents. Microsoft Research examines...",
-      "url": "https://x.com/MSFTResearch/status/2049972123901264027",
-      "source": "twitter",
-      "source_author": "MSFTResearch",
-      "topics": [],
-      "score": 4.5,
-      "score_reason": "Discussion on safety in interconnected agents is important but with low engagement.",
-      "posted": false,
-      "collected_at": "2026-05-01T04:41:05Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 15,
-        "replies": 0,
-        "retweets": 3,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "246a87b04af8d2a517038184313346da",
-      "title": "This work is part of a loop we're working to close between societal impacts and model training. One ...",
-      "url": "https://x.com/AnthropicAI/status/2049927628161999317",
-      "source": "twitter",
-      "source_author": "AnthropicAI",
-      "topics": [],
-      "score": 4.5,
-      "score_reason": "Insufficient engagement and vague context make this less appealing to developers.",
-      "posted": false,
-      "collected_at": "2026-05-01T04:41:05Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 103,
-        "replies": 7,
-        "retweets": 8,
+        "likes": 99,
+        "replies": 10,
+        "retweets": 9,
         "stars": 0,
         "upvotes": 0
       }
     }
   ],
   "source": "twitter",
-  "updated_at": "2026-05-01T04:42:33Z"
+  "updated_at": "2026-05-01T08:33:23Z"
 }
