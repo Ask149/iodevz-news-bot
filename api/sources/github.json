@@ -1,37 +1,137 @@
 {
-  "count": 4,
+  "count": 10,
   "items": [
     {
-      "id": "c524346fc948da65e63b6fa96168718d",
-      "title": "tiangolo/library-skills",
-      "url": "https://github.com/tiangolo/library-skills",
+      "id": "10a2caadcf1df582328e068ecf47c783",
+      "title": "warpdot-dev/composio",
+      "url": "https://github.com/warpdot-dev/composio",
       "source": "github",
-      "source_author": "tiangolo",
+      "source_author": "warpdot-dev",
       "topics": [],
-      "score": 7,
-      "score_reason": "The library skills project on GitHub has potential relevance to developer productivity but is less novel.",
+      "score": 7.5,
+      "score_reason": "A new project potentially relevant for developers interested in modular tools.",
       "posted": false,
-      "collected_at": "2026-05-01T08:30:05Z",
+      "collected_at": "2026-05-01T14:01:37Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 126,
+        "stars": 80,
         "upvotes": 0
       }
     },
     {
-      "id": "ebe8000d20ed02e15b293004857c380e",
-      "title": "dformoso/positronic",
-      "url": "https://github.com/dformoso/positronic",
+      "id": "f391c89d2afd568ca900aa3d37121c4d",
+      "title": "lukiIabs/trading-agents",
+      "url": "https://github.com/lukiIabs/trading-agents",
       "source": "github",
-      "source_author": "dformoso",
+      "source_author": "lukiIabs",
+      "topics": [],
+      "score": 7.5,
+      "score_reason": "Trading agents are a growing area in AI, reflecting a novel application.",
+      "posted": false,
+      "collected_at": "2026-05-01T14:01:38Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 79,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "871c559a351e0674683a01378b029846",
+      "title": "Wholiver/swiftui-design-skill",
+      "url": "https://github.com/Wholiver/swiftui-design-skill",
+      "source": "github",
+      "source_author": "Wholiver",
       "topics": [],
       "score": 5,
-      "score_reason": "unscored",
+      "score_reason": "SwiftUI design skills are relevant but have limited novelty.",
       "posted": false,
-      "collected_at": "2026-05-01T08:30:14Z",
+      "collected_at": "2026-05-01T14:01:54Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 18,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "cdb8b6d0da93522ed1488da972cd10a7",
+      "title": "SaiAvinashPatoju/1mcp.in",
+      "url": "https://github.com/SaiAvinashPatoju/1mcp.in",
+      "source": "github",
+      "source_author": "SaiAvinashPatoju",
+      "topics": [],
+      "score": 4,
+      "score_reason": "Potentially useful tool with low engagement, making its impact uncertain.",
+      "posted": false,
+      "collected_at": "2026-05-01T14:01:56Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 7,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "fa655df6bdc9be2c865c99b26c38039d",
+      "title": "helloyangy/Chat2API-Tutorial",
+      "url": "https://github.com/helloyangy/Chat2API-Tutorial",
+      "source": "github",
+      "source_author": "helloyangy",
+      "topics": [],
+      "score": 4,
+      "score_reason": "Chat2API tutorial suggests an educational angle, but lacks metrics indicating impact.",
+      "posted": false,
+      "collected_at": "2026-05-01T14:01:45Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 2,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "edec01fad0aa8a60ffb09e12cdebcade",
+      "title": "jieyefriic/nbcraft",
+      "url": "https://github.com/jieyefriic/nbcraft",
+      "source": "github",
+      "source_author": "jieyefriic",
+      "topics": [],
+      "score": 3.5,
+      "score_reason": "Project is niche with limited relevance for a broader developer audience.",
+      "posted": false,
+      "collected_at": "2026-05-01T14:01:46Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 4,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "f8bfdf85b5ee5c9ab47bfb268ceeadd7",
+      "title": "dipeshrayg/2026-05-01-multi-agent-systems-simulator",
+      "url": "https://github.com/dipeshrayg/2026-05-01-multi-agent-systems-simulator",
+      "source": "github",
+      "source_author": "dipeshrayg",
+      "topics": [],
+      "score": 3,
+      "score_reason": "Multi-agent systems are interesting, but lack concrete impact.",
+      "posted": false,
+      "collected_at": "2026-05-01T14:01:49Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
@@ -42,46 +142,66 @@
       }
     },
     {
-      "id": "460fdcfd4696e099b3a146840098ede3",
-      "title": "xstjmark21-cmyk/mlops-models-audiocraft",
-      "url": "https://github.com/xstjmark21-cmyk/mlops-models-audiocraft",
+      "id": "5f1f877919ff78cb63514638947cb065",
+      "title": "Saddss/infra-roadmap-2026",
+      "url": "https://github.com/Saddss/infra-roadmap-2026",
       "source": "github",
-      "source_author": "xstjmark21-cmyk",
+      "source_author": "Saddss",
       "topics": [],
-      "score": 2,
-      "score_reason": "Another GitHub repo that lacks engagement and doesn't introduce innovative concepts.",
+      "score": 3,
+      "score_reason": "Infrastructure roadmap has low engagement and novelty.",
       "posted": false,
-      "collected_at": "2026-05-01T08:30:11Z",
+      "collected_at": "2026-05-01T14:01:45Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 0,
+        "stars": 2,
         "upvotes": 0
       }
     },
     {
-      "id": "52857fd7510933cac0de875a52a6a7f5",
-      "title": "wustghj/cursor-deepseek-v4-proxy",
-      "url": "https://github.com/wustghj/cursor-deepseek-v4-proxy",
+      "id": "86338e2cb17f9c5d4c49f2367b64348c",
+      "title": "ppatil275/School_District_News_Summary",
+      "url": "https://github.com/ppatil275/School_District_News_Summary",
       "source": "github",
-      "source_author": "wustghj",
+      "source_author": "ppatil275",
       "topics": [],
-      "score": 0.5,
-      "score_reason": "The additional GitHub project has minimal engagement and lacks impactful information.",
+      "score": 2.5,
+      "score_reason": "Low engagement and less relevance for developers.",
       "posted": false,
-      "collected_at": "2026-05-01T08:30:17Z",
+      "collected_at": "2026-05-01T14:01:52Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 16,
+        "stars": 1,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "a1ce660bad30e976778ed30c75f54a20",
+      "title": "Arkay92/Erasmus-X",
+      "url": "https://github.com/Arkay92/Erasmus-X",
+      "source": "github",
+      "source_author": "Arkay92",
+      "topics": [],
+      "score": 2,
+      "score_reason": "Very low engagement and no clear value.",
+      "posted": false,
+      "collected_at": "2026-05-01T14:01:49Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
         "upvotes": 0
       }
     }
   ],
   "source": "github",
-  "updated_at": "2026-05-01T08:33:23Z"
+  "updated_at": "2026-05-01T14:05:30Z"
 }
