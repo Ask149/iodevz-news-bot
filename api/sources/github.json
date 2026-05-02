@@ -1,57 +1,97 @@
 {
-  "count": 4,
+  "count": 7,
   "items": [
     {
-      "id": "400e87c99bc34f18017839cb4a7f14f5",
-      "title": "jaccen/Awesome-Gaussian-Skills",
-      "url": "https://github.com/jaccen/Awesome-Gaussian-Skills",
+      "id": "42231901e6b8900238eadf63bb77d9f9",
+      "title": "millionco/agent-install",
+      "url": "https://github.com/millionco/agent-install",
       "source": "github",
-      "source_author": "jaccen",
+      "source_author": "millionco",
       "topics": [],
-      "score": 5.5,
-      "score_reason": "Potentially valuable resource, but the project needs more visibility.",
+      "score": 5,
+      "score_reason": "Medium engagement but lacks detailed description to determine significance.",
       "posted": false,
-      "collected_at": "2026-05-02T08:10:10Z",
+      "collected_at": "2026-05-02T13:54:52Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 11,
+        "stars": 32,
         "upvotes": 0
       }
     },
     {
-      "id": "de6a6442943f0cb9c53e901a7a6bf2c7",
-      "title": "Zhekinmaksim/Storyboard",
-      "url": "https://github.com/Zhekinmaksim/Storyboard",
+      "id": "2e7ef7c19e51a449f2a55cc3606c3ee6",
+      "title": "Hello-Application-XH/HelloGML",
+      "url": "https://github.com/Hello-Application-XH/HelloGML",
       "source": "github",
-      "source_author": "Zhekinmaksim",
+      "source_author": "Hello-Application-XH",
+      "topics": [],
+      "score": 4.5,
+      "score_reason": "Repository with low engagement and no clear standout features.",
+      "posted": false,
+      "collected_at": "2026-05-02T13:54:40Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 75,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "706fdde80848e66f6971f2a3985b4afe",
+      "title": "AymaneMehdi/OpenAI-Node.js-CLI-Lab",
+      "url": "https://github.com/AymaneMehdi/OpenAI-Node.js-CLI-Lab",
+      "source": "github",
+      "source_author": "AymaneMehdi",
       "topics": [],
       "score": 4,
-      "score_reason": "GitHub project lacks context on its novelty and impact.",
+      "score_reason": "Underdeveloped project with minimal interest in the community.",
       "posted": false,
-      "collected_at": "2026-05-02T08:10:03Z",
+      "collected_at": "2026-05-02T13:54:49Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 2,
+        "stars": 1,
         "upvotes": 0
       }
     },
     {
-      "id": "1ac78fed3252dc9dd05ab7ffab3f4f23",
-      "title": "bajrang-code-1/Audio-architect-ai",
-      "url": "https://github.com/bajrang-code-1/Audio-architect-ai",
+      "id": "8e25153c7b80a9d8a137549352f2ddd2",
+      "title": "shadowmoulic/tts-audio-generation",
+      "url": "https://github.com/shadowmoulic/tts-audio-generation",
       "source": "github",
-      "source_author": "bajrang-code-1",
+      "source_author": "shadowmoulic",
       "topics": [],
       "score": 3.5,
-      "score_reason": "Similar to previous item, lacks engagement and clear use case.",
+      "score_reason": "Little engagement and lacks uniqueness in topic.",
       "posted": false,
-      "collected_at": "2026-05-02T08:10:05Z",
+      "collected_at": "2026-05-02T13:54:49Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "a81c356ae06d9571482cfe4796854862",
+      "title": "Yohan-Christmith/smart-investor-swarm",
+      "url": "https://github.com/Yohan-Christmith/smart-investor-swarm",
+      "source": "github",
+      "source_author": "Yohan-Christmith",
+      "topics": [],
+      "score": 3,
+      "score_reason": "Low engagement and vague functionality may hinder developer appeal.",
+      "posted": false,
+      "collected_at": "2026-05-02T13:54:50Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
@@ -62,26 +102,46 @@
       }
     },
     {
-      "id": "7b07aae8b9f4406451fbf494d4de747e",
-      "title": "akashspacesky/so101-world-model",
-      "url": "https://github.com/akashspacesky/so101-world-model",
+      "id": "640077319f8c7b82e4eefd3d1338b060",
+      "title": "avinashmyerolkar/claude-code-playbook",
+      "url": "https://github.com/avinashmyerolkar/claude-code-playbook",
       "source": "github",
-      "source_author": "akashspacesky",
+      "source_author": "avinashmyerolkar",
       "topics": [],
-      "score": 3,
-      "score_reason": "Minimal engagement and unclear relevance to current developer tools.",
+      "score": 2.5,
+      "score_reason": "New project with no community feedback to suggest utility.",
       "posted": false,
-      "collected_at": "2026-05-02T08:10:04Z",
+      "collected_at": "2026-05-02T13:54:53Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
         "stars": 1,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "753e18cf625fa581b8749965b176868b",
+      "title": "divyaran7an/cursor-sdk-gateway",
+      "url": "https://github.com/divyaran7an/cursor-sdk-gateway",
+      "source": "github",
+      "source_author": "divyaran7an",
+      "topics": [],
+      "score": 2,
+      "score_reason": "Low engagement and unclear utility or novel application.",
+      "posted": false,
+      "collected_at": "2026-05-02T13:54:55Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 15,
         "upvotes": 0
       }
     }
   ],
   "source": "github",
-  "updated_at": "2026-05-02T08:13:13Z"
+  "updated_at": "2026-05-02T13:58:05Z"
 }
