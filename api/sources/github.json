@@ -1,77 +1,97 @@
 {
-  "count": 7,
+  "count": 26,
   "items": [
     {
-      "id": "42231901e6b8900238eadf63bb77d9f9",
-      "title": "millionco/agent-install",
-      "url": "https://github.com/millionco/agent-install",
+      "id": "a55c0411e6b71d4bcab17f71f2534e82",
+      "title": "Alfredo7777777/claude-design-agents-toolkit",
+      "url": "https://github.com/Alfredo7777777/claude-design-agents-toolkit",
       "source": "github",
-      "source_author": "millionco",
+      "source_author": "Alfredo7777777",
+      "topics": [],
+      "score": 6.5,
+      "score_reason": "New toolkit for AI design agents likely to attract developer interest.",
+      "posted": false,
+      "collected_at": "2026-05-03T04:29:16Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 198,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "d4beab147c9ca97ee1feec9ad3d29d1a",
+      "title": "StartupHakk/OpenMonoAgent.ai",
+      "url": "https://github.com/StartupHakk/OpenMonoAgent.ai",
+      "source": "github",
+      "source_author": "StartupHakk",
+      "topics": [],
+      "score": 6,
+      "score_reason": "High star count suggests interest, though lacks engagement.",
+      "posted": false,
+      "collected_at": "2026-05-03T04:29:37Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 100,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "1386a0864b614081652257145a39bd15",
+      "title": "bearrymuse/GPT-Image-2-Driven-Prompt-Engine",
+      "url": "https://github.com/bearrymuse/GPT-Image-2-Driven-Prompt-Engine",
+      "source": "github",
+      "source_author": "bearrymuse",
+      "topics": [],
+      "score": 5.5,
+      "score_reason": "Image-driven prompts could enhance creativity but are not yet novel.",
+      "posted": false,
+      "collected_at": "2026-05-03T04:29:19Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 197,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "c795ad98341195efa5e267de5d9298cb",
+      "title": "IKingBarou/Zeroclaw-Plugin-Hub",
+      "url": "https://github.com/IKingBarou/Zeroclaw-Plugin-Hub",
+      "source": "github",
+      "source_author": "IKingBarou",
       "topics": [],
       "score": 5,
-      "score_reason": "Medium engagement but lacks detailed description to determine significance.",
+      "score_reason": "A plugin hub could support innovation but lacks distinctive features.",
       "posted": false,
-      "collected_at": "2026-05-02T13:54:52Z",
+      "collected_at": "2026-05-03T04:29:16Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 32,
+        "stars": 197,
         "upvotes": 0
       }
     },
     {
-      "id": "2e7ef7c19e51a449f2a55cc3606c3ee6",
-      "title": "Hello-Application-XH/HelloGML",
-      "url": "https://github.com/Hello-Application-XH/HelloGML",
+      "id": "42720be3adf347367b0825136707ad21",
+      "title": "agent-goose/Devin",
+      "url": "https://github.com/agent-goose/Devin",
       "source": "github",
-      "source_author": "Hello-Application-XH",
+      "source_author": "agent-goose",
       "topics": [],
-      "score": 4.5,
-      "score_reason": "Repository with low engagement and no clear standout features.",
+      "score": 5,
+      "score_reason": "Potentially interesting with some engagement, but not well-known.",
       "posted": false,
-      "collected_at": "2026-05-02T13:54:40Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 75,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "706fdde80848e66f6971f2a3985b4afe",
-      "title": "AymaneMehdi/OpenAI-Node.js-CLI-Lab",
-      "url": "https://github.com/AymaneMehdi/OpenAI-Node.js-CLI-Lab",
-      "source": "github",
-      "source_author": "AymaneMehdi",
-      "topics": [],
-      "score": 4,
-      "score_reason": "Underdeveloped project with minimal interest in the community.",
-      "posted": false,
-      "collected_at": "2026-05-02T13:54:49Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 1,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "8e25153c7b80a9d8a137549352f2ddd2",
-      "title": "shadowmoulic/tts-audio-generation",
-      "url": "https://github.com/shadowmoulic/tts-audio-generation",
-      "source": "github",
-      "source_author": "shadowmoulic",
-      "topics": [],
-      "score": 3.5,
-      "score_reason": "Little engagement and lacks uniqueness in topic.",
-      "posted": false,
-      "collected_at": "2026-05-02T13:54:49Z",
+      "collected_at": "2026-05-03T04:29:36Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
@@ -82,36 +102,356 @@
       }
     },
     {
-      "id": "a81c356ae06d9571482cfe4796854862",
-      "title": "Yohan-Christmith/smart-investor-swarm",
-      "url": "https://github.com/Yohan-Christmith/smart-investor-swarm",
+      "id": "afd7ce268fd84eb187ddb38c02eb8566",
+      "title": "Tommy-yw/RunbookHermes",
+      "url": "https://github.com/Tommy-yw/RunbookHermes",
       "source": "github",
-      "source_author": "Yohan-Christmith",
+      "source_author": "Tommy-yw",
+      "topics": [],
+      "score": 4.5,
+      "score_reason": "Runbook could be practical for workflow but minimal engagement.",
+      "posted": false,
+      "collected_at": "2026-05-03T04:29:21Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 103,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "4833bbeed11015b42b682246ca37c87b",
+      "title": "nateherkai/AIS-OS",
+      "url": "https://github.com/nateherkai/AIS-OS",
+      "source": "github",
+      "source_author": "nateherkai",
+      "topics": [],
+      "score": 4.5,
+      "score_reason": "OS concept is intriguing but specificity and originality are unclear.",
+      "posted": false,
+      "collected_at": "2026-05-03T04:29:16Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 147,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "eb4cf956449de94096386402533d9b56",
+      "title": "mattleong/pi-better-openai",
+      "url": "https://github.com/mattleong/pi-better-openai",
+      "source": "github",
+      "source_author": "mattleong",
+      "topics": [],
+      "score": 4,
+      "score_reason": "Potential for improving OpenAI applications but lacks strong engagement.",
+      "posted": false,
+      "collected_at": "2026-05-03T04:29:19Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 29,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "401f127c2c0fb63e61600b28fee6fa0f",
+      "title": "Dsadd4/AgentFigureGallery",
+      "url": "https://github.com/Dsadd4/AgentFigureGallery",
+      "source": "github",
+      "source_author": "Dsadd4",
+      "topics": [],
+      "score": 4,
+      "score_reason": "Interesting concept but lacks engagement and novelty.",
+      "posted": false,
+      "collected_at": "2026-05-03T04:29:33Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 24,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "4cd0ac4aa947301a6c8067c840267313",
+      "title": "ZeroPointRepo/awesome-hermes-skills",
+      "url": "https://github.com/ZeroPointRepo/awesome-hermes-skills",
+      "source": "github",
+      "source_author": "ZeroPointRepo",
+      "topics": [],
+      "score": 3.5,
+      "score_reason": "Compiles existing skills without much novelty or engagement.",
+      "posted": false,
+      "collected_at": "2026-05-03T04:29:35Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 3,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "09d63749f067a115b0cf18067a93850c",
+      "title": "0xsakura666/opus-style-output",
+      "url": "https://github.com/0xsakura666/opus-style-output",
+      "source": "github",
+      "source_author": "0xsakura666",
+      "topics": [],
+      "score": 3.5,
+      "score_reason": "Concept is interesting but lacks clear development impact.",
+      "posted": false,
+      "collected_at": "2026-05-03T04:29:20Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 37,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "f791bda21524c91f24169d584f38d56e",
+      "title": "ailuntx/Thinking-with-Visual-Primitives",
+      "url": "https://github.com/ailuntx/Thinking-with-Visual-Primitives",
+      "source": "github",
+      "source_author": "ailuntx",
       "topics": [],
       "score": 3,
-      "score_reason": "Low engagement and vague functionality may hinder developer appeal.",
+      "score_reason": "Novel visual primitives but unclear application context.",
       "posted": false,
-      "collected_at": "2026-05-02T13:54:50Z",
+      "collected_at": "2026-05-03T04:29:23Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 1,
+        "stars": 17,
         "upvotes": 0
       }
     },
     {
-      "id": "640077319f8c7b82e4eefd3d1338b060",
-      "title": "avinashmyerolkar/claude-code-playbook",
-      "url": "https://github.com/avinashmyerolkar/claude-code-playbook",
+      "id": "7a93bc86ea9e78a81c4054e3cbd8b0c0",
+      "title": "gashiartim/seo-enhancer",
+      "url": "https://github.com/gashiartim/seo-enhancer",
       "source": "github",
-      "source_author": "avinashmyerolkar",
+      "source_author": "gashiartim",
+      "topics": [],
+      "score": 3,
+      "score_reason": "Basic SEO tool, limited impact and relevance.",
+      "posted": false,
+      "collected_at": "2026-05-03T04:29:35Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 3,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "7a723126b79321e459374ddb916f872a",
+      "title": "zenithbaseshadow/r18-anthropics-claude-code-datascience",
+      "url": "https://github.com/zenithbaseshadow/r18-anthropics-claude-code-datascience",
+      "source": "github",
+      "source_author": "zenithbaseshadow",
+      "topics": [],
+      "score": 3,
+      "score_reason": "Low engagement and unclear application in data science.",
+      "posted": false,
+      "collected_at": "2026-05-03T04:29:18Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 22,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "239284ed5eb697eae2a7aa5af8236233",
+      "title": "maharshimakani/Valo-Synergy-2025",
+      "url": "https://github.com/maharshimakani/Valo-Synergy-2025",
+      "source": "github",
+      "source_author": "maharshimakani",
+      "topics": [],
+      "score": 3,
+      "score_reason": "Project appears underdeveloped and lacks relevant scope.",
+      "posted": false,
+      "collected_at": "2026-05-03T04:29:21Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 196,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "b48a8991e28e8fcd8b61ed5271d300f5",
+      "title": "Zhanghaohao666/windsurf-auto-tools",
+      "url": "https://github.com/Zhanghaohao666/windsurf-auto-tools",
+      "source": "github",
+      "source_author": "Zhanghaohao666",
       "topics": [],
       "score": 2.5,
-      "score_reason": "New project with no community feedback to suggest utility.",
+      "score_reason": "Very low engagement, lacks distinct purpose.",
       "posted": false,
-      "collected_at": "2026-05-02T13:54:53Z",
+      "collected_at": "2026-05-03T04:29:35Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 2,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "498ccd897a16c108e1371f3dd2c68e95",
+      "title": "coleam00/archon-video-generation-workflow",
+      "url": "https://github.com/coleam00/archon-video-generation-workflow",
+      "source": "github",
+      "source_author": "coleam00",
+      "topics": [],
+      "score": 2.5,
+      "score_reason": "Workflow idea is interesting but lacks clarity.",
+      "posted": false,
+      "collected_at": "2026-05-03T04:29:26Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 6,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "8f0f2c538762dfe58c3f490028c9bab1",
+      "title": "KSroido/Kagi-Session2API-MCP",
+      "url": "https://github.com/KSroido/Kagi-Session2API-MCP",
+      "source": "github",
+      "source_author": "KSroido",
+      "topics": [],
+      "score": 2.5,
+      "score_reason": "API integration has potential but not enough context.",
+      "posted": false,
+      "collected_at": "2026-05-03T04:29:30Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 44,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "fb690167694ada749488439d23f069f9",
+      "title": "claudianus/clco-helper",
+      "url": "https://github.com/claudianus/clco-helper",
+      "source": "github",
+      "source_author": "claudianus",
+      "topics": [],
+      "score": 2,
+      "score_reason": "Minimal features and engagement.",
+      "posted": false,
+      "collected_at": "2026-05-03T04:29:25Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 2,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "5c788c1cb8a6ea3ba28155dfb8f5afe6",
+      "title": "Cmochance/codex-app-transfer",
+      "url": "https://github.com/Cmochance/codex-app-transfer",
+      "source": "github",
+      "source_author": "Cmochance",
+      "topics": [],
+      "score": 2,
+      "score_reason": "Low interest and unclear purpose.",
+      "posted": false,
+      "collected_at": "2026-05-03T04:29:25Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 3,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "975c5b5b71786620f5c8f34471b5b60e",
+      "title": "okjpg/skill-checkup-openclaw",
+      "url": "https://github.com/okjpg/skill-checkup-openclaw",
+      "source": "github",
+      "source_author": "okjpg",
+      "topics": [],
+      "score": 2,
+      "score_reason": "New concept but lacks engagement and depth.",
+      "posted": false,
+      "collected_at": "2026-05-03T04:29:32Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 9,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "042502f82105e43c9c462f872c098004",
+      "title": "MrFadiAi/free-deepseek",
+      "url": "https://github.com/MrFadiAi/free-deepseek",
+      "source": "github",
+      "source_author": "MrFadiAi",
+      "topics": [],
+      "score": 2,
+      "score_reason": "Minimal initial interest and unclear contribution to the field.",
+      "posted": false,
+      "collected_at": "2026-05-03T04:29:23Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 17,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "43312dd498f9c1e2cbdee4760ee94574",
+      "title": "bondmojo/SQLToText-project",
+      "url": "https://github.com/bondmojo/SQLToText-project",
+      "source": "github",
+      "source_author": "bondmojo",
+      "topics": [],
+      "score": 1.5,
+      "score_reason": "Concept lacks originality and engagement.",
+      "posted": false,
+      "collected_at": "2026-05-03T04:29:24Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
@@ -122,26 +462,66 @@
       }
     },
     {
-      "id": "753e18cf625fa581b8749965b176868b",
-      "title": "divyaran7an/cursor-sdk-gateway",
-      "url": "https://github.com/divyaran7an/cursor-sdk-gateway",
+      "id": "b92af6a56c1f2a4ce9424c61117586ee",
+      "title": "cmjang/shanghaitech-genai2api",
+      "url": "https://github.com/cmjang/shanghaitech-genai2api",
       "source": "github",
-      "source_author": "divyaran7an",
+      "source_author": "cmjang",
       "topics": [],
-      "score": 2,
-      "score_reason": "Low engagement and unclear utility or novel application.",
+      "score": 1.5,
+      "score_reason": "Very low engagement and lack of differentiation.",
       "posted": false,
-      "collected_at": "2026-05-02T13:54:55Z",
+      "collected_at": "2026-05-03T04:29:24Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 15,
+        "stars": 1,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "9019f94f3eaf6ab4a6818bdbccb66f3b",
+      "title": "jonfdag-dot/postgres-claude-skills-generator",
+      "url": "https://github.com/jonfdag-dot/postgres-claude-skills-generator",
+      "source": "github",
+      "source_author": "jonfdag-dot",
+      "topics": [],
+      "score": 1,
+      "score_reason": "Very low interest and relevance.",
+      "posted": false,
+      "collected_at": "2026-05-03T04:29:31Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "d0b6c338641400b7e20c017e05b9a719",
+      "title": "Atum246/rally-agent",
+      "url": "https://github.com/Atum246/rally-agent",
+      "source": "github",
+      "source_author": "Atum246",
+      "topics": [],
+      "score": 1,
+      "score_reason": "Low engagement signals little interest or utility.",
+      "posted": false,
+      "collected_at": "2026-05-03T04:29:29Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
         "upvotes": 0
       }
     }
   ],
   "source": "github",
-  "updated_at": "2026-05-02T13:58:05Z"
+  "updated_at": "2026-05-03T04:33:08Z"
 }
