@@ -1,27 +1,127 @@
 {
-  "count": 1,
+  "count": 6,
   "items": [
     {
-      "id": "08d77ae9e14010c2d24b9535fe47fcdc",
-      "title": "Free Agent Day + Buildathon Office Hours",
-      "url": "https://x.com/Replit/status/2050697624462954694",
+      "id": "f0128ceb6b1307b24a90a98fe857126e",
+      "title": "Real-time video agents are here.\n\nToday, we’re sharing how we built Runway Characters, allowing yo...",
+      "url": "https://x.com/runwayml/status/2051353783762919767",
+      "source": "twitter",
+      "source_author": "RunwayML",
+      "topics": [],
+      "score": 8.5,
+      "score_reason": "Real-time video agents represent a novel development in user interaction with AI, likely engaging developers.",
+      "posted": false,
+      "collected_at": "2026-05-05T08:37:00Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 640,
+        "replies": 46,
+        "retweets": 114,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "66c9f9b6758bbf0d1c0070b8a7d804e1",
+      "title": "Research Focus: AI agents leaking enterprise data, a smarter OS for cloud deployment, and new resear...",
+      "url": "https://x.com/MSFTResearch/status/2051345527103443126",
+      "source": "twitter",
+      "source_author": "MSFTResearch",
+      "topics": [],
+      "score": 6,
+      "score_reason": "While interesting, the research focus lacks specific actionable insights for developers.",
+      "posted": false,
+      "collected_at": "2026-05-05T08:37:00Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 56,
+        "replies": 8,
+        "retweets": 17,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "ee041bd1e1abfac4c0ae727b27601567",
+      "title": "How do you train a coding agent to solve problems it hasn’t seen before?\n\nOn \n@DevInterrupted\n, Ai...",
+      "url": "https://x.com/allen_ai/status/2051406973304750178",
+      "source": "twitter",
+      "source_author": "Allen_AI",
+      "topics": [],
+      "score": 5.5,
+      "score_reason": "Training coding agents is relevant but may not have immediate implications for broad developer workflows.",
+      "posted": false,
+      "collected_at": "2026-05-05T08:37:00Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 27,
+        "replies": 3,
+        "retweets": 2,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "1107ccc2cd48225464a3a6c0f4b6d154",
+      "title": "Now it's time to really execute.\n\nEpisode 2 is coming. Two builders, two wildly different bets. One ...",
+      "url": "https://x.com/Replit/status/2051410227870711979",
       "source": "twitter",
       "source_author": "replit",
       "topics": [],
-      "score": 8,
-      "score_reason": "High engagement signals that the event could be of significant interest to developers.",
+      "score": 5,
+      "score_reason": "Vague mention of upcoming episodes without concrete developer insights may limit engagement.",
       "posted": false,
-      "collected_at": "2026-05-03T13:58:09Z",
+      "collected_at": "2026-05-05T08:37:00Z",
       "engagement": {
         "comments": 0,
-        "likes": 71,
-        "replies": 33,
+        "likes": 84,
+        "replies": 6,
         "retweets": 9,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "60b6e8e87e00a205a79125b3609a10e1",
+      "title": "Learn more about building Runway Characters: \nhttps://\nrunwayml.com/news/building-\nrunway-characters...",
+      "url": "https://x.com/runwayml/status/2051353787554546105",
+      "source": "twitter",
+      "source_author": "RunwayML",
+      "topics": [],
+      "score": 4,
+      "score_reason": "The link offers limited new insights for developers seeking to build AI characters.",
+      "posted": false,
+      "collected_at": "2026-05-05T08:37:00Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 24,
+        "replies": 0,
+        "retweets": 5,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "049463f7b8af2950d604b0cf2a45b494",
+      "title": "From when the user stops speaking to when the Character starts replying is just 1.75 seconds. Under ...",
+      "url": "https://x.com/runwayml/status/2051353785314787513",
+      "source": "twitter",
+      "source_author": "RunwayML",
+      "topics": [],
+      "score": 3.5,
+      "score_reason": "While interesting, it lacks depth and is more of a promotions than technical insights.",
+      "posted": false,
+      "collected_at": "2026-05-05T08:37:00Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 35,
+        "replies": 3,
+        "retweets": 3,
         "stars": 0,
         "upvotes": 0
       }
     }
   ],
   "source": "twitter",
-  "updated_at": "2026-05-03T13:58:46Z"
+  "updated_at": "2026-05-05T08:37:44Z"
 }
