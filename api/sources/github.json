@@ -1,37 +1,117 @@
 {
-  "count": 11,
+  "count": 8,
   "items": [
     {
-      "id": "c12e9c206681b929802700d72027686b",
-      "title": "orcasecurity/orca-skills",
-      "url": "https://github.com/orcasecurity/orca-skills",
+      "id": "eee1de2773f92e16509ca9449af5f028",
+      "title": "d-khomenko/clipboard-history-mcp",
+      "url": "https://github.com/d-khomenko/clipboard-history-mcp",
       "source": "github",
-      "source_author": "orcasecurity",
+      "source_author": "d-khomenko",
       "topics": [],
-      "score": 6.2,
-      "score_reason": "Security-focused, which is increasingly relevant; low stars.",
+      "score": 5,
+      "score_reason": "unscored",
       "posted": false,
-      "collected_at": "2026-05-06T09:04:59Z",
+      "collected_at": "2026-05-06T15:12:40Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 24,
+        "stars": 16,
         "upvotes": 0
       }
     },
     {
-      "id": "e086d6e6ce8df11a5731b5c17cb0bf9f",
-      "title": "legendtkl/agent-cleaner",
-      "url": "https://github.com/legendtkl/agent-cleaner",
+      "id": "3ef17981c4f571e48f6f0ce663a400b0",
+      "title": "lightseekorg/tokenspeed",
+      "url": "https://github.com/lightseekorg/tokenspeed",
       "source": "github",
-      "source_author": "legendtkl",
+      "source_author": "lightseekorg",
       "topics": [],
-      "score": 6,
-      "score_reason": "Focuses on agent cleaning, which is relevant but niche.",
+      "score": 3,
+      "score_reason": "GitHub project lacks clarity on its utility or uniqueness.",
       "posted": false,
-      "collected_at": "2026-05-06T09:04:56Z",
+      "collected_at": "2026-05-06T15:12:46Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 23,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "059c2c7a6f42aab637c5388410cf2a52",
+      "title": "jmerelnyc/Photo-agents",
+      "url": "https://github.com/jmerelnyc/Photo-agents",
+      "source": "github",
+      "source_author": "jmerelnyc",
+      "topics": [],
+      "score": 3,
+      "score_reason": "Photo-agent project may attract niche interest but lacks broad appeal.",
+      "posted": false,
+      "collected_at": "2026-05-06T15:13:02Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 143,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "f25045489316fdb66c6fd8e5a58d9eeb",
+      "title": "zarazhangrui/beautiful-html-templates",
+      "url": "https://github.com/zarazhangrui/beautiful-html-templates",
+      "source": "github",
+      "source_author": "zarazhangrui",
+      "topics": [],
+      "score": 3,
+      "score_reason": "Basic HTML templates hold low novelty and impact for developers.",
+      "posted": false,
+      "collected_at": "2026-05-06T15:12:44Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 214,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "2774ed549ba001ef8266bb7db3185b90",
+      "title": "roselis-lab/predixor",
+      "url": "https://github.com/roselis-lab/predixor",
+      "source": "github",
+      "source_author": "roselis-lab",
+      "topics": [],
+      "score": 2.5,
+      "score_reason": "Limited information and engagement make it less attractive.",
+      "posted": false,
+      "collected_at": "2026-05-06T15:12:47Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 4,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "1503ca32410719db14fc6d2ffdc0fd73",
+      "title": "braunerphilipp/GenerativeConjoint",
+      "url": "https://github.com/braunerphilipp/GenerativeConjoint",
+      "source": "github",
+      "source_author": "braunerphilipp",
+      "topics": [],
+      "score": 2,
+      "score_reason": "Low star count and engagement suggest minimal interest.",
+      "posted": false,
+      "collected_at": "2026-05-06T15:12:47Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
@@ -42,186 +122,46 @@
       }
     },
     {
-      "id": "db3cddb5bf185a08282485d5458473ca",
-      "title": "432539/plus_gopay_gptp-plus",
-      "url": "https://github.com/432539/plus_gopay_gptp-plus",
+      "id": "373cf06a285ceb27d7ffb64b3122ac35",
+      "title": "charlesrapp/pruna-mcp-server",
+      "url": "https://github.com/charlesrapp/pruna-mcp-server",
       "source": "github",
-      "source_author": "432539",
-      "topics": [],
-      "score": 6,
-      "score_reason": "Few stars suggest niche utility in the GPT space.",
-      "posted": false,
-      "collected_at": "2026-05-06T09:04:44Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 105,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "98378464c7acc286a039e8dce36f2006",
-      "title": "NirDiamant/Agent_Memory_Techniques",
-      "url": "https://github.com/NirDiamant/Agent_Memory_Techniques",
-      "source": "github",
-      "source_author": "NirDiamant",
-      "topics": [],
-      "score": 6,
-      "score_reason": "Explores memory techniques for agents, relevant for those involved in agentic AI development.",
-      "posted": false,
-      "collected_at": "2026-05-06T09:04:41Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 18,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "86b0a70dd4ebc4f1c03f7dc628d951b3",
-      "title": "freu-ai/freu-cli",
-      "url": "https://github.com/freu-ai/freu-cli",
-      "source": "github",
-      "source_author": "freu-ai",
-      "topics": [],
-      "score": 5.8,
-      "score_reason": "CLI tools are always relevant, but limited interest here.",
-      "posted": false,
-      "collected_at": "2026-05-06T09:04:57Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 9,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "2e1f7642fb0f3297d70a6418f8a68d1b",
-      "title": "NickQi688/video-generation-workflow",
-      "url": "https://github.com/NickQi688/video-generation-workflow",
-      "source": "github",
-      "source_author": "NickQi688",
-      "topics": [],
-      "score": 5.5,
-      "score_reason": "Video generation workflows are hot but lacks engagement.",
-      "posted": false,
-      "collected_at": "2026-05-06T09:04:51Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 4,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "d0f861f337ae6717b3d79da99d4d7dd0",
-      "title": "win4r/goal-prompt-builder",
-      "url": "https://github.com/win4r/goal-prompt-builder",
-      "source": "github",
-      "source_author": "win4r",
-      "topics": [],
-      "score": 5,
-      "score_reason": "Basic prompt-building tool, lacks unique features.",
-      "posted": false,
-      "collected_at": "2026-05-06T09:04:42Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 29,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "51c4b082576962e9d0c8d2d39b1a0936",
-      "title": "PotiteBulle/chrome-genai-hardening",
-      "url": "https://github.com/PotiteBulle/chrome-genai-hardening",
-      "source": "github",
-      "source_author": "PotiteBulle",
-      "topics": [],
-      "score": 4.5,
-      "score_reason": "Early stage; very few stars indicate limited reach.",
-      "posted": false,
-      "collected_at": "2026-05-06T09:04:48Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 1,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "a2a55d67c6553a428ff38f5845ff52f1",
-      "title": "TarelX/Windsurf-Swap-Tool",
-      "url": "https://github.com/TarelX/Windsurf-Swap-Tool",
-      "source": "github",
-      "source_author": "TarelX",
-      "topics": [],
-      "score": 4,
-      "score_reason": "Limited scope and engagement make this less interesting.",
-      "posted": false,
-      "collected_at": "2026-05-06T09:05:00Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 4,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "2fb935fdfa01a994453a5dab7e02f936",
-      "title": "Loki-Skylineop/Devin-Infinite-Quota",
-      "url": "https://github.com/Loki-Skylineop/Devin-Infinite-Quota",
-      "source": "github",
-      "source_author": "Loki-Skylineop",
-      "topics": [],
-      "score": 3.5,
-      "score_reason": "Very few stars and engagement indicates niche applicability.",
-      "posted": false,
-      "collected_at": "2026-05-06T09:05:02Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 1,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "0b757fa71e3b7107fda1dbb9b464cd3e",
-      "title": "mathprofun/devin",
-      "url": "https://github.com/mathprofun/devin",
-      "source": "github",
-      "source_author": "mathprofun",
+      "source_author": "charlesrapp",
       "topics": [],
       "score": 2,
-      "score_reason": "No engagement suggests minimal impact or novelty.",
+      "score_reason": "Similar to previous, with little observable impact.",
       "posted": false,
-      "collected_at": "2026-05-06T09:05:02Z",
+      "collected_at": "2026-05-06T15:12:50Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 0,
+        "stars": 2,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "bcfaaac95ae96bff9844bba0a84adf77",
+      "title": "Singhpranay076/swarmbench-fmcg-warehouse-disruption-recovery",
+      "url": "https://github.com/Singhpranay076/swarmbench-fmcg-warehouse-disruption-recovery",
+      "source": "github",
+      "source_author": "Singhpranay076",
+      "topics": [],
+      "score": 1.5,
+      "score_reason": "Single star project, indicating it might not be well-received.",
+      "posted": false,
+      "collected_at": "2026-05-06T15:12:52Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
         "upvotes": 0
       }
     }
   ],
   "source": "github",
-  "updated_at": "2026-05-06T09:08:02Z"
+  "updated_at": "2026-05-06T15:16:45Z"
 }

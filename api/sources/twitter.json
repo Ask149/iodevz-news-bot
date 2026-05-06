@@ -1,167 +1,27 @@
 {
-  "count": 8,
+  "count": 1,
   "items": [
     {
-      "id": "609f7481b585ba077648d497c25adb4e",
-      "title": "GPT-5.5 Instant is starting to roll out in ChatGPT.\n\nIt’s a big upgrade, giving you smarter, clear...",
-      "url": "https://x.com/OpenAI/status/2051709028250915275",
+      "id": "5f97e13d07f3c21abe5a75e97637a903",
+      "title": "AI supercomputers need a new kind of network to stay in sync at massive scale.\n\nOpenAI’s \n@markjha...",
+      "url": "https://x.com/OpenAI/status/2052039800384057348",
       "source": "twitter",
       "source_author": "OpenAI",
       "topics": [],
-      "score": 9.5,
-      "score_reason": "GPT-5.5 Instant's rollout represents a significant upgrade, likely influencing many developers using ChatGPT.",
+      "score": 7.5,
+      "score_reason": "Addresses a technical challenge faced by supercomputers relevant to AI developers.",
       "posted": false,
-      "collected_at": "2026-05-06T04:26:48Z",
+      "collected_at": "2026-05-06T15:15:32Z",
       "engagement": {
         "comments": 0,
-        "likes": 8121,
-        "replies": 450,
-        "retweets": 1064,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "f825933c090d35778bdea71fbfa9b218",
-      "title": "Cursor can now automatically fix CI failures.\n\nSet up always-on agents that monitor GitHub, investig...",
-      "url": "https://x.com/cursor_ai/status/2051739625958584659",
-      "source": "twitter",
-      "source_author": "cursor_ai",
-      "topics": [],
-      "score": 9,
-      "score_reason": "The introduction of always-on agents to fix CI failures could significantly streamline developer workflows.",
-      "posted": false,
-      "collected_at": "2026-05-06T04:26:48Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 846,
-        "replies": 47,
-        "retweets": 64,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "7d7ca63da8b393c5b2fcd252361f7e4a",
-      "title": "New Anthropic Fellows research: Model Spec Midtraining (MSM).\n\nStandard alignment methods train AIs ...",
-      "url": "https://x.com/AnthropicAI/status/2051758528562364902",
-      "source": "twitter",
-      "source_author": "AnthropicAI",
-      "topics": [],
-      "score": 8.5,
-      "score_reason": "The midtraining model specifications research from Anthropic could redefine alignment methodologies for AI.",
-      "posted": false,
-      "collected_at": "2026-05-06T04:26:48Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 1140,
-        "replies": 76,
-        "retweets": 128,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "383b27b4a784492322931ef0e91a211b",
-      "title": "Using MSM, we can also empirically study which model specs or constitutions yield the best generaliz...",
-      "url": "https://x.com/AnthropicAI/status/2051758541002719734",
-      "source": "twitter",
-      "source_author": "AnthropicAI",
-      "topics": [],
-      "score": 7,
-      "score_reason": "The research on model constitution impacts is beneficial for understanding generalization in AI.",
-      "posted": false,
-      "collected_at": "2026-05-06T04:26:48Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 73,
-        "replies": 10,
-        "retweets": 4,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "b2967a14be8765f33552dc40772e9b32",
-      "title": "Use a template from our marketplace to automate CI investigations:",
-      "url": "https://x.com/cursor_ai/status/2051739627233628519",
-      "source": "twitter",
-      "source_author": "cursor_ai",
-      "topics": [],
-      "score": 6,
-      "score_reason": "Automating CI investigations is useful, though not as groundbreaking as the previous item.",
-      "posted": false,
-      "collected_at": "2026-05-06T04:26:48Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 38,
-        "replies": 1,
-        "retweets": 1,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "47f1ab7b82098dffa286cde82576412f",
-      "title": "You can now build your own customized financial apps on \n@Replit\n, using your real financial data, s...",
-      "url": "https://x.com/MannyBernabe/status/2051700953381011582",
-      "source": "twitter",
-      "source_author": "replit",
-      "topics": [],
-      "score": 5,
-      "score_reason": "Building customized financial apps on Replit is interesting, but lacks strong novelty.",
-      "posted": false,
-      "collected_at": "2026-05-06T04:26:48Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 43,
-        "replies": 6,
-        "retweets": 8,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "5d9dc792984ea249b60e06b3bdf89866",
-      "title": "Join the Runway team in Denver on June 4th at our annual CVPR Friends Dinner for conversation, cockt...",
-      "url": "https://x.com/runwayml/status/2051668882285310357",
-      "source": "twitter",
-      "source_author": "RunwayML",
-      "topics": [],
-      "score": 5,
-      "score_reason": "unscored",
-      "posted": false,
-      "collected_at": "2026-05-06T04:26:48Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 40,
-        "replies": 8,
-        "retweets": 8,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "fd7dea99d32829bc29ba9d2fee08d0a5",
-      "title": "RSVP:",
-      "url": "https://x.com/runwayml/status/2051668886425104432",
-      "source": "twitter",
-      "source_author": "RunwayML",
-      "topics": [],
-      "score": 2,
-      "score_reason": "The tweet does not provide substantial information or innovation.",
-      "posted": false,
-      "collected_at": "2026-05-06T04:26:48Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 8,
-        "replies": 1,
-        "retweets": 0,
+        "likes": 279,
+        "replies": 41,
+        "retweets": 28,
         "stars": 0,
         "upvotes": 0
       }
     }
   ],
   "source": "twitter",
-  "updated_at": "2026-05-06T04:28:25Z"
+  "updated_at": "2026-05-06T15:16:45Z"
 }
