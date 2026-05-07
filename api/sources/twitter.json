@@ -1,147 +1,67 @@
 {
-  "count": 7,
+  "count": 3,
   "items": [
     {
-      "id": "c66c5a50b31f9cf9fcff0a3461755ddf",
-      "title": "We’ve agreed to a partnership with \n@SpaceX\n that will substantially increase our compute capacity...",
-      "url": "https://x.com/claudeai/status/2052060691893227611",
+      "id": "3e3494e6eaae7caa30c294e6314ae530",
+      "title": "We’re sharing the research agenda of The Anthropic Institute, or TAI.\n\nTAI will focus on four area...",
+      "url": "https://x.com/AnthropicAI/status/2052385812881228218",
       "source": "twitter",
       "source_author": "AnthropicAI",
       "topics": [],
-      "score": 5.5,
-      "score_reason": "Partnership announcement that increases computing power could be impactful but lacks specifics.",
+      "score": 8.5,
+      "score_reason": "High engagement and focuses on a strategic research agenda, impacting AI's future.",
       "posted": false,
-      "collected_at": "2026-05-07T09:15:33Z",
+      "collected_at": "2026-05-07T15:18:37Z",
       "engagement": {
         "comments": 0,
-        "likes": 114785,
-        "replies": 4244,
-        "retweets": 16030,
+        "likes": 1059,
+        "replies": 86,
+        "retweets": 167,
         "stars": 0,
         "upvotes": 0
       }
     },
     {
-      "id": "d8c6ce5405306a3ca1661894b87fe42d",
-      "title": "Introducing the ChatGPT Futures Class of 2026—26 honorees from the first graduating class to have ...",
-      "url": "https://x.com/OpenAI/status/2052086313797705954",
+      "id": "44dbc1449fe67c0b4a1a489523f6e4ba",
+      "title": "AI-driven R\u0026D\n\nWe expect AI systems to contribute more and more to AI R\u0026D: that is, to be able to im...",
+      "url": "https://x.com/AnthropicAI/status/2052385821332742609",
       "source": "twitter",
-      "source_author": "OpenAI",
+      "source_author": "AnthropicAI",
       "topics": [],
-      "score": 5,
-      "score_reason": "Interesting news about new talent but more of a PR angle than technical relevance.",
+      "score": 6.5,
+      "score_reason": "Speaks to AI's role in enhancing R\u0026D, relevant for developers.",
       "posted": false,
-      "collected_at": "2026-05-07T09:15:33Z",
+      "collected_at": "2026-05-07T15:18:37Z",
       "engagement": {
         "comments": 0,
-        "likes": 2309,
-        "replies": 178,
-        "retweets": 210,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "5b5cbd3aa25a1a730f97f7bd2c17f62a",
-      "title": "I've always been passionate about games and they've played a big part in \n@GoogleDeepMind\n’s histo...",
-      "url": "https://x.com/demishassabis/status/2052147236952477923",
-      "source": "twitter",
-      "source_author": "DemisHassabis",
-      "topics": [],
-      "score": 4.5,
-      "score_reason": "Personal anecdote from a notable figure in AI is less relevant to developers.",
-      "posted": false,
-      "collected_at": "2026-05-07T09:15:33Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 1094,
-        "replies": 70,
-        "retweets": 114,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "473e46a92efb31743ce7bf0214bc0385",
-      "title": "It's time to build NYC's physical AI community. \n\nWe're hosting a small dinner in NYC for engineers ...",
-      "url": "https://x.com/c_valenzuelab/status/2052070469616955517",
-      "source": "twitter",
-      "source_author": "RunwayML",
-      "topics": [],
-      "score": 4,
-      "score_reason": "Community-building event is less technical and more networking-focused.",
-      "posted": false,
-      "collected_at": "2026-05-07T09:15:33Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 283,
-        "replies": 34,
-        "retweets": 11,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "481b96b5cb4552819d099bd53bced36e",
-      "title": "We use previous generations of Composer to train future ones.\n\nOur autoinstall system has earlier Co...",
-      "url": "https://x.com/cursor_ai/status/2052116064474161556",
-      "source": "twitter",
-      "source_author": "cursor_ai",
-      "topics": [],
-      "score": 3.5,
-      "score_reason": "Updates on system improvements are interesting but lacks new insights.",
-      "posted": false,
-      "collected_at": "2026-05-07T09:15:33Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 649,
-        "replies": 29,
-        "retweets": 50,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "46b6c33b7b5c3fef43c4e26ab311c4d0",
-      "title": "You can now see a breakdown of your agent's context usage in Cursor 3.3.\n\nUse these stats to diagnos...",
-      "url": "https://x.com/cursor_ai/status/2052059748544249918",
-      "source": "twitter",
-      "source_author": "cursor_ai",
-      "topics": [],
-      "score": 3,
-      "score_reason": "Feature update that may enhance productivity, but not groundbreaking.",
-      "posted": false,
-      "collected_at": "2026-05-07T09:15:33Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 1772,
-        "replies": 98,
-        "retweets": 160,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "0faa740a1396b3370e94e89ec71a7a11",
-      "title": "The first AI creative conference connecting code to culture is coming to NYC, June 17–18.\n\nLimited...",
-      "url": "https://x.com/Replit/status/2052181075988992004",
-      "source": "twitter",
-      "source_author": "replit",
-      "topics": [],
-      "score": 2.5,
-      "score_reason": "Promotes an event that may attract interest but lacks technical depth.",
-      "posted": false,
-      "collected_at": "2026-05-07T09:15:33Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 89,
+        "likes": 63,
         "replies": 7,
-        "retweets": 12,
+        "retweets": 8,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "594a1a48148a73dc7dd96d91d47efb6a",
+      "title": "Algorithms are part of nearly every aspect of life, from the physics of the natural world to plannin...",
+      "url": "https://x.com/GoogleDeepMind/status/2052403306257940967",
+      "source": "twitter",
+      "source_author": "GoogleDeepMind",
+      "topics": [],
+      "score": 6,
+      "score_reason": "Engagement suggests relevance, though content lacks actionable insights for developers.",
+      "posted": false,
+      "collected_at": "2026-05-07T15:18:37Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 65,
+        "replies": 10,
+        "retweets": 17,
         "stars": 0,
         "upvotes": 0
       }
     }
   ],
   "source": "twitter",
-  "updated_at": "2026-05-07T09:16:28Z"
+  "updated_at": "2026-05-07T15:19:56Z"
 }
