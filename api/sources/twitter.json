@@ -1,87 +1,47 @@
 {
-  "count": 4,
+  "count": 2,
   "items": [
     {
-      "id": "5410e0b8ad3e6e22ed6f9327e118c164",
-      "title": "Codex now works directly in Chrome on macOS and Windows.\n\nIt’s even better at working with apps an...",
-      "url": "https://x.com/OpenAI/status/2052480800004956323",
+      "id": "31637ccb32abd303dfda0e8dad712d37",
+      "title": "A new PR review experience is now available in Cursor 3.\n\nTake PRs from creation to merge, all in on...",
+      "url": "https://x.com/cursor_ai/status/2052489387305488609",
       "source": "twitter",
-      "source_author": "OpenAI",
+      "source_author": "cursor_ai",
       "topics": [],
       "score": 9,
-      "score_reason": "Direct integration of Codex in Chrome significantly enhances developer workflow and utility.",
+      "score_reason": "High engagement indicating a significant update likely to impact developer workflow.",
       "posted": false,
-      "collected_at": "2026-05-08T04:03:10Z",
+      "collected_at": "2026-05-08T08:13:50Z",
       "engagement": {
         "comments": 0,
-        "likes": 8558,
-        "replies": 370,
-        "retweets": 1121,
+        "likes": 908,
+        "replies": 62,
+        "retweets": 96,
         "stars": 0,
         "upvotes": 0
       }
     },
     {
-      "id": "9431d3f5ac2d178153489853c181c475",
-      "title": "We’re donating Petri, our open-source alignment tool, to \n@meridianlabs_ai\n, so its development ca...",
-      "url": "https://x.com/AnthropicAI/status/2052494460966019137",
+      "id": "c08350efa09101957e3796c498dbd691",
+      "title": "Pin your most commonly used skills as quick-action pills for easy access.",
+      "url": "https://x.com/cursor_ai/status/2052489392057663500",
       "source": "twitter",
-      "source_author": "AnthropicAI",
+      "source_author": "cursor_ai",
       "topics": [],
-      "score": 8.5,
-      "score_reason": "An impactful donation of an alignment tool for AI, suggesting significant industry relevance.",
+      "score": 5,
+      "score_reason": "Low engagement but offers a useful feature for ease of access.",
       "posted": false,
-      "collected_at": "2026-05-08T04:03:10Z",
+      "collected_at": "2026-05-08T08:13:50Z",
       "engagement": {
         "comments": 0,
-        "likes": 846,
-        "replies": 52,
-        "retweets": 82,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "34ade00f6b12fed06f8e00f44cf8391c",
-      "title": "Our security bug bounty program is now public on HackerOne. \n\nWe've run the program privately within...",
-      "url": "https://x.com/AnthropicAI/status/2052466175540629965",
-      "source": "twitter",
-      "source_author": "AnthropicAI",
-      "topics": [],
-      "score": 4.5,
-      "score_reason": "While it's important, security bug bounty programs are common and this doesn't introduce novel concepts.",
-      "posted": false,
-      "collected_at": "2026-05-08T04:03:10Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 2559,
-        "replies": 127,
-        "retweets": 407,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "66e80a645e8a5336e4e86edb94ada843",
-      "title": "Everything we shipped on security in the past three weeks ",
-      "url": "https://x.com/Replit/status/2052516369162490077",
-      "source": "twitter",
-      "source_author": "replit",
-      "topics": [],
-      "score": 3,
-      "score_reason": "Regular updates on security lack novelty and broad developer impact.",
-      "posted": false,
-      "collected_at": "2026-05-08T04:03:10Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 36,
-        "replies": 1,
-        "retweets": 2,
+        "likes": 53,
+        "replies": 2,
+        "retweets": 7,
         "stars": 0,
         "upvotes": 0
       }
     }
   ],
   "source": "twitter",
-  "updated_at": "2026-05-08T04:04:37Z"
+  "updated_at": "2026-05-08T08:14:32Z"
 }
