@@ -1,67 +1,87 @@
 {
-  "count": 3,
+  "count": 4,
   "items": [
     {
-      "id": "3e3494e6eaae7caa30c294e6314ae530",
-      "title": "We’re sharing the research agenda of The Anthropic Institute, or TAI.\n\nTAI will focus on four area...",
-      "url": "https://x.com/AnthropicAI/status/2052385812881228218",
+      "id": "5410e0b8ad3e6e22ed6f9327e118c164",
+      "title": "Codex now works directly in Chrome on macOS and Windows.\n\nIt’s even better at working with apps an...",
+      "url": "https://x.com/OpenAI/status/2052480800004956323",
+      "source": "twitter",
+      "source_author": "OpenAI",
+      "topics": [],
+      "score": 9,
+      "score_reason": "Direct integration of Codex in Chrome significantly enhances developer workflow and utility.",
+      "posted": false,
+      "collected_at": "2026-05-08T04:03:10Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 8558,
+        "replies": 370,
+        "retweets": 1121,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "9431d3f5ac2d178153489853c181c475",
+      "title": "We’re donating Petri, our open-source alignment tool, to \n@meridianlabs_ai\n, so its development ca...",
+      "url": "https://x.com/AnthropicAI/status/2052494460966019137",
       "source": "twitter",
       "source_author": "AnthropicAI",
       "topics": [],
       "score": 8.5,
-      "score_reason": "High engagement and focuses on a strategic research agenda, impacting AI's future.",
+      "score_reason": "An impactful donation of an alignment tool for AI, suggesting significant industry relevance.",
       "posted": false,
-      "collected_at": "2026-05-07T15:18:37Z",
+      "collected_at": "2026-05-08T04:03:10Z",
       "engagement": {
         "comments": 0,
-        "likes": 1059,
-        "replies": 86,
-        "retweets": 167,
+        "likes": 846,
+        "replies": 52,
+        "retweets": 82,
         "stars": 0,
         "upvotes": 0
       }
     },
     {
-      "id": "44dbc1449fe67c0b4a1a489523f6e4ba",
-      "title": "AI-driven R\u0026D\n\nWe expect AI systems to contribute more and more to AI R\u0026D: that is, to be able to im...",
-      "url": "https://x.com/AnthropicAI/status/2052385821332742609",
+      "id": "34ade00f6b12fed06f8e00f44cf8391c",
+      "title": "Our security bug bounty program is now public on HackerOne. \n\nWe've run the program privately within...",
+      "url": "https://x.com/AnthropicAI/status/2052466175540629965",
       "source": "twitter",
       "source_author": "AnthropicAI",
       "topics": [],
-      "score": 6.5,
-      "score_reason": "Speaks to AI's role in enhancing R\u0026D, relevant for developers.",
+      "score": 4.5,
+      "score_reason": "While it's important, security bug bounty programs are common and this doesn't introduce novel concepts.",
       "posted": false,
-      "collected_at": "2026-05-07T15:18:37Z",
+      "collected_at": "2026-05-08T04:03:10Z",
       "engagement": {
         "comments": 0,
-        "likes": 63,
-        "replies": 7,
-        "retweets": 8,
+        "likes": 2559,
+        "replies": 127,
+        "retweets": 407,
         "stars": 0,
         "upvotes": 0
       }
     },
     {
-      "id": "594a1a48148a73dc7dd96d91d47efb6a",
-      "title": "Algorithms are part of nearly every aspect of life, from the physics of the natural world to plannin...",
-      "url": "https://x.com/GoogleDeepMind/status/2052403306257940967",
+      "id": "66e80a645e8a5336e4e86edb94ada843",
+      "title": "Everything we shipped on security in the past three weeks ",
+      "url": "https://x.com/Replit/status/2052516369162490077",
       "source": "twitter",
-      "source_author": "GoogleDeepMind",
+      "source_author": "replit",
       "topics": [],
-      "score": 6,
-      "score_reason": "Engagement suggests relevance, though content lacks actionable insights for developers.",
+      "score": 3,
+      "score_reason": "Regular updates on security lack novelty and broad developer impact.",
       "posted": false,
-      "collected_at": "2026-05-07T15:18:37Z",
+      "collected_at": "2026-05-08T04:03:10Z",
       "engagement": {
         "comments": 0,
-        "likes": 65,
-        "replies": 10,
-        "retweets": 17,
+        "likes": 36,
+        "replies": 1,
+        "retweets": 2,
         "stars": 0,
         "upvotes": 0
       }
     }
   ],
   "source": "twitter",
-  "updated_at": "2026-05-07T15:19:56Z"
+  "updated_at": "2026-05-08T04:04:37Z"
 }
