@@ -1,227 +1,47 @@
 {
-  "count": 11,
+  "count": 2,
   "items": [
     {
-      "id": "5d761da16029041c77ce16f2aac07177",
-      "title": "New Anthropic research: Teaching Claude why.\n\nLast year we reported that, under certain experimental...",
-      "url": "https://x.com/AnthropicAI/status/2052808787514228772",
-      "source": "twitter",
-      "source_author": "AnthropicAI",
-      "topics": [],
-      "score": 9.5,
-      "score_reason": "This research from Anthropic presents new insights into model training, which could significantly influence AI development.",
-      "posted": false,
-      "collected_at": "2026-05-09T04:07:22Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 5595,
-        "replies": 280,
-        "retweets": 580,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "cd7d8354e28d31a8af941076f3483fbd",
-      "title": "Chain of thought monitors are a key layer of defense against AI agent misalignment. To preserve moni...",
-      "url": "https://x.com/OpenAI/status/2052845764507062349",
+      "id": "ac985e0bc262dd19221d508f8a20eaba",
+      "title": "We also had three third-party AI safety organizations provide feedback on our analysis: \n@redwood_ai...",
+      "url": "https://x.com/OpenAI/status/2052845768567066907",
       "source": "twitter",
       "source_author": "OpenAI",
       "topics": [],
       "score": 9,
-      "score_reason": "Addresses critical AI alignment issues, highly relevant for developers working with AI.",
+      "score_reason": "The mention of AI safety organizations engaging with OpenAI is a significant topic that resonates strongly in AI discussions.",
       "posted": false,
-      "collected_at": "2026-05-09T04:07:22Z",
+      "collected_at": "2026-05-09T14:02:55Z",
       "engagement": {
         "comments": 0,
-        "likes": 1868,
-        "replies": 214,
-        "retweets": 187,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "701f6bb7b269b9e91aa56918520ab962",
-      "title": "The future of Math is mathematicians and AI agents working together.\n\nVery pleased to introduce  \n@G...",
-      "url": "https://x.com/pushmeet/status/2052812585804685322",
-      "source": "twitter",
-      "source_author": "GoogleDeepMind",
-      "topics": [],
-      "score": 8.5,
-      "score_reason": "Explores the collaborative potential of AI and mathematicians, relevant to future tech development.",
-      "posted": false,
-      "collected_at": "2026-05-09T04:07:22Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 1577,
-        "replies": 114,
-        "retweets": 253,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "07aded61e937c31d7a17c8e0e2fa6712",
-      "title": "Finally, simple updates that diversify a model’s training data can make a difference. We added unr...",
-      "url": "https://x.com/AnthropicAI/status/2052808806782964072",
-      "source": "twitter",
-      "source_author": "AnthropicAI",
-      "topics": [],
-      "score": 8,
-      "score_reason": "The findings on training data diversity are relevant to developers working on model improvement.",
-      "posted": false,
-      "collected_at": "2026-05-09T04:07:22Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 392,
-        "replies": 18,
-        "retweets": 20,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "126f40268cd05c32f8dd7bb2f95553d9",
-      "title": "1. We’re deprecating the legacy Perplexity Mac App to a new one that will have Personal Computer f...",
-      "url": "https://x.com/AravSrinivas/status/2052469406232658001",
-      "source": "twitter",
-      "source_author": "AravSrinivas",
-      "topics": [],
-      "score": 7,
-      "score_reason": "Update on a developer tool that could enhance user experience but lacks significant novelty.",
-      "posted": false,
-      "collected_at": "2026-05-09T04:07:22Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 518,
-        "replies": 50,
-        "retweets": 31,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "e7c036941749fa9ab146d8797248f27b",
-      "title": "The quality of animation you can create on your own is truly amazing. We really are just limited by ...",
-      "url": "https://x.com/Markoslavnic/status/2052797538885902418",
-      "source": "twitter",
-      "source_author": "RunwayML",
-      "topics": [],
-      "score": 6.5,
-      "score_reason": "Highlights advancements in animation, but may not directly impact developer workflows.",
-      "posted": false,
-      "collected_at": "2026-05-09T04:07:22Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 1500,
-        "replies": 135,
-        "retweets": 167,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "488348c43af49b5d2cd51fe73ec74197",
-      "title": "Happy Friday! We’re officially 11 days away from I/O (but the launches keep rolling in). Here’s ...",
-      "url": "https://x.com/GoogleAI/status/2052789253038592466",
-      "source": "twitter",
-      "source_author": "GoogleAI",
-      "topics": [],
-      "score": 5,
-      "score_reason": "General update but lacks specific relevance to developer tools or AI advancements.",
-      "posted": false,
-      "collected_at": "2026-05-09T04:07:22Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 488,
-        "replies": 29,
-        "retweets": 36,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "20fe19052a0666945d6aa1ce113ab17b",
-      "title": "Tyger moves the most demanding MRI processing to the cloud, helping researchers turn raw signals int...",
-      "url": "https://x.com/MSFTResearch/status/2052420200666992994",
-      "source": "twitter",
-      "source_author": "MSFTResearch",
-      "topics": [],
-      "score": 4,
-      "score_reason": "Niche application in medical research; limited relevance for general developer audience.",
-      "posted": false,
-      "collected_at": "2026-05-09T04:07:22Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 33,
-        "replies": 0,
+        "likes": 184,
+        "replies": 9,
         "retweets": 14,
         "stars": 0,
         "upvotes": 0
       }
     },
     {
-      "id": "4d5b724661fa2e1bfe05cc6708ff97a5",
-      "title": "Designing AI isn’t just about performance. It’s about tradeoffs that affect people and the plane...",
-      "url": "https://x.com/MSFTResearch/status/2052055790727430195",
+      "id": "aafd98c839747e442714e5b250fed905",
+      "title": "So \n@loaibassam\n asked me my stack recently, I replied:\n\nFREE:\nNginx web server on Ubuntu (free)\nAut...",
+      "url": "https://x.com/levelsio/status/2052734824541016107",
       "source": "twitter",
-      "source_author": "MSFTResearch",
+      "source_author": "levelsio",
       "topics": [],
-      "score": 4,
-      "score_reason": "Covers important tradeoffs in AI design but lacks direct relevance to tools for developers.",
+      "score": 8,
+      "score_reason": "The high engagement and practical advice on tech stack will resonate with many developers.",
       "posted": false,
-      "collected_at": "2026-05-09T04:07:22Z",
+      "collected_at": "2026-05-09T14:02:55Z",
       "engagement": {
         "comments": 0,
-        "likes": 29,
-        "replies": 4,
-        "retweets": 16,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "5504c4f3b46268eb1b63c583fa8028e7",
-      "title": "What if AI could predict your next medical event — like ChatGPT predicts your next word? \n@Microso...",
-      "url": "https://x.com/PostLive/status/2051740908098318344",
-      "source": "twitter",
-      "source_author": "MSFTResearch",
-      "topics": [],
-      "score": 3.5,
-      "score_reason": "Interesting concept but not immediately applicable to developer workflows.",
-      "posted": false,
-      "collected_at": "2026-05-09T04:07:22Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 16,
-        "replies": 3,
-        "retweets": 7,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "094cd54e4391cae601773422d0c94450",
-      "title": "Where code meets culture.\n\nVibecon lands in NYC June 17–18 — two days dedicated to the people bu...",
-      "url": "https://x.com/Replit/status/2052856190468591774",
-      "source": "twitter",
-      "source_author": "replit",
-      "topics": [],
-      "score": 3,
-      "score_reason": "Cultural event with limited technological impact for developers.",
-      "posted": false,
-      "collected_at": "2026-05-09T04:07:22Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 34,
-        "replies": 9,
-        "retweets": 2,
+        "likes": 3265,
+        "replies": 39,
+        "retweets": 201,
         "stars": 0,
         "upvotes": 0
       }
     }
   ],
   "source": "twitter",
-  "updated_at": "2026-05-09T04:08:38Z"
+  "updated_at": "2026-05-09T14:03:41Z"
 }
