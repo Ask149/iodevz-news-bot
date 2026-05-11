@@ -1,27 +1,47 @@
 {
-  "count": 1,
+  "count": 2,
   "items": [
     {
-      "id": "d335de209e3ff0c51b6bcde2f7a057df",
-      "title": "Sarra builds apps with her two sons. Noni shipped Bamboo Brain into the App Store's top 12 in Educat...",
-      "url": "https://x.com/Replit/status/2053626223541018751",
+      "id": "67ee53b49e0e2b000a68073f8444f6a3",
+      "title": "Today we’re launching the OpenAI Deployment Company to help businesses build and deploy AI.\n\nIt's ...",
+      "url": "https://x.com/OpenAI/status/2053824997777457651",
       "source": "twitter",
-      "source_author": "replit",
+      "source_author": "OpenAI",
       "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "score": 9,
+      "score_reason": "High engagement and significant implications for AI deployment.",
       "posted": false,
-      "collected_at": "2026-05-11T04:48:21Z",
+      "collected_at": "2026-05-11T15:48:20Z",
       "engagement": {
         "comments": 0,
-        "likes": 38,
-        "replies": 7,
-        "retweets": 4,
+        "likes": 3542,
+        "replies": 299,
+        "retweets": 660,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "289d1a6cf506ac2038d96784b5593801",
+      "title": "We’ve also agreed to acquire Tomoro, which will bring 150 experienced Forward Deployed Engineers a...",
+      "url": "https://x.com/OpenAI/status/2053824999736410415",
+      "source": "twitter",
+      "source_author": "OpenAI",
+      "topics": [],
+      "score": 8,
+      "score_reason": "Relevant acquisition news with potential impact on development resources.",
+      "posted": false,
+      "collected_at": "2026-05-11T15:48:20Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 526,
+        "replies": 33,
+        "retweets": 43,
         "stars": 0,
         "upvotes": 0
       }
     }
   ],
   "source": "twitter",
-  "updated_at": "2026-05-11T04:48:51Z"
+  "updated_at": "2026-05-11T15:49:23Z"
 }
