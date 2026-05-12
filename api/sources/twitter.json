@@ -1,67 +1,147 @@
 {
-  "count": 3,
+  "count": 7,
   "items": [
     {
-      "id": "7b58124ac4d47e6a7337ea63c1a72743",
-      "title": "Claude's Constitution is now an audiobook, read by two of its authors, Amanda Askell and Joe Carlsmi...",
-      "url": "https://x.com/AnthropicAI/status/2053881827396653207",
+      "id": "7539016dcdf1501e7e20788519f4b59a",
+      "title": "Introducing Daybreak: frontier AI for cyber defenders.\n\nDaybreak brings together the most capable Op...",
+      "url": "https://x.com/OpenAI/status/2053939702110269822",
       "source": "twitter",
-      "source_author": "AnthropicAI",
+      "source_author": "OpenAI",
+      "topics": [],
+      "score": 9.5,
+      "score_reason": "Introduces a highly impactful AI tool for cyber defense with substantial engagement.",
+      "posted": false,
+      "collected_at": "2026-05-12T09:22:37Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 8008,
+        "replies": 428,
+        "retweets": 1188,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "43beb15a7cbfdf9f096ed3889ceeb01e",
+      "title": "Automate security detection, validation, and response with Daybreak",
+      "url": "https://x.com/OpenAI/status/2053939706468139481",
+      "source": "twitter",
+      "source_author": "OpenAI",
       "topics": [],
       "score": 8.5,
-      "score_reason": "High engagement suggests significant interest.",
+      "score_reason": "Focuses on automating critical security processes which is relevant to developers.",
       "posted": false,
-      "collected_at": "2026-05-12T04:27:36Z",
+      "collected_at": "2026-05-12T09:22:37Z",
       "engagement": {
         "comments": 0,
-        "likes": 2160,
-        "replies": 252,
-        "retweets": 336,
+        "likes": 359,
+        "replies": 10,
+        "retweets": 15,
         "stars": 0,
         "upvotes": 0
       }
     },
     {
-      "id": "6952241888733f4d8078ad2f3e7cfa1c",
-      "title": "New Preprint in collaboration with \n@GoogleDeepMind\n: AI-guided discovery of atypical protein assemb...",
-      "url": "https://x.com/TheSainsburyLab/status/2052021939317706897",
+      "id": "5c49b83fdce986fad990326c234d50fc",
+      "title": "Cursor is now available in Microsoft Teams.\n\nMention @​Cursor in any channel to delegate tasks to ...",
+      "url": "https://x.com/cursor_ai/status/2053939390410612988",
       "source": "twitter",
-      "source_author": "GoogleDeepMind",
+      "source_author": "cursor_ai",
       "topics": [],
-      "score": 7,
-      "score_reason": "Relevant research paper that may influence future work.",
+      "score": 8,
+      "score_reason": "Enhances task delegation in Microsoft Teams, improving developer collaboration.",
       "posted": false,
-      "collected_at": "2026-05-12T04:27:36Z",
+      "collected_at": "2026-05-12T09:22:37Z",
       "engagement": {
         "comments": 0,
-        "likes": 128,
-        "replies": 1,
-        "retweets": 26,
+        "likes": 992,
+        "replies": 48,
+        "retweets": 107,
         "stars": 0,
         "upvotes": 0
       }
     },
     {
-      "id": "997068bc0caaf93b115d8af987fe31cd",
-      "title": "20 builders. Week 3 of 8. No more dreaming, only shipping.\n\nSee who's chasing their first dollar thi...",
-      "url": "https://x.com/Replit/status/2053943400932479318",
+      "id": "74a247d8ae40c9fa2692296f23b62a1e",
+      "title": "Cursor reads the entire thread for context before implementing a solution and creating a PR for your...",
+      "url": "https://x.com/cursor_ai/status/2053939391912112235",
+      "source": "twitter",
+      "source_author": "cursor_ai",
+      "topics": [],
+      "score": 7.5,
+      "score_reason": "Offers contextual understanding for task implementation, beneficial for developers.",
+      "posted": false,
+      "collected_at": "2026-05-12T09:22:37Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 49,
+        "replies": 0,
+        "retweets": 4,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "1d7fb404302cd73db35f1faf99229199",
+      "title": "Using SocialReasoning Bench, we observed a stable pattern across models—agents execute competently...",
+      "url": "https://x.com/MSFTResearch/status/2053890478165147693",
+      "source": "twitter",
+      "source_author": "MSFTResearch",
+      "topics": [],
+      "score": 6,
+      "score_reason": "Discusses evaluation metrics for agents but lacks direct applications for developers.",
+      "posted": false,
+      "collected_at": "2026-05-12T09:22:37Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 28,
+        "replies": 1,
+        "retweets": 11,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "e3410afdf354beb0a329c8616472e17a",
+      "title": "Artificial Analysis relies on our IFBench eval to test how closely models follow user prompts. \n\nMos...",
+      "url": "https://x.com/allen_ai/status/2053907028729381333",
+      "source": "twitter",
+      "source_author": "Allen_AI",
+      "topics": [],
+      "score": 5.5,
+      "score_reason": "Informs about an evaluation tool but does not present novel applications for developers.",
+      "posted": false,
+      "collected_at": "2026-05-12T09:22:37Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 82,
+        "replies": 4,
+        "retweets": 10,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "be07cca959acedbe1256b7cef02e5ee1",
+      "title": "I will not confirm nor deny whether I love these Parallel Agents",
+      "url": "https://x.com/agi2asi/status/2053910954195505195",
       "source": "twitter",
       "source_author": "replit",
       "topics": [],
-      "score": 5,
-      "score_reason": "Moderate engagement; relevant to developers.",
+      "score": 4,
+      "score_reason": "Opinion piece with minimal technical insight or new developments.",
       "posted": false,
-      "collected_at": "2026-05-12T04:27:36Z",
+      "collected_at": "2026-05-12T09:22:37Z",
       "engagement": {
         "comments": 0,
-        "likes": 24,
-        "replies": 3,
-        "retweets": 3,
+        "likes": 146,
+        "replies": 10,
+        "retweets": 10,
         "stars": 0,
         "upvotes": 0
       }
     }
   ],
   "source": "twitter",
-  "updated_at": "2026-05-12T04:28:49Z"
+  "updated_at": "2026-05-12T09:23:29Z"
 }
