@@ -1,47 +1,67 @@
 {
-  "count": 2,
+  "count": 3,
   "items": [
     {
-      "id": "67ee53b49e0e2b000a68073f8444f6a3",
-      "title": "Today we’re launching the OpenAI Deployment Company to help businesses build and deploy AI.\n\nIt's ...",
-      "url": "https://x.com/OpenAI/status/2053824997777457651",
+      "id": "7b58124ac4d47e6a7337ea63c1a72743",
+      "title": "Claude's Constitution is now an audiobook, read by two of its authors, Amanda Askell and Joe Carlsmi...",
+      "url": "https://x.com/AnthropicAI/status/2053881827396653207",
       "source": "twitter",
-      "source_author": "OpenAI",
+      "source_author": "AnthropicAI",
       "topics": [],
-      "score": 9,
-      "score_reason": "High engagement and significant implications for AI deployment.",
+      "score": 8.5,
+      "score_reason": "High engagement suggests significant interest.",
       "posted": false,
-      "collected_at": "2026-05-11T15:48:20Z",
+      "collected_at": "2026-05-12T04:27:36Z",
       "engagement": {
         "comments": 0,
-        "likes": 3542,
-        "replies": 299,
-        "retweets": 660,
+        "likes": 2160,
+        "replies": 252,
+        "retweets": 336,
         "stars": 0,
         "upvotes": 0
       }
     },
     {
-      "id": "289d1a6cf506ac2038d96784b5593801",
-      "title": "We’ve also agreed to acquire Tomoro, which will bring 150 experienced Forward Deployed Engineers a...",
-      "url": "https://x.com/OpenAI/status/2053824999736410415",
+      "id": "6952241888733f4d8078ad2f3e7cfa1c",
+      "title": "New Preprint in collaboration with \n@GoogleDeepMind\n: AI-guided discovery of atypical protein assemb...",
+      "url": "https://x.com/TheSainsburyLab/status/2052021939317706897",
       "source": "twitter",
-      "source_author": "OpenAI",
+      "source_author": "GoogleDeepMind",
       "topics": [],
-      "score": 8,
-      "score_reason": "Relevant acquisition news with potential impact on development resources.",
+      "score": 7,
+      "score_reason": "Relevant research paper that may influence future work.",
       "posted": false,
-      "collected_at": "2026-05-11T15:48:20Z",
+      "collected_at": "2026-05-12T04:27:36Z",
       "engagement": {
         "comments": 0,
-        "likes": 526,
-        "replies": 33,
-        "retweets": 43,
+        "likes": 128,
+        "replies": 1,
+        "retweets": 26,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "997068bc0caaf93b115d8af987fe31cd",
+      "title": "20 builders. Week 3 of 8. No more dreaming, only shipping.\n\nSee who's chasing their first dollar thi...",
+      "url": "https://x.com/Replit/status/2053943400932479318",
+      "source": "twitter",
+      "source_author": "replit",
+      "topics": [],
+      "score": 5,
+      "score_reason": "Moderate engagement; relevant to developers.",
+      "posted": false,
+      "collected_at": "2026-05-12T04:27:36Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 24,
+        "replies": 3,
+        "retweets": 3,
         "stars": 0,
         "upvotes": 0
       }
     }
   ],
   "source": "twitter",
-  "updated_at": "2026-05-11T15:49:23Z"
+  "updated_at": "2026-05-12T04:28:49Z"
 }
