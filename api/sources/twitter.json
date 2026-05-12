@@ -1,147 +1,47 @@
 {
-  "count": 7,
+  "count": 2,
   "items": [
     {
-      "id": "7539016dcdf1501e7e20788519f4b59a",
-      "title": "Introducing Daybreak: frontier AI for cyber defenders.\n\nDaybreak brings together the most capable Op...",
-      "url": "https://x.com/OpenAI/status/2053939702110269822",
+      "id": "4f9730d2df1405c6b0c8f73d4e0e8927",
+      "title": "Congratulations to the twenty winners of the inaugural Big Pitch Contest for Shows That Don't Exist ...",
+      "url": "https://x.com/runwayml/status/2054211544636850235",
       "source": "twitter",
-      "source_author": "OpenAI",
+      "source_author": "RunwayML",
       "topics": [],
-      "score": 9.5,
-      "score_reason": "Introduces a highly impactful AI tool for cyber defense with substantial engagement.",
+      "score": 5,
+      "score_reason": "Notable engagement due to the contest but lacks direct relevance to developers.",
       "posted": false,
-      "collected_at": "2026-05-12T09:22:37Z",
+      "collected_at": "2026-05-12T15:26:34Z",
       "engagement": {
         "comments": 0,
-        "likes": 8008,
-        "replies": 428,
-        "retweets": 1188,
+        "likes": 99,
+        "replies": 27,
+        "retweets": 17,
         "stars": 0,
         "upvotes": 0
       }
     },
     {
-      "id": "43beb15a7cbfdf9f096ed3889ceeb01e",
-      "title": "Automate security detection, validation, and response with Daybreak",
-      "url": "https://x.com/OpenAI/status/2053939706468139481",
+      "id": "6aa2d64530dc4833998145b5aad2bcdb",
+      "title": "Fifth Place\n\nTreehouse - Karolin Stelzig",
+      "url": "https://x.com/runwayml/status/2054211566535418248",
       "source": "twitter",
-      "source_author": "OpenAI",
+      "source_author": "RunwayML",
       "topics": [],
-      "score": 8.5,
-      "score_reason": "Focuses on automating critical security processes which is relevant to developers.",
+      "score": 3,
+      "score_reason": "Low engagement and unclear significance to developer tools.",
       "posted": false,
-      "collected_at": "2026-05-12T09:22:37Z",
+      "collected_at": "2026-05-12T15:26:34Z",
       "engagement": {
         "comments": 0,
-        "likes": 359,
-        "replies": 10,
-        "retweets": 15,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "5c49b83fdce986fad990326c234d50fc",
-      "title": "Cursor is now available in Microsoft Teams.\n\nMention @​Cursor in any channel to delegate tasks to ...",
-      "url": "https://x.com/cursor_ai/status/2053939390410612988",
-      "source": "twitter",
-      "source_author": "cursor_ai",
-      "topics": [],
-      "score": 8,
-      "score_reason": "Enhances task delegation in Microsoft Teams, improving developer collaboration.",
-      "posted": false,
-      "collected_at": "2026-05-12T09:22:37Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 992,
-        "replies": 48,
-        "retweets": 107,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "74a247d8ae40c9fa2692296f23b62a1e",
-      "title": "Cursor reads the entire thread for context before implementing a solution and creating a PR for your...",
-      "url": "https://x.com/cursor_ai/status/2053939391912112235",
-      "source": "twitter",
-      "source_author": "cursor_ai",
-      "topics": [],
-      "score": 7.5,
-      "score_reason": "Offers contextual understanding for task implementation, beneficial for developers.",
-      "posted": false,
-      "collected_at": "2026-05-12T09:22:37Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 49,
-        "replies": 0,
-        "retweets": 4,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "1d7fb404302cd73db35f1faf99229199",
-      "title": "Using SocialReasoning Bench, we observed a stable pattern across models—agents execute competently...",
-      "url": "https://x.com/MSFTResearch/status/2053890478165147693",
-      "source": "twitter",
-      "source_author": "MSFTResearch",
-      "topics": [],
-      "score": 6,
-      "score_reason": "Discusses evaluation metrics for agents but lacks direct applications for developers.",
-      "posted": false,
-      "collected_at": "2026-05-12T09:22:37Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 28,
+        "likes": 13,
         "replies": 1,
-        "retweets": 11,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "e3410afdf354beb0a329c8616472e17a",
-      "title": "Artificial Analysis relies on our IFBench eval to test how closely models follow user prompts. \n\nMos...",
-      "url": "https://x.com/allen_ai/status/2053907028729381333",
-      "source": "twitter",
-      "source_author": "Allen_AI",
-      "topics": [],
-      "score": 5.5,
-      "score_reason": "Informs about an evaluation tool but does not present novel applications for developers.",
-      "posted": false,
-      "collected_at": "2026-05-12T09:22:37Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 82,
-        "replies": 4,
-        "retweets": 10,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "be07cca959acedbe1256b7cef02e5ee1",
-      "title": "I will not confirm nor deny whether I love these Parallel Agents",
-      "url": "https://x.com/agi2asi/status/2053910954195505195",
-      "source": "twitter",
-      "source_author": "replit",
-      "topics": [],
-      "score": 4,
-      "score_reason": "Opinion piece with minimal technical insight or new developments.",
-      "posted": false,
-      "collected_at": "2026-05-12T09:22:37Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 146,
-        "replies": 10,
-        "retweets": 10,
+        "retweets": 1,
         "stars": 0,
         "upvotes": 0
       }
     }
   ],
   "source": "twitter",
-  "updated_at": "2026-05-12T09:23:29Z"
+  "updated_at": "2026-05-12T15:27:53Z"
 }
