@@ -1,47 +1,127 @@
 {
-  "count": 2,
+  "count": 6,
   "items": [
     {
-      "id": "4f9730d2df1405c6b0c8f73d4e0e8927",
-      "title": "Congratulations to the twenty winners of the inaugural Big Pitch Contest for Shows That Don't Exist ...",
-      "url": "https://x.com/runwayml/status/2054211544636850235",
+      "id": "79e2ecab854d6b9c57c05a374b14413e",
+      "title": "We’re reimagining a 50-year-old interface - the mouse pointer - with AI. \n\nThese experimental demo...",
+      "url": "https://x.com/GoogleDeepMind/status/2054246119635300451",
       "source": "twitter",
-      "source_author": "RunwayML",
+      "source_author": "GoogleDeepMind",
       "topics": [],
-      "score": 5,
-      "score_reason": "Notable engagement due to the contest but lacks direct relevance to developers.",
+      "score": 9,
+      "score_reason": "Revolutionary approach to a well-established interface could significantly impact user interaction.",
       "posted": false,
-      "collected_at": "2026-05-12T15:26:34Z",
+      "collected_at": "2026-05-13T04:36:35Z",
       "engagement": {
         "comments": 0,
-        "likes": 99,
-        "replies": 27,
-        "retweets": 17,
+        "likes": 5567,
+        "replies": 272,
+        "retweets": 971,
         "stars": 0,
         "upvotes": 0
       }
     },
     {
-      "id": "6aa2d64530dc4833998145b5aad2bcdb",
-      "title": "Fifth Place\n\nTreehouse - Karolin Stelzig",
-      "url": "https://x.com/runwayml/status/2054211566535418248",
+      "id": "f65ee8d88473c0117c918a6822111514",
+      "title": "Fast mode for Claude Opus 4.7 is now available in Cursor!\n\nIt's 2.5x the speed at 6x the cost. For m...",
+      "url": "https://x.com/cursor_ai/status/2054274305345618163",
       "source": "twitter",
-      "source_author": "RunwayML",
+      "source_author": "cursor_ai",
       "topics": [],
-      "score": 3,
-      "score_reason": "Low engagement and unclear significance to developer tools.",
+      "score": 8,
+      "score_reason": "The introduction of a fast mode for Claude Opus 4.7 could significantly improve development speed.",
       "posted": false,
-      "collected_at": "2026-05-12T15:26:34Z",
+      "collected_at": "2026-05-13T04:36:35Z",
       "engagement": {
         "comments": 0,
-        "likes": 13,
-        "replies": 1,
-        "retweets": 1,
+        "likes": 1638,
+        "replies": 156,
+        "retweets": 139,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "2a0f2d513aea60ea6254f10166d21723",
+      "title": "For decades, your mouse only tracked where you were pointing. AI helps it understand what you're poi...",
+      "url": "https://x.com/GoogleDeepMind/status/2054246130511225053",
+      "source": "twitter",
+      "source_author": "GoogleDeepMind",
+      "topics": [],
+      "score": 8,
+      "score_reason": "Improvement in mouse functionality through AI can enhance user experience and productivity for developers.",
+      "posted": false,
+      "collected_at": "2026-05-13T04:36:35Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 153,
+        "replies": 5,
+        "retweets": 10,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "e1e0be1f0a337f0040aa15722a4bc9b6",
+      "title": "MatterSim is expanding what AI can do for materials science—from faster large-scale simulations to...",
+      "url": "https://x.com/MSFTResearch/status/2054191008091418998",
+      "source": "twitter",
+      "source_author": "MSFTResearch",
+      "topics": [],
+      "score": 7.5,
+      "score_reason": "Innovative AI applications in materials science can lead to advances beneficial to tech development.",
+      "posted": false,
+      "collected_at": "2026-05-13T04:36:35Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 96,
+        "replies": 4,
+        "retweets": 23,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "e01e596128596dcd2f9fc963ff993afa",
+      "title": "parameter golf was a blast.\n\n2,000+ submissions. 1,000+ verified github accounts. ideas ranging from...",
+      "url": "https://x.com/cocohearts/status/2054279323998409121",
+      "source": "twitter",
+      "source_author": "OpenAI",
+      "topics": [],
+      "score": 5,
+      "score_reason": "unscored",
+      "posted": false,
+      "collected_at": "2026-05-13T04:36:35Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 454,
+        "replies": 27,
+        "retweets": 36,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "94e1dc06b34b54de08167c5f046976cf",
+      "title": "Mother's Day may have passed, but we're not done showcasing mothers who build on Replit. \n\nWhen Noni...",
+      "url": "https://x.com/Replit/status/2054350956666425364",
+      "source": "twitter",
+      "source_author": "replit",
+      "topics": [],
+      "score": 3,
+      "score_reason": "Lacks novelty and impact; mostly a showcase without significant technical implications.",
+      "posted": false,
+      "collected_at": "2026-05-13T04:36:35Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 33,
+        "replies": 5,
+        "retweets": 3,
         "stars": 0,
         "upvotes": 0
       }
     }
   ],
   "source": "twitter",
-  "updated_at": "2026-05-12T15:27:53Z"
+  "updated_at": "2026-05-13T04:38:05Z"
 }
