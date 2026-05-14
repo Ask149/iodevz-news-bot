@@ -1,27 +1,187 @@
 {
-  "count": 1,
+  "count": 9,
   "items": [
     {
-      "id": "6e67360410494aad4bc1a2bb0aae5fd0",
-      "title": "Announcing the AI Model Intercomparison Project (AIMIP), a community effort to support open evaluati...",
-      "url": "https://x.com/allen_ai/status/2054584385454719112",
+      "id": "f524aeb2c57ecc8144ee6e10493a67ef",
+      "title": "Another reason to switch to Codex.",
+      "url": "https://x.com/OpenAI/status/2054620621255192719",
       "source": "twitter",
-      "source_author": "Allen_AI",
+      "source_author": "OpenAI",
       "topics": [],
-      "score": 7.5,
-      "score_reason": "Announces a significant community effort with potential for impact.",
+      "score": 9.5,
+      "score_reason": "Strong engagement and relevance to AI development.",
       "posted": false,
-      "collected_at": "2026-05-13T15:30:04Z",
+      "collected_at": "2026-05-14T04:32:36Z",
       "engagement": {
         "comments": 0,
-        "likes": 0,
-        "replies": 1,
+        "likes": 1967,
+        "replies": 187,
+        "retweets": 100,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "bfdcade2502f6bba7451bedf972b5dd1",
+      "title": "Starting today, you can run cloud agents inside fully configured development environments.\n\nSet them...",
+      "url": "https://x.com/cursor_ai/status/2054651526715502998",
+      "source": "twitter",
+      "source_author": "cursor_ai",
+      "topics": [],
+      "score": 9,
+      "score_reason": "Running cloud agents in development environments drastically improves workflow.",
+      "posted": false,
+      "collected_at": "2026-05-14T04:32:36Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 1308,
+        "replies": 66,
+        "retweets": 134,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "3b9d175e8590e85e4da3ad9362181c76",
+      "title": "This design is better than “𝕏”. \nhttps://\nx.com/amirHiroon/sta\n/amirHiroon/status/16831784925...",
+      "url": "https://x.com/hardmaru/status/1683440560869380096",
+      "source": "twitter",
+      "source_author": "hardmaru",
+      "topics": [],
+      "score": 8,
+      "score_reason": "Significant engagement, indicating interest in AI applications and trends.",
+      "posted": false,
+      "collected_at": "2026-05-14T04:32:36Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 93792,
+        "replies": 198,
+        "retweets": 9681,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "89b8f2abdf7e027011724ce1490f2214",
+      "title": "Perplexity is building one of the most secure scalable agent runtime sandboxes in the market right n...",
+      "url": "https://x.com/AravSrinivas/status/2054619058650411174",
+      "source": "twitter",
+      "source_author": "AravSrinivas",
+      "topics": [],
+      "score": 8,
+      "score_reason": "A secure agent runtime is crucial for building safe AI applications.",
+      "posted": false,
+      "collected_at": "2026-05-14T04:32:36Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 297,
+        "replies": 24,
+        "retweets": 29,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "04e37baee081fbed1ce5716634f30fd8",
+      "title": "Meet Runway Agent. Your new AI creative partner that helps you ideate and execute fully finished, so...",
+      "url": "https://x.com/runwayml/status/2054593196773011929",
+      "source": "twitter",
+      "source_author": "RunwayML",
+      "topics": [],
+      "score": 7.5,
+      "score_reason": "AI creative partners can significantly enhance productivity.",
+      "posted": false,
+      "collected_at": "2026-05-14T04:32:36Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 323,
+        "replies": 35,
+        "retweets": 87,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "f2e22f2576f5ce0e41729b0bcfc3ba13",
+      "title": "Introducing GridSFM, a small foundation model that can predict AC optimal power flow in milliseconds...",
+      "url": "https://x.com/MSFTResearch/status/2054607607650734504",
+      "source": "twitter",
+      "source_author": "MSFTResearch",
+      "topics": [],
+      "score": 6.5,
+      "score_reason": "Optimizing power flow with AI has niche but significant implications.",
+      "posted": false,
+      "collected_at": "2026-05-14T04:32:36Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 93,
+        "replies": 3,
+        "retweets": 20,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "db7961caafcde5cd2374f216e62621fc",
+      "title": "Get started:",
+      "url": "https://x.com/runwayml/status/2054593198400348377",
+      "source": "twitter",
+      "source_author": "RunwayML",
+      "topics": [],
+      "score": 5,
+      "score_reason": "While interesting, it's a less direct impact on developer tools.",
+      "posted": false,
+      "collected_at": "2026-05-14T04:32:36Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 13,
+        "replies": 0,
         "retweets": 0,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "ccb1f4fd2835cd1e502256f095d2a6db",
+      "title": "A belated Mother's Day spotlight on a builder worth celebrating.\n\nSarra is a technical writer and mo...",
+      "url": "https://x.com/Replit/status/2054698293800693802",
+      "source": "twitter",
+      "source_author": "replit",
+      "topics": [],
+      "score": 3,
+      "score_reason": "Celebrating a technical writer, while valuable, lacks immediate technical relevance.",
+      "posted": false,
+      "collected_at": "2026-05-14T04:32:36Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 29,
+        "replies": 1,
+        "retweets": 2,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "dd6bdd94a6a308bbeac07eec76091b85",
+      "title": "I’ve always believed the No.1 application of AI should be to improve human health.\n\nThat work star...",
+      "url": "https://x.com/demishassabis/status/2054197462101889277",
+      "source": "twitter",
+      "source_author": "DemisHassabis",
+      "topics": [],
+      "score": 1.5,
+      "score_reason": "Completely lacking engagement with no visibility.",
+      "posted": false,
+      "collected_at": "2026-05-14T04:32:36Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 14985,
+        "replies": 541,
+        "retweets": 1954,
         "stars": 0,
         "upvotes": 0
       }
     }
   ],
   "source": "twitter",
-  "updated_at": "2026-05-13T15:31:24Z"
+  "updated_at": "2026-05-14T04:33:55Z"
 }
