@@ -1,227 +1,27 @@
 {
-  "count": 11,
+  "count": 1,
   "items": [
     {
-      "id": "6a27f03b110d2df38f1608ec563ad29c",
-      "title": "You've been asking for this one...\n\nNow in preview: Codex in the ChatGPT mobile app.\n\nStart new work...",
-      "url": "https://x.com/OpenAI/status/2055016850849993072",
+      "id": "f30129b86f407c56e9c4dca4ca7b52ff",
+      "title": "Japan's biggest problem is they suck at software, have always sucked at software and will keep sucki...",
+      "url": "https://x.com/levelsio/status/2054954456198922345",
       "source": "twitter",
-      "source_author": "OpenAI",
+      "source_author": "levelsio",
       "topics": [],
-      "score": 9.5,
-      "score_reason": "The integration of Codex into ChatGPT mobile significantly enhances mobile development capabilities.",
+      "score": 5.5,
+      "score_reason": "The tweet is provocative and engages the audience, but it's more opinion-based than technical.",
       "posted": false,
-      "collected_at": "2026-05-15T04:38:33Z",
+      "collected_at": "2026-05-15T15:04:30Z",
       "engagement": {
         "comments": 0,
-        "likes": 16196,
-        "replies": 1123,
-        "retweets": 3778,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "75712036bb8c96ce4f12bc591fa2c200",
-      "title": "We've published a paper that explains our views on AI competition between the US and China.\n\nThe US ...",
-      "url": "https://x.com/AnthropicAI/status/2054987444664377374",
-      "source": "twitter",
-      "source_author": "AnthropicAI",
-      "topics": [],
-      "score": 9,
-      "score_reason": "High engagement and discusses significant geopolitical implications of AI.",
-      "posted": false,
-      "collected_at": "2026-05-15T04:38:33Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 3146,
-        "replies": 555,
-        "retweets": 969,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "d7abe9e7f7b806b9992803687108db92",
-      "title": "We’re partnering with the Gates Foundation, committing $200 million in grants, Claude credits, and...",
-      "url": "https://x.com/AnthropicAI/status/2054941901900611787",
-      "source": "twitter",
-      "source_author": "AnthropicAI",
-      "topics": [],
-      "score": 8,
-      "score_reason": "The partnership with the Gates Foundation could lead to impactful AI advancements and funding.",
-      "posted": false,
-      "collected_at": "2026-05-15T04:38:33Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 2260,
-        "replies": 346,
-        "retweets": 293,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "31216716eac1ea9e6e42262b250a998e",
-      "title": "Rolling out today as a preview on iOS and Android in all supported regions.\n\nSupport for connecting ...",
-      "url": "https://x.com/OpenAI/status/2055016852133417389",
-      "source": "twitter",
-      "source_author": "OpenAI",
-      "topics": [],
-      "score": 7,
-      "score_reason": "Mobile app previews indicate ongoing development, but lack specifics on new features.",
-      "posted": false,
-      "collected_at": "2026-05-15T04:38:33Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 1368,
-        "replies": 116,
-        "retweets": 218,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "8061a95a13dafecae77e192c9e60aa9f",
-      "title": "Can your AI agent win our new simulated challenge? \n\nThe all-new capstone challenge for our 5-Day AI...",
-      "url": "https://x.com/kaggle/status/2054705171050164348",
-      "source": "twitter",
-      "source_author": "GoogleDeepMind",
-      "topics": [],
-      "score": 6.5,
-      "score_reason": "A simulated challenge can engage developers but may not deliver significant novelty.",
-      "posted": false,
-      "collected_at": "2026-05-15T04:38:33Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 180,
-        "replies": 6,
-        "retweets": 23,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "53910d82027444b4dcd66d6a353b6109",
-      "title": "Today we're announcing Runway's expansion into Japan: we're opening a Tokyo office and investing an ...",
-      "url": "https://x.com/runwayml/status/2055065978762051830",
-      "source": "twitter",
-      "source_author": "RunwayML",
-      "topics": [],
-      "score": 5,
-      "score_reason": "Expansion into Japan signals growth but lacks specific impacts on developer tools.",
-      "posted": false,
-      "collected_at": "2026-05-15T04:38:33Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 464,
-        "replies": 32,
-        "retweets": 129,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "defdb4ce63067fc8bff9a117a969e6b3",
-      "title": "New releases from Microsoft Research, live in 1 hour.\n \nJoin for ai that runs your repo + verificati...",
-      "url": "https://x.com/MSFTResearch/status/2054946582894719062",
-      "source": "twitter",
-      "source_author": "MSFTResearch",
-      "topics": [],
-      "score": 4.5,
-      "score_reason": "New releases mentioned but with limited information on functionality for developers.",
-      "posted": false,
-      "collected_at": "2026-05-15T04:38:33Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 80,
-        "replies": 0,
-        "retweets": 36,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "9cc3b7bf9515b4fbcb374eedde4bcfa2",
-      "title": "A conversation with \n@sirupsen\n on scaling Shopify, building turbopuffer, and the future of database...",
-      "url": "https://x.com/sualehasif996/status/2054992106196787686",
-      "source": "twitter",
-      "source_author": "cursor_ai",
-      "topics": [],
-      "score": 4,
-      "score_reason": "Discussion on business scaling is useful but not directly relevant to developer tools.",
-      "posted": false,
-      "collected_at": "2026-05-15T04:38:33Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 159,
-        "replies": 10,
-        "retweets": 25,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "91187fc0414a98fab1a645f88b784888",
-      "title": "Mother's Day may be done, but the moms who build sure aren't.\n\nSingle mom of five, Rebecca Braden, s...",
-      "url": "https://x.com/Replit/status/2055075735514054923",
-      "source": "twitter",
-      "source_author": "replit",
-      "topics": [],
-      "score": 3.5,
-      "score_reason": "Story about a developer's journey is inspiring but lacks direct relevance to current tech trends.",
-      "posted": false,
-      "collected_at": "2026-05-15T04:38:33Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 21,
-        "replies": 1,
-        "retweets": 3,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "123907abe9847c807eaedc0dec570837",
-      "title": "Hands on the medium.\n\nVibecon brings working sessions to NYC June 17–18.\n\nTwo days of learning by ...",
-      "url": "https://x.com/Replit/status/2055030421994274990",
-      "source": "twitter",
-      "source_author": "replit",
-      "topics": [],
-      "score": 3,
-      "score_reason": "Learning events are valuable but not as impactful in changing developer practices.",
-      "posted": false,
-      "collected_at": "2026-05-15T04:38:33Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 18,
-        "replies": 1,
-        "retweets": 1,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "a72572e161b19bb51302de6331fc63a3",
-      "title": "Learn more: \nhttps://\nrunwayml.com/news/runway-is\n-coming-to-japan\n…",
-      "url": "https://x.com/runwayml/status/2055065981177798732",
-      "source": "twitter",
-      "source_author": "RunwayML",
-      "topics": [],
-      "score": 2,
-      "score_reason": "Link without context does not provide substantial information.",
-      "posted": false,
-      "collected_at": "2026-05-15T04:38:33Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 10,
-        "replies": 0,
-        "retweets": 0,
+        "likes": 2207,
+        "replies": 50,
+        "retweets": 253,
         "stars": 0,
         "upvotes": 0
       }
     }
   ],
   "source": "twitter",
-  "updated_at": "2026-05-15T04:39:53Z"
+  "updated_at": "2026-05-15T15:05:45Z"
 }
