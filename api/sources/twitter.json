@@ -1,27 +1,147 @@
 {
-  "count": 1,
+  "count": 7,
   "items": [
     {
-      "id": "f30129b86f407c56e9c4dca4ca7b52ff",
-      "title": "Japan's biggest problem is they suck at software, have always sucked at software and will keep sucki...",
-      "url": "https://x.com/levelsio/status/2054954456198922345",
+      "id": "1b43ac15d5c0e32c629e284480ae3910",
+      "title": "Runway Agent lets you go from a product shot and an idea to a fully finished ad in a single session....",
+      "url": "https://x.com/runwayml/status/2055364605979869229",
       "source": "twitter",
-      "source_author": "levelsio",
+      "source_author": "RunwayML",
       "topics": [],
-      "score": 5.5,
-      "score_reason": "The tweet is provocative and engages the audience, but it's more opinion-based than technical.",
+      "score": 9,
+      "score_reason": "Runway Agent represents a significant leap in AI-assisted ad creation, streamlining the process dramatically.",
       "posted": false,
-      "collected_at": "2026-05-15T15:04:30Z",
+      "collected_at": "2026-05-16T04:13:01Z",
       "engagement": {
         "comments": 0,
-        "likes": 2207,
-        "replies": 50,
-        "retweets": 253,
+        "likes": 74,
+        "replies": 5,
+        "retweets": 11,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "4f930a0e0dc8cbc4c48847255354183f",
+      "title": "Agents, agents, agents at Ship London \n\n▪︎ Video agents with \n@GoogleDeepMind\n\n▪︎ Real-time ...",
+      "url": "https://x.com/vercel/status/2055350167944183957",
+      "source": "twitter",
+      "source_author": "vercel",
+      "topics": [],
+      "score": 8.5,
+      "score_reason": "Google DeepMind's work on video agents is pushing the frontier of real-time AI applications.",
+      "posted": false,
+      "collected_at": "2026-05-16T04:13:01Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 38,
+        "replies": 8,
+        "retweets": 6,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "7693e140944b41bfa7893234c4d85aef",
+      "title": "New tools, models, repos, and papers out of Microsoft Research are here. \n\nUse AI and agents? It's w...",
+      "url": "https://x.com/MSFTResearch/status/2055303919497089337",
+      "source": "twitter",
+      "source_author": "MSFTResearch",
+      "topics": [],
+      "score": 8,
+      "score_reason": "Microsoft Research's new tools and models indicate significant advancements in AI and agent technology.",
+      "posted": false,
+      "collected_at": "2026-05-16T04:13:01Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 45,
+        "replies": 6,
+        "retweets": 17,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "673036bf5a0670d63087595db8b6bbee",
+      "title": "Great to see \n@SupersonikAI\n building on the Runway API with Characters. Supersonik is part of our f...",
+      "url": "https://x.com/RunwayMLDevs/status/2055315435784921385",
+      "source": "twitter",
+      "source_author": "RunwayML",
+      "topics": [],
+      "score": 7.5,
+      "score_reason": "SupersonikAI's integration with Runway showcases practical applications of AI in creative workflows.",
+      "posted": false,
+      "collected_at": "2026-05-16T04:13:01Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 31,
+        "replies": 1,
+        "retweets": 3,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "bfde5ff3cd09a2fa8492a7884089a9b6",
+      "title": "Music meets code.\n\nVibecon takes over NYC June 17–18, with performances built at the intersection ...",
+      "url": "https://x.com/Replit/status/2055392846937485385",
+      "source": "twitter",
+      "source_author": "replit",
+      "topics": [],
+      "score": 6.5,
+      "score_reason": "Explores a creative intersection of music and coding, which is novel but may have limited direct impact on typical developer workflows.",
+      "posted": false,
+      "collected_at": "2026-05-16T04:13:01Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 17,
+        "replies": 3,
+        "retweets": 6,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "68fee509bd6420a6901cb2d36e8a1e3f",
+      "title": "We're still celebrating the moms who build, Mother's Day or not.\n\nRuth is a designer who spent years...",
+      "url": "https://x.com/Replit/status/2055438113128755604",
+      "source": "twitter",
+      "source_author": "replit",
+      "topics": [],
+      "score": 5,
+      "score_reason": "unscored",
+      "posted": false,
+      "collected_at": "2026-05-16T04:13:01Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 18,
+        "replies": 0,
+        "retweets": 3,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "afd71fdfff74352113e06a8319f2fc26",
+      "title": "Get started: \nhttps://\napp.runwayml.com/agent",
+      "url": "https://x.com/runwayml/status/2055364607942758814",
+      "source": "twitter",
+      "source_author": "RunwayML",
+      "topics": [],
+      "score": 5,
+      "score_reason": "unscored",
+      "posted": false,
+      "collected_at": "2026-05-16T04:13:01Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 2,
+        "replies": 0,
+        "retweets": 0,
         "stars": 0,
         "upvotes": 0
       }
     }
   ],
   "source": "twitter",
-  "updated_at": "2026-05-15T15:05:45Z"
+  "updated_at": "2026-05-16T04:14:12Z"
 }
