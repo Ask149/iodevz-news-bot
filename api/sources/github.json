@@ -1,77 +1,57 @@
 {
-  "count": 7,
+  "count": 5,
   "items": [
     {
-      "id": "3eaeb94e94c85926b3f12d0f81594b9d",
-      "title": "keshavthevar/DeepSeek-V4-Agent-Toolkit",
-      "url": "https://github.com/keshavthevar/DeepSeek-V4-Agent-Toolkit",
+      "id": "ad1caaaa5871c15f351b878aa789b754",
+      "title": "gi-dellav/zerostack",
+      "url": "https://github.com/gi-dellav/zerostack",
       "source": "github",
-      "source_author": "keshavthevar",
-      "topics": [],
-      "score": 8,
-      "score_reason": "Toolkit for advanced agent development is quite relevant and engaging.",
-      "posted": false,
-      "collected_at": "2026-05-17T08:37:53Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 65,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "697ceb7493bedcbabe7c13f8e3779d06",
-      "title": "gonemedia/aipointer",
-      "url": "https://github.com/gonemedia/aipointer",
-      "source": "github",
-      "source_author": "gonemedia",
-      "topics": [],
-      "score": 7,
-      "score_reason": "The repository is positioned for AI tooling, making it relevant to developers.",
-      "posted": false,
-      "collected_at": "2026-05-17T08:37:48Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 77,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "ae35c68717882b49dc9e8cd938d04c1a",
-      "title": "CyberSealNull/CcCompanion",
-      "url": "https://github.com/CyberSealNull/CcCompanion",
-      "source": "github",
-      "source_author": "CyberSealNull",
-      "topics": [],
-      "score": 6,
-      "score_reason": "CcCompanion offers a tool that could support developers, moderate interest.",
-      "posted": false,
-      "collected_at": "2026-05-17T08:37:48Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 31,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "4c0d935bf2eba5d04d5c73b2c93abe25",
-      "title": "np-n/awesome-aiml-roadmap",
-      "url": "https://github.com/np-n/awesome-aiml-roadmap",
-      "source": "github",
-      "source_author": "np-n",
+      "source_author": "gi-dellav",
       "topics": [],
       "score": 5.5,
-      "score_reason": "Roadmap for AI/ML is relevant but lacks immediate novelty.",
+      "score_reason": "While it has gained some traction, the engagement is low and it lacks distinctive features.",
       "posted": false,
-      "collected_at": "2026-05-17T08:37:54Z",
+      "collected_at": "2026-05-17T14:06:30Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 410,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "43613faf75c6c8377e07535b8e378f60",
+      "title": "japp-fi/polymarket-mcp-server",
+      "url": "https://github.com/japp-fi/polymarket-mcp-server",
+      "source": "github",
+      "source_author": "japp-fi",
+      "topics": [],
+      "score": 4,
+      "score_reason": "Some interest shown through stars, but overall lacks clear relevance and impact for developers.",
+      "posted": false,
+      "collected_at": "2026-05-17T14:06:38Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 79,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "8b50b65361404b9df1306835c827fa84",
+      "title": "yihao-meng/CausalCine",
+      "url": "https://github.com/yihao-meng/CausalCine",
+      "source": "github",
+      "source_author": "yihao-meng",
+      "topics": [],
+      "score": 3,
+      "score_reason": "Similar to the previous entries, low engagement and minimal information on impact.",
+      "posted": false,
+      "collected_at": "2026-05-17T14:06:35Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
@@ -82,36 +62,16 @@
       }
     },
     {
-      "id": "baa7e417d63275ae9f87cb3716651bfe",
-      "title": "dex-original/okx-agent-trade-kit",
-      "url": "https://github.com/dex-original/okx-agent-trade-kit",
+      "id": "6143bdb9202967000c687bced41dff20",
+      "title": "LZF1111/nullflux",
+      "url": "https://github.com/LZF1111/nullflux",
       "source": "github",
-      "source_author": "dex-original",
+      "source_author": "LZF1111",
       "topics": [],
-      "score": 5,
-      "score_reason": "OKX agent is useful but niche and not widely addressed.",
+      "score": 3,
+      "score_reason": "Very low engagement and appears to be a niche or undeveloped project.",
       "posted": false,
-      "collected_at": "2026-05-17T08:38:03Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 50,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "db24dcb9ba0e98ca7ba6c9157e3b9f1b",
-      "title": "rishapgandhi/python-skills",
-      "url": "https://github.com/rishapgandhi/python-skills",
-      "source": "github",
-      "source_author": "rishapgandhi",
-      "topics": [],
-      "score": 4,
-      "score_reason": "Basic Python skills repository lacks broader relevance.",
-      "posted": false,
-      "collected_at": "2026-05-17T08:38:04Z",
+      "collected_at": "2026-05-17T14:06:33Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
@@ -122,26 +82,26 @@
       }
     },
     {
-      "id": "0aab765c56643d18964af737c4422793",
-      "title": "Neonia-io/swarm-demo",
-      "url": "https://github.com/Neonia-io/swarm-demo",
+      "id": "ca1ea0e79385302ec7bc05b8558761ed",
+      "title": "8bit64k/cronalytics",
+      "url": "https://github.com/8bit64k/cronalytics",
       "source": "github",
-      "source_author": "Neonia-io",
+      "source_author": "8bit64k",
       "topics": [],
-      "score": 4,
-      "score_reason": "Swarm demo is too general and does not seem impactful.",
+      "score": 1,
+      "score_reason": "GitHub repository with minimal activity and lack of context for developer application.",
       "posted": false,
-      "collected_at": "2026-05-17T08:37:59Z",
+      "collected_at": "2026-05-17T14:06:28Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 1,
+        "stars": 69,
         "upvotes": 0
       }
     }
   ],
   "source": "github",
-  "updated_at": "2026-05-17T08:41:02Z"
+  "updated_at": "2026-05-17T14:09:46Z"
 }
