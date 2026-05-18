@@ -1,57 +1,157 @@
 {
-  "count": 5,
+  "count": 24,
   "items": [
     {
-      "id": "ad1caaaa5871c15f351b878aa789b754",
-      "title": "gi-dellav/zerostack",
-      "url": "https://github.com/gi-dellav/zerostack",
+      "id": "7b9dd31869366311196d514d352b6c29",
+      "title": "ahammadmejbah/Awesome-Datasets-Hub",
+      "url": "https://github.com/ahammadmejbah/Awesome-Datasets-Hub",
       "source": "github",
-      "source_author": "gi-dellav",
+      "source_author": "ahammadmejbah",
+      "topics": [],
+      "score": 6.5,
+      "score_reason": "Curated datasets can aid development but need higher engagement to be meaningful.",
+      "posted": false,
+      "collected_at": "2026-05-18T04:52:06Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 105,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "ba549c1869fb68dabcdd54ea8155b356",
+      "title": "adityarajdigital/designmd",
+      "url": "https://github.com/adityarajdigital/designmd",
+      "source": "github",
+      "source_author": "adityarajdigital",
       "topics": [],
       "score": 5.5,
-      "score_reason": "While it has gained some traction, the engagement is low and it lacks distinctive features.",
+      "score_reason": "A design markdown tool is valuable for documentation, but it's not groundbreaking.",
       "posted": false,
-      "collected_at": "2026-05-17T14:06:30Z",
+      "collected_at": "2026-05-18T04:52:02Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 410,
+        "stars": 14,
         "upvotes": 0
       }
     },
     {
-      "id": "43613faf75c6c8377e07535b8e378f60",
-      "title": "japp-fi/polymarket-mcp-server",
-      "url": "https://github.com/japp-fi/polymarket-mcp-server",
+      "id": "eaca4f6a351c2e16e07f44ff863751f9",
+      "title": "not-manu/filemention.nvim",
+      "url": "https://github.com/not-manu/filemention.nvim",
       "source": "github",
-      "source_author": "japp-fi",
+      "source_author": "not-manu",
       "topics": [],
-      "score": 4,
-      "score_reason": "Some interest shown through stars, but overall lacks clear relevance and impact for developers.",
+      "score": 5,
+      "score_reason": "A file mention plugin could aid developers, but it doesn't introduce new concepts.",
       "posted": false,
-      "collected_at": "2026-05-17T14:06:38Z",
+      "collected_at": "2026-05-18T04:52:02Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 79,
+        "stars": 16,
         "upvotes": 0
       }
     },
     {
-      "id": "8b50b65361404b9df1306835c827fa84",
-      "title": "yihao-meng/CausalCine",
-      "url": "https://github.com/yihao-meng/CausalCine",
+      "id": "b9b1b1f50e539ea6a0e149acac553d2c",
+      "title": "AlekseiUL/openclaw-to-hermes-migration-kit",
+      "url": "https://github.com/AlekseiUL/openclaw-to-hermes-migration-kit",
       "source": "github",
-      "source_author": "yihao-meng",
+      "source_author": "AlekseiUL",
+      "topics": [],
+      "score": 4.5,
+      "score_reason": "Migration kits can be useful but lack novelty and engagement.",
+      "posted": false,
+      "collected_at": "2026-05-18T04:52:01Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 7,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "bd08133167daa2ebabd1f24e274c0964",
+      "title": "haidang1810/md2html",
+      "url": "https://github.com/haidang1810/md2html",
+      "source": "github",
+      "source_author": "haidang1810",
       "topics": [],
       "score": 3,
-      "score_reason": "Similar to the previous entries, low engagement and minimal information on impact.",
+      "score_reason": "A basic tool for converting Markdown to HTML, likely useful but not groundbreaking.",
       "posted": false,
-      "collected_at": "2026-05-17T14:06:35Z",
+      "collected_at": "2026-05-18T04:51:44Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 210,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "6ebeb94675b43b506b9062587bb532ab",
+      "title": "helloyangy/Windsurf-Tutorial",
+      "url": "https://github.com/helloyangy/Windsurf-Tutorial",
+      "source": "github",
+      "source_author": "helloyangy",
+      "topics": [],
+      "score": 3,
+      "score_reason": "Tutorials are useful but lack impact and relevance to developer tools.",
+      "posted": false,
+      "collected_at": "2026-05-18T04:52:03Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 3,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "7f264ffa1308c10c197e597ee4b96694",
+      "title": "imarvinle/chatgpt-plus-tutorial",
+      "url": "https://github.com/imarvinle/chatgpt-plus-tutorial",
+      "source": "github",
+      "source_author": "imarvinle",
+      "topics": [],
+      "score": 2,
+      "score_reason": "A tutorial without significant novelty or impact.",
+      "posted": false,
+      "collected_at": "2026-05-18T04:51:48Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 11,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "3438cfac7208449574aa4b5b978cdd0e",
+      "title": "os-tack/prism",
+      "url": "https://github.com/os-tack/prism",
+      "source": "github",
+      "source_author": "os-tack",
+      "topics": [],
+      "score": 2,
+      "score_reason": "Very little information and low engagement signal.",
+      "posted": false,
+      "collected_at": "2026-05-18T04:52:03Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
@@ -62,16 +162,16 @@
       }
     },
     {
-      "id": "6143bdb9202967000c687bced41dff20",
-      "title": "LZF1111/nullflux",
-      "url": "https://github.com/LZF1111/nullflux",
+      "id": "95a7700c4137fac7f18d2b4c9250fa18",
+      "title": "QWKiks/openweb",
+      "url": "https://github.com/QWKiks/openweb",
       "source": "github",
-      "source_author": "LZF1111",
+      "source_author": "QWKiks",
       "topics": [],
-      "score": 3,
-      "score_reason": "Very low engagement and appears to be a niche or undeveloped project.",
+      "score": 2,
+      "score_reason": "The project shows little engagement and no clear impact for developers.",
       "posted": false,
-      "collected_at": "2026-05-17T14:06:33Z",
+      "collected_at": "2026-05-18T04:52:03Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
@@ -82,26 +182,306 @@
       }
     },
     {
-      "id": "ca1ea0e79385302ec7bc05b8558761ed",
-      "title": "8bit64k/cronalytics",
-      "url": "https://github.com/8bit64k/cronalytics",
+      "id": "81d00cab48dac03922432c389ab5fb9e",
+      "title": "yangfei4913438/codex-deepseek",
+      "url": "https://github.com/yangfei4913438/codex-deepseek",
       "source": "github",
-      "source_author": "8bit64k",
+      "source_author": "yangfei4913438",
+      "topics": [],
+      "score": 2,
+      "score_reason": "Another low-impact project in a saturated area.",
+      "posted": false,
+      "collected_at": "2026-05-18T04:51:51Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 7,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "90ad83980a1a094385d05187564c3684",
+      "title": "wailers9/bragi",
+      "url": "https://github.com/wailers9/bragi",
+      "source": "github",
+      "source_author": "wailers9",
+      "topics": [],
+      "score": 2,
+      "score_reason": "A small-scale project that seems to repeat existing tools and frameworks.",
+      "posted": false,
+      "collected_at": "2026-05-18T04:51:46Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 21,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "36788d44c21a1b6051d5a3185d856fb8",
+      "title": "haoaaa-111/taoketong",
+      "url": "https://github.com/haoaaa-111/taoketong",
+      "source": "github",
+      "source_author": "haoaaa-111",
+      "topics": [],
+      "score": 2,
+      "score_reason": "Another small-scale project with limited impact.",
+      "posted": false,
+      "collected_at": "2026-05-18T04:51:46Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 15,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "2bf8a89feada3989694a8983157df12d",
+      "title": "aldegad/tenstorrent",
+      "url": "https://github.com/aldegad/tenstorrent",
+      "source": "github",
+      "source_author": "aldegad",
+      "topics": [],
+      "score": 2,
+      "score_reason": "Similar to previous projects, lacks unique features.",
+      "posted": false,
+      "collected_at": "2026-05-18T04:51:51Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 11,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "2d637c5f66ddeca2de624442a483819d",
+      "title": "Lobobodev/CodexBarMenuBar",
+      "url": "https://github.com/Lobobodev/CodexBarMenuBar",
+      "source": "github",
+      "source_author": "Lobobodev",
+      "topics": [],
+      "score": 2,
+      "score_reason": "Mediocre utility with limited adoption, unlikely to excite developers.",
+      "posted": false,
+      "collected_at": "2026-05-18T04:51:51Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 21,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "447494ea21486facf89341173f704e37",
+      "title": "ivicadragomirov32-bit/ivica-dragomirov",
+      "url": "https://github.com/ivicadragomirov32-bit/ivica-dragomirov",
+      "source": "github",
+      "source_author": "ivicadragomirov32-bit",
       "topics": [],
       "score": 1,
-      "score_reason": "GitHub repository with minimal activity and lack of context for developer application.",
+      "score_reason": "Unremarkable project with little context provided.",
       "posted": false,
-      "collected_at": "2026-05-17T14:06:28Z",
+      "collected_at": "2026-05-18T04:51:53Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 69,
+        "stars": 1,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "011651b067d4f5a15ef6d733a35b533c",
+      "title": "bytedance/Lance",
+      "url": "https://github.com/bytedance/Lance",
+      "source": "github",
+      "source_author": "bytedance",
+      "topics": [],
+      "score": 1,
+      "score_reason": "Lacks engagement and relevance to developer needs.",
+      "posted": false,
+      "collected_at": "2026-05-18T04:51:54Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 9,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "03d2bd43d463ed36a4e92496a18511a4",
+      "title": "aldegad/tenstorrent-cli",
+      "url": "https://github.com/aldegad/tenstorrent-cli",
+      "source": "github",
+      "source_author": "aldegad",
+      "topics": [],
+      "score": 1,
+      "score_reason": "Very niche utility with minimal appeal.",
+      "posted": false,
+      "collected_at": "2026-05-18T04:51:54Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 4,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "9aecebe01ad83584a71d84d40c5ca670",
+      "title": "swarm-agent/swarm",
+      "url": "https://github.com/swarm-agent/swarm",
+      "source": "github",
+      "source_author": "swarm-agent",
+      "topics": [],
+      "score": 1,
+      "score_reason": "Similar projects exist; low impact.",
+      "posted": false,
+      "collected_at": "2026-05-18T04:51:57Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "86ec7b971b7c9a8b37416eeabf7a97f3",
+      "title": "feicaiclub/video-spec-builder",
+      "url": "https://github.com/feicaiclub/video-spec-builder",
+      "source": "github",
+      "source_author": "feicaiclub",
+      "topics": [],
+      "score": 1,
+      "score_reason": "Basic tool with no standout features.",
+      "posted": false,
+      "collected_at": "2026-05-18T04:51:59Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 2,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "7db8f8bb721c69802d2adfcb010235dc",
+      "title": "LeonardHope/Draftspect-Add-Ins-for-Word-and-Excel-Powered-by-Claude-Code",
+      "url": "https://github.com/LeonardHope/Draftspect-Add-Ins-for-Word-and-Excel-Powered-by-Claude-Code",
+      "source": "github",
+      "source_author": "LeonardHope",
+      "topics": [],
+      "score": 1,
+      "score_reason": "Limited relevance to a broader developer audience.",
+      "posted": false,
+      "collected_at": "2026-05-18T04:51:59Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 2,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "e1e356218ad1d003b5865031b9949f01",
+      "title": "nvwalj/ai-memory-reader",
+      "url": "https://github.com/nvwalj/ai-memory-reader",
+      "source": "github",
+      "source_author": "nvwalj",
+      "topics": [],
+      "score": 1,
+      "score_reason": "Unengaging project likely to be overlooked.",
+      "posted": false,
+      "collected_at": "2026-05-18T04:52:01Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 16,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "e4a5482e7b21a751168e6039bd4fdff4",
+      "title": "tim-osterhus/yt-digest",
+      "url": "https://github.com/tim-osterhus/yt-digest",
+      "source": "github",
+      "source_author": "tim-osterhus",
+      "topics": [],
+      "score": 1,
+      "score_reason": "No significant engagement or unique aspect.",
+      "posted": false,
+      "collected_at": "2026-05-18T04:52:01Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 8,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "e55dc74fdea332012ef9d3ad9b492cf3",
+      "title": "harikumarsrec/genai-assignments",
+      "url": "https://github.com/harikumarsrec/genai-assignments",
+      "source": "github",
+      "source_author": "harikumarsrec",
+      "topics": [],
+      "score": 1,
+      "score_reason": "Minimal engagement and no clear utility indicated.",
+      "posted": false,
+      "collected_at": "2026-05-18T04:51:52Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "de0054e687ef9700e07ed6349cd81912",
+      "title": "ZakiFikri13/devin",
+      "url": "https://github.com/ZakiFikri13/devin",
+      "source": "github",
+      "source_author": "ZakiFikri13",
+      "topics": [],
+      "score": 1,
+      "score_reason": "No stars or engagement noted; appears inactive.",
+      "posted": false,
+      "collected_at": "2026-05-18T04:52:05Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
         "upvotes": 0
       }
     }
   ],
   "source": "github",
-  "updated_at": "2026-05-17T14:09:46Z"
+  "updated_at": "2026-05-18T04:55:40Z"
 }
