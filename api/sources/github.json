@@ -1,157 +1,37 @@
 {
-  "count": 9,
+  "count": 8,
   "items": [
     {
-      "id": "cff5a9e848dab655e56ffbab9a2b8552",
-      "title": "panggou/devin",
-      "url": "https://github.com/panggou/devin",
+      "id": "11f03905108fc1e8b32412c0482fdf61",
+      "title": "shannhk/hermes-agent-control-room",
+      "url": "https://github.com/shannhk/hermes-agent-control-room",
       "source": "github",
-      "source_author": "panggou",
-      "topics": [],
-      "score": 7,
-      "score_reason": "Decent engagement suggests interest in quality control for agents.",
-      "posted": false,
-      "collected_at": "2026-05-18T10:47:30Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "cebeae7348ddd5d9428d77d84e72f05e",
-      "title": "sd031/AI-Powered-Kubernetes-Troubleshooting-Assistant",
-      "url": "https://github.com/sd031/AI-Powered-Kubernetes-Troubleshooting-Assistant",
-      "source": "github",
-      "source_author": "sd031",
-      "topics": [],
-      "score": 6.5,
-      "score_reason": "AI-assisted troubleshooting for Kubernetes is a timely topic.",
-      "posted": false,
-      "collected_at": "2026-05-18T10:47:14Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 11,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "5ad93054c04aaab3be76364295fc8fa3",
-      "title": "Doorman11991/smallcode",
-      "url": "https://github.com/Doorman11991/smallcode",
-      "source": "github",
-      "source_author": "Doorman11991",
-      "topics": [],
-      "score": 6.5,
-      "score_reason": "Smallcode speaks to efficiency but lacks clear differentiation.",
-      "posted": false,
-      "collected_at": "2026-05-18T10:47:31Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 97,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "5a0a47b0fb8ad37b85988eeac2ec3b43",
-      "title": "dengmengmian/AgentGate",
-      "url": "https://github.com/dengmengmian/AgentGate",
-      "source": "github",
-      "source_author": "dengmengmian",
-      "topics": [],
-      "score": 6,
-      "score_reason": "AgentGate could facilitate agent development but requires user context.",
-      "posted": false,
-      "collected_at": "2026-05-18T10:47:16Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 10,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "83ebb10a8b23c920050ccc0a54beeb38",
-      "title": "Dangerous-hole/Pumpfun_AI_Trading_Bot",
-      "url": "https://github.com/Dangerous-hole/Pumpfun_AI_Trading_Bot",
-      "source": "github",
-      "source_author": "Dangerous-hole",
-      "topics": [],
-      "score": 6,
-      "score_reason": "AI trading bot potentially relevant but lacks unique insights.",
-      "posted": false,
-      "collected_at": "2026-05-18T10:47:12Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 142,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "e1cb71469a7d45c84fea291c9710fc37",
-      "title": "atomicstrata/atomicmemory-integrations",
-      "url": "https://github.com/atomicstrata/atomicmemory-integrations",
-      "source": "github",
-      "source_author": "atomicstrata",
+      "source_author": "shannhk",
       "topics": [],
       "score": 5.5,
-      "score_reason": "Could provide unique integrations but lacks attention.",
+      "score_reason": "Provides a tool for managing AI agents, relevant for developer productivity.",
       "posted": false,
-      "collected_at": "2026-05-18T10:47:26Z",
+      "collected_at": "2026-05-18T16:03:57Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 8,
+        "stars": 331,
         "upvotes": 0
       }
     },
     {
-      "id": "2869d29c1ddb5f7cccac9db2cd53246e",
-      "title": "agent-quality-controls/slopless",
-      "url": "https://github.com/agent-quality-controls/slopless",
+      "id": "f4be82a57152254dee17a58bcc506863",
+      "title": "iriskingseaderella-debug/AHAcamera",
+      "url": "https://github.com/iriskingseaderella-debug/AHAcamera",
       "source": "github",
-      "source_author": "agent-quality-controls",
+      "source_author": "iriskingseaderella-debug",
       "topics": [],
-      "score": 5,
-      "score_reason": "unscored",
+      "score": 3,
+      "score_reason": "Minimal engagement and unclear impact on development processes.",
       "posted": false,
-      "collected_at": "2026-05-18T10:47:31Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 104,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "a8e0190ec59130cf525e8204b892ed86",
-      "title": "safronovamy/genai-capstone",
-      "url": "https://github.com/safronovamy/genai-capstone",
-      "source": "github",
-      "source_author": "safronovamy",
-      "topics": [],
-      "score": 4,
-      "score_reason": "Capstone project appears basic with limited broader implications.",
-      "posted": false,
-      "collected_at": "2026-05-18T10:47:17Z",
+      "collected_at": "2026-05-18T16:04:00Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
@@ -162,16 +42,116 @@
       }
     },
     {
-      "id": "b866b36cf19a36ecf911c1077037d31b",
-      "title": "ginkida/gokin-studio",
-      "url": "https://github.com/ginkida/gokin-studio",
+      "id": "fcc78b52e89739e8385bbb20a78ff2e6",
+      "title": "Staks-sor/free-deepseek-cli",
+      "url": "https://github.com/Staks-sor/free-deepseek-cli",
       "source": "github",
-      "source_author": "ginkida",
+      "source_author": "Staks-sor",
       "topics": [],
-      "score": 3.5,
-      "score_reason": "Minimal engagement indicates low interest or novelty.",
+      "score": 2.5,
+      "score_reason": "Low engagement and a very specific tool with limited relevance.",
       "posted": false,
-      "collected_at": "2026-05-18T10:47:19Z",
+      "collected_at": "2026-05-18T16:03:59Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 7,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "1f4fda34d2a1a383adc7afb14b862c45",
+      "title": "huey1in/WindsurfX",
+      "url": "https://github.com/huey1in/WindsurfX",
+      "source": "github",
+      "source_author": "huey1in",
+      "topics": [],
+      "score": 2,
+      "score_reason": "Limited engagement, no clear relevance to current developer needs.",
+      "posted": false,
+      "collected_at": "2026-05-18T16:04:13Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 28,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "75bdc68707ea01d68eb365e06aaaa0bf",
+      "title": "thongthaibm/Lossless-Scaling-LSFG",
+      "url": "https://github.com/thongthaibm/Lossless-Scaling-LSFG",
+      "source": "github",
+      "source_author": "thongthaibm",
+      "topics": [],
+      "score": 2,
+      "score_reason": "Unclear purpose and low interest, lacks broad appeal.",
+      "posted": false,
+      "collected_at": "2026-05-18T16:04:12Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 211,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "0d33049a0d58b4154eb7dbab25d90af9",
+      "title": "rabden/X-twitter-social-manager-skill",
+      "url": "https://github.com/rabden/X-twitter-social-manager-skill",
+      "source": "github",
+      "source_author": "rabden",
+      "topics": [],
+      "score": 1.5,
+      "score_reason": "Very low engagement and trivial functionality for developers.",
+      "posted": false,
+      "collected_at": "2026-05-18T16:04:13Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 3,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "77ed7b672a9443cc22cd8b17d3981c65",
+      "title": "WingfyLyu/superpowers-kimi",
+      "url": "https://github.com/WingfyLyu/superpowers-kimi",
+      "source": "github",
+      "source_author": "WingfyLyu",
+      "topics": [],
+      "score": 1,
+      "score_reason": "Lacks engagement and relevance; likely niche audience.",
+      "posted": false,
+      "collected_at": "2026-05-18T16:04:02Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 2,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "fee93964bd32cbf3399aebb114f0d04a",
+      "title": "koaning/kimi-k2.6-exploration",
+      "url": "https://github.com/koaning/kimi-k2.6-exploration",
+      "source": "github",
+      "source_author": "koaning",
+      "topics": [],
+      "score": 1,
+      "score_reason": "Low relevance and engagement, unclear use case for developers.",
+      "posted": false,
+      "collected_at": "2026-05-18T16:04:02Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
@@ -183,5 +163,5 @@
     }
   ],
   "source": "github",
-  "updated_at": "2026-05-18T10:50:42Z"
+  "updated_at": "2026-05-18T16:07:43Z"
 }

@@ -1,27 +1,47 @@
 {
-  "count": 1,
+  "count": 2,
   "items": [
     {
-      "id": "4495bd5157cf5fd3e67c6717d035fdcc",
-      "title": " Barcelona is particularly interesting\n\nThe tourist center used to be just pickpockets targeting tou...",
-      "url": "https://x.com/levelsio/status/2056143272427639235",
+      "id": "e4b0d8de028a52220cae1e4659020814",
+      "title": "Runway Characters can now take actions, not just speak. Tell the real-time video agent what you want...",
+      "url": "https://x.com/runwayml/status/2056375781765386350",
       "source": "twitter",
-      "source_author": "levelsio",
+      "source_author": "RunwayML",
       "topics": [],
-      "score": 2,
-      "score_reason": "Off-topic for developer focus, despite high engagement.",
+      "score": 6,
+      "score_reason": "Innovative update on Runway's use of AI agents enhances user interaction.",
       "posted": false,
-      "collected_at": "2026-05-18T10:49:57Z",
+      "collected_at": "2026-05-18T16:06:43Z",
       "engagement": {
         "comments": 0,
-        "likes": 3505,
-        "replies": 92,
-        "retweets": 248,
+        "likes": 74,
+        "replies": 9,
+        "retweets": 13,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "7814daaebf592c481f30971e0afacfb9",
+      "title": "Learn more:",
+      "url": "https://x.com/runwayml/status/2056375783384346990",
+      "source": "twitter",
+      "source_author": "RunwayML",
+      "topics": [],
+      "score": 1,
+      "score_reason": "Minimal interaction and no substantial contribution to the field.",
+      "posted": false,
+      "collected_at": "2026-05-18T16:06:43Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 4,
+        "replies": 1,
+        "retweets": 0,
         "stars": 0,
         "upvotes": 0
       }
     }
   ],
   "source": "twitter",
-  "updated_at": "2026-05-18T10:50:42Z"
+  "updated_at": "2026-05-18T16:07:43Z"
 }
