@@ -1,5 +1,6 @@
 {
-  "count": 103,
+  "count": 149,
+  "date": "2026-05-21",
   "items": [
     {
       "id": "bcd407d3705b8371d48e5880424d93d5",
@@ -222,6 +223,26 @@
       }
     },
     {
+      "id": "8495ca5d59cd19dae88ae1c5f2a11647",
+      "title": "Today, we share a breakthrough on the planar unit distance problem, a famous open question first pos...",
+      "url": "https://x.com/OpenAI/status/2057176201782075690",
+      "source": "twitter",
+      "source_author": "OpenAI",
+      "topics": [],
+      "score": 8,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-05-21T04:57:39Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 16528,
+        "replies": 586,
+        "retweets": 3241,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
       "id": "f4591b6d682b77757b6f1281bb8a2e90",
       "title": "Show HN: Prism Coder – Qwen3.5-14B fine-tuned for MCP tool-routing decisions",
       "url": "https://github.com/dcostenco/prism-coder",
@@ -239,6 +260,46 @@
         "retweets": 0,
         "stars": 0,
         "upvotes": 2
+      }
+    },
+    {
+      "id": "c619d920472f953d1e8729e1cbeb421e",
+      "title": "You can now create and manage automations in the same workspace as your agents.\n\nAutomations are now...",
+      "url": "https://x.com/cursor_ai/status/2057167359593603471",
+      "source": "twitter",
+      "source_author": "cursor_ai",
+      "topics": [],
+      "score": 8,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-05-21T04:57:39Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 1121,
+        "replies": 57,
+        "retweets": 98,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "4fa9326e8dce6665d4b8ecb456a34f1d",
+      "title": "The proof came from a general-purpose reasoning model, not a system built specifically to solve math...",
+      "url": "https://x.com/OpenAI/status/2057176203166171317",
+      "source": "twitter",
+      "source_author": "OpenAI",
+      "topics": [],
+      "score": 8,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-05-21T04:57:39Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 1977,
+        "replies": 32,
+        "retweets": 208,
+        "stars": 0,
+        "upvotes": 0
       }
     },
     {
@@ -562,6 +623,26 @@
       }
     },
     {
+      "id": "05fadd74dbaefe90d6de2d618374cf89",
+      "title": "luoling8192/technical-writing",
+      "url": "https://github.com/luoling8192/technical-writing",
+      "source": "github",
+      "source_author": "luoling8192",
+      "topics": [],
+      "score": 6.5,
+      "score_reason": "Higher star count suggests some developer interest and relevance.",
+      "posted": false,
+      "collected_at": "2026-05-21T04:54:57Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 175,
+        "upvotes": 0
+      }
+    },
+    {
       "id": "c86db81396c89f2efb366f399337f0e3",
       "title": "TBN Protocol – Runtime governance infrastructure for AI agents",
       "url": "https://tbn.hardinai.co.uk/demo",
@@ -602,6 +683,66 @@
       }
     },
     {
+      "id": "228c265cf05228b6bb0b6facc3857092",
+      "title": "DaoyuanLi2816/can-i-finetune-this",
+      "url": "https://github.com/DaoyuanLi2816/can-i-finetune-this",
+      "source": "github",
+      "source_author": "DaoyuanLi2816",
+      "topics": [],
+      "score": 6,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-05-21T04:55:13Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 66,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "966bbf19c40f6ac4c4da95a7aae3b20f",
+      "title": "shenli/distributed-system-testing",
+      "url": "https://github.com/shenli/distributed-system-testing",
+      "source": "github",
+      "source_author": "shenli",
+      "topics": [],
+      "score": 6,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-05-21T04:55:14Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 123,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "c1bb2cd348ffb979f6620364108229c7",
+      "title": "For centuries, the scientific method has been our best tool for progress. But today, there’s so mu...",
+      "url": "https://x.com/GoogleAI/status/2057161311617008061",
+      "source": "twitter",
+      "source_author": "GoogleAI",
+      "topics": [],
+      "score": 6,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-05-21T04:57:39Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 258,
+        "replies": 20,
+        "retweets": 46,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
       "id": "d8c99aedb1b86d7557ad97d34e6e4341",
       "title": "Polymarket launches private company trading for speculating on Anthropic, OpenAI",
       "url": "https://www.cnbc.com/2026/05/19/polymarket-launches-private-company-trading-so-investors-can-speculate-on-anthropic-openai.html",
@@ -622,6 +763,26 @@
       }
     },
     {
+      "id": "5e904f7fdb3db57c956ef40eb0b79de5",
+      "title": "How can you accelerate your day to day research workflow?\n\nBy giving AI the right scientific toolkit...",
+      "url": "https://x.com/GoogleDeepMind/status/2057256257153884161",
+      "source": "twitter",
+      "source_author": "GoogleDeepMind",
+      "topics": [],
+      "score": 6,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-05-21T04:57:39Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 109,
+        "replies": 15,
+        "retweets": 18,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
       "id": "b4923694bf7da9374ccc2f870ce25411",
       "title": "Show HN: Sentience – governance that carries across AI agent sessions",
       "url": "https://pypi.org/project/sentience-governor/0.2.5.1/",
@@ -639,6 +800,26 @@
         "retweets": 0,
         "stars": 0,
         "upvotes": 1
+      }
+    },
+    {
+      "id": "5708c5d8ad66bed63785dff5b75cbd9a",
+      "title": "Helvesec/rmux",
+      "url": "https://github.com/Helvesec/rmux",
+      "source": "github",
+      "source_author": "Helvesec",
+      "topics": [],
+      "score": 6,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-05-21T04:55:14Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 76,
+        "upvotes": 0
       }
     },
     {
@@ -719,6 +900,26 @@
         "retweets": 0,
         "stars": 0,
         "upvotes": 4
+      }
+    },
+    {
+      "id": "ee3af8c45759f2d92a05eaeb523cae71",
+      "title": "wanshuiyin/ARIS-in-AI-Offer",
+      "url": "https://github.com/wanshuiyin/ARIS-in-AI-Offer",
+      "source": "github",
+      "source_author": "wanshuiyin",
+      "topics": [],
+      "score": 6,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-05-21T04:55:14Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 60,
+        "upvotes": 0
       }
     },
     {
@@ -839,6 +1040,26 @@
         "retweets": 0,
         "stars": 0,
         "upvotes": 8
+      }
+    },
+    {
+      "id": "17837afcf9c9b632d1dffe075a1b53c6",
+      "title": "jigripokri/POHA",
+      "url": "https://github.com/jigripokri/POHA",
+      "source": "github",
+      "source_author": "jigripokri",
+      "topics": [],
+      "score": 5.5,
+      "score_reason": "Github project with low community engagement reflects a niche interest.",
+      "posted": false,
+      "collected_at": "2026-05-21T04:54:52Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 89,
+        "upvotes": 0
       }
     },
     {
@@ -1002,6 +1223,26 @@
       }
     },
     {
+      "id": "d199c0e0e7eeb2e3b73cc92e8e66dd7a",
+      "title": "AndroidPoet/openai-kmp",
+      "url": "https://github.com/AndroidPoet/openai-kmp",
+      "source": "github",
+      "source_author": "AndroidPoet",
+      "topics": [],
+      "score": 5,
+      "score_reason": "Limited engagement and unclear scope reduce its appeal.",
+      "posted": false,
+      "collected_at": "2026-05-21T04:54:54Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 10,
+        "upvotes": 0
+      }
+    },
+    {
       "id": "73cdbf9a4378856e0d15b47db2d07abd",
       "title": "The next phase of OpenAI's political strategy",
       "url": "https://www.politico.com/news/2026/05/20/chatgpt-state-ai-fight-00928903",
@@ -1022,6 +1263,46 @@
       }
     },
     {
+      "id": "d451e7603d5c85923ed13aecfbadb26a",
+      "title": "betobetico/claude-para-abogados",
+      "url": "https://github.com/betobetico/claude-para-abogados",
+      "source": "github",
+      "source_author": "betobetico",
+      "topics": [],
+      "score": 5,
+      "score_reason": "Targeted niche project with limited potential impact.",
+      "posted": false,
+      "collected_at": "2026-05-21T04:54:53Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 11,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "38af1ad1b73261a3677f71e1f76475ef",
+      "title": "You can also now create automations without any attached repos, like a daily Slack digest agent that...",
+      "url": "https://x.com/cursor_ai/status/2057167362781261887",
+      "source": "twitter",
+      "source_author": "cursor_ai",
+      "topics": [],
+      "score": 5,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-05-21T04:57:39Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 51,
+        "replies": 3,
+        "retweets": 6,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
       "id": "2744e8e87a312e3cbdfe962d43ac8f5e",
       "title": "OpenAI Prepares to File to Go Public in Coming Weeks",
       "url": "https://www.nytimes.com/2026/05/20/technology/openai-ipo.html",
@@ -1039,6 +1320,26 @@
         "retweets": 0,
         "stars": 0,
         "upvotes": 6
+      }
+    },
+    {
+      "id": "3b1c66eb397aab4c612ccd223bc98ab3",
+      "title": "JSingletonAI/dejavu",
+      "url": "https://github.com/JSingletonAI/dejavu",
+      "source": "github",
+      "source_author": "JSingletonAI",
+      "topics": [],
+      "score": 5,
+      "score_reason": "Similar niche project, lacks significant user interest or novelty.",
+      "posted": false,
+      "collected_at": "2026-05-21T04:54:52Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 83,
+        "upvotes": 0
       }
     },
     {
@@ -1162,6 +1463,46 @@
       }
     },
     {
+      "id": "21e2c3f0d02ef0abe137dc934dd2fc2f",
+      "title": "h4ckf0r0day/awesome-ai-web-scraping",
+      "url": "https://github.com/h4ckf0r0day/awesome-ai-web-scraping",
+      "source": "github",
+      "source_author": "h4ckf0r0day",
+      "topics": [],
+      "score": 5,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-05-21T04:55:06Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 32,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "3bbf43df92742fd12ffe9c74a85d7c28",
+      "title": "prathamcreates/creative-brain",
+      "url": "https://github.com/prathamcreates/creative-brain",
+      "source": "github",
+      "source_author": "prathamcreates",
+      "topics": [],
+      "score": 5,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-05-21T04:55:09Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 19,
+        "upvotes": 0
+      }
+    },
+    {
       "id": "ddb90da35678118bcb601a3273bb6f67",
       "title": "Toolkit of custom commands, hooks, and utilities for Claude Code",
       "url": "https://github.com/carlrannaberg/claudekit",
@@ -1179,6 +1520,26 @@
         "retweets": 0,
         "stars": 0,
         "upvotes": 2
+      }
+    },
+    {
+      "id": "d3efca38d61e5ffce427fdc53f3a133a",
+      "title": "madguyevans-creator/resale-agent-skill-hub",
+      "url": "https://github.com/madguyevans-creator/resale-agent-skill-hub",
+      "source": "github",
+      "source_author": "madguyevans-creator",
+      "topics": [],
+      "score": 5,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-05-21T04:55:06Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 31,
+        "upvotes": 0
       }
     },
     {
@@ -1262,6 +1623,66 @@
       }
     },
     {
+      "id": "a86e9ad881d7efc994168baa433e3551",
+      "title": "yeahhe365/webadb-autoglm",
+      "url": "https://github.com/yeahhe365/webadb-autoglm",
+      "source": "github",
+      "source_author": "yeahhe365",
+      "topics": [],
+      "score": 4.5,
+      "score_reason": "Minimal community interest suggests low relevance.",
+      "posted": false,
+      "collected_at": "2026-05-21T04:54:54Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 9,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "d387c7c0cc831b2067f1817915ced392",
+      "title": "MobiusQuant/OpenMobius-skill",
+      "url": "https://github.com/MobiusQuant/OpenMobius-skill",
+      "source": "github",
+      "source_author": "MobiusQuant",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-05-21T04:55:08Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 7,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "c935c743bb1a4b5fe45b6ad5b4dec393",
+      "title": "visit-africa/videx",
+      "url": "https://github.com/visit-africa/videx",
+      "source": "github",
+      "source_author": "visit-africa",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-05-21T04:55:03Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
       "id": "d6e0d5345454bbc9f725b2b70d612d93",
       "title": "Show HN: My custom Statusline for Claude Code (Python wrapper around claudeline)",
       "url": "https://gist.github.com/Reebz/741c5647c860fe0b5214f39d9d887240",
@@ -1322,6 +1743,146 @@
       }
     },
     {
+      "id": "98015945031368292a45e86e550e1953",
+      "title": "tomascupr/operant",
+      "url": "https://github.com/tomascupr/operant",
+      "source": "github",
+      "source_author": "tomascupr",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-05-21T04:55:08Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 6,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "9c5899af97083b97522ea26da053b74f",
+      "title": "haydenk/particular-set",
+      "url": "https://github.com/haydenk/particular-set",
+      "source": "github",
+      "source_author": "haydenk",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-05-21T04:55:07Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "a4255b86fba15b2e85afabb9a2288036",
+      "title": "tmchow/agent-skills",
+      "url": "https://github.com/tmchow/agent-skills",
+      "source": "github",
+      "source_author": "tmchow",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-05-21T04:55:07Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "e1ea86ee3356ebe34b9a86f475c56afe",
+      "title": "coleam00/helpline",
+      "url": "https://github.com/coleam00/helpline",
+      "source": "github",
+      "source_author": "coleam00",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-05-21T04:55:07Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 5,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "0ce86e6d375c14efb07b0c339dc606f0",
+      "title": "milanvrskovy/mvsd-ai-skills",
+      "url": "https://github.com/milanvrskovy/mvsd-ai-skills",
+      "source": "github",
+      "source_author": "milanvrskovy",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-05-21T04:55:07Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 9,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "6d87723bfb5763078283b48f0bb32f4c",
+      "title": "Modern apps and services manage memory at a scale that didn't exist a decade ago. mimalloc is the op...",
+      "url": "https://x.com/MSFTResearch/status/2057131825626046524",
+      "source": "twitter",
+      "source_author": "MSFTResearch",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-05-21T04:57:39Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 24,
+        "replies": 2,
+        "retweets": 4,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "0b7b55a347b9ffad4312e995d65ff35e",
+      "title": "LA-born new media artist whose installations, public sculptures, and live AV works blend AI, memory,...",
+      "url": "https://x.com/Replit/status/2057204971351712084",
+      "source": "twitter",
+      "source_author": "replit",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-05-21T04:57:39Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 9,
+        "replies": 6,
+        "retweets": 1,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
       "id": "006084eec5387330a6f921f8347650c1",
       "title": "VPNs: The \"Most Trusted\" Security Tool Until Claude Roasts It in a Weekend",
       "url": "https://www.hacktron.ai/blog/cve-2026-0265-panos-globalprotect-cas-auth-bypass",
@@ -1342,6 +1903,106 @@
       }
     },
     {
+      "id": "731a2bdd5b7611beae0f112f799b84c8",
+      "title": "Schandelxd/please-dont-sue-me-anthropic",
+      "url": "https://github.com/Schandelxd/please-dont-sue-me-anthropic",
+      "source": "github",
+      "source_author": "Schandelxd",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-05-21T04:55:11Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 4,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "2392075de00016055345c453ad69655c",
+      "title": "octopus7/ChatGPT-Images-2",
+      "url": "https://github.com/octopus7/ChatGPT-Images-2",
+      "source": "github",
+      "source_author": "octopus7",
+      "topics": [],
+      "score": 4,
+      "score_reason": "Low engagement indicates minimal impact on the developer community.",
+      "posted": false,
+      "collected_at": "2026-05-21T04:54:56Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 7,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "bb25971b8e12a3d544b532172e6b3229",
+      "title": "iClawApp/iClaw",
+      "url": "https://github.com/iClawApp/iClaw",
+      "source": "github",
+      "source_author": "iClawApp",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-05-21T04:55:08Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 6,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "9cd9387f4b3e1c8c6f8d7e09a2488dd9",
+      "title": "chandu9905/Automated-Audiobook-Generation-using-TTS-Technology",
+      "url": "https://github.com/chandu9905/Automated-Audiobook-Generation-using-TTS-Technology",
+      "source": "github",
+      "source_author": "chandu9905",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-05-21T04:55:03Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "c0ec9e116fd886f177b915a543a1fec6",
+      "title": "sucharitha1812/multimodal-audio-generation-platform",
+      "url": "https://github.com/sucharitha1812/multimodal-audio-generation-platform",
+      "source": "github",
+      "source_author": "sucharitha1812",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-05-21T04:55:03Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
       "id": "80feb85ddbbbc18b862b36ef85ec4830",
       "title": "Dear Claude: Please don't use regex to parse code",
       "url": "https://mbmccoy.dev/posts/no-regex-claude/",
@@ -1359,6 +2020,26 @@
         "retweets": 0,
         "stars": 0,
         "upvotes": 3
+      }
+    },
+    {
+      "id": "a141cbe3005b6b96724540bcfa21ba1e",
+      "title": "2aronS/gpt-mini",
+      "url": "https://github.com/2aronS/gpt-mini",
+      "source": "github",
+      "source_author": "2aronS",
+      "topics": [],
+      "score": 4,
+      "score_reason": "Lack of user engagement signifies less relevance for developers.",
+      "posted": false,
+      "collected_at": "2026-05-21T04:54:56Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 10,
+        "upvotes": 0
       }
     },
     {
@@ -1402,6 +2083,66 @@
       }
     },
     {
+      "id": "8bab62e306a7e048d7fbd192f5b43aa6",
+      "title": "HaoyuLi-Nova/Diffusion-Zero-to-Hero",
+      "url": "https://github.com/HaoyuLi-Nova/Diffusion-Zero-to-Hero",
+      "source": "github",
+      "source_author": "HaoyuLi-Nova",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-05-21T04:55:02Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 2,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "c35bfa466e0794a686787552f788411c",
+      "title": "We are also launching Science Skills, a specialized bundle that integrates insights from 30+ major l...",
+      "url": "https://x.com/GoogleAI/status/2057161314825584892",
+      "source": "twitter",
+      "source_author": "GoogleAI",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-05-21T04:57:39Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 30,
+        "replies": 2,
+        "retweets": 2,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "936e34998061102248c5e3a9b888bf3b",
+      "title": "Our teams put it to the test on a real-world puzzle: analyzing a rare genetic disease caused by AK2 ...",
+      "url": "https://x.com/GoogleDeepMind/status/2057256259037131226",
+      "source": "twitter",
+      "source_author": "GoogleDeepMind",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-05-21T04:57:39Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 25,
+        "replies": 1,
+        "retweets": 1,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
       "id": "8fbb48a3a247443bb853bcd6667954aa",
       "title": "The Google AI Pro plan just got a quiet downgrade",
       "url": "https://www.androidcentral.com/apps-software/ai/google-ai-pro-plan-just-got-a-quiet-downgrade",
@@ -1419,6 +2160,26 @@
         "retweets": 0,
         "stars": 0,
         "upvotes": 3
+      }
+    },
+    {
+      "id": "8292607755ce06d04e6a65cd71d607dd",
+      "title": "mturac/everything-openai-codex",
+      "url": "https://github.com/mturac/everything-openai-codex",
+      "source": "github",
+      "source_author": "mturac",
+      "topics": [],
+      "score": 4,
+      "score_reason": "Project appears to lack novelty and engagement.",
+      "posted": false,
+      "collected_at": "2026-05-21T04:54:54Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 9,
+        "upvotes": 0
       }
     },
     {
@@ -1459,6 +2220,46 @@
         "retweets": 0,
         "stars": 0,
         "upvotes": 5
+      }
+    },
+    {
+      "id": "2f2afe4374cef6b8c7731a6b3e1e383f",
+      "title": "RemotePinee/ChatGPT2API",
+      "url": "https://github.com/RemotePinee/ChatGPT2API",
+      "source": "github",
+      "source_author": "RemotePinee",
+      "topics": [],
+      "score": 3.5,
+      "score_reason": "Offers little in terms of novelty or engagement.",
+      "posted": false,
+      "collected_at": "2026-05-21T04:54:56Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 6,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "a677f9be72f4c96f3530574a18e7f1c1",
+      "title": "barometech/smart-home-gpt2",
+      "url": "https://github.com/barometech/smart-home-gpt2",
+      "source": "github",
+      "source_author": "barometech",
+      "topics": [],
+      "score": 3.5,
+      "score_reason": "Project lacks significant interest and doesn't address pressing developer needs.",
+      "posted": false,
+      "collected_at": "2026-05-21T04:54:56Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 5,
+        "upvotes": 0
       }
     },
     {
@@ -1582,6 +2383,26 @@
       }
     },
     {
+      "id": "fc111da3bdf0d356e16f03d68e36f88a",
+      "title": "cynchro/deepseekCLI",
+      "url": "https://github.com/cynchro/deepseekCLI",
+      "source": "github",
+      "source_author": "cynchro",
+      "topics": [],
+      "score": 3,
+      "score_reason": "Minimal engagement with unclear utility for developers.",
+      "posted": false,
+      "collected_at": "2026-05-21T04:54:58Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 7,
+        "upvotes": 0
+      }
+    },
+    {
       "id": "445fd2c99e802e67e0d3ebc5c3dfe682",
       "title": "Global Biolab Map",
       "url": "https://global-biolab-atlas.netlify.app/",
@@ -1599,6 +2420,26 @@
         "retweets": 0,
         "stars": 0,
         "upvotes": 2
+      }
+    },
+    {
+      "id": "498ef77f48c4c8d93945f7727ca506fe",
+      "title": "pcbtool/vscode-deepseek-reasonix",
+      "url": "https://github.com/pcbtool/vscode-deepseek-reasonix",
+      "source": "github",
+      "source_author": "pcbtool",
+      "topics": [],
+      "score": 3,
+      "score_reason": "Lacks appeal and user interest.",
+      "posted": false,
+      "collected_at": "2026-05-21T04:54:58Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 7,
+        "upvotes": 0
       }
     },
     {
@@ -1702,6 +2543,46 @@
       }
     },
     {
+      "id": "c21682834ac9fa9d2461858e123a29f7",
+      "title": "yebo0216best/DySink",
+      "url": "https://github.com/yebo0216best/DySink",
+      "source": "github",
+      "source_author": "yebo0216best",
+      "topics": [],
+      "score": 2,
+      "score_reason": "Minimal community interest implies low relevance.",
+      "posted": false,
+      "collected_at": "2026-05-21T04:55:02Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 2,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "d2e2220d08b7981743eaa896b588815c",
+      "title": "YIXIE233/KodeXimi",
+      "url": "https://github.com/YIXIE233/KodeXimi",
+      "source": "github",
+      "source_author": "YIXIE233",
+      "topics": [],
+      "score": 2,
+      "score_reason": "Very low engagement suggests little traction in the developer community.",
+      "posted": false,
+      "collected_at": "2026-05-21T04:55:00Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 2,
+        "upvotes": 0
+      }
+    },
+    {
       "id": "92a230e34819bec0a51ac32bee1f96aa",
       "title": "Ban Non-Compete Clauses",
       "url": "https://democracyjournal.org/magazine/80/ban-non-compete-clauses/",
@@ -1782,6 +2663,26 @@
       }
     },
     {
+      "id": "c11007c45e935b6b9d6ebbea0d9d236b",
+      "title": "NickAiNYC/Birkin",
+      "url": "https://github.com/NickAiNYC/Birkin",
+      "source": "github",
+      "source_author": "NickAiNYC",
+      "topics": [],
+      "score": 2,
+      "score_reason": "Insignificant interest and uncertain relevance.",
+      "posted": false,
+      "collected_at": "2026-05-21T04:55:00Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 2,
+        "upvotes": 0
+      }
+    },
+    {
       "id": "02dd291a79347e1fb53625d2319f4556",
       "title": "Show HN: QuiteGPT – makes GPT response shorter",
       "url": "https://quiet-gpt.craftgarden.io/",
@@ -1819,6 +2720,26 @@
         "retweets": 0,
         "stars": 0,
         "upvotes": 2
+      }
+    },
+    {
+      "id": "1f0ead5490d9852a725cbad9af832a80",
+      "title": "bdeshi-innovators/newscriber",
+      "url": "https://github.com/bdeshi-innovators/newscriber",
+      "source": "github",
+      "source_author": "bdeshi-innovators",
+      "topics": [],
+      "score": 2,
+      "score_reason": "Low engagement limits its practical impact.",
+      "posted": false,
+      "collected_at": "2026-05-21T04:55:00Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 2,
+        "upvotes": 0
       }
     },
     {
@@ -2062,6 +2983,5 @@
       }
     }
   ],
-  "source": "hackernews",
   "updated_at": "2026-05-21T04:58:44Z"
 }
