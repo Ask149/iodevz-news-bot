@@ -1,207 +1,27 @@
 {
-  "count": 10,
+  "count": 1,
   "items": [
     {
-      "id": "8495ca5d59cd19dae88ae1c5f2a11647",
-      "title": "Today, we share a breakthrough on the planar unit distance problem, a famous open question first pos...",
-      "url": "https://x.com/OpenAI/status/2057176201782075690",
-      "source": "twitter",
-      "source_author": "OpenAI",
-      "topics": [],
-      "score": 8,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-05-21T04:57:39Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 16528,
-        "replies": 586,
-        "retweets": 3241,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "c619d920472f953d1e8729e1cbeb421e",
-      "title": "You can now create and manage automations in the same workspace as your agents.\n\nAutomations are now...",
-      "url": "https://x.com/cursor_ai/status/2057167359593603471",
-      "source": "twitter",
-      "source_author": "cursor_ai",
-      "topics": [],
-      "score": 8,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-05-21T04:57:39Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 1121,
-        "replies": 57,
-        "retweets": 98,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "4fa9326e8dce6665d4b8ecb456a34f1d",
-      "title": "The proof came from a general-purpose reasoning model, not a system built specifically to solve math...",
-      "url": "https://x.com/OpenAI/status/2057176203166171317",
-      "source": "twitter",
-      "source_author": "OpenAI",
-      "topics": [],
-      "score": 8,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-05-21T04:57:39Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 1977,
-        "replies": 32,
-        "retweets": 208,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "c1bb2cd348ffb979f6620364108229c7",
-      "title": "For centuries, the scientific method has been our best tool for progress. But today, there’s so mu...",
-      "url": "https://x.com/GoogleAI/status/2057161311617008061",
-      "source": "twitter",
-      "source_author": "GoogleAI",
-      "topics": [],
-      "score": 6,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-05-21T04:57:39Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 258,
-        "replies": 20,
-        "retweets": 46,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "5e904f7fdb3db57c956ef40eb0b79de5",
-      "title": "How can you accelerate your day to day research workflow?\n\nBy giving AI the right scientific toolkit...",
-      "url": "https://x.com/GoogleDeepMind/status/2057256257153884161",
-      "source": "twitter",
-      "source_author": "GoogleDeepMind",
-      "topics": [],
-      "score": 6,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-05-21T04:57:39Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 109,
-        "replies": 15,
-        "retweets": 18,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "38af1ad1b73261a3677f71e1f76475ef",
-      "title": "You can also now create automations without any attached repos, like a daily Slack digest agent that...",
-      "url": "https://x.com/cursor_ai/status/2057167362781261887",
-      "source": "twitter",
-      "source_author": "cursor_ai",
-      "topics": [],
-      "score": 5,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-05-21T04:57:39Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 51,
-        "replies": 3,
-        "retweets": 6,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "6d87723bfb5763078283b48f0bb32f4c",
-      "title": "Modern apps and services manage memory at a scale that didn't exist a decade ago. mimalloc is the op...",
-      "url": "https://x.com/MSFTResearch/status/2057131825626046524",
-      "source": "twitter",
-      "source_author": "MSFTResearch",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-05-21T04:57:39Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 24,
-        "replies": 2,
-        "retweets": 4,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "0b7b55a347b9ffad4312e995d65ff35e",
-      "title": "LA-born new media artist whose installations, public sculptures, and live AV works blend AI, memory,...",
-      "url": "https://x.com/Replit/status/2057204971351712084",
+      "id": "a08fd98733d768e14e676e372de3b0f8",
+      "title": "Playing around with AR libraries \nhttps://\nflybubbles.replit.app",
+      "url": "https://x.com/victoriakimse/status/2056843202976797043",
       "source": "twitter",
       "source_author": "replit",
       "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "score": 8,
+      "score_reason": "High engagement on Twitter indicates strong interest in AR applications.",
       "posted": false,
-      "collected_at": "2026-05-21T04:57:39Z",
+      "collected_at": "2026-05-21T10:13:47Z",
       "engagement": {
         "comments": 0,
-        "likes": 9,
-        "replies": 6,
-        "retweets": 1,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "c35bfa466e0794a686787552f788411c",
-      "title": "We are also launching Science Skills, a specialized bundle that integrates insights from 30+ major l...",
-      "url": "https://x.com/GoogleAI/status/2057161314825584892",
-      "source": "twitter",
-      "source_author": "GoogleAI",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-05-21T04:57:39Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 30,
-        "replies": 2,
-        "retweets": 2,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "936e34998061102248c5e3a9b888bf3b",
-      "title": "Our teams put it to the test on a real-world puzzle: analyzing a rare genetic disease caused by AK2 ...",
-      "url": "https://x.com/GoogleDeepMind/status/2057256259037131226",
-      "source": "twitter",
-      "source_author": "GoogleDeepMind",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-05-21T04:57:39Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 25,
-        "replies": 1,
-        "retweets": 1,
+        "likes": 68,
+        "replies": 5,
+        "retweets": 4,
         "stars": 0,
         "upvotes": 0
       }
     }
   ],
   "source": "twitter",
-  "updated_at": "2026-05-21T04:58:44Z"
+  "updated_at": "2026-05-21T10:14:54Z"
 }
