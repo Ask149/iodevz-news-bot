@@ -1,27 +1,67 @@
 {
-  "count": 1,
+  "count": 3,
   "items": [
     {
-      "id": "a08fd98733d768e14e676e372de3b0f8",
-      "title": "Playing around with AR libraries \nhttps://\nflybubbles.replit.app",
-      "url": "https://x.com/victoriakimse/status/2056843202976797043",
+      "id": "3de0fb9c3aae40d77df2d86b086cdd3a",
+      "title": "Vega turns a full credential into a single proof, sharing only what is needed and nothing more, with...",
+      "url": "https://x.com/MSFTResearch/status/2057485456737018332",
       "source": "twitter",
-      "source_author": "replit",
+      "source_author": "MSFTResearch",
       "topics": [],
-      "score": 8,
-      "score_reason": "High engagement on Twitter indicates strong interest in AR applications.",
+      "score": 5.5,
+      "score_reason": "Technically interesting but limited context on practical developer impacts.",
       "posted": false,
-      "collected_at": "2026-05-21T10:13:47Z",
+      "collected_at": "2026-05-21T16:01:14Z",
       "engagement": {
         "comments": 0,
-        "likes": 68,
-        "replies": 5,
-        "retweets": 4,
+        "likes": 3,
+        "replies": 0,
+        "retweets": 2,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "2dc2fe21a32ebce524752c5099d90d9a",
+      "title": "Brendan Works is a product manager focused on paratransit services in Seattle. See how he built Poin...",
+      "url": "https://x.com/allen_ai/status/2057489294630007211",
+      "source": "twitter",
+      "source_author": "Allen_AI",
+      "topics": [],
+      "score": 2,
+      "score_reason": "Little engagement; not closely aligned with current developer tools.",
+      "posted": false,
+      "collected_at": "2026-05-21T16:01:14Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 1,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "726f8449ebd33196540432158e0dd9be",
+      "title": "PointCheck tabs through a page like a keyboard user and screenshots each step. Molmo locates the foc...",
+      "url": "https://x.com/allen_ai/status/2057489297788330165",
+      "source": "twitter",
+      "source_author": "Allen_AI",
+      "topics": [],
+      "score": 2,
+      "score_reason": "Minimal relevance and very low engagement.",
+      "posted": false,
+      "collected_at": "2026-05-21T16:01:14Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 1,
+        "retweets": 0,
         "stars": 0,
         "upvotes": 0
       }
     }
   ],
   "source": "twitter",
-  "updated_at": "2026-05-21T10:14:54Z"
+  "updated_at": "2026-05-21T16:03:01Z"
 }
