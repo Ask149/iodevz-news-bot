@@ -1,20 +1,100 @@
 {
-  "count": 3,
+  "count": 6,
   "items": [
     {
-      "id": "3de0fb9c3aae40d77df2d86b086cdd3a",
-      "title": "Vega turns a full credential into a single proof, sharing only what is needed and nothing more, with...",
-      "url": "https://x.com/MSFTResearch/status/2057485456737018332",
+      "id": "286088baaebba8f3137ecd09b2265ca5",
+      "title": "Highlights from today’s Codex Thursday launches:\n\n Codex can now securely use apps on your Mac fro...",
+      "url": "https://x.com/OpenAI/status/2057617844800794878",
       "source": "twitter",
-      "source_author": "MSFTResearch",
+      "source_author": "OpenAI",
       "topics": [],
-      "score": 5.5,
-      "score_reason": "Technically interesting but limited context on practical developer impacts.",
+      "score": 9,
+      "score_reason": "High engagement and introduces meaningful capabilities in AI application.",
       "posted": false,
-      "collected_at": "2026-05-21T16:01:14Z",
+      "collected_at": "2026-05-22T04:48:36Z",
       "engagement": {
         "comments": 0,
-        "likes": 3,
+        "likes": 1703,
+        "replies": 111,
+        "retweets": 215,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "14f4b0158d135a864fb275604f559057",
+      "title": "We’ve automated every single thing we can \n@every\n with AI agents.\n\nAnd yet there’s way more hum...",
+      "url": "https://x.com/danshipper/status/2057514494960513272",
+      "source": "twitter",
+      "source_author": "danshipper",
+      "topics": [],
+      "score": 8,
+      "score_reason": "Interesting developments in AI automation with significant implications.",
+      "posted": false,
+      "collected_at": "2026-05-22T04:48:36Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 840,
+        "replies": 61,
+        "retweets": 155,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "78ed977077db077459221fbd567bf2c9",
+      "title": "Aleph 2.0 is here. Now you can edit a single frame in your video, preview the change and then Aleph ...",
+      "url": "https://x.com/runwayml/status/2057530497597600169",
+      "source": "twitter",
+      "source_author": "RunwayML",
+      "topics": [],
+      "score": 7.5,
+      "score_reason": "High engagement and expands creative possibilities for developers.",
+      "posted": false,
+      "collected_at": "2026-05-22T04:48:36Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 858,
+        "replies": 53,
+        "retweets": 170,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "257e07480165e89073b031b93cf0e39a",
+      "title": "Replit shipped 5 new security tools in the last month: Security Agent, Auto-Protect, Security Center...",
+      "url": "https://x.com/MannyBernabe/status/2057474014612713741",
+      "source": "twitter",
+      "source_author": "replit",
+      "topics": [],
+      "score": 5.5,
+      "score_reason": "Some engagement; updates on security tools are relevant but not groundbreaking.",
+      "posted": false,
+      "collected_at": "2026-05-22T04:48:36Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 33,
+        "replies": 7,
+        "retweets": 10,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "0a8b1d422987fc3de5e8defd9ddaf03e",
+      "title": "Try Aleph 2.0 now:",
+      "url": "https://x.com/runwayml/status/2057530499338313942",
+      "source": "twitter",
+      "source_author": "RunwayML",
+      "topics": [],
+      "score": 4.5,
+      "score_reason": "Low engagement; however, it relates to an interesting tool update.",
+      "posted": false,
+      "collected_at": "2026-05-22T04:48:36Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 26,
         "replies": 0,
         "retweets": 2,
         "stars": 0,
@@ -22,46 +102,26 @@
       }
     },
     {
-      "id": "2dc2fe21a32ebce524752c5099d90d9a",
-      "title": "Brendan Works is a product manager focused on paratransit services in Seattle. See how he built Poin...",
-      "url": "https://x.com/allen_ai/status/2057489294630007211",
+      "id": "22b7befbe282b230e3ca28ce245ed253",
+      "title": "The doubt is loud. The deadline is louder.\n\nEpisode 4 of Race to Revenue is live on YouTube now. Let...",
+      "url": "https://x.com/Replit/status/2057612645486715164",
       "source": "twitter",
-      "source_author": "Allen_AI",
+      "source_author": "replit",
       "topics": [],
-      "score": 2,
-      "score_reason": "Little engagement; not closely aligned with current developer tools.",
+      "score": 3,
+      "score_reason": "Minimal engagement and limited relevance to current AI trends.",
       "posted": false,
-      "collected_at": "2026-05-21T16:01:14Z",
+      "collected_at": "2026-05-22T04:48:36Z",
       "engagement": {
         "comments": 0,
-        "likes": 0,
-        "replies": 1,
-        "retweets": 0,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "726f8449ebd33196540432158e0dd9be",
-      "title": "PointCheck tabs through a page like a keyboard user and screenshots each step. Molmo locates the foc...",
-      "url": "https://x.com/allen_ai/status/2057489297788330165",
-      "source": "twitter",
-      "source_author": "Allen_AI",
-      "topics": [],
-      "score": 2,
-      "score_reason": "Minimal relevance and very low engagement.",
-      "posted": false,
-      "collected_at": "2026-05-21T16:01:14Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 1,
-        "retweets": 0,
+        "likes": 10,
+        "replies": 2,
+        "retweets": 2,
         "stars": 0,
         "upvotes": 0
       }
     }
   ],
   "source": "twitter",
-  "updated_at": "2026-05-21T16:03:01Z"
+  "updated_at": "2026-05-22T04:51:44Z"
 }
