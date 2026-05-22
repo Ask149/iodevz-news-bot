@@ -1,27 +1,107 @@
 {
-  "count": 1,
+  "count": 5,
   "items": [
     {
-      "id": "a9073bc2c3af456ee46d98257ba68f75",
-      "title": " Advanced annotation mode lets you directly adjust the way web pages look while leaving feedback, ma...",
-      "url": "https://x.com/OpenAI/status/2057617862479708650",
+      "id": "c4400ff908295aa5b62b365adee015c5",
+      "title": "Yesterday we released Aleph 2.0, our upgraded video editing model that lets you change exactly what ...",
+      "url": "https://x.com/runwayml/status/2057826728769134599",
       "source": "twitter",
-      "source_author": "OpenAI",
+      "source_author": "RunwayML",
       "topics": [],
-      "score": 9,
-      "score_reason": "High engagement and offers a novel feature that affects user interaction with web tools.",
+      "score": 8,
+      "score_reason": "Introduces significant improvements in video editing capabilities.",
       "posted": false,
-      "collected_at": "2026-05-22T10:00:20Z",
+      "collected_at": "2026-05-22T15:39:25Z",
       "engagement": {
         "comments": 0,
-        "likes": 289,
+        "likes": 99,
         "replies": 16,
-        "retweets": 24,
+        "retweets": 20,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "2f24dd0e441ecbcbf6f771bf5e4dbea4",
+      "title": "Project Genie  \n@GoogleMaps\n Street View\n\nYou can now take real U.S. places and transform them into ...",
+      "url": "https://x.com/GoogleDeepMind/status/2057842131142590512",
+      "source": "twitter",
+      "source_author": "GoogleDeepMind",
+      "topics": [],
+      "score": 7.5,
+      "score_reason": "Introduces a new way to engage with geographic data using AI.",
+      "posted": false,
+      "collected_at": "2026-05-22T15:39:25Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 140,
+        "replies": 10,
+        "retweets": 31,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "3427458a6e11ebcb90f2fb50bb180ac7",
+      "title": "Most models are only evaluated on a fraction of the benchmarks out there.\n\nArtifactLinker, our new s...",
+      "url": "https://x.com/allen_ai/status/2057838486204326078",
+      "source": "twitter",
+      "source_author": "Allen_AI",
+      "topics": [],
+      "score": 7,
+      "score_reason": "Highlights a new approach to model evaluation which could impact development practices.",
+      "posted": false,
+      "collected_at": "2026-05-22T15:39:25Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 10,
+        "replies": 1,
+        "retweets": 1,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "f78521dd0b87f4ec565d368e0794194e",
+      "title": "Street View imagery in Project Genie is rolling out to all eligible Google AI Ultra subscribers glob...",
+      "url": "https://x.com/GoogleDeepMind/status/2057842133046903086",
+      "source": "twitter",
+      "source_author": "GoogleDeepMind",
+      "topics": [],
+      "score": 6,
+      "score_reason": "Updates on existing technology with limited novelty.",
+      "posted": false,
+      "collected_at": "2026-05-22T15:39:25Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 22,
+        "replies": 1,
+        "retweets": 5,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "c6344fe78299948e3d04c7ba8953c5c1",
+      "title": "Using ArtifactLinker, we found cases where a strong model had never been evaluated on a benchmark it...",
+      "url": "https://x.com/allen_ai/status/2057838490092519814",
+      "source": "twitter",
+      "source_author": "Allen_AI",
+      "topics": [],
+      "score": 5,
+      "score_reason": "Follow-up on an existing service with low engagement.",
+      "posted": false,
+      "collected_at": "2026-05-22T15:39:25Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 1,
+        "retweets": 0,
         "stars": 0,
         "upvotes": 0
       }
     }
   ],
   "source": "twitter",
-  "updated_at": "2026-05-22T10:02:44Z"
+  "updated_at": "2026-05-22T15:41:40Z"
 }
