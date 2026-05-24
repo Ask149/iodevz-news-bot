@@ -1,27 +1,227 @@
 {
-  "count": 1,
+  "count": 11,
   "items": [
     {
-      "id": "35bbf6cd677096085e40bab1e93793b5",
-      "title": "whyiyhw/seek",
-      "url": "https://github.com/whyiyhw/seek",
+      "id": "5d7839b93ce36ee49940e7295754587a",
+      "title": "vixues/LeAgent",
+      "url": "https://github.com/vixues/LeAgent",
       "source": "github",
-      "source_author": "whyiyhw",
+      "source_author": "vixues",
       "topics": [],
-      "score": 4,
-      "score_reason": "Github repository, potentially interesting but lacks engagement.",
+      "score": 6,
+      "score_reason": "LeAgent could have applications, higher stars but still low engagement.",
       "posted": false,
-      "collected_at": "2026-05-24T09:06:47Z",
+      "collected_at": "2026-05-24T14:09:44Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 4,
+        "stars": 34,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "f19d0aed46d79bbe8e3bc1135ca88aaf",
+      "title": "akitaonrails/ai-usagebar",
+      "url": "https://github.com/akitaonrails/ai-usagebar",
+      "source": "github",
+      "source_author": "akitaonrails",
+      "topics": [],
+      "score": 5,
+      "score_reason": "Tracking AI usage could interest developers, but lacks engagement.",
+      "posted": false,
+      "collected_at": "2026-05-24T14:09:34Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 17,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "c1f0b9b05e6af1ed3e840618af6d9d89",
+      "title": "aref-vc/tufte-claude-skill",
+      "url": "https://github.com/aref-vc/tufte-claude-skill",
+      "source": "github",
+      "source_author": "aref-vc",
+      "topics": [],
+      "score": 5,
+      "score_reason": "GitHub project that could have niche applications.",
+      "posted": false,
+      "collected_at": "2026-05-24T14:09:30Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 115,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "755998cafb979a4cf50213d38a9df05b",
+      "title": "smileyan369/paperfind",
+      "url": "https://github.com/smileyan369/paperfind",
+      "source": "github",
+      "source_author": "smileyan369",
+      "topics": [],
+      "score": 4.5,
+      "score_reason": "Paper finding tool is useful, but not groundbreaking.",
+      "posted": false,
+      "collected_at": "2026-05-24T14:09:36Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 5,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "8b3acbc72b2273a7b7f653f9e64e3e8c",
+      "title": "alibaba/open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
+      "source": "github",
+      "source_author": "alibaba",
+      "topics": [],
+      "score": 4,
+      "score_reason": "Basic code review tool that lacks engagement.",
+      "posted": false,
+      "collected_at": "2026-05-24T14:09:31Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 12,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "e9d7fe86e7ecddb592697223f0d54d5c",
+      "title": "andreisirbu91-lab/MCPSpend",
+      "url": "https://github.com/andreisirbu91-lab/MCPSpend",
+      "source": "github",
+      "source_author": "andreisirbu91-lab",
+      "topics": [],
+      "score": 3.5,
+      "score_reason": "MCPSpend lacks distinguishing features and impact.",
+      "posted": false,
+      "collected_at": "2026-05-24T14:09:49Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 9,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "194d0c26eb1de0e7ee9f30579296a2c8",
+      "title": "i-afaqrashid/webaudio-kit",
+      "url": "https://github.com/i-afaqrashid/webaudio-kit",
+      "source": "github",
+      "source_author": "i-afaqrashid",
+      "topics": [],
+      "score": 3.5,
+      "score_reason": "Web audio toolkit may be useful but is niche.",
+      "posted": false,
+      "collected_at": "2026-05-24T14:09:42Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "4eb8528a70c5806c5feb7c7a183e4728",
+      "title": "MoyuFamily/ai-relay",
+      "url": "https://github.com/MoyuFamily/ai-relay",
+      "source": "github",
+      "source_author": "MoyuFamily",
+      "topics": [],
+      "score": 3,
+      "score_reason": "Simple relay project with minimal novelty.",
+      "posted": false,
+      "collected_at": "2026-05-24T14:09:32Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 14,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "0e7beaf215c7a9a774cce7534104481b",
+      "title": "WEIFENG2333/phistory",
+      "url": "https://github.com/WEIFENG2333/phistory",
+      "source": "github",
+      "source_author": "WEIFENG2333",
+      "topics": [],
+      "score": 3,
+      "score_reason": "Phistory doesn't have broad appeal within developer tools.",
+      "posted": false,
+      "collected_at": "2026-05-24T14:09:47Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 10,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "dafbe4820c0aca6fba27cf5494e55cc2",
+      "title": "Zzin-cell/AI-Markdown-to-Word",
+      "url": "https://github.com/Zzin-cell/AI-Markdown-to-Word",
+      "source": "github",
+      "source_author": "Zzin-cell",
+      "topics": [],
+      "score": 2,
+      "score_reason": "Converts Markdown to Word; low relevance and engagement.",
+      "posted": false,
+      "collected_at": "2026-05-24T14:09:39Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 2,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "09dc01c762c48946da8ce5a7be21ec38",
+      "title": "KCCHDEV/coder-noey-skill",
+      "url": "https://github.com/KCCHDEV/coder-noey-skill",
+      "source": "github",
+      "source_author": "KCCHDEV",
+      "topics": [],
+      "score": 2,
+      "score_reason": "Coder skill project is not highly relevant.",
+      "posted": false,
+      "collected_at": "2026-05-24T14:09:49Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 3,
         "upvotes": 0
       }
     }
   ],
   "source": "github",
-  "updated_at": "2026-05-24T09:10:44Z"
+  "updated_at": "2026-05-24T14:13:52Z"
 }

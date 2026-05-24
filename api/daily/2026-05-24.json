@@ -1,40 +1,40 @@
 {
-  "count": 31,
+  "count": 50,
   "date": "2026-05-24",
   "items": [
     {
-      "id": "50d3d201fa5fab6a9f584a2146a26ac2",
-      "title": "Local LLMs perform better when you teach them to ask before they answer",
-      "url": "https://www.xda-developers.com/local-llm-clarifying-questions-system-prompt/",
+      "id": "3d4003a40c8ebd558ab4dfefe5750a74",
+      "title": "Physicists create hybrid light-matter particles to replace electrons in AI cmpt",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260518041341.htm",
       "source": "hackernews",
-      "source_author": "froh",
+      "source_author": "Ember_Wipe",
       "topics": [],
       "score": 9,
-      "score_reason": "Presents new findings on improving local LLM performance, highly relevant to developers.",
+      "score_reason": "Innovative research directly influencing future AI computation.",
       "posted": false,
-      "collected_at": "2026-05-24T09:06:40Z",
+      "collected_at": "2026-05-24T14:09:27Z",
       "engagement": {
-        "comments": 4,
+        "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
         "stars": 0,
-        "upvotes": 9
+        "upvotes": 2
       }
     },
     {
-      "id": "0bd1ce83a612ba71afbd1aa1438ba73f",
-      "title": "Local Root Privilege Escalation and Credential Disclosure in the Linux Kernel",
-      "url": "https://blog.qualys.com/vulnerabilities-threat-research/2026/05/20/cve-2026-46333-local-root-privilege-escalation-and-credential-disclosure-in-the-linux-kernel-ptrace-path",
+      "id": "29f806ede0ef6e7f91e435354f00a27a",
+      "title": "Supercharge Claude Code, Cursor, Codex with Semantic Code Intelligence",
+      "url": "https://github.com/colbymchenry/codegraph",
       "source": "hackernews",
-      "source_author": "signa11",
+      "source_author": "beyti",
       "topics": [],
-      "score": 8,
-      "score_reason": "Critical vulnerability in Linux kernel impacts all developers.",
+      "score": 8.5,
+      "score_reason": "Introduces a new approach to enhancing AI coding with semantic intelligence.",
       "posted": false,
-      "collected_at": "2026-05-24T09:06:37Z",
+      "collected_at": "2026-05-24T14:09:25Z",
       "engagement": {
-        "comments": 0,
+        "comments": 1,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
@@ -43,36 +43,176 @@
       }
     },
     {
-      "id": "fb48713415cc44fae59b5208f20e4af7",
-      "title": "Structured LLM Learning Path, from Zero to AI Researcher, 8-Phase Curriculum",
-      "url": "https://github.com/barvhaim/llm-learning-path",
+      "id": "2b5b31be57a3599d51b9c81fe7cd539f",
+      "title": "Constraint Decay: The Fragility of LLM Agents in Back End Code Generation",
+      "url": "https://arxiv.org/abs/2605.06445",
       "source": "hackernews",
-      "source_author": "bignet",
+      "source_author": "wek",
       "topics": [],
       "score": 8,
-      "score_reason": "Provides a structured curriculum that could greatly impact learning paths.",
+      "score_reason": "Addresses the challenges LLM agents face in code generation, impactful for backend developers.",
       "posted": false,
-      "collected_at": "2026-05-24T09:06:37Z",
+      "collected_at": "2026-05-24T14:09:26Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
         "stars": 0,
-        "upvotes": 1
+        "upvotes": 3
       }
     },
     {
-      "id": "758242752366369a348cf6ddbf684ba6",
-      "title": "SpaceX, OpenAI and Anthropic IPOs set to test limits of AI boom",
-      "url": "https://www.ft.com/content/ae9bb47d-bd1d-473c-b4c5-abae0420cc12",
+      "id": "a7f575be2458c5ed06380b3c7424c269",
+      "title": "Migrating a dozen side projects from Azure to one VPS with an LLM agent",
+      "url": "https://victorantos.com/posts/from-azure-to-one-vps-llm-migration/",
       "source": "hackernews",
-      "source_author": "1vuio0pswjnm7",
+      "source_author": "victorbuilds",
       "topics": [],
       "score": 7.5,
-      "score_reason": "Discusses potential IPOs in AI, relevant to industry developers.",
+      "score_reason": "Novel migration strategy using LLM agents is insightful for developers.",
       "posted": false,
-      "collected_at": "2026-05-24T09:06:37Z",
+      "collected_at": "2026-05-24T14:09:26Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 1
+      }
+    },
+    {
+      "id": "7a2f1f6db87be72e0e42857e1035aaa2",
+      "title": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
+      "url": "https://esengine.github.io/DeepSeek-Reasonix/",
+      "source": "hackernews",
+      "source_author": "Alifatisk",
+      "topics": [],
+      "score": 7.5,
+      "score_reason": "Presents an innovative AI agent solution that could impact coding workflows.",
+      "posted": false,
+      "collected_at": "2026-05-24T14:09:25Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 5
+      }
+    },
+    {
+      "id": "5f6700b994d41ca14cede20a2825bc12",
+      "title": "Show HN: A picker that maps local LLMs to hardware, hardware to LLMs",
+      "url": "https://llmrequirements.com/",
+      "source": "hackernews",
+      "source_author": "truetotosse",
+      "topics": [],
+      "score": 7.5,
+      "score_reason": "Useful tool for developers looking to optimize local LLMs.",
+      "posted": false,
+      "collected_at": "2026-05-24T14:09:27Z",
+      "engagement": {
+        "comments": 1,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 2
+      }
+    },
+    {
+      "id": "5b3aad1f039b98d6023babe6e2dce3fc",
+      "title": "State Explosion Security Problem in AI-Era Software Supply Chains",
+      "url": "https://login.microsoftonline.com/common/oauth2/v2.0/authorize?client_id=09213cdc-9f30-4e82-aa6f-9b6e8d82dab3\u0026redirect_uri=https%3A%2F%2Ftechcommunity.microsoft.com%2Ft5%2Fs%2Fauth%2Foauth2callback%2Fproviderid%2Fdefault\u0026response_type=code\u0026state=NvXPbqZ37O0VmIJaiNKiAjCz7yTOwVZ7xk8ZlXLO9C2fqqrIl4euo9S_A75_2IG4VuQ4ksOf1FkVUZIJLuRHngiRd6dED-IOdAYL0z8V36yZglQkbjEyslljCbf-NMbv\u0026scope=User.Read+openid+email+profile+offline_access\u0026referer=https%253A%252F%252Ftechcommunity.microsoft.com%252Fblog%252Fmicrosoft-security-blog%252Fstate-explosion-security-problem-in-ai-era-software-supply-chains%252F4518255%253FpreviewMessage%253Dtrue",
+      "source": "hackernews",
+      "source_author": "nirwandogra",
+      "topics": [],
+      "score": 7,
+      "score_reason": "Addresses an important security issue in modern AI software supply chains.",
+      "posted": false,
+      "collected_at": "2026-05-24T14:09:25Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 2
+      }
+    },
+    {
+      "id": "daa55ab5acb99d149590c7b31a24ab25",
+      "title": "Lance – native supports image and video understanding, generation, and editing",
+      "url": "https://huggingface.co/bytedance-research/Lance",
+      "source": "hackernews",
+      "source_author": "modinfo",
+      "topics": [],
+      "score": 7,
+      "score_reason": "Supports multimedia understanding which is relevant to AI's expansion.",
+      "posted": false,
+      "collected_at": "2026-05-24T14:09:27Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 5
+      }
+    },
+    {
+      "id": "33d7c17ceadb61740751193a2fc05924",
+      "title": "Show HN: Kanban CLI (A local-first, agent-first task manager for the terminal)",
+      "url": "https://codeberg.org/hydrafog/kanban",
+      "source": "hackernews",
+      "source_author": "hydra-f",
+      "topics": [],
+      "score": 7,
+      "score_reason": "Local-first task manager using agents is a fresh concept for developers.",
+      "posted": false,
+      "collected_at": "2026-05-24T14:09:26Z",
+      "engagement": {
+        "comments": 3,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 3
+      }
+    },
+    {
+      "id": "befb7d205e64e50a34973ed1cfba922a",
+      "title": "Our AI just got better",
+      "url": "https://blog.ecosia.org/improving-our-ai/",
+      "source": "hackernews",
+      "source_author": "thunderbong",
+      "topics": [],
+      "score": 6.5,
+      "score_reason": "Highlights improvements in an AI system that may interest developers.",
+      "posted": false,
+      "collected_at": "2026-05-24T14:09:25Z",
+      "engagement": {
+        "comments": 2,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 7
+      }
+    },
+    {
+      "id": "42e7830ef7772e5203a4325205fa8a89",
+      "title": "The invisible fabric of AI: chips aren't a US-China war, but a 30-country chain",
+      "url": "https://zoopa.es/en/innovation-technology/invisible-fabric-ai-chips-geopolitics/",
+      "source": "hackernews",
+      "source_author": "carlosortet",
+      "topics": [],
+      "score": 6.5,
+      "score_reason": "Geopolitical analysis affecting the AI hardware landscape.",
+      "posted": false,
+      "collected_at": "2026-05-24T14:09:29Z",
       "engagement": {
         "comments": 1,
         "likes": 0,
@@ -83,138 +223,38 @@
       }
     },
     {
-      "id": "09a1c2ad1c4161e862e51b23e1851297",
-      "title": "Coding agents are giving everyone decision fatigue",
-      "url": "https://stackoverflow.blog/2026/05/21/coding-agents-are-giving-everyone-decision-fatigue/",
+      "id": "9375406b2967acd61f4bae79d0065305",
+      "title": "AI writes x86_64 asm and eBPF for fractals on /dev/fb0, in a browser VM",
+      "url": "https://zozo123.github.io/wolfram-fb0/",
       "source": "hackernews",
-      "source_author": "vinhnx",
-      "topics": [],
-      "score": 7.5,
-      "score_reason": "Explores a common challenge with AI tools that likely resonates with developers.",
-      "posted": false,
-      "collected_at": "2026-05-24T09:06:37Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 0,
-        "upvotes": 3
-      }
-    },
-    {
-      "id": "2279a4307d71fd8caa8649f640a99f17",
-      "title": "From source code 2 LLM constraints:a semantic extractor for Python, SwiftUI, Lua",
-      "url": "https://github.com/whitecell-dev/Semantic-Extractor/tree/main",
-      "source": "hackernews",
-      "source_author": "MaykonMan",
-      "topics": [],
-      "score": 7,
-      "score_reason": "A semantic extractor that could aid developers dealing with multiple languages.",
-      "posted": false,
-      "collected_at": "2026-05-24T09:06:37Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 0,
-        "upvotes": 1
-      }
-    },
-    {
-      "id": "868f618b2b402cdbc11275050086dea0",
-      "title": "Beyond HTTP: Exposing WebRTC and Local Game Servers via UDP Tunnels",
-      "url": "https://claude.ai/public/artifacts/e608fb30-b023-4263-b693-ef04fab85be9",
-      "source": "hackernews",
-      "source_author": "insta_tunnel",
-      "topics": [],
-      "score": 7,
-      "score_reason": "Explores a novel approach to networking beyond traditional methods.",
-      "posted": false,
-      "collected_at": "2026-05-24T09:06:37Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 0,
-        "upvotes": 1
-      }
-    },
-    {
-      "id": "55b92c2f5f5808899fe08935135fc06e",
-      "title": "Why AI Hardware Is a Chip Layer Problem",
-      "url": "https://www.easelinktech.com/why-every-electronic-product-may-need-to-be-rebuilt-for-on-device-ai-the-chip-layer-will-decide-the-next-hardware-wave/",
-      "source": "hackernews",
-      "source_author": "EnXu",
-      "topics": [],
-      "score": 7,
-      "score_reason": "Addresses hardware considerations for on-device AI, relevant for developers.",
-      "posted": false,
-      "collected_at": "2026-05-24T09:06:40Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 0,
-        "upvotes": 1
-      }
-    },
-    {
-      "id": "13b0efc02679d11f386b51a1c68a2210",
-      "title": "Turned ArXiv into an AI-Agent-Friendly Interface (No Browser Vision Needed)",
-      "url": "https://mediause.dev/skills/arxiv",
-      "source": "hackernews",
-      "source_author": "yooibox",
-      "topics": [],
-      "score": 7,
-      "score_reason": "Introduces a new AI interface for accessing research.",
-      "posted": false,
-      "collected_at": "2026-05-24T09:06:37Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 0,
-        "upvotes": 1
-      }
-    },
-    {
-      "id": "c158333339f343e040e8734822481711",
-      "title": "A maintainability ratchet for AI-assisted Python",
-      "url": "https://kayhan.dev/posts/014-letting-agents-write-code-without-ratcheting-up-risk/",
-      "source": "hackernews",
-      "source_author": "keynha",
-      "topics": [],
-      "score": 7,
-      "score_reason": "Focus on Python tools related to AI assistance could be valuable.",
-      "posted": false,
-      "collected_at": "2026-05-24T09:06:37Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 0,
-        "upvotes": 1
-      }
-    },
-    {
-      "id": "3c0ab72594e4bc07fc86c31e5c551fbb",
-      "title": "The Verification Problem (On OpenAI's Erdős Disproof)",
-      "url": "https://korbonits.com/blog/2026-05-23-the-verification-problem/",
-      "source": "hackernews",
-      "source_author": "korbonits",
+      "source_author": "zozo123-IB",
       "topics": [],
       "score": 6.5,
-      "score_reason": "Addresses a key issue in AI validation relevant to research.",
+      "score_reason": "Showcases AI capabilities in a unique context, appealing to developers interested in ASM and eBPF.",
       "posted": false,
-      "collected_at": "2026-05-24T09:06:37Z",
+      "collected_at": "2026-05-24T14:09:25Z",
       "engagement": {
         "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 1
+      }
+    },
+    {
+      "id": "24cbe481adaef68beb1624dbbc2d1a2b",
+      "title": "A personal agent with auto-generate tools based on what you need",
+      "url": "https://agenvoy.com/",
+      "source": "hackernews",
+      "source_author": "pardnchiu",
+      "topics": [],
+      "score": 6,
+      "score_reason": "Exploring personalized agents is relevant but lacks depth.",
+      "posted": false,
+      "collected_at": "2026-05-24T14:09:26Z",
+      "engagement": {
+        "comments": 1,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
@@ -223,396 +263,36 @@
       }
     },
     {
-      "id": "c507a1bf175483c1499c94b574c4d759",
-      "title": "Apiffuf (ffuf for APIs) – fuzzer for API hostsnames and endpoints",
-      "url": "https://github.com/jsmonhq/apiffuf",
-      "source": "hackernews",
-      "source_author": "rashahacks",
-      "topics": [],
-      "score": 6.5,
-      "score_reason": "A new fuzzer tool for API development that's quite useful.",
-      "posted": false,
-      "collected_at": "2026-05-24T09:06:37Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 0,
-        "upvotes": 1
-      }
-    },
-    {
-      "id": "0cbba6bede6a0a8a7c390b54bf647fd1",
-      "title": "Claude hack – Don't waste you token where it's not needed",
-      "url": "https://github.com/justinjamesmathew/tokenmax-mcp",
-      "source": "hackernews",
-      "source_author": "justin1006",
-      "topics": [],
-      "score": 6.5,
-      "score_reason": "Introduces a new tool aimed at optimizing token usage.",
-      "posted": false,
-      "collected_at": "2026-05-24T09:06:37Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 0,
-        "upvotes": 1
-      }
-    },
-    {
-      "id": "93024be61180f15e4305cf637d78fc24",
-      "title": "Build-time sponsorship verification for OSS libraries installed via NuGet",
-      "url": "https://github.com/SimonCropp/SponsorCheck",
-      "source": "hackernews",
-      "source_author": "lowleveldesign",
-      "topics": [],
-      "score": 6,
-      "score_reason": "Focuses on OSS sponsorship, important for developers in the community.",
-      "posted": false,
-      "collected_at": "2026-05-24T09:06:37Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 0,
-        "upvotes": 1
-      }
-    },
-    {
-      "id": "e42829e6a3d8e8d6c222582846a4c98e",
-      "title": "C Constructs That Still Don't Work in C++ – and a Few That Changed",
-      "url": "https://lospino.so/blog/c-constructs-that-still-dont-work-in-cpp/",
-      "source": "hackernews",
-      "source_author": "jandeboevrie",
-      "topics": [],
-      "score": 6,
-      "score_reason": "Discusses nuances of C/C++ constructs, relevant for developers.",
-      "posted": false,
-      "collected_at": "2026-05-24T09:06:38Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 0,
-        "upvotes": 2
-      }
-    },
-    {
-      "id": "153ab5a414c02992c50763cb25f8756e",
-      "title": "Does bulk memmove speed up std:remove_if? (No.)",
-      "url": "https://quuxplusone.github.io/blog/2026/05/23/chunked-remove/",
-      "source": "hackernews",
-      "source_author": "jandeboevrie",
-      "topics": [],
-      "score": 6,
-      "score_reason": "Addresses performance in C++, a common topic for developers.",
-      "posted": false,
-      "collected_at": "2026-05-24T09:06:37Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 0,
-        "upvotes": 2
-      }
-    },
-    {
-      "id": "5d1a163a92237446250bf15913d7751d",
-      "title": "China behind in LLM race but it can still win in AI, ex-Tencent AI lead says",
-      "url": "https://www.scmp.com/tech/big-tech/article/3354394/china-losing-llm-race-it-can-still-win-ai-ex-tencent-ai-lead-says",
-      "source": "hackernews",
-      "source_author": "01-_-",
-      "topics": [],
-      "score": 6,
-      "score_reason": "Insights into LLM competition can shape future development strategies.",
-      "posted": false,
-      "collected_at": "2026-05-24T09:06:40Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 0,
-        "upvotes": 1
-      }
-    },
-    {
-      "id": "457b5d62da1a98406eb34755bf8b96f2",
-      "title": "OpenAI and Nvidia Are Using Google's SynthID to Watermark AI Content",
-      "url": "https://firethering.com/openai-nvidia-using-google-synthid-ai-watermarking/",
-      "source": "hackernews",
-      "source_author": "steveharing1",
-      "topics": [],
-      "score": 6,
-      "score_reason": "Update on watermarking content, important for AI developers.",
-      "posted": false,
-      "collected_at": "2026-05-24T09:06:37Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 0,
-        "upvotes": 1
-      }
-    },
-    {
-      "id": "9ee1137158f758ce0794db3e6039ab65",
-      "title": "InboxFlow Agent – Check your email campaigns before sending",
-      "url": "https://github.com/selimsevim/QA-testing-agent",
-      "source": "hackernews",
-      "source_author": "selimsevim",
-      "topics": [],
-      "score": 6,
-      "score_reason": "Email campaign tool could be useful for developers in marketing tech.",
-      "posted": false,
-      "collected_at": "2026-05-24T09:06:37Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 0,
-        "upvotes": 1
-      }
-    },
-    {
-      "id": "51af6545f574b6c5e86f41b47f2d48da",
-      "title": "Greg Brockman: Inside the 72 Hours That Almost Killed OpenAI",
-      "url": "https://fs.blog/knowledge-project-podcast/greg-brockman/",
-      "source": "hackernews",
-      "source_author": "prakashqwerty",
-      "topics": [],
-      "score": 5.5,
-      "score_reason": "Insights on OpenAI operations may interest developers.",
-      "posted": false,
-      "collected_at": "2026-05-24T09:06:37Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 0,
-        "upvotes": 2
-      }
-    },
-    {
-      "id": "fa0f975991ab3bcd8ca46191889daaab",
-      "title": "Wild Linker Update – 0.9.0",
-      "url": "https://davidlattimore.github.io/posts/2026/05/24/wild-update-0.9.0.html",
-      "source": "hackernews",
-      "source_author": "dabinat",
-      "topics": [],
-      "score": 5.5,
-      "score_reason": "Updates on existing tool rather than new innovations.",
-      "posted": false,
-      "collected_at": "2026-05-24T09:06:37Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 0,
-        "upvotes": 3
-      }
-    },
-    {
-      "id": "b6c6c997b5a9c5a45d542a6928780c8d",
-      "title": "WarpSpeed Just Beat Cursor",
-      "url": "https://www.doubleai.com/research/warpspeed-approaches-speed-of-light-on-blackwell",
-      "source": "hackernews",
-      "source_author": "ben_mussay",
-      "topics": [],
-      "score": 5,
-      "score_reason": "Potentially valuable research, but lacks direct developer impact.",
-      "posted": false,
-      "collected_at": "2026-05-24T09:06:39Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 0,
-        "upvotes": 2
-      }
-    },
-    {
-      "id": "8dec11cf789be1f3fdddf1b4bb12fac1",
-      "title": "Fauxx – Data poisoning for your everyday tracking",
-      "url": "https://github.com/digital-grease/fauxx",
-      "source": "hackernews",
-      "source_author": "vidyesh",
-      "topics": [],
-      "score": 5,
-      "score_reason": "Data privacy tool, relevant but niche.",
-      "posted": false,
-      "collected_at": "2026-05-24T09:06:37Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 0,
-        "upvotes": 1
-      }
-    },
-    {
-      "id": "0fbb37f0c802bfdecf2ce17703ab60e0",
-      "title": "Meta's Claudeonomics leaderboard",
-      "url": "https://www.indiatoday.in/technology/news/story/meta-shuts-down-internal-claudeonomics-ai-tool-after-employees-started-leaking-data-to-public-2893581-2026-04-09",
-      "source": "hackernews",
-      "source_author": "phront",
-      "topics": [],
-      "score": 5,
-      "score_reason": "Looks into a discontinued tool, may not have impact now.",
-      "posted": false,
-      "collected_at": "2026-05-24T09:06:37Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 0,
-        "upvotes": 3
-      }
-    },
-    {
-      "id": "c11ef655d8352b68ba2e974ce468be0a",
-      "title": "Show HN: TapToyPia",
-      "url": "https://memalign.github.io/m/taptoypia/index.html",
-      "source": "hackernews",
-      "source_author": "memalign",
-      "topics": [],
-      "score": 4.5,
-      "score_reason": "An artistic project, less relevant to developer tools.",
-      "posted": false,
-      "collected_at": "2026-05-24T09:06:37Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 0,
-        "upvotes": 1
-      }
-    },
-    {
-      "id": "51da5a9ce041ce1d251a2a4f2c09b80c",
-      "title": "2of3: Enter a secret. Get 3 cards",
-      "url": "https://2of3.ente.com",
-      "source": "hackernews",
-      "source_author": "anandbaburajan",
-      "topics": [],
-      "score": 4.5,
-      "score_reason": "Focus on cryptographic sharing, less engagement from devs expected.",
-      "posted": false,
-      "collected_at": "2026-05-24T09:06:37Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 0,
-        "upvotes": 3
-      }
-    },
-    {
-      "id": "ab7e7c30d946585bbb8ae8d353b8ab4a",
-      "title": "1,700 new protein found in the \"dark proteome\" of previously overlooked DNA",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42092140/",
-      "source": "hackernews",
-      "source_author": "janandonly",
-      "topics": [],
-      "score": 4,
-      "score_reason": "Scientific discovery, but not directly relevant to developers.",
-      "posted": false,
-      "collected_at": "2026-05-24T09:06:40Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 0,
-        "upvotes": 2
-      }
-    },
-    {
-      "id": "35bbf6cd677096085e40bab1e93793b5",
-      "title": "whyiyhw/seek",
-      "url": "https://github.com/whyiyhw/seek",
+      "id": "5d7839b93ce36ee49940e7295754587a",
+      "title": "vixues/LeAgent",
+      "url": "https://github.com/vixues/LeAgent",
       "source": "github",
-      "source_author": "whyiyhw",
+      "source_author": "vixues",
       "topics": [],
-      "score": 4,
-      "score_reason": "Github repository, potentially interesting but lacks engagement.",
+      "score": 6,
+      "score_reason": "LeAgent could have applications, higher stars but still low engagement.",
       "posted": false,
-      "collected_at": "2026-05-24T09:06:47Z",
+      "collected_at": "2026-05-24T14:09:44Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 4,
+        "stars": 34,
         "upvotes": 0
       }
     },
     {
-      "id": "55e9071bfd923f90b18905eec95bcfd7",
-      "title": "Reddit stock drops almost 6%, Meta launches standalone app for online forums",
-      "url": "https://www.cnbc.com/2026/05/22/reddit-stock-drops-after-meta-launches-forum-app.html",
+      "id": "6744554d959d73c49f90fbb0dfbb5989",
+      "title": "Autotrader – paper trading AI agent for Indian equities",
+      "url": "https://github.com/analyticalmonk/autotrader",
       "source": "hackernews",
-      "source_author": "1vuio0pswjnm7",
+      "source_author": "akashtndn",
       "topics": [],
-      "score": 3,
-      "score_reason": "Business news with little relevance to developer tools or AI.",
+      "score": 5.5,
+      "score_reason": "Relevant to trading but lacks engagement and novelty.",
       "posted": false,
-      "collected_at": "2026-05-24T09:06:40Z",
-      "engagement": {
-        "comments": 1,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 0,
-        "upvotes": 13
-      }
-    },
-    {
-      "id": "b142e1a352220c09f632ede91a71754e",
-      "title": "Limerick",
-      "url": "https://www.worldwidewords.org/surprise.html",
-      "source": "hackernews",
-      "source_author": "jruohonen",
-      "topics": [],
-      "score": 2,
-      "score_reason": "Not relevant for a technical audience.",
-      "posted": false,
-      "collected_at": "2026-05-24T09:06:40Z",
-      "engagement": {
-        "comments": 4,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 0,
-        "upvotes": 9
-      }
-    },
-    {
-      "id": "b31e0f5720cdf03a5c6bdf3b5f647352",
-      "title": "USDA Conducts Oral Rabies Vaccination Efforts Targeting Wildlife (2025)",
-      "url": "https://www.aphis.usda.gov/news/agency-announcements/usda-conducts-2025-oral-rabies-vaccination-efforts-targeting-wildlife",
-      "source": "hackernews",
-      "source_author": "thunderbong",
-      "topics": [],
-      "score": 1,
-      "score_reason": "Not relevant to technical audience.",
-      "posted": false,
-      "collected_at": "2026-05-24T09:06:37Z",
+      "collected_at": "2026-05-24T14:09:26Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
@@ -621,7 +301,707 @@
         "stars": 0,
         "upvotes": 1
       }
+    },
+    {
+      "id": "8bca3a145d53cee6d47ba5eb68fb9bb6",
+      "title": "Getting the (staff) title where you are",
+      "url": "https://staffeng.com/guides/getting-the-title-where-you-are/",
+      "source": "hackernews",
+      "source_author": "mooreds",
+      "topics": [],
+      "score": 5.5,
+      "score_reason": "Provides a practical guide that may benefit developer career development.",
+      "posted": false,
+      "collected_at": "2026-05-24T14:09:25Z",
+      "engagement": {
+        "comments": 1,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 2
+      }
+    },
+    {
+      "id": "2a34a3ba01da391644d103cb076fbbab",
+      "title": "Google adds llms.txt check to Chrome Lighthouse",
+      "url": "https://searchengineland.com/google-llms-txt-chrome-lighthouse-478246",
+      "source": "hackernews",
+      "source_author": "networked",
+      "topics": [],
+      "score": 5.5,
+      "score_reason": "An operational update that may affect developer workflows.",
+      "posted": false,
+      "collected_at": "2026-05-24T14:09:28Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 1
+      }
+    },
+    {
+      "id": "aa59bda8e0e1ea12bcfb4d5f51598427",
+      "title": "Pi-Mojo – A Mojo Port of Pi AI Agent Toolkit",
+      "url": "https://github.com/atveit/pi-mojo/tree/main",
+      "source": "hackernews",
+      "source_author": "amund",
+      "topics": [],
+      "score": 5,
+      "score_reason": "Mojo port of toolkit is niche but interesting for those in the space.",
+      "posted": false,
+      "collected_at": "2026-05-24T14:09:26Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 1
+      }
+    },
+    {
+      "id": "12d3e1bce76c54ca11fccc6f1ca0e13e",
+      "title": "Show HN: CPU-only OCR for screenshots, images, and webpages",
+      "url": "https://github.com/kouhxp/textsnap",
+      "source": "hackernews",
+      "source_author": "mrkn1",
+      "topics": [],
+      "score": 5,
+      "score_reason": "Offering a new OCR tool that could be useful in dev workflows.",
+      "posted": false,
+      "collected_at": "2026-05-24T14:09:25Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 1
+      }
+    },
+    {
+      "id": "b26477ee493552e1b3835955768b95d0",
+      "title": "In India, You Can Get Milk Delivered Faster Than It Takes to Make Coffee",
+      "url": "https://www.wsj.com/business/logistics/in-india-you-can-get-milk-delivered-faster-than-it-takes-to-make-coffee-aa211a54",
+      "source": "hackernews",
+      "source_author": "achow",
+      "topics": [],
+      "score": 5,
+      "score_reason": "unscored",
+      "posted": false,
+      "collected_at": "2026-05-24T14:09:25Z",
+      "engagement": {
+        "comments": 1,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 4
+      }
+    },
+    {
+      "id": "f19d0aed46d79bbe8e3bc1135ca88aaf",
+      "title": "akitaonrails/ai-usagebar",
+      "url": "https://github.com/akitaonrails/ai-usagebar",
+      "source": "github",
+      "source_author": "akitaonrails",
+      "topics": [],
+      "score": 5,
+      "score_reason": "Tracking AI usage could interest developers, but lacks engagement.",
+      "posted": false,
+      "collected_at": "2026-05-24T14:09:34Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 17,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "3a519acfeb4e9b1832267fdb8ae1073e",
+      "title": "Oxia ― Metadata Store and Coordination System",
+      "url": "https://oxia-db.github.io/",
+      "source": "hackernews",
+      "source_author": "mooreds",
+      "topics": [],
+      "score": 5,
+      "score_reason": "unscored",
+      "posted": false,
+      "collected_at": "2026-05-24T14:09:25Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 1
+      }
+    },
+    {
+      "id": "eac2659973caaa5bae2ee0f6d0dfc608",
+      "title": "Lupine: A GPU-over-IP Bridge",
+      "url": "https://github.com/lupinemachines/lupine",
+      "source": "hackernews",
+      "source_author": "kevmo314",
+      "topics": [],
+      "score": 5,
+      "score_reason": "unscored",
+      "posted": false,
+      "collected_at": "2026-05-24T14:09:25Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 2
+      }
+    },
+    {
+      "id": "c1f0b9b05e6af1ed3e840618af6d9d89",
+      "title": "aref-vc/tufte-claude-skill",
+      "url": "https://github.com/aref-vc/tufte-claude-skill",
+      "source": "github",
+      "source_author": "aref-vc",
+      "topics": [],
+      "score": 5,
+      "score_reason": "GitHub project that could have niche applications.",
+      "posted": false,
+      "collected_at": "2026-05-24T14:09:30Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 115,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "a5004736fb366fc6865765d667595adb",
+      "title": "Why Defining Teams Is So Hard – By John Cutler",
+      "url": "https://cutlefish.substack.com/p/tbm-423-why-defining-teams-is-so",
+      "source": "hackernews",
+      "source_author": "kiyanwang",
+      "topics": [],
+      "score": 4.5,
+      "score_reason": "Interesting take on team dynamics but not directly actionable.",
+      "posted": false,
+      "collected_at": "2026-05-24T14:09:28Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 1
+      }
+    },
+    {
+      "id": "755998cafb979a4cf50213d38a9df05b",
+      "title": "smileyan369/paperfind",
+      "url": "https://github.com/smileyan369/paperfind",
+      "source": "github",
+      "source_author": "smileyan369",
+      "topics": [],
+      "score": 4.5,
+      "score_reason": "Paper finding tool is useful, but not groundbreaking.",
+      "posted": false,
+      "collected_at": "2026-05-24T14:09:36Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 5,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "fb48d02961941e8545568bb35c26e0f9",
+      "title": "The Neuroscience Behind Writing: Handwriting vs. Typing–Who Wins the Battle?",
+      "url": "https://www.mdpi.com/2075-1729/15/3/345?",
+      "source": "hackernews",
+      "source_author": "dhfbshfbu4u3",
+      "topics": [],
+      "score": 4,
+      "score_reason": "More of a general interest topic, lacks specificity to AI development.",
+      "posted": false,
+      "collected_at": "2026-05-24T14:09:27Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 3
+      }
+    },
+    {
+      "id": "5baef68b6b0f47061ab16e72020c2638",
+      "title": "Learn Anything with Lesson Generator Skill",
+      "url": "https://github.com/dair-ai/dair-academy-plugins/blob/main/plugins/lesson-generator/skills/lesson-generator/SKILL.md",
+      "source": "hackernews",
+      "source_author": "omarsar",
+      "topics": [],
+      "score": 4,
+      "score_reason": "Provides a new skill but lacks substantial novelty or impact.",
+      "posted": false,
+      "collected_at": "2026-05-24T14:09:25Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 1
+      }
+    },
+    {
+      "id": "41d23ebd008bed4137fec6b68d315790",
+      "title": "Notetux++ – v1.0.2",
+      "url": "https://github.com/notetux-plus-plus/notetux-plus-plus",
+      "source": "hackernews",
+      "source_author": "andreacoi",
+      "topics": [],
+      "score": 4,
+      "score_reason": "Minor software update likely lacking broader relevance.",
+      "posted": false,
+      "collected_at": "2026-05-24T14:09:25Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 1
+      }
+    },
+    {
+      "id": "8b3acbc72b2273a7b7f653f9e64e3e8c",
+      "title": "alibaba/open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
+      "source": "github",
+      "source_author": "alibaba",
+      "topics": [],
+      "score": 4,
+      "score_reason": "Basic code review tool that lacks engagement.",
+      "posted": false,
+      "collected_at": "2026-05-24T14:09:31Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 12,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "6de62d4c0bc67627bca3e2c3b7553762",
+      "title": "Operating licence of Bilgi University revoked",
+      "url": "https://www.aljazeera.com/news/2026/5/22/turkiye-shutters-liberal-istanbul-university-seized-in-criminal-probe",
+      "source": "hackernews",
+      "source_author": "anticensor",
+      "topics": [],
+      "score": 4,
+      "score_reason": "Not directly related to technical AI or development.",
+      "posted": false,
+      "collected_at": "2026-05-24T14:09:26Z",
+      "engagement": {
+        "comments": 1,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 2
+      }
+    },
+    {
+      "id": "cffdc3df5c0f0324d0dd11102ee467b2",
+      "title": "The AI Existential Crisis: Western AI Agents Will Win Commerce",
+      "url": "https://medium.com/@vektormemory/the-ai-existential-crisis-western-ai-agents-will-win-finance-chinas-will-win-the-world-3945a70b3366",
+      "source": "hackernews",
+      "source_author": "vektormemory",
+      "topics": [],
+      "score": 3.5,
+      "score_reason": "Speculative discussion with little actionable information.",
+      "posted": false,
+      "collected_at": "2026-05-24T14:09:26Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 1
+      }
+    },
+    {
+      "id": "e9d7fe86e7ecddb592697223f0d54d5c",
+      "title": "andreisirbu91-lab/MCPSpend",
+      "url": "https://github.com/andreisirbu91-lab/MCPSpend",
+      "source": "github",
+      "source_author": "andreisirbu91-lab",
+      "topics": [],
+      "score": 3.5,
+      "score_reason": "MCPSpend lacks distinguishing features and impact.",
+      "posted": false,
+      "collected_at": "2026-05-24T14:09:49Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 9,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "44d2199da1750b35c2c512d9227d1d7b",
+      "title": "Show HN: My first app, artisanally vibe-coded in 4 months",
+      "url": "https://mijn-travelly.nl/en/",
+      "source": "hackernews",
+      "source_author": "jeroen_stulen",
+      "topics": [],
+      "score": 3.5,
+      "score_reason": "First app but lacks broad impact or technical innovation.",
+      "posted": false,
+      "collected_at": "2026-05-24T14:09:25Z",
+      "engagement": {
+        "comments": 4,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 3
+      }
+    },
+    {
+      "id": "194d0c26eb1de0e7ee9f30579296a2c8",
+      "title": "i-afaqrashid/webaudio-kit",
+      "url": "https://github.com/i-afaqrashid/webaudio-kit",
+      "source": "github",
+      "source_author": "i-afaqrashid",
+      "topics": [],
+      "score": 3.5,
+      "score_reason": "Web audio toolkit may be useful but is niche.",
+      "posted": false,
+      "collected_at": "2026-05-24T14:09:42Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "9e7dae560cd3850dc02aa91e5b557335",
+      "title": "From Ivory Tower to Iron Curtain: The Academics Who Reshaped the CIA [video]",
+      "url": "https://www.youtube.com/watch?v=mPhbq69K3tY",
+      "source": "hackernews",
+      "source_author": "Anon84",
+      "topics": [],
+      "score": 3,
+      "score_reason": "A historical perspective that lacks relevance to current tech trends.",
+      "posted": false,
+      "collected_at": "2026-05-24T14:09:27Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 1
+      }
+    },
+    {
+      "id": "c3dcb3ab22761297fbab81c70fd45b84",
+      "title": "Multi-Agent Orchestration System: Hermes (Windows) ↔ OpenClaw (WSL)",
+      "url": "https://github.com/YOUR_USERNAME/hermes-openclaw-orchestration",
+      "source": "hackernews",
+      "source_author": "theG0DSMACKED",
+      "topics": [],
+      "score": 3,
+      "score_reason": "A multi-agent system but not highly relevant or innovative.",
+      "posted": false,
+      "collected_at": "2026-05-24T14:09:25Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 2
+      }
+    },
+    {
+      "id": "5d67f7b43c2bd0434ca8d7059b63d723",
+      "title": "Binary Lambda Calculus",
+      "url": "https://esolangs.org/wiki/Binary_lambda_calculus",
+      "source": "hackernews",
+      "source_author": "optimalsolver",
+      "topics": [],
+      "score": 3,
+      "score_reason": "An esoteric topic with limited relevance.",
+      "posted": false,
+      "collected_at": "2026-05-24T14:09:28Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 2
+      }
+    },
+    {
+      "id": "1dd7104ee926ff336d636235432da6c6",
+      "title": "GitHub security alerts don't get sent",
+      "url": "https://github.com/orgs/community/discussions/51573",
+      "source": "hackernews",
+      "source_author": "mkj",
+      "topics": [],
+      "score": 3,
+      "score_reason": "Acknowledges a common issue but isn’t novel or impactful.",
+      "posted": false,
+      "collected_at": "2026-05-24T14:09:25Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 1
+      }
+    },
+    {
+      "id": "4eb8528a70c5806c5feb7c7a183e4728",
+      "title": "MoyuFamily/ai-relay",
+      "url": "https://github.com/MoyuFamily/ai-relay",
+      "source": "github",
+      "source_author": "MoyuFamily",
+      "topics": [],
+      "score": 3,
+      "score_reason": "Simple relay project with minimal novelty.",
+      "posted": false,
+      "collected_at": "2026-05-24T14:09:32Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 14,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "0e7beaf215c7a9a774cce7534104481b",
+      "title": "WEIFENG2333/phistory",
+      "url": "https://github.com/WEIFENG2333/phistory",
+      "source": "github",
+      "source_author": "WEIFENG2333",
+      "topics": [],
+      "score": 3,
+      "score_reason": "Phistory doesn't have broad appeal within developer tools.",
+      "posted": false,
+      "collected_at": "2026-05-24T14:09:47Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 10,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "f28962ca1bcc61dbead7192d4b7524e8",
+      "title": "Squares in Squares",
+      "url": "https://kingbird.myphotos.cc/packing/squares_in_squares.html",
+      "source": "hackernews",
+      "source_author": "carlos-menezes",
+      "topics": [],
+      "score": 3,
+      "score_reason": "Not related to AI/development, more of a casual article.",
+      "posted": false,
+      "collected_at": "2026-05-24T14:09:27Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 2
+      }
+    },
+    {
+      "id": "858f400490cb2bf17e5759671a3c38bb",
+      "title": "Deploy Platforms Instead of Charts",
+      "url": "https://ingresslabs.github.io/torque/blog-firecracker-fraud-platform.html",
+      "source": "hackernews",
+      "source_author": "acarlini",
+      "topics": [],
+      "score": 2.5,
+      "score_reason": "Presents a concept but lacks clarity and immediate relevance.",
+      "posted": false,
+      "collected_at": "2026-05-24T14:09:25Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 1
+      }
+    },
+    {
+      "id": "933003a5fa5e2b8969efe05c50d5e7c1",
+      "title": "Lump of Labour Fallacy",
+      "url": "https://www.investopedia.com/terms/l/lump-of-labour-fallacy.asp",
+      "source": "hackernews",
+      "source_author": "nothrowaways",
+      "topics": [],
+      "score": 2.5,
+      "score_reason": "Outdated economic theory not relevant to AI advancements.",
+      "posted": false,
+      "collected_at": "2026-05-24T14:09:28Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 2
+      }
+    },
+    {
+      "id": "c7af3c009d331430d7a54f80fc122aa9",
+      "title": "Show HN: Hookwarden – npx tool to find and fix webhook HMAC bugs (JS/TS/Py/PHP)",
+      "url": "https://github.com/Hookwarden/hookwarden",
+      "source": "hackernews",
+      "source_author": "adelinalipsa",
+      "topics": [],
+      "score": 2,
+      "score_reason": "Specific tool but not likely to attract broad developer interest.",
+      "posted": false,
+      "collected_at": "2026-05-24T14:09:25Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 1
+      }
+    },
+    {
+      "id": "dafbe4820c0aca6fba27cf5494e55cc2",
+      "title": "Zzin-cell/AI-Markdown-to-Word",
+      "url": "https://github.com/Zzin-cell/AI-Markdown-to-Word",
+      "source": "github",
+      "source_author": "Zzin-cell",
+      "topics": [],
+      "score": 2,
+      "score_reason": "Converts Markdown to Word; low relevance and engagement.",
+      "posted": false,
+      "collected_at": "2026-05-24T14:09:39Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 2,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "1972965465ae42c3a7894d68ea6f9bee",
+      "title": "Kysely 0.29",
+      "url": "https://github.com/kysely-org/kysely/releases/tag/v0.29.0",
+      "source": "hackernews",
+      "source_author": "bundie",
+      "topics": [],
+      "score": 2,
+      "score_reason": "Incremental update with low novelty.",
+      "posted": false,
+      "collected_at": "2026-05-24T14:09:25Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 3
+      }
+    },
+    {
+      "id": "9156331cc7cbf1698399e35cb01eac07",
+      "title": "Microsoft's 6502 BASIC is now Open Source (2025)",
+      "url": "https://opensource.microsoft.com/blog/2025/09/03/microsoft-open-source-historic-6502-basic/",
+      "source": "hackernews",
+      "source_author": "GTP",
+      "topics": [],
+      "score": 2,
+      "score_reason": "Historical significance but less practical relevance for current developers.",
+      "posted": false,
+      "collected_at": "2026-05-24T14:09:25Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 4
+      }
+    },
+    {
+      "id": "a6cf28ffcf2d4402e33acc49ab54f070",
+      "title": "I missed NETworkManager on Windows so I built a Linux equivalent",
+      "url": "https://github.com/thongor77/nmlinux",
+      "source": "hackernews",
+      "source_author": "magetriste",
+      "topics": [],
+      "score": 2,
+      "score_reason": "Functional tool but not groundbreaking or widely relevant.",
+      "posted": false,
+      "collected_at": "2026-05-24T14:09:25Z",
+      "engagement": {
+        "comments": 1,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 2
+      }
+    },
+    {
+      "id": "09dc01c762c48946da8ce5a7be21ec38",
+      "title": "KCCHDEV/coder-noey-skill",
+      "url": "https://github.com/KCCHDEV/coder-noey-skill",
+      "source": "github",
+      "source_author": "KCCHDEV",
+      "topics": [],
+      "score": 2,
+      "score_reason": "Coder skill project is not highly relevant.",
+      "posted": false,
+      "collected_at": "2026-05-24T14:09:49Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 3,
+        "upvotes": 0
+      }
     }
   ],
-  "updated_at": "2026-05-24T09:10:44Z"
+  "updated_at": "2026-05-24T14:13:52Z"
 }
