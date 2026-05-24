@@ -1,207 +1,67 @@
 {
-  "count": 10,
+  "count": 3,
   "items": [
     {
-      "id": "44d74ac17f080d1c7d073a1247191070",
-      "title": "Last month we launched Project Glasswing, our collaborative AI cybersecurity initiative. Since then,...",
-      "url": "https://x.com/AnthropicAI/status/2057909102542549503",
-      "source": "twitter",
-      "source_author": "AnthropicAI",
-      "topics": [],
-      "score": 8,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-05-23T04:29:25Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 4967,
-        "replies": 290,
-        "retweets": 521,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "60c1a966bf62a1991354f3396c437dff",
-      "title": "With the Cursor SDK, you can build your own agents with Composer 2.5. It's now available in Python a...",
-      "url": "https://x.com/cursor_ai/status/2057913121558413770",
-      "source": "twitter",
-      "source_author": "cursor_ai",
-      "topics": [],
-      "score": 8,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-05-23T04:29:25Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 1689,
-        "replies": 85,
-        "retweets": 173,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "6182318a4999b105a30afe76b892d3e3",
-      "title": "Patching these vulnerabilities will make us safer. But the software industry will need to adapt to t...",
-      "url": "https://x.com/AnthropicAI/status/2057909104090169464",
-      "source": "twitter",
-      "source_author": "AnthropicAI",
-      "topics": [],
-      "score": 8,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-05-23T04:29:25Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 965,
-        "replies": 46,
-        "retweets": 107,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "bf46cf8cb9507c980aa88603ac5feaab",
-      "title": "I've tried Aleph 2.0, and it's without a doubt the best video editor I've seen so far.",
-      "url": "https://x.com/AleRVG/status/2057700249179758899",
-      "source": "twitter",
-      "source_author": "RunwayML",
-      "topics": [],
-      "score": 7,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-05-23T04:29:25Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 731,
-        "replies": 23,
-        "retweets": 72,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "125d9ee3412714b56b1bc930d658e5e7",
-      "title": "SynthID, our imperceptible watermark for AI-generated content, is expanding to more partners.\n\nWe’...",
-      "url": "https://x.com/GoogleDeepMind/status/2057898089621459434",
-      "source": "twitter",
-      "source_author": "GoogleDeepMind",
-      "topics": [],
-      "score": 6,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-05-23T04:29:25Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 328,
-        "replies": 39,
-        "retweets": 55,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "e9d7bd662d7a7720a888760efd90668d",
-      "title": "We’re expanding our partnership with Singapore to help safely deploy AI at scale. \n\nTogether with ...",
-      "url": "https://x.com/GoogleDeepMind/status/2057985225100235022",
-      "source": "twitter",
-      "source_author": "GoogleDeepMind",
-      "topics": [],
-      "score": 6,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-05-23T04:29:25Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 97,
-        "replies": 17,
-        "retweets": 11,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "1f17bb074e15846e6593db40cb06ab66",
-      "title": "Runway Aleph 2.0 is fantastic with motion control.\n\nStress tested a single clip with multiple edits....",
-      "url": "https://x.com/jerrod_lew/status/2057552107910373881",
-      "source": "twitter",
-      "source_author": "RunwayML",
-      "topics": [],
-      "score": 6,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-05-23T04:29:25Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 107,
-        "replies": 3,
-        "retweets": 15,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "44f2a4ab6e3b8272f4a5b0527cbec0c2",
-      "title": "The legendary art tech program that sparked the world’s first art NFT comes to Vibecon, pairing le...",
-      "url": "https://x.com/Replit/status/2057929718700102077",
+      "id": "05dcef67273ad5789810c8f624ac8a6b",
+      "title": "Replit Agent builds your app. Squidler tests it like a real user. Replit Agent fixes what's broken.\n...",
+      "url": "https://x.com/Replit/status/2058261705998602548",
       "source": "twitter",
       "source_author": "replit",
       "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "score": 10,
+      "score_reason": "Highly engaging with practical implications for development.",
       "posted": false,
-      "collected_at": "2026-05-23T04:29:25Z",
+      "collected_at": "2026-05-24T04:51:40Z",
       "engagement": {
         "comments": 0,
-        "likes": 19,
-        "replies": 3,
+        "likes": 102,
+        "replies": 17,
+        "retweets": 7,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "8f3029170fd001a0e8759363bdd884eb",
+      "title": "Very cool to see these conversations happening! This is what openness enables. The \"tool that allows...",
+      "url": "https://x.com/dalbright/status/2058281861655523612",
+      "source": "twitter",
+      "source_author": "Allen_AI",
+      "topics": [],
+      "score": 6.5,
+      "score_reason": "Shows engagement but lacks direct relevance to tooling.",
+      "posted": false,
+      "collected_at": "2026-05-24T04:51:40Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 18,
+        "replies": 2,
         "retweets": 6,
         "stars": 0,
         "upvotes": 0
       }
     },
     {
-      "id": "9ecc0e4e271f267ac8d6771ce9472db9",
-      "title": "BREAKING: \n@eliasxreyes\n just hit #1 on Unicorne's fastest-growing startups leaderboard with Dial Mo...",
-      "url": "https://x.com/MannyBernabe/status/2057670565549261254",
+      "id": "fc8435ac505318cdee7108e0ed56271d",
+      "title": "Oscar-winning filmmaker behind Her, Being John Malkovich, and iconic music videos for Beastie Boys a...",
+      "url": "https://x.com/Replit/status/2058292007160750138",
       "source": "twitter",
       "source_author": "replit",
       "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "score": 5.5,
+      "score_reason": "Promotes a creative perspective but less technical focus.",
       "posted": false,
-      "collected_at": "2026-05-23T04:29:25Z",
+      "collected_at": "2026-05-24T04:51:40Z",
       "engagement": {
         "comments": 0,
-        "likes": 23,
-        "replies": 8,
-        "retweets": 1,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "4f7fa20f7bae4f59b295499926fd36b7",
-      "title": "Use our docs and /sdk skill to get started:",
-      "url": "https://x.com/cursor_ai/status/2057913123194155070",
-      "source": "twitter",
-      "source_author": "cursor_ai",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-05-23T04:29:25Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 41,
-        "replies": 1,
-        "retweets": 1,
+        "likes": 33,
+        "replies": 13,
+        "retweets": 6,
         "stars": 0,
         "upvotes": 0
       }
     }
   ],
   "source": "twitter",
-  "updated_at": "2026-05-23T04:29:39Z"
+  "updated_at": "2026-05-24T04:53:19Z"
 }
