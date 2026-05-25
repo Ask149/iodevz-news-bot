@@ -1,17 +1,177 @@
 {
-  "count": 10,
+  "count": 14,
   "items": [
     {
-      "id": "a4417fe55792205a08b4ba14f3f23a23",
-      "title": "venkat-1150/Energy-Aware-Multi-Agent-Reinforcement-Learning-for-Dynamic-Swarm-Coordination",
-      "url": "https://github.com/venkat-1150/Energy-Aware-Multi-Agent-Reinforcement-Learning-for-Dynamic-Swarm-Coordination",
+      "id": "4f6f83a02eef8a1db145032d1df746ef",
+      "title": "chefkannofriend-source/mbbb-baker-agent",
+      "url": "https://github.com/chefkannofriend-source/mbbb-baker-agent",
       "source": "github",
-      "source_author": "venkat-1150",
+      "source_author": "chefkannofriend-source",
       "topics": [],
       "score": 7,
-      "score_reason": "Relevant research on energy-aware multi-agent reinforcement learning, expanding understanding in AI applications.",
+      "score_reason": "The repository with a practical tool can encourage developer engagement despite low immediate popularity.",
       "posted": false,
-      "collected_at": "2026-05-25T10:57:32Z",
+      "collected_at": "2026-05-25T15:38:23Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 124,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "66e1280ca5bb6dfd3d375dfd3ef0c355",
+      "title": "rahuldr556/AST-Guided-LLM-Code-Review_System",
+      "url": "https://github.com/rahuldr556/AST-Guided-LLM-Code-Review_System",
+      "source": "github",
+      "source_author": "rahuldr556",
+      "topics": [],
+      "score": 7,
+      "score_reason": "Higher engagement and aligns well with AI code review innovations.",
+      "posted": false,
+      "collected_at": "2026-05-25T15:38:44Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 50,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "7aa2d95c6fb80c5fb76125e8c93b4cf1",
+      "title": "JasonLam08/cursor_agent_status_light",
+      "url": "https://github.com/JasonLam08/cursor_agent_status_light",
+      "source": "github",
+      "source_author": "JasonLam08",
+      "topics": [],
+      "score": 5,
+      "score_reason": "Moderate engagement, potential for utility in developer tools.",
+      "posted": false,
+      "collected_at": "2026-05-25T15:38:40Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 31,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "f187a66dc4ff6bc4c6cfe57093c4eb07",
+      "title": "antgroup/Agent3Sigma-Stage",
+      "url": "https://github.com/antgroup/Agent3Sigma-Stage",
+      "source": "github",
+      "source_author": "antgroup",
+      "topics": [],
+      "score": 4,
+      "score_reason": "New but lacks substantial engagement or unique contributions.",
+      "posted": false,
+      "collected_at": "2026-05-25T15:38:39Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 6,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "2196f3edf539b2374f2348979a63cf8f",
+      "title": "tathagat22/plumb-mcp",
+      "url": "https://github.com/tathagat22/plumb-mcp",
+      "source": "github",
+      "source_author": "tathagat22",
+      "topics": [],
+      "score": 3,
+      "score_reason": "Limited visibility and unclear impact on developer workflow.",
+      "posted": false,
+      "collected_at": "2026-05-25T15:38:41Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 6,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "b9bf33f862b95f7b603f71d797bf3b48",
+      "title": "Hello-Application-XH/HelloKimi",
+      "url": "https://github.com/Hello-Application-XH/HelloKimi",
+      "source": "github",
+      "source_author": "Hello-Application-XH",
+      "topics": [],
+      "score": 3,
+      "score_reason": "Lacks clear significance for a technical audience.",
+      "posted": false,
+      "collected_at": "2026-05-25T15:38:25Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 32,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "bba8aee593c7d2904c62a9be29354255",
+      "title": "ArafatAhmed-2M/2M-Code",
+      "url": "https://github.com/ArafatAhmed-2M/2M-Code",
+      "source": "github",
+      "source_author": "ArafatAhmed-2M",
+      "topics": [],
+      "score": 2,
+      "score_reason": "Offers limited utility or interest for developers.",
+      "posted": false,
+      "collected_at": "2026-05-25T15:38:24Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 12,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "5b0bd3cdfd2d8dc882a2275b67d49302",
+      "title": "alpha819beta/GraphRAG-Chatbot-DeepSeek-",
+      "url": "https://github.com/alpha819beta/GraphRAG-Chatbot-DeepSeek-",
+      "source": "github",
+      "source_author": "alpha819beta",
+      "topics": [],
+      "score": 2,
+      "score_reason": "Low significance for developers, focusing on a niche topic.",
+      "posted": false,
+      "collected_at": "2026-05-25T15:38:29Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 9,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "c9db9e3ac5fa9e79e89b3806a7a7b5ae",
+      "title": "EA-Studio-SHARK/lean-code",
+      "url": "https://github.com/EA-Studio-SHARK/lean-code",
+      "source": "github",
+      "source_author": "EA-Studio-SHARK",
+      "topics": [],
+      "score": 2,
+      "score_reason": "Low engagement and minimal relevance to current trends.",
+      "posted": false,
+      "collected_at": "2026-05-25T15:38:41Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
@@ -22,76 +182,16 @@
       }
     },
     {
-      "id": "9c74baab650f9efcf071f2574e59cca7",
-      "title": "e01n0/skillspec",
-      "url": "https://github.com/e01n0/skillspec",
+      "id": "d16caec8e89fd9a9fa3b5074a3f5358f",
+      "title": "antgroup/Agent3Sigma",
+      "url": "https://github.com/antgroup/Agent3Sigma",
       "source": "github",
-      "source_author": "e01n0",
+      "source_author": "antgroup",
       "topics": [],
-      "score": 5,
-      "score_reason": "unscored",
+      "score": 2,
+      "score_reason": "Relatively niche topic with low developer relevance.",
       "posted": false,
-      "collected_at": "2026-05-25T10:57:34Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 2,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "755eedddd0895836720e8611a0ebc530",
-      "title": "aonishchenko/AISkillsVerification",
-      "url": "https://github.com/aonishchenko/AISkillsVerification",
-      "source": "github",
-      "source_author": "aonishchenko",
-      "topics": [],
-      "score": 5,
-      "score_reason": "unscored",
-      "posted": false,
-      "collected_at": "2026-05-25T10:57:34Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 1,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "6915edc3c819ddeab7bccd9e0d136075",
-      "title": "nhthien815zz/devin",
-      "url": "https://github.com/nhthien815zz/devin",
-      "source": "github",
-      "source_author": "nhthien815zz",
-      "topics": [],
-      "score": 5,
-      "score_reason": "unscored",
-      "posted": false,
-      "collected_at": "2026-05-25T10:57:40Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "0791a7d49aadaf387ddc3c52226c4dfe",
-      "title": "kishormorol/SkillsAllYouNeed",
-      "url": "https://github.com/kishormorol/SkillsAllYouNeed",
-      "source": "github",
-      "source_author": "kishormorol",
-      "topics": [],
-      "score": 1,
-      "score_reason": "General content unrelated to AI or development.",
-      "posted": false,
-      "collected_at": "2026-05-25T10:57:19Z",
+      "collected_at": "2026-05-25T15:38:39Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
@@ -102,36 +202,56 @@
       }
     },
     {
-      "id": "bf8ea56ca4ec764d62e1815aa7064102",
-      "title": "SkyworkAI/skyclaw",
-      "url": "https://github.com/SkyworkAI/skyclaw",
+      "id": "de508cff4bb6417c157c03cb2cb15984",
+      "title": "muranja/AudioGeneration",
+      "url": "https://github.com/muranja/AudioGeneration",
       "source": "github",
-      "source_author": "SkyworkAI",
+      "source_author": "muranja",
       "topics": [],
       "score": 1,
-      "score_reason": "Limited engagement, not offering significant insights for developers.",
+      "score_reason": "No content or interest for the target audience.",
       "posted": false,
-      "collected_at": "2026-05-25T10:57:25Z",
+      "collected_at": "2026-05-25T15:38:34Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 7,
+        "stars": 0,
         "upvotes": 0
       }
     },
     {
-      "id": "714d3e5e77fc02e234f21a8c852fcf4c",
-      "title": "M-Ganesh123/free-genai-courses",
-      "url": "https://github.com/M-Ganesh123/free-genai-courses",
+      "id": "804ee07beb36a47636bf38ffa4fb2ecf",
+      "title": "M1h4jl0/OmniVoice-Batch-Generation",
+      "url": "https://github.com/M1h4jl0/OmniVoice-Batch-Generation",
       "source": "github",
-      "source_author": "M-Ganesh123",
+      "source_author": "M1h4jl0",
       "topics": [],
       "score": 1,
-      "score_reason": "Educational content that lacks direct applicability to developer tools.",
+      "score_reason": "Has no evident significance to developers.",
       "posted": false,
-      "collected_at": "2026-05-25T10:57:26Z",
+      "collected_at": "2026-05-25T15:38:34Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "13ebd108214e0e49ebd00b323a40474f",
+      "title": "credkellar-boop/Mona",
+      "url": "https://github.com/credkellar-boop/Mona",
+      "source": "github",
+      "source_author": "credkellar-boop",
+      "topics": [],
+      "score": 1,
+      "score_reason": "Minimal relevance for developers, low engagement.",
+      "posted": false,
+      "collected_at": "2026-05-25T15:38:33Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
@@ -142,66 +262,26 @@
       }
     },
     {
-      "id": "f1807c5c9c46726b8598901e187e927e",
-      "title": "Anilmidna/sigma-genai-de",
-      "url": "https://github.com/Anilmidna/sigma-genai-de",
+      "id": "f804f516093a84bce477860f41e43057",
+      "title": "ApocData/ApocData-skill",
+      "url": "https://github.com/ApocData/ApocData-skill",
       "source": "github",
-      "source_author": "Anilmidna",
+      "source_author": "ApocData",
       "topics": [],
       "score": 1,
-      "score_reason": "Doesn't provide substantial insights or novel content.",
+      "score_reason": "No apparent relevance or appeal to the developer audience.",
       "posted": false,
-      "collected_at": "2026-05-25T10:57:26Z",
+      "collected_at": "2026-05-25T15:38:31Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 1,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "1f41bf9320fab52583922a3594f2bf33",
-      "title": "frankyml/oss-swarm",
-      "url": "https://github.com/frankyml/oss-swarm",
-      "source": "github",
-      "source_author": "frankyml",
-      "topics": [],
-      "score": 1,
-      "score_reason": "Low engagement and relevance in the current context.",
-      "posted": false,
-      "collected_at": "2026-05-25T10:57:32Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 1,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "966df70dbbe43da9565a3b2374e698ca",
-      "title": "alibaba/webmcp-nexus",
-      "url": "https://github.com/alibaba/webmcp-nexus",
-      "source": "github",
-      "source_author": "alibaba",
-      "topics": [],
-      "score": 1,
-      "score_reason": "While it has a higher star count, it lacks a compelling narrative for developers.",
-      "posted": false,
-      "collected_at": "2026-05-25T10:57:37Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 16,
+        "stars": 2,
         "upvotes": 0
       }
     }
   ],
   "source": "github",
-  "updated_at": "2026-05-25T11:01:46Z"
+  "updated_at": "2026-05-25T15:43:01Z"
 }
