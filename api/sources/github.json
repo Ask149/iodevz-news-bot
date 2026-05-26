@@ -1,197 +1,97 @@
 {
-  "count": 10,
+  "count": 7,
   "items": [
     {
-      "id": "bc0213c0e056aff1fdc985a8912b908a",
-      "title": "butterbase-ai/butterbase-oss",
-      "url": "https://github.com/butterbase-ai/butterbase-oss",
+      "id": "2d8fcac280197a30141397029634bcf1",
+      "title": "NabilAziz99/agent-runtime",
+      "url": "https://github.com/NabilAziz99/agent-runtime",
       "source": "github",
-      "source_author": "butterbase-ai",
+      "source_author": "NabilAziz99",
+      "topics": [],
+      "score": 4,
+      "score_reason": "Unclear impact on practical developer workflows.",
+      "posted": false,
+      "collected_at": "2026-05-26T16:26:52Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 114,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "a668f4631fb7306602caab40cdd7d0b8",
+      "title": "ai-best-tools/ai-image-video-gen",
+      "url": "https://github.com/ai-best-tools/ai-image-video-gen",
+      "source": "github",
+      "source_author": "ai-best-tools",
+      "topics": [],
+      "score": 3.5,
+      "score_reason": "AI media generation tools are common and lack unique features.",
+      "posted": false,
+      "collected_at": "2026-05-26T16:27:04Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 126,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "2644356af2caecfe569d6761f91ab36e",
+      "title": "UditAkhourii/adhd",
+      "url": "https://github.com/UditAkhourii/adhd",
+      "source": "github",
+      "source_author": "UditAkhourii",
       "topics": [],
       "score": 3,
-      "score_reason": "Moderate relevance in open-source tools but lacks engagement.",
+      "score_reason": "Low engagement and unclear relevance to current developer needs.",
       "posted": false,
-      "collected_at": "2026-05-26T10:34:58Z",
+      "collected_at": "2026-05-26T16:26:52Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 70,
+        "stars": 127,
         "upvotes": 0
       }
     },
     {
-      "id": "86f6447ea3bffcdcac7e94d6fcc01e99",
-      "title": "cclank/lanshu-awesome-ai-video-kit",
-      "url": "https://github.com/cclank/lanshu-awesome-ai-video-kit",
+      "id": "ee0e2a8042669bbab571cd74431fd81d",
+      "title": "qinshihu/itops-agent-platform",
+      "url": "https://github.com/qinshihu/itops-agent-platform",
       "source": "github",
-      "source_author": "cclank",
+      "source_author": "qinshihu",
+      "topics": [],
+      "score": 3,
+      "score_reason": "Generic nature with limited novelty or application.",
+      "posted": false,
+      "collected_at": "2026-05-26T16:26:55Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 17,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "b48bd668ecfe5a153d98e6449dda2dad",
+      "title": "wesleysimplicio/simplicio-cli",
+      "url": "https://github.com/wesleysimplicio/simplicio-cli",
+      "source": "github",
+      "source_author": "wesleysimplicio",
       "topics": [],
       "score": 2,
-      "score_reason": "Consolidated resources but does not present new insights or applications.",
+      "score_reason": "Limited visibility and engagement indicate low relevance.",
       "posted": false,
-      "collected_at": "2026-05-26T10:34:43Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 76,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "45c445b00edb814b6817b5ef2cd8d415",
-      "title": "vidanov/aws-architecture-diagram-skill",
-      "url": "https://github.com/vidanov/aws-architecture-diagram-skill",
-      "source": "github",
-      "source_author": "vidanov",
-      "topics": [],
-      "score": 2,
-      "score_reason": "Limited scope in AWS architecture; lacks novelty.",
-      "posted": false,
-      "collected_at": "2026-05-26T10:34:43Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 62,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "4dea54cf60a4de25cf306b2c6cd8ac21",
-      "title": "sitodowubb/spatial-vqa-bench",
-      "url": "https://github.com/sitodowubb/spatial-vqa-bench",
-      "source": "github",
-      "source_author": "sitodowubb",
-      "topics": [],
-      "score": 2,
-      "score_reason": "Reflective of the status quo with little innovation or engagement.",
-      "posted": false,
-      "collected_at": "2026-05-26T10:35:06Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 65,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "52c5a619f7c442a45792ac117b0a9afe",
-      "title": "miaojiee/feishu-claude-code",
-      "url": "https://github.com/miaojiee/feishu-claude-code",
-      "source": "github",
-      "source_author": "miaojiee",
-      "topics": [],
-      "score": 1,
-      "score_reason": "Very low relevance and engagement.",
-      "posted": false,
-      "collected_at": "2026-05-26T10:34:50Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 7,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "bd4675ab72e7d1c16c3e84ab9312ec5e",
-      "title": "acoyfellow/swarm",
-      "url": "https://github.com/acoyfellow/swarm",
-      "source": "github",
-      "source_author": "acoyfellow",
-      "topics": [],
-      "score": 1,
-      "score_reason": "Very low relevance and no engagement.",
-      "posted": false,
-      "collected_at": "2026-05-26T10:34:57Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 1,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "c8c48c1a4f6f3b056ce6844210784d98",
-      "title": "VisionForge-arch/PixelWizard",
-      "url": "https://github.com/VisionForge-arch/PixelWizard",
-      "source": "github",
-      "source_author": "VisionForge-arch",
-      "topics": [],
-      "score": 1,
-      "score_reason": "Fails to offer new insights and garners little interest.",
-      "posted": false,
-      "collected_at": "2026-05-26T10:34:54Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 11,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "b74e29c67516d3c2e71bc3df2e2d1320",
-      "title": "lixia051/kimi2api-tool-calls",
-      "url": "https://github.com/lixia051/kimi2api-tool-calls",
-      "source": "github",
-      "source_author": "lixia051",
-      "topics": [],
-      "score": 1,
-      "score_reason": "Low engagement and little relevance to the broader developer community.",
-      "posted": false,
-      "collected_at": "2026-05-26T10:34:52Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 2,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "7eb039b66ad9e86aff05a14f4084ebb2",
-      "title": "Gagan2004bansal/LearnXGenAI",
-      "url": "https://github.com/Gagan2004bansal/LearnXGenAI",
-      "source": "github",
-      "source_author": "Gagan2004bansal",
-      "topics": [],
-      "score": 1,
-      "score_reason": "New repository with little context or demonstrated utility.",
-      "posted": false,
-      "collected_at": "2026-05-26T10:34:51Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 1,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "381f0a3b02d80d5f1a97bcb91df12e40",
-      "title": "bxff/pi-deepseek-search",
-      "url": "https://github.com/bxff/pi-deepseek-search",
-      "source": "github",
-      "source_author": "bxff",
-      "topics": [],
-      "score": 1,
-      "score_reason": "Minimal impact with low engagement suggests lack of interest.",
-      "posted": false,
-      "collected_at": "2026-05-26T10:34:50Z",
+      "collected_at": "2026-05-26T16:27:12Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
@@ -200,8 +100,48 @@
         "stars": 5,
         "upvotes": 0
       }
+    },
+    {
+      "id": "836faf70ceb49a34fc2b6c226cbcb346",
+      "title": "specks0949/devin",
+      "url": "https://github.com/specks0949/devin",
+      "source": "github",
+      "source_author": "specks0949",
+      "topics": [],
+      "score": 1,
+      "score_reason": "No engagement signals minimal interest or utility.",
+      "posted": false,
+      "collected_at": "2026-05-26T16:27:17Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "7748569cd5829989a2d9f6860c939a65",
+      "title": "YunyueLi/Mighta",
+      "url": "https://github.com/YunyueLi/Mighta",
+      "source": "github",
+      "source_author": "YunyueLi",
+      "topics": [],
+      "score": 1,
+      "score_reason": "Very low engagement suggests low practicality or interest.",
+      "posted": false,
+      "collected_at": "2026-05-26T16:27:07Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 2,
+        "upvotes": 0
+      }
     }
   ],
   "source": "github",
-  "updated_at": "2026-05-26T10:39:57Z"
+  "updated_at": "2026-05-26T16:32:26Z"
 }
