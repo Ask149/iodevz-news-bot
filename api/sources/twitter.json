@@ -1,67 +1,107 @@
 {
-  "count": 3,
+  "count": 5,
   "items": [
     {
-      "id": "05dcef67273ad5789810c8f624ac8a6b",
-      "title": "Replit Agent builds your app. Squidler tests it like a real user. Replit Agent fixes what's broken.\n...",
-      "url": "https://x.com/Replit/status/2058261705998602548",
+      "id": "37df27721e7868498a28a984dbabdfd2",
+      "title": "AI agents are advancing research-level math. \n\nI’m thrilled to share \n@GoogleDeepMind\n’s AlphaPr...",
+      "url": "https://x.com/pushmeet/status/2058936037754224998",
       "source": "twitter",
-      "source_author": "replit",
+      "source_author": "GoogleDeepMind",
       "topics": [],
-      "score": 10,
-      "score_reason": "Highly engaging with practical implications for development.",
+      "score": 9,
+      "score_reason": "This introduces a significant advancement in AI's capability to tackle complex math, impacting research and development workflows.",
       "posted": false,
-      "collected_at": "2026-05-24T04:51:40Z",
+      "collected_at": "2026-05-26T04:48:49Z",
       "engagement": {
         "comments": 0,
-        "likes": 102,
-        "replies": 17,
+        "likes": 1138,
+        "replies": 60,
+        "retweets": 203,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "88e48abeda8531e68a6d09a601d07b04",
+      "title": "Anthropic co-founder Chris Olah was invited to speak at today's presentation of Pope Leo XIV's encyc...",
+      "url": "https://x.com/AnthropicAI/status/2058983299092009421",
+      "source": "twitter",
+      "source_author": "AnthropicAI",
+      "topics": [],
+      "score": 8.5,
+      "score_reason": "High engagement and relevance in AI community discussions.",
+      "posted": false,
+      "collected_at": "2026-05-26T04:48:49Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 2987,
+        "replies": 259,
+        "retweets": 599,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "46a21275f0261e53a4ffb7c68ce32e86",
+      "title": "Really amazing results analyzing what's creative/novel vs. what's copied from Internet data, enabled...",
+      "url": "https://x.com/sewon__min/status/2059006746316984705",
+      "source": "twitter",
+      "source_author": "Allen_AI",
+      "topics": [],
+      "score": 7,
+      "score_reason": "The analysis of creativity vs. copied content is relevant to developers interested in generative AI, though not groundbreaking.",
+      "posted": false,
+      "collected_at": "2026-05-26T04:48:49Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 48,
+        "replies": 1,
         "retweets": 7,
         "stars": 0,
         "upvotes": 0
       }
     },
     {
-      "id": "8f3029170fd001a0e8759363bdd884eb",
-      "title": "Very cool to see these conversations happening! This is what openness enables. The \"tool that allows...",
-      "url": "https://x.com/dalbright/status/2058281861655523612",
+      "id": "3eabd47297ba3d66f1de194f724a8087",
+      "title": "Hackathon  Music Industry. Introducing the Musicathon by \n@Musixmatch\n Pro \n\nBuilt with support from...",
+      "url": "https://x.com/Replit/status/2059061956347412775",
       "source": "twitter",
-      "source_author": "Allen_AI",
+      "source_author": "replit",
       "topics": [],
-      "score": 6.5,
-      "score_reason": "Shows engagement but lacks direct relevance to tooling.",
+      "score": 6,
+      "score_reason": "The music industry hackathon promotes creative use of technology but lacks novelty and broader impact in the developer community.",
       "posted": false,
-      "collected_at": "2026-05-24T04:51:40Z",
+      "collected_at": "2026-05-26T04:48:49Z",
       "engagement": {
         "comments": 0,
-        "likes": 18,
-        "replies": 2,
-        "retweets": 6,
+        "likes": 92,
+        "replies": 8,
+        "retweets": 13,
         "stars": 0,
         "upvotes": 0
       }
     },
     {
-      "id": "fc8435ac505318cdee7108e0ed56271d",
-      "title": "Oscar-winning filmmaker behind Her, Being John Malkovich, and iconic music videos for Beastie Boys a...",
-      "url": "https://x.com/Replit/status/2058292007160750138",
+      "id": "d2b42a5e8cb1b17202877827bd97dd26",
+      "title": " Save the date! \n\n AI Workflows for Food Systems Research: A Demonstration of AutoDiscovery with t...",
+      "url": "https://x.com/IFPRI/status/2058589365031354781",
       "source": "twitter",
-      "source_author": "replit",
+      "source_author": "Allen_AI",
       "topics": [],
-      "score": 5.5,
-      "score_reason": "Promotes a creative perspective but less technical focus.",
+      "score": 5,
+      "score_reason": "While showcasing AI in food systems research is informative, it may not directly appeal to the core developer audience.",
       "posted": false,
-      "collected_at": "2026-05-24T04:51:40Z",
+      "collected_at": "2026-05-26T04:48:49Z",
       "engagement": {
         "comments": 0,
-        "likes": 33,
-        "replies": 13,
-        "retweets": 6,
+        "likes": 9,
+        "replies": 1,
+        "retweets": 4,
         "stars": 0,
         "upvotes": 0
       }
     }
   ],
   "source": "twitter",
-  "updated_at": "2026-05-24T04:53:19Z"
+  "updated_at": "2026-05-26T04:51:18Z"
 }
