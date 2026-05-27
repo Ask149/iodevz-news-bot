@@ -1,47 +1,27 @@
 {
-  "count": 2,
+  "count": 1,
   "items": [
     {
-      "id": "1ceb8d5a29810bf10198429c0309ed84",
-      "title": "New on the Engineering Blog: The access and permissions we grant agents should evolve with their cap...",
-      "url": "https://x.com/AnthropicAI/status/2059351260243919269",
+      "id": "c2160c8145d22365b7f9a9aa6b16bd96",
+      "title": "Gemini Embedding 2: A Native Multimodal Embedding Model from Gemini \n\nToday, we’re sharing the \n@G...",
+      "url": "https://x.com/mseyed/status/2059504005387284629",
       "source": "twitter",
-      "source_author": "AnthropicAI",
+      "source_author": "GoogleDeepMind",
       "topics": [],
-      "score": 9.5,
-      "score_reason": "Addresses the evolving nature of agent permissions, crucial for AI development.",
+      "score": 9,
+      "score_reason": "Introduces a significant multimodal AI model likely to impact developer workflows.",
       "posted": false,
-      "collected_at": "2026-05-27T05:00:18Z",
+      "collected_at": "2026-05-27T10:42:20Z",
       "engagement": {
         "comments": 0,
-        "likes": 1315,
-        "replies": 178,
-        "retweets": 213,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "d73c6119bfb565ea84b5a84e7f0c44bb",
-      "title": "Emmy Award-winning motion graphic designer behind 3D title sequences for Hollywood’s biggest produ...",
-      "url": "https://x.com/Replit/status/2059379225925157109",
-      "source": "twitter",
-      "source_author": "replit",
-      "topics": [],
-      "score": 3,
-      "score_reason": "While creative, this post is not highly relevant to developers.",
-      "posted": false,
-      "collected_at": "2026-05-27T05:00:18Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 12,
-        "replies": 6,
-        "retweets": 1,
+        "likes": 134,
+        "replies": 9,
+        "retweets": 27,
         "stars": 0,
         "upvotes": 0
       }
     }
   ],
   "source": "twitter",
-  "updated_at": "2026-05-27T05:02:50Z"
+  "updated_at": "2026-05-27T10:45:17Z"
 }
