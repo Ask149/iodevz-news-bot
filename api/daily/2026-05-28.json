@@ -1,5 +1,6 @@
 {
-  "count": 91,
+  "count": 125,
+  "date": "2026-05-28",
   "items": [
     {
       "id": "217d185f3bd72a2aeae22a344e155558",
@@ -142,6 +143,26 @@
       }
     },
     {
+      "id": "457091e0093ea41ebb08b2dfcd63b638",
+      "title": "We're hosting an event on June 16th in San Francisco.\n\nCompile is a one-day event that brings togeth...",
+      "url": "https://x.com/cursor_ai/status/2059673762728116442",
+      "source": "twitter",
+      "source_author": "cursor_ai",
+      "topics": [],
+      "score": 8,
+      "score_reason": "High engagement signals a strong interest in community involvement that may lead to impactful developments.",
+      "posted": false,
+      "collected_at": "2026-05-28T04:54:28Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 979,
+        "replies": 76,
+        "retweets": 121,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
       "id": "69bd6ecc7fa36f5c269b219d090cb282",
       "title": "Clojure → YAMLScript transpiler: using LLMs for normalization, SCI for execution",
       "url": "https://github.com/whitecell-dev/cljys",
@@ -222,6 +243,26 @@
       }
     },
     {
+      "id": "5419c49b2b0ac4f3d39185b14bd7b9f8",
+      "title": "quarqlabs/agent-oss",
+      "url": "https://github.com/quarqlabs/agent-oss",
+      "source": "github",
+      "source_author": "quarqlabs",
+      "topics": [],
+      "score": 7.5,
+      "score_reason": "This repository offers innovative options for agentic AI deployment, garnering interest from the developer community.",
+      "posted": false,
+      "collected_at": "2026-05-28T04:52:00Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 148,
+        "upvotes": 0
+      }
+    },
+    {
       "id": "f773df3e2b408c3b6380e952303473b7",
       "title": "AGH is the First open-network protocol for AI Agents",
       "url": "https://www.agh.network/",
@@ -299,6 +340,26 @@
         "retweets": 0,
         "stars": 0,
         "upvotes": 4
+      }
+    },
+    {
+      "id": "90b7690c4e9db50193ef145bd150198f",
+      "title": "OpenBMB/PilotDeck",
+      "url": "https://github.com/OpenBMB/PilotDeck",
+      "source": "github",
+      "source_author": "OpenBMB",
+      "topics": [],
+      "score": 7,
+      "score_reason": "This project presents a new open source tool that could be interesting to developers.",
+      "posted": false,
+      "collected_at": "2026-05-28T04:51:42Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 363,
+        "upvotes": 0
       }
     },
     {
@@ -419,6 +480,26 @@
         "retweets": 0,
         "stars": 0,
         "upvotes": 2
+      }
+    },
+    {
+      "id": "52516777c6e2b51fd8e36476e10f8c71",
+      "title": "openclaw/agent-skills",
+      "url": "https://github.com/openclaw/agent-skills",
+      "source": "github",
+      "source_author": "openclaw",
+      "topics": [],
+      "score": 6.5,
+      "score_reason": "Focuses on developing agent skills which is relevant but lacks significant differentiation.",
+      "posted": false,
+      "collected_at": "2026-05-28T04:51:42Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 177,
+        "upvotes": 0
       }
     },
     {
@@ -582,6 +663,26 @@
       }
     },
     {
+      "id": "0f0b9c8fb4da66e26f9e38b915646517",
+      "title": "aa0101181514/tw-legal-rag",
+      "url": "https://github.com/aa0101181514/tw-legal-rag",
+      "source": "github",
+      "source_author": "aa0101181514",
+      "topics": [],
+      "score": 6,
+      "score_reason": "While it has some new content, it's not groundbreaking in terms of developer tools.",
+      "posted": false,
+      "collected_at": "2026-05-28T04:51:58Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 83,
+        "upvotes": 0
+      }
+    },
+    {
       "id": "f8189ae94e19e9baa3ce68780360e33b",
       "title": "ARN: Local semantic memory server for AI agents (Pi 5, 22ms recall, 10/10 tests)",
       "url": "https://github.com/tuuhe99-del/ARN-Adaptive-Reasoning-Network",
@@ -682,6 +783,26 @@
       }
     },
     {
+      "id": "181bc068d7910af5c8adbb72bb0de700",
+      "title": "Look back at last week’s I/O announcements with \n@NotebookLM\n.\n\nYou can listen to an audio overvie...",
+      "url": "https://x.com/GoogleAI/status/2059748312236921149",
+      "source": "twitter",
+      "source_author": "GoogleAI",
+      "topics": [],
+      "score": 5.5,
+      "score_reason": "A recap of events that is informative but doesn’t introduce new developments.",
+      "posted": false,
+      "collected_at": "2026-05-28T04:54:28Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 161,
+        "replies": 21,
+        "retweets": 26,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
       "id": "38c23150f1d0142218d79f9bacaabdca",
       "title": "RuView: See Through Walls with WiFi",
       "url": "https://github.com/ruvnet/RuView",
@@ -699,6 +820,26 @@
         "retweets": 0,
         "stars": 0,
         "upvotes": 2
+      }
+    },
+    {
+      "id": "8fb04feb487af3f318983b36f191cbed",
+      "title": "milcio79/ml-ai-algorithm-advisor",
+      "url": "https://github.com/milcio79/ml-ai-algorithm-advisor",
+      "source": "github",
+      "source_author": "milcio79",
+      "topics": [],
+      "score": 5.5,
+      "score_reason": "Advisory tools for AI algorithms are common but can have utility for developers.",
+      "posted": false,
+      "collected_at": "2026-05-28T04:51:45Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 3,
+        "upvotes": 0
       }
     },
     {
@@ -739,6 +880,26 @@
         "retweets": 0,
         "stars": 0,
         "upvotes": 5
+      }
+    },
+    {
+      "id": "d07b6939f755829eb0d45ba6e7f87677",
+      "title": "goyaldivyansh/genai-rag-chatbot",
+      "url": "https://github.com/goyaldivyansh/genai-rag-chatbot",
+      "source": "github",
+      "source_author": "goyaldivyansh",
+      "topics": [],
+      "score": 5,
+      "score_reason": "RAG chatbots are a hot topic, though many similar projects exist.",
+      "posted": false,
+      "collected_at": "2026-05-28T04:51:45Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
+        "upvotes": 0
       }
     },
     {
@@ -802,6 +963,26 @@
       }
     },
     {
+      "id": "3b9744cdfec371f37ba66398d11c76ed",
+      "title": "op7418/guizang-social-card-skill",
+      "url": "https://github.com/op7418/guizang-social-card-skill",
+      "source": "github",
+      "source_author": "op7418",
+      "topics": [],
+      "score": 5,
+      "score_reason": "Offers a new GitHub skill that could be beneficial for social interactions.",
+      "posted": false,
+      "collected_at": "2026-05-28T04:51:37Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 277,
+        "upvotes": 0
+      }
+    },
+    {
       "id": "d4cab8c5d2ecbe775bb652d8c735a9a3",
       "title": "Economic Futures in the Age of AI",
       "url": "https://openaifoundation.org/news/economic-futures-in-the-age-of-ai",
@@ -839,6 +1020,26 @@
         "retweets": 0,
         "stars": 0,
         "upvotes": 3
+      }
+    },
+    {
+      "id": "bcb2ae584da6bafe4120f2517858f0ce",
+      "title": "moazmohammad/cursor-pro-toolchain",
+      "url": "https://github.com/moazmohammad/cursor-pro-toolchain",
+      "source": "github",
+      "source_author": "moazmohammad",
+      "topics": [],
+      "score": 5,
+      "score_reason": "Cursor tools can be unique but are often not groundbreaking.",
+      "posted": false,
+      "collected_at": "2026-05-28T04:51:55Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 56,
+        "upvotes": 0
       }
     },
     {
@@ -982,6 +1183,66 @@
       }
     },
     {
+      "id": "d5aea5bbed02722999b9e2c628c1d54c",
+      "title": "nekocode/filetree-skill",
+      "url": "https://github.com/nekocode/filetree-skill",
+      "source": "github",
+      "source_author": "nekocode",
+      "topics": [],
+      "score": 4.5,
+      "score_reason": "Provides a utility tool but lacks substantial innovation.",
+      "posted": false,
+      "collected_at": "2026-05-28T04:51:37Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 95,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "9f5c34c9fdee0192dc50ce7f1e9f6146",
+      "title": "Co-founder and Head of Design at Replit, \n@HayaOdeh\n shapes the brand, user experience, and product ...",
+      "url": "https://x.com/Replit/status/2059741612297662698",
+      "source": "twitter",
+      "source_author": "replit",
+      "topics": [],
+      "score": 4.5,
+      "score_reason": "While it's a profile piece, it lacks substantial novelty and direct impact on developers.",
+      "posted": false,
+      "collected_at": "2026-05-28T04:54:28Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 32,
+        "replies": 5,
+        "retweets": 4,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "23ba0a81649e0e44ef8e4164321b278f",
+      "title": "Harshvardhan00001/GenAI-Resume",
+      "url": "https://github.com/Harshvardhan00001/GenAI-Resume",
+      "source": "github",
+      "source_author": "Harshvardhan00001",
+      "topics": [],
+      "score": 4.5,
+      "score_reason": "Generative AI for resumes is a saturated market but may appeal to specific audiences.",
+      "posted": false,
+      "collected_at": "2026-05-28T04:51:45Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
+        "upvotes": 0
+      }
+    },
+    {
       "id": "e56704b762d94c96a974755713373aab",
       "title": "Agent Accountability Gap: Why Network Policies, API Gateways, \u0026 RBAC Isnt Enough",
       "url": "https://www.tigera.io/blog/the-ai-agent-accountability-gap-why-network-policies-api-gateways-and-rbac-are-not-enough/",
@@ -1039,6 +1300,26 @@
         "retweets": 0,
         "stars": 0,
         "upvotes": 3
+      }
+    },
+    {
+      "id": "2e86566a08cd9fa48932d706ab31db73",
+      "title": "Harkirat1462/claude-code-cli",
+      "url": "https://github.com/Harkirat1462/claude-code-cli",
+      "source": "github",
+      "source_author": "Harkirat1462",
+      "topics": [],
+      "score": 4,
+      "score_reason": "Another GitHub tool but low engagement suggests limited interest.",
+      "posted": false,
+      "collected_at": "2026-05-28T04:51:39Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 93,
+        "upvotes": 0
       }
     },
     {
@@ -1102,6 +1383,46 @@
       }
     },
     {
+      "id": "4f16d17217d710ee5296b42cb38580cb",
+      "title": "liuchen6667/deepseek-auto-evolving-harness",
+      "url": "https://github.com/liuchen6667/deepseek-auto-evolving-harness",
+      "source": "github",
+      "source_author": "liuchen6667",
+      "topics": [],
+      "score": 4,
+      "score_reason": "The concept seems similar to existing auto-evolving tools without much novelty.",
+      "posted": false,
+      "collected_at": "2026-05-28T04:51:44Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 7,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "5f714a0cb8249f950de01870cab2e47e",
+      "title": "developer2013/bricks-mcp-open",
+      "url": "https://github.com/developer2013/bricks-mcp-open",
+      "source": "github",
+      "source_author": "developer2013",
+      "topics": [],
+      "score": 4,
+      "score_reason": "Basic tool with limited scope and engagement.",
+      "posted": false,
+      "collected_at": "2026-05-28T04:51:51Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 32,
+        "upvotes": 0
+      }
+    },
+    {
       "id": "1eecafe389d0cbf17f09e74b3c33fea8",
       "title": "Show HN: Liiists, a Markdown-first, iOS and CLI list app",
       "url": "https://github.com/djt53/liiists",
@@ -1162,6 +1483,26 @@
       }
     },
     {
+      "id": "aaea9d5f68e3ff9e9af5e2a04593d004",
+      "title": "Lintshiwe/opencode-config",
+      "url": "https://github.com/Lintshiwe/opencode-config",
+      "source": "github",
+      "source_author": "Lintshiwe",
+      "topics": [],
+      "score": 4,
+      "score_reason": "Configurational tools show promise, but lack novel features to stand out.",
+      "posted": false,
+      "collected_at": "2026-05-28T04:51:46Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 3,
+        "upvotes": 0
+      }
+    },
+    {
       "id": "bf70c874f134d43ef3e8b4a9bfd04211",
       "title": "Instead of LLMs we need self-updating SLMs",
       "url": "https://crib.social/notice/B6jGNsfie10RYn20lU",
@@ -1182,6 +1523,66 @@
       }
     },
     {
+      "id": "f0db01462a37993a63f66b4966dfe972",
+      "title": "fluyeporlaweb/mcp-x-intelligence",
+      "url": "https://github.com/fluyeporlaweb/mcp-x-intelligence",
+      "source": "github",
+      "source_author": "fluyeporlaweb",
+      "topics": [],
+      "score": 3.5,
+      "score_reason": "Limited engagement and needs conceptual clarity.",
+      "posted": false,
+      "collected_at": "2026-05-28T04:51:56Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 13,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "34136b284906502c79e2e1391f588ec1",
+      "title": "wxzyd123/LoSATok",
+      "url": "https://github.com/wxzyd123/LoSATok",
+      "source": "github",
+      "source_author": "wxzyd123",
+      "topics": [],
+      "score": 3.5,
+      "score_reason": "Lacks clarity on application or inventive elements in tokenization.",
+      "posted": false,
+      "collected_at": "2026-05-28T04:51:49Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 3,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "ae22200713803a98c1937fdca1dac5d1",
+      "title": "withkynam/vibecode-pro-max-kit",
+      "url": "https://github.com/withkynam/vibecode-pro-max-kit",
+      "source": "github",
+      "source_author": "withkynam",
+      "topics": [],
+      "score": 3.5,
+      "score_reason": "Less relevant due to niche focus, reflected in low engagement.",
+      "posted": false,
+      "collected_at": "2026-05-28T04:51:39Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 61,
+        "upvotes": 0
+      }
+    },
+    {
       "id": "4d6ad440bd6928038080ef436be06ce8",
       "title": "DeepSeek's 10T USD grand strategy",
       "url": "https://twitter.com/i/status/2057909493250539891",
@@ -1199,6 +1600,26 @@
         "retweets": 0,
         "stars": 0,
         "upvotes": 5
+      }
+    },
+    {
+      "id": "c550d1412d0d060e7c00d2718203cf4d",
+      "title": "sdhjad/Video-frame-extraction-and-cover-generation",
+      "url": "https://github.com/sdhjad/Video-frame-extraction-and-cover-generation",
+      "source": "github",
+      "source_author": "sdhjad",
+      "topics": [],
+      "score": 3.5,
+      "score_reason": "Niche interest in video processing tools with limited engagement potential.",
+      "posted": false,
+      "collected_at": "2026-05-28T04:51:47Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
+        "upvotes": 0
       }
     },
     {
@@ -1262,6 +1683,26 @@
       }
     },
     {
+      "id": "d12add3ce95319938a91fbf05c95e17a",
+      "title": "riverscn/any-switch",
+      "url": "https://github.com/riverscn/any-switch",
+      "source": "github",
+      "source_author": "riverscn",
+      "topics": [],
+      "score": 3,
+      "score_reason": "Niche project with minimal impact on a broader development context.",
+      "posted": false,
+      "collected_at": "2026-05-28T04:51:40Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 15,
+        "upvotes": 0
+      }
+    },
+    {
       "id": "0ac0199fdc5064817036e8800178b2d3",
       "title": "Apple working on iPhone anti-snatching feature that locks device automatically",
       "url": "https://9to5mac.com/2026/05/26/apple-working-on-iphone-anti-snatching-feature-that-locks-the-device-automatically/",
@@ -1322,6 +1763,26 @@
       }
     },
     {
+      "id": "e52d0c4b0e90a56b48dee8f6ffd31227",
+      "title": "pppeee861005/ai-swarm-investing",
+      "url": "https://github.com/pppeee861005/ai-swarm-investing",
+      "source": "github",
+      "source_author": "pppeee861005",
+      "topics": [],
+      "score": 3,
+      "score_reason": "Swarm investing is interesting but lacks practical details.",
+      "posted": false,
+      "collected_at": "2026-05-28T04:51:50Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
+        "upvotes": 0
+      }
+    },
+    {
       "id": "7558fd97a6fe190199ffa1b687b40cbd",
       "title": "Amdahl's law for AI agents",
       "url": "https://electric.ax/blog/2026/02/19/amdahls-law-for-ai-agents",
@@ -1339,6 +1800,46 @@
         "retweets": 0,
         "stars": 0,
         "upvotes": 1
+      }
+    },
+    {
+      "id": "0bed019d0b6410d18152bbf335b7dccc",
+      "title": "CaptainJackMyName/dreamer",
+      "url": "https://github.com/CaptainJackMyName/dreamer",
+      "source": "github",
+      "source_author": "CaptainJackMyName",
+      "topics": [],
+      "score": 3,
+      "score_reason": "Highly specific focus with little to no engagement.",
+      "posted": false,
+      "collected_at": "2026-05-28T04:51:47Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "fde25d92eb7d79f3ed85e83b7ec04497",
+      "title": "magicmadeint/wipedown",
+      "url": "https://github.com/magicmadeint/wipedown",
+      "source": "github",
+      "source_author": "magicmadeint",
+      "topics": [],
+      "score": 3,
+      "score_reason": "Similar to other tools in the space without distinct features.",
+      "posted": false,
+      "collected_at": "2026-05-28T04:51:54Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 3,
+        "upvotes": 0
       }
     },
     {
@@ -1379,6 +1880,126 @@
         "retweets": 0,
         "stars": 0,
         "upvotes": 16
+      }
+    },
+    {
+      "id": "956d08f8c49a1bc157f8f11a985b2e9b",
+      "title": "GreenYIce/RocoKingdom_S2_Box_Detector",
+      "url": "https://github.com/GreenYIce/RocoKingdom_S2_Box_Detector",
+      "source": "github",
+      "source_author": "GreenYIce",
+      "topics": [],
+      "score": 3,
+      "score_reason": "No broad relevance; low engagement indicates minimal interest.",
+      "posted": false,
+      "collected_at": "2026-05-28T04:51:41Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 12,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "0348f943cd166822b25106d26b8ea49f",
+      "title": "rivernova/hosomaki",
+      "url": "https://github.com/rivernova/hosomaki",
+      "source": "github",
+      "source_author": "rivernova",
+      "topics": [],
+      "score": 3,
+      "score_reason": "Low utility and engagement suggest limited impact.",
+      "posted": false,
+      "collected_at": "2026-05-28T04:51:39Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 11,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "c9b6ea69096c4b7a3dc86f1950287640",
+      "title": "dabao-yi/model-flux",
+      "url": "https://github.com/dabao-yi/model-flux",
+      "source": "github",
+      "source_author": "dabao-yi",
+      "topics": [],
+      "score": 3,
+      "score_reason": "Limited impact within a specific niche of AI.",
+      "posted": false,
+      "collected_at": "2026-05-28T04:51:40Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 14,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "c06a33c8e836766bb98fc2aac2516782",
+      "title": "EXboys/agent-doctor",
+      "url": "https://github.com/EXboys/agent-doctor",
+      "source": "github",
+      "source_author": "EXboys",
+      "topics": [],
+      "score": 2.5,
+      "score_reason": "Agent doctor lacks innovative aspects or engagement.",
+      "posted": false,
+      "collected_at": "2026-05-28T04:51:54Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 3,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "4bd38c2a067efe005b7b5590d1c7eaaa",
+      "title": "guorunjie/skillpack-forge",
+      "url": "https://github.com/guorunjie/skillpack-forge",
+      "source": "github",
+      "source_author": "guorunjie",
+      "topics": [],
+      "score": 2.5,
+      "score_reason": "Seems like a basic skill pack with minimal user interest.",
+      "posted": false,
+      "collected_at": "2026-05-28T04:51:52Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "06b40e57d7e81ffecc675811632d9443",
+      "title": "miaolink/THS_MCP_Quant",
+      "url": "https://github.com/miaolink/THS_MCP_Quant",
+      "source": "github",
+      "source_author": "miaolink",
+      "topics": [],
+      "score": 2.5,
+      "score_reason": "Low stars indicate little community interest or utility.",
+      "posted": false,
+      "collected_at": "2026-05-28T04:51:54Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 4,
+        "upvotes": 0
       }
     },
     {
@@ -1502,6 +2123,26 @@
       }
     },
     {
+      "id": "90b0a743e343e6c0c875986be017cbe3",
+      "title": "thunderemperorenergy/MiniTool-Partition-Wizard-cracked",
+      "url": "https://github.com/thunderemperorenergy/MiniTool-Partition-Wizard-cracked",
+      "source": "github",
+      "source_author": "thunderemperorenergy",
+      "topics": [],
+      "score": 2,
+      "score_reason": "Illegal activity focus leads to very low relevance for developers.",
+      "posted": false,
+      "collected_at": "2026-05-28T04:51:41Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 8,
+        "upvotes": 0
+      }
+    },
+    {
       "id": "5c8b4e30428859d266ce42f754427c68",
       "title": "Show HN: Sneakily steer candidates toward naive brute-force solutions",
       "url": "https://www.gonfire.io/",
@@ -1599,6 +2240,46 @@
         "retweets": 0,
         "stars": 0,
         "upvotes": 1
+      }
+    },
+    {
+      "id": "7d9b9e5ae526813674fba858d092a4f6",
+      "title": "IshaanRaj20/DevinAI",
+      "url": "https://github.com/IshaanRaj20/DevinAI",
+      "source": "github",
+      "source_author": "IshaanRaj20",
+      "topics": [],
+      "score": 2,
+      "score_reason": "Lacks clarity or interest indicators.",
+      "posted": false,
+      "collected_at": "2026-05-28T04:51:57Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "c1f992d3678a2655bac8eac2ce3d1d05",
+      "title": "SelahG/DevineLibrarian",
+      "url": "https://github.com/SelahG/DevineLibrarian",
+      "source": "github",
+      "source_author": "SelahG",
+      "topics": [],
+      "score": 2,
+      "score_reason": "No engagement or unique proposition.",
+      "posted": false,
+      "collected_at": "2026-05-28T04:51:57Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 0
       }
     },
     {
@@ -1822,6 +2503,5 @@
       }
     }
   ],
-  "source": "hackernews",
   "updated_at": "2026-05-28T04:58:13Z"
 }
