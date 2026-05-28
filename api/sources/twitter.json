@@ -1,27 +1,187 @@
 {
-  "count": 1,
+  "count": 9,
   "items": [
     {
-      "id": "a26abfa9b7686dda1c08a354cc211536",
-      "title": "Replit has been named to \n@Redpoint\n's 2026 InfraRed 100.\n\nA list of the companies building what AI ...",
-      "url": "https://x.com/Replit/status/2059688584899154134",
+      "id": "c0d09a5b3d7150fcffb13cebf8f6d006",
+      "title": "Introducing the Cursor Developer Habits Report.\n\nWe’re sharing some of our findings on how softwar...",
+      "url": "https://x.com/cursor_ai/status/2060025063899058458",
       "source": "twitter",
-      "source_author": "replit",
+      "source_author": "cursor_ai",
       "topics": [],
       "score": 8,
-      "score_reason": "Replit's recognition indicates growth in the developer tools sector, making it highly relevant.",
+      "score_reason": "Provides valuable insights into developer habits, potentially influencing tools and practices.",
       "posted": false,
-      "collected_at": "2026-05-28T10:42:01Z",
+      "collected_at": "2026-05-28T16:42:06Z",
       "engagement": {
         "comments": 0,
-        "likes": 35,
-        "replies": 11,
-        "retweets": 4,
+        "likes": 621,
+        "replies": 25,
+        "retweets": 82,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "8422ba6da3b83e1e9f138b3a751cbd5f",
+      "title": "R\u0026D Part 1: Here to Win",
+      "url": "https://x.com/OpenAI/status/2060032839991914619",
+      "source": "twitter",
+      "source_author": "OpenAI",
+      "topics": [],
+      "score": 7.5,
+      "score_reason": "Engagely discusses R\u0026D efforts from OpenAI, offering potential implications for future tools.",
+      "posted": false,
+      "collected_at": "2026-05-28T16:42:06Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 357,
+        "replies": 51,
+        "retweets": 30,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "fbc897f1bb51a88065629283c9f9a4c3",
+      "title": "Nano Banana 2 and Nano Banana Pro are now generally available. \n\nOur best image generation models ar...",
+      "url": "https://x.com/Google/status/2060029132105191723",
+      "source": "twitter",
+      "source_author": "GoogleDeepMind",
+      "topics": [],
+      "score": 7,
+      "score_reason": "Launches new image generation models from Google, relevant for developers in AI graphics.",
+      "posted": false,
+      "collected_at": "2026-05-28T16:42:06Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 219,
+        "replies": 30,
+        "retweets": 30,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "ec4b6930f67c40a718218131f5d13a55",
+      "title": "Last Night. A fully AI-generated short film exploring a life-changing evening in Tokyo through the l...",
+      "url": "https://x.com/runwayml/status/2059998751742128635",
+      "source": "twitter",
+      "source_author": "RunwayML",
+      "topics": [],
+      "score": 6,
+      "score_reason": "Showcases a fully AI-generated short film, intriguing for developers in content creation.",
+      "posted": false,
+      "collected_at": "2026-05-28T16:42:06Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 127,
+        "replies": 23,
+        "retweets": 18,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "f4d05c23dacc6198bf544c4256fa8de1",
+      "title": "Data Formulator introduces AI-powered analytics for enterprise data workflows. Data teams can easily...",
+      "url": "https://x.com/MSFTResearch/status/2060028999229735199",
+      "source": "twitter",
+      "source_author": "MSFTResearch",
+      "topics": [],
+      "score": 5.5,
+      "score_reason": "Introduces AI-powered analytics which is relevant, but lacks broad engagement.",
+      "posted": false,
+      "collected_at": "2026-05-28T16:42:06Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 5,
+        "replies": 0,
+        "retweets": 1,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "0ad6a5222531a56f49a18bd22a9e2a4f",
+      "title": "MolmoAct 2 now also officially supports \n@HuggingFace\n’s \n@LeRobotHF\n platform. \n\nTeams already wo...",
+      "url": "https://x.com/allen_ai/status/2060033533972754823",
+      "source": "twitter",
+      "source_author": "Allen_AI",
+      "topics": [],
+      "score": 5,
+      "score_reason": "unscored",
+      "posted": false,
+      "collected_at": "2026-05-28T16:42:06Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 2,
+        "replies": 1,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "16cf69824663b938f00f3d25612578a0",
+      "title": "MolmoAct 2 artifacts have been downloaded 400K+ times in under 1 month.\n\nToday we're opening up the ...",
+      "url": "https://x.com/allen_ai/status/2060033532295028988",
+      "source": "twitter",
+      "source_author": "Allen_AI",
+      "topics": [],
+      "score": 5,
+      "score_reason": "unscored",
+      "posted": false,
+      "collected_at": "2026-05-28T16:42:06Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 5,
+        "replies": 1,
+        "retweets": 1,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "9c1a1a43a70322fd035c8651446336f7",
+      "title": "Learn more:",
+      "url": "https://x.com/runwayml/status/2059998753692561712",
+      "source": "twitter",
+      "source_author": "RunwayML",
+      "topics": [],
+      "score": 5,
+      "score_reason": "Limited information featured, less likely to be impactful or novel.",
+      "posted": false,
+      "collected_at": "2026-05-28T16:42:06Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 5,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "b53284398c93fa13bcd7a829f2d6f4bd",
+      "title": "Power users account for a large share of AI activity, and the gap is widening.",
+      "url": "https://x.com/cursor_ai/status/2060025074330243238",
+      "source": "twitter",
+      "source_author": "cursor_ai",
+      "topics": [],
+      "score": 4.5,
+      "score_reason": "Discusses trends among power users in AI but lacks substantial novelty or tools.",
+      "posted": false,
+      "collected_at": "2026-05-28T16:42:06Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 41,
+        "replies": 3,
+        "retweets": 8,
         "stars": 0,
         "upvotes": 0
       }
     }
   ],
   "source": "twitter",
-  "updated_at": "2026-05-28T10:42:57Z"
+  "updated_at": "2026-05-28T16:43:35Z"
 }
