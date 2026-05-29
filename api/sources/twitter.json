@@ -1,227 +1,107 @@
 {
-  "count": 11,
+  "count": 5,
   "items": [
     {
-      "id": "c533bc2a9ab4a30b7ab887c74b40c8bb",
-      "title": "Before we ship a new model, these teams try to break it.\n\nThey build with it, push it to its limits,...",
-      "url": "https://x.com/claudeai/status/2060074627032838438",
-      "source": "twitter",
-      "source_author": "AnthropicAI",
-      "topics": [],
-      "score": 9.5,
-      "score_reason": "High engagement suggests significant interest in model evaluation.",
-      "posted": false,
-      "collected_at": "2026-05-29T04:57:12Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 3550,
-        "replies": 251,
-        "retweets": 238,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "349b67aa4b4103a56f3b7176b2eeb1f0",
-      "title": "We've raised $65 billion in Series H funding at a $965 billion post-money valuation, led by \n@Altime...",
-      "url": "https://x.com/AnthropicAI/status/2060061347522433422",
-      "source": "twitter",
-      "source_author": "AnthropicAI",
-      "topics": [],
-      "score": 9,
-      "score_reason": "Major funding announcement likely impacts developer ecosystem.",
-      "posted": false,
-      "collected_at": "2026-05-29T04:57:12Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 17944,
-        "replies": 893,
-        "retweets": 2692,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "cc5305918b5a2a82bab5088adb036f49",
-      "title": "Claude Opus 4.8 is now available in Cursor.\n\nOn CursorBench, it's able to work much more efficiently...",
-      "url": "https://x.com/cursor_ai/status/2060044920237469872",
-      "source": "twitter",
-      "source_author": "cursor_ai",
-      "topics": [],
-      "score": 9,
-      "score_reason": "New features in Claude Opus significantly improve efficiency, impacting developer productivity.",
-      "posted": false,
-      "collected_at": "2026-05-29T04:57:12Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 3258,
-        "replies": 134,
-        "retweets": 180,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "6d1097053babcea938e1f5c14447e027",
-      "title": "Earlier this month, our run-rate revenue crossed $47 billion. \n\nThis growth has been driven by organ...",
-      "url": "https://x.com/AnthropicAI/status/2060061348818518493",
-      "source": "twitter",
-      "source_author": "AnthropicAI",
-      "topics": [],
-      "score": 8.5,
-      "score_reason": "Revenue growth indicates successful business model for AI companies.",
-      "posted": false,
-      "collected_at": "2026-05-29T04:57:12Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 1281,
-        "replies": 40,
-        "retweets": 125,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "1854ebdd8ae9d2c6ade57a5e6d76a8e2",
-      "title": "We wanted to see if we could take simple, physical materials (like cardboard and markers) and use AI...",
-      "url": "https://x.com/GoogleAI/status/2060043029835116826",
+      "id": "bd4589adf0304eb0ee40aafaf86ea909",
+      "title": "Hear the architects of Gemini reflect on their journey to continue pushing the frontier of AI, on th...",
+      "url": "https://x.com/GoogleAI/status/2060392191508488493",
       "source": "twitter",
       "source_author": "GoogleAI",
       "topics": [],
       "score": 8,
-      "score_reason": "Innovative approach to using AI with tangible materials is intriguing.",
+      "score_reason": "Discussion of AI architectural innovations is highly relevant and impactful for developers.",
       "posted": false,
-      "collected_at": "2026-05-29T04:57:12Z",
+      "collected_at": "2026-05-29T16:27:56Z",
       "engagement": {
         "comments": 0,
-        "likes": 239,
-        "replies": 58,
-        "retweets": 55,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "d52dac5147b6e1cd87225f57f1eb5800",
-      "title": "Some fun Gemini Omni use cases from the community ",
-      "url": "https://x.com/GoogleAI/status/2060156780311654699",
-      "source": "twitter",
-      "source_author": "GoogleAI",
-      "topics": [],
-      "score": 7.5,
-      "score_reason": "Community use cases being shared indicate growing user engagement with Gemini Omni.",
-      "posted": false,
-      "collected_at": "2026-05-29T04:57:12Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 141,
-        "replies": 15,
-        "retweets": 24,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "6f6b204594b0fc55d166b4398a3a1128",
-      "title": "President and Head of AI at Replit, \n@pirroh\n is the architect of Replit Agent and former Head of Ap...",
-      "url": "https://x.com/Replit/status/2060119190137168072",
-      "source": "twitter",
-      "source_author": "replit",
-      "topics": [],
-      "score": 7,
-      "score_reason": "Insights from a key AI figure can influence developer approaches to AI tool integration.",
-      "posted": false,
-      "collected_at": "2026-05-29T04:57:12Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 20,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "29911cfa187847a013db735e56dd48d5",
-      "title": "We open source most of our artifacts for MolmoAct2, which includes all data, finetuning code, and ev...",
-      "url": "https://x.com/hq_fang/status/2060071012356788319",
-      "source": "twitter",
-      "source_author": "Allen_AI",
-      "topics": [],
-      "score": 6.5,
-      "score_reason": "Open-sourcing artifacts can enhance collaborative development but lacks major novelty.",
-      "posted": false,
-      "collected_at": "2026-05-29T04:57:12Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 22,
-        "replies": 0,
+        "likes": 37,
+        "replies": 5,
         "retweets": 6,
         "stars": 0,
         "upvotes": 0
       }
     },
     {
-      "id": "87be5137e76e364430320eac7c8f4c74",
-      "title": "Close to half of million download since it has been released!",
-      "url": "https://x.com/DJiafei/status/2060040407321592174",
-      "source": "twitter",
-      "source_author": "Allen_AI",
-      "topics": [],
-      "score": 5,
-      "score_reason": "High download numbers indicate interest, but the impact on development workflows is unclear.",
-      "posted": false,
-      "collected_at": "2026-05-29T04:57:12Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 19,
-        "replies": 1,
-        "retweets": 4,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "d8a9691d5decb73245cf854230dd0d05",
-      "title": "Watch your avatar speak Spanish, English and Japanese",
-      "url": "https://x.com/GoogleAI/status/2060156788742205736",
-      "source": "twitter",
-      "source_author": "GoogleAI",
-      "topics": [],
-      "score": 4,
-      "score_reason": "While multilingual avatars are interesting, they're not groundbreaking in developer tools.",
-      "posted": false,
-      "collected_at": "2026-05-29T04:57:12Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 25,
-        "replies": 4,
-        "retweets": 3,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "63a499f9bf9d91d68be63ef62209e56f",
-      "title": "Big show tomorrow:\n\n1. Beautiful apps with Canvas, with \n@stanhuan\n  — explore ideas, design multi...",
-      "url": "https://x.com/MannyBernabe/status/2060028926068490416",
+      "id": "da4133be8391a166fbfd9d0819c533eb",
+      "title": "What's New in Canvas + Customizable Sign-In with Clerk",
+      "url": "https://x.com/Replit/status/2060390354910859401",
       "source": "twitter",
       "source_author": "replit",
       "topics": [],
-      "score": 3.5,
-      "score_reason": "Exploratory app design sessions are relevant but lack direct implications for developer tools.",
+      "score": 7,
+      "score_reason": "Updates on developer tools like Canvas are relevant, though engagement implies limited interest.",
       "posted": false,
-      "collected_at": "2026-05-29T04:57:12Z",
+      "collected_at": "2026-05-29T16:27:56Z",
       "engagement": {
         "comments": 0,
-        "likes": 21,
-        "replies": 3,
-        "retweets": 5,
+        "likes": 6,
+        "replies": 1,
+        "retweets": 1,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "8056493bd1b99c7f77e341a0ceb1753b",
+      "title": "Go behind the scenes to learn more about how The Rogue was made in under a month, by a single person...",
+      "url": "https://x.com/runwayml/status/2060364000295002185",
+      "source": "twitter",
+      "source_author": "RunwayML",
+      "topics": [],
+      "score": 6.5,
+      "score_reason": "Insight into individual development efforts is always interesting but lacks broad relevance.",
+      "posted": false,
+      "collected_at": "2026-05-29T16:27:56Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 80,
+        "replies": 8,
+        "retweets": 12,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "2867e7cb96ff8f142092abedcfafa358",
+      "title": "We’re taking steps to accelerate defensive progress in biology:\n\n- Launching Rosalind Biodefense t...",
+      "url": "https://x.com/OpenAI/status/2060376598642405492",
+      "source": "twitter",
+      "source_author": "OpenAI",
+      "topics": [],
+      "score": 6.5,
+      "score_reason": "Interesting AI application, but more focused on biology than software.",
+      "posted": false,
+      "collected_at": "2026-05-29T16:27:56Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 1014,
+        "replies": 140,
+        "retweets": 138,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "332b95a3cf529e0708645c2aa779fd7c",
+      "title": "Tune in for the full story ↓",
+      "url": "https://x.com/GoogleAI/status/2060392194142290294",
+      "source": "twitter",
+      "source_author": "GoogleAI",
+      "topics": [],
+      "score": 2,
+      "score_reason": "Very low engagement and lacks specific content value.",
+      "posted": false,
+      "collected_at": "2026-05-29T16:27:56Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 5,
+        "replies": 0,
+        "retweets": 1,
         "stars": 0,
         "upvotes": 0
       }
     }
   ],
   "source": "twitter",
-  "updated_at": "2026-05-29T04:58:51Z"
+  "updated_at": "2026-05-29T16:29:08Z"
 }
