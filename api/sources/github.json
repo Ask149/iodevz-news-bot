@@ -1,57 +1,97 @@
 {
-  "count": 4,
+  "count": 5,
   "items": [
     {
-      "id": "b5ac80dc44cf3ac72f9096776fb657d7",
-      "title": "oleksiijko/pmb",
-      "url": "https://github.com/oleksiijko/pmb",
+      "id": "4e6cb81367580f2aa93db4d192d128ca",
+      "title": "steeliron550-ui/search-bibtex",
+      "url": "https://github.com/steeliron550-ui/search-bibtex",
       "source": "github",
-      "source_author": "oleksiijko",
+      "source_author": "steeliron550-ui",
       "topics": [],
       "score": 6,
-      "score_reason": "Has some popularity but lacks significant impact or engagement.",
+      "score_reason": "High stars indicate interest, but lacks additional context or innovation.",
       "posted": false,
-      "collected_at": "2026-05-30T09:01:01Z",
+      "collected_at": "2026-05-30T14:15:36Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 61,
+        "stars": 108,
         "upvotes": 0
       }
     },
     {
-      "id": "e291de01bf9e4fb1b32b596bbe517e8c",
-      "title": "tangsong404/whale2api",
-      "url": "https://github.com/tangsong404/whale2api",
+      "id": "36f3af9a2648e1301d659fef0afb07a3",
+      "title": "m4stanuj/mast-llm-router",
+      "url": "https://github.com/m4stanuj/mast-llm-router",
       "source": "github",
-      "source_author": "tangsong404",
+      "source_author": "m4stanuj",
       "topics": [],
-      "score": 5,
-      "score_reason": "Potentially useful API tool, but lacks engagement and novelty.",
+      "score": 5.5,
+      "score_reason": "Features novelty in LLM routing, but limited engagement.",
       "posted": false,
-      "collected_at": "2026-05-30T09:00:54Z",
+      "collected_at": "2026-05-30T14:15:33Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 9,
+        "stars": 3,
         "upvotes": 0
       }
     },
     {
-      "id": "e7c839a01a49f7ed2427c6dd09b2c545",
-      "title": "nohavewho/whodev-harness",
-      "url": "https://github.com/nohavewho/whodev-harness",
+      "id": "22f84ab8d02c676fa5543c52f3f20aae",
+      "title": "xinweiiiii/claude-code-template-nextjs-fastapi",
+      "url": "https://github.com/xinweiiiii/claude-code-template-nextjs-fastapi",
       "source": "github",
-      "source_author": "nohavewho",
+      "source_author": "xinweiiiii",
       "topics": [],
       "score": 4,
-      "score_reason": "Minimal engagement and unclear impact on developer workflows.",
+      "score_reason": "Basic code template lacks originality and engagement.",
       "posted": false,
-      "collected_at": "2026-05-30T09:00:59Z",
+      "collected_at": "2026-05-30T14:15:30Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "500accb4bd3f22948301c5d3f2dbadfb",
+      "title": "cigili4991/Anthropic-CCA-F-Questions-Updated-Dumps-2026-",
+      "url": "https://github.com/cigili4991/Anthropic-CCA-F-Questions-Updated-Dumps-2026-",
+      "source": "github",
+      "source_author": "cigili4991",
+      "topics": [],
+      "score": 1.5,
+      "score_reason": "A GitHub repository with outdated exam questions, minimal relevance for developers.",
+      "posted": false,
+      "collected_at": "2026-05-30T14:15:16Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 31,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "259143ce2e6020abdb16cf43d570a07e",
+      "title": "The-Swarm-Corporation/swarms-marketplace-cli",
+      "url": "https://github.com/The-Swarm-Corporation/swarms-marketplace-cli",
+      "source": "github",
+      "source_author": "The-Swarm-Corporation",
+      "topics": [],
+      "score": 1,
+      "score_reason": "A CLI tool with limited context or engagement, likely of low interest to developers.",
+      "posted": false,
+      "collected_at": "2026-05-30T14:15:27Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
@@ -60,28 +100,8 @@
         "stars": 2,
         "upvotes": 0
       }
-    },
-    {
-      "id": "efc97b75e620b090c295936e8fdc3775",
-      "title": "kirillin251-cmd/devin",
-      "url": "https://github.com/kirillin251-cmd/devin",
-      "source": "github",
-      "source_author": "kirillin251-cmd",
-      "topics": [],
-      "score": 2,
-      "score_reason": "No engagement or insights to suggest relevance or usefulness.",
-      "posted": false,
-      "collected_at": "2026-05-30T09:01:06Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 0,
-        "upvotes": 0
-      }
     }
   ],
   "source": "github",
-  "updated_at": "2026-05-30T09:04:07Z"
+  "updated_at": "2026-05-30T14:18:50Z"
 }
