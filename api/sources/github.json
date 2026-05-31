@@ -1,57 +1,197 @@
 {
-  "count": 5,
+  "count": 17,
   "items": [
     {
-      "id": "4e6cb81367580f2aa93db4d192d128ca",
-      "title": "steeliron550-ui/search-bibtex",
-      "url": "https://github.com/steeliron550-ui/search-bibtex",
+      "id": "db9ba76470d2cec274839aebdd8e0edf",
+      "title": "veryyoldman/metamask-openclaw",
+      "url": "https://github.com/veryyoldman/metamask-openclaw",
       "source": "github",
-      "source_author": "steeliron550-ui",
+      "source_author": "veryyoldman",
       "topics": [],
       "score": 6,
-      "score_reason": "High stars indicate interest, but lacks additional context or innovation.",
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-05-30T14:15:36Z",
+      "collected_at": "2026-05-31T05:05:41Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 108,
+        "stars": 57,
         "upvotes": 0
       }
     },
     {
-      "id": "36f3af9a2648e1301d659fef0afb07a3",
-      "title": "m4stanuj/mast-llm-router",
-      "url": "https://github.com/m4stanuj/mast-llm-router",
+      "id": "5508a7782090b48f5f8d595433e4e7c0",
+      "title": "DannyMac180/skills",
+      "url": "https://github.com/DannyMac180/skills",
       "source": "github",
-      "source_author": "m4stanuj",
+      "source_author": "DannyMac180",
       "topics": [],
-      "score": 5.5,
-      "score_reason": "Features novelty in LLM routing, but limited engagement.",
+      "score": 6,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-05-30T14:15:33Z",
+      "collected_at": "2026-05-31T05:05:47Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 3,
+        "stars": 119,
         "upvotes": 0
       }
     },
     {
-      "id": "22f84ab8d02c676fa5543c52f3f20aae",
-      "title": "xinweiiiii/claude-code-template-nextjs-fastapi",
-      "url": "https://github.com/xinweiiiii/claude-code-template-nextjs-fastapi",
+      "id": "e9b2b8cb9e50ca8c895de768cf46066f",
+      "title": "jiaran-king/Re-Zero---Starting-LLM-",
+      "url": "https://github.com/jiaran-king/Re-Zero---Starting-LLM-",
       "source": "github",
-      "source_author": "xinweiiiii",
+      "source_author": "jiaran-king",
+      "topics": [],
+      "score": 6,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-05-31T05:05:46Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 90,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "ff53274ac6bc51cb29eb13259e9bdda4",
+      "title": "LawmakerTreasure/deepseek-openclaw",
+      "url": "https://github.com/LawmakerTreasure/deepseek-openclaw",
+      "source": "github",
+      "source_author": "LawmakerTreasure",
+      "topics": [],
+      "score": 6,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-05-31T05:05:32Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 64,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "59095bc6038f8f6bad9bcfe2449f086a",
+      "title": "PatterAI/skills",
+      "url": "https://github.com/PatterAI/skills",
+      "source": "github",
+      "source_author": "PatterAI",
       "topics": [],
       "score": 4,
-      "score_reason": "Basic code template lacks originality and engagement.",
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-05-30T14:15:30Z",
+      "collected_at": "2026-05-31T05:05:44Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 2,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "8330879b42056b903baca672f160b070",
+      "title": "NikeGunn/agentguard",
+      "url": "https://github.com/NikeGunn/agentguard",
+      "source": "github",
+      "source_author": "NikeGunn",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-05-31T05:05:44Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 2,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "e499d195e9d867c96b8620fd705a4ac8",
+      "title": "gmapsscraper/google-maps-agent-skills",
+      "url": "https://github.com/gmapsscraper/google-maps-agent-skills",
+      "source": "github",
+      "source_author": "gmapsscraper",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-05-31T05:05:41Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 8,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "1572af864b07b28f619e964d4c279f73",
+      "title": "HarshMehta112/skillsmith",
+      "url": "https://github.com/HarshMehta112/skillsmith",
+      "source": "github",
+      "source_author": "HarshMehta112",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-05-31T05:05:40Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 2,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "e0c56435fd069a754238556d5c1fac27",
+      "title": "unknownsorcerer007/Agent-X",
+      "url": "https://github.com/unknownsorcerer007/Agent-X",
+      "source": "github",
+      "source_author": "unknownsorcerer007",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-05-31T05:05:38Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 2,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "17cdb4cb99b292d46230b80b10d43f96",
+      "title": "SuperInstance/lau-audio",
+      "url": "https://github.com/SuperInstance/lau-audio",
+      "source": "github",
+      "source_author": "SuperInstance",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-05-31T05:05:37Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
@@ -62,36 +202,36 @@
       }
     },
     {
-      "id": "500accb4bd3f22948301c5d3f2dbadfb",
-      "title": "cigili4991/Anthropic-CCA-F-Questions-Updated-Dumps-2026-",
-      "url": "https://github.com/cigili4991/Anthropic-CCA-F-Questions-Updated-Dumps-2026-",
+      "id": "8357cf84343f6859c0451fb474d6bec6",
+      "title": "zzj2004/minimax-hub",
+      "url": "https://github.com/zzj2004/minimax-hub",
       "source": "github",
-      "source_author": "cigili4991",
+      "source_author": "zzj2004",
       "topics": [],
-      "score": 1.5,
-      "score_reason": "A GitHub repository with outdated exam questions, minimal relevance for developers.",
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-05-30T14:15:16Z",
+      "collected_at": "2026-05-31T05:05:36Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 31,
+        "stars": 1,
         "upvotes": 0
       }
     },
     {
-      "id": "259143ce2e6020abdb16cf43d570a07e",
-      "title": "The-Swarm-Corporation/swarms-marketplace-cli",
-      "url": "https://github.com/The-Swarm-Corporation/swarms-marketplace-cli",
+      "id": "7e6c1d174cfbc988c39f8f1f5516c9bc",
+      "title": "kanswam/cobol-moderniser",
+      "url": "https://github.com/kanswam/cobol-moderniser",
       "source": "github",
-      "source_author": "The-Swarm-Corporation",
+      "source_author": "kanswam",
       "topics": [],
-      "score": 1,
-      "score_reason": "A CLI tool with limited context or engagement, likely of low interest to developers.",
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-05-30T14:15:27Z",
+      "collected_at": "2026-05-31T05:05:35Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
@@ -100,8 +240,108 @@
         "stars": 2,
         "upvotes": 0
       }
+    },
+    {
+      "id": "ba60ab22b4e6205f44a71b83a4444570",
+      "title": "margetrp-hub/gpt-account-manager",
+      "url": "https://github.com/margetrp-hub/gpt-account-manager",
+      "source": "github",
+      "source_author": "margetrp-hub",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-05-31T05:05:30Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 11,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "8a9b7ef0f4355ec4f2a7afe2b9863195",
+      "title": "Sam5440/HBCPC2026",
+      "url": "https://github.com/Sam5440/HBCPC2026",
+      "source": "github",
+      "source_author": "Sam5440",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-05-31T05:05:30Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 8,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "61e67fbdc89102e02841cbb3981bfecf",
+      "title": "oucanrong/cc-model-manager",
+      "url": "https://github.com/oucanrong/cc-model-manager",
+      "source": "github",
+      "source_author": "oucanrong",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-05-31T05:05:35Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 5,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "f8ac8b617d10955eac2140e3c651b97d",
+      "title": "umathivagit/hexaware-genai-bootcamp-trg",
+      "url": "https://github.com/umathivagit/hexaware-genai-bootcamp-trg",
+      "source": "github",
+      "source_author": "umathivagit",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-05-31T05:05:33Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "9588a9c63ad5ecc3bec930abf1e532cb",
+      "title": "Mayur710/nids-app",
+      "url": "https://github.com/Mayur710/nids-app",
+      "source": "github",
+      "source_author": "Mayur710",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-05-31T05:05:33Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
+        "upvotes": 0
+      }
     }
   ],
   "source": "github",
-  "updated_at": "2026-05-30T14:18:50Z"
+  "updated_at": "2026-05-31T05:08:35Z"
 }

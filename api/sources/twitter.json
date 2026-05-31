@@ -1,187 +1,27 @@
 {
-  "count": 9,
+  "count": 1,
   "items": [
     {
-      "id": "836c4b54a10150e43cbc309a9fb5a753",
-      "title": "Auto-review mode is now available in Cursor.\n\nIt allows agents to run tool calls with fewer approval...",
-      "url": "https://x.com/cursor_ai/status/2060406013098897765",
-      "source": "twitter",
-      "source_author": "cursor_ai",
-      "topics": [],
-      "score": 9,
-      "score_reason": "Auto-review mode introduces significant tool automation for developers.",
-      "posted": false,
-      "collected_at": "2026-05-30T04:38:20Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 1486,
-        "replies": 54,
-        "retweets": 101,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "ffe1da4710773f6fd93c9480486d2505",
-      "title": "AI can give researchers the freedom to pursue “crazier” ideas.\n\nFor Terence Tao, AI creates more...",
-      "url": "https://x.com/OpenAI/status/2060451757818601808",
-      "source": "twitter",
-      "source_author": "OpenAI",
-      "topics": [],
-      "score": 8,
-      "score_reason": "The idea presented by Terence Tao could reshape thinking in AI and research.",
-      "posted": false,
-      "collected_at": "2026-05-30T04:38:20Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 3082,
-        "replies": 159,
-        "retweets": 348,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "523b92e5e3892bfe1bfe1f2308b3a7ad",
-      "title": "Agent actions that aren't on your allowlist or can't be sandboxed go to a classifier subagent.\n\nThis...",
-      "url": "https://x.com/cursor_ai/status/2060406014478831842",
-      "source": "twitter",
-      "source_author": "cursor_ai",
-      "topics": [],
-      "score": 8,
-      "score_reason": "Classifier subagent features enhance AI core capabilities, impacting development workflows.",
-      "posted": false,
-      "collected_at": "2026-05-30T04:38:20Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 75,
-        "replies": 3,
-        "retweets": 1,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "087239d92d001726ef013f45289dee31",
-      "title": "In conversation with OpenAI’s \n@markchen90\n, Terence reflects on a future where AI reduces the cog...",
-      "url": "https://x.com/OpenAI/status/2060451760033214653",
-      "source": "twitter",
-      "source_author": "OpenAI",
-      "topics": [],
-      "score": 5.5,
-      "score_reason": "Reflections on AI's impact are insightful but lack direct relevance to developer tools.",
-      "posted": false,
-      "collected_at": "2026-05-30T04:38:20Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 207,
-        "replies": 13,
-        "retweets": 18,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "d05dcc7592b9f77d100ebb56db47ea4b",
-      "title": "We are continually adding new models and endpoints to the Runway API so you can build the best gener...",
-      "url": "https://x.com/runwayml/status/2060453805519765548",
-      "source": "twitter",
-      "source_author": "RunwayML",
-      "topics": [],
-      "score": 5,
-      "score_reason": "Continuous updates to an API are relevant but not particularly novel.",
-      "posted": false,
-      "collected_at": "2026-05-30T04:38:20Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 85,
-        "replies": 8,
-        "retweets": 6,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "491e4b3e98dbfdff789bc3fc148cef8f",
-      "title": "Working at the intersection of AI, data, and the built environment, few have shaped the language of ...",
-      "url": "https://x.com/Replit/status/2060466376020553800",
+      "id": "f1423b36a34311d9bee63857578382d5",
+      "title": "Reimagining technology as a catalyst for human connection, \n@tigrisli\n designs installations, electr...",
+      "url": "https://x.com/Replit/status/2060828698933166081",
       "source": "twitter",
       "source_author": "replit",
       "topics": [],
       "score": 4,
-      "score_reason": "While AI and built environment intersections are interesting, the post lacks direct relevance to developers.",
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-05-30T04:38:20Z",
+      "collected_at": "2026-05-31T05:08:12Z",
       "engagement": {
         "comments": 0,
-        "likes": 17,
-        "replies": 4,
-        "retweets": 3,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "ad965c25c7fc353c6bc70290a2104078",
-      "title": "Get started: \nhttps://\ndev.runwayml.com",
-      "url": "https://x.com/runwayml/status/2060453807994155518",
-      "source": "twitter",
-      "source_author": "RunwayML",
-      "topics": [],
-      "score": 3,
-      "score_reason": "Link to getting started lacks depth and engagement.",
-      "posted": false,
-      "collected_at": "2026-05-30T04:38:20Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 4,
-        "replies": 1,
-        "retweets": 2,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "ca2cf0b56a87089a73a86b32220e6edb",
-      "title": "Proud day at Replit.\n\nHis Majesty King Abdullah II, King of Jordan, awarded our CEO \n@amasad\n the Or...",
-      "url": "https://x.com/Replit/status/2060481312188961116",
-      "source": "twitter",
-      "source_author": "replit",
-      "topics": [],
-      "score": 3,
-      "score_reason": "Although notable, the royal recognition doesn't directly affect developer tools or workflows.",
-      "posted": false,
-      "collected_at": "2026-05-30T04:38:20Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 215,
-        "replies": 6,
-        "retweets": 9,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "e77dabdc1d2ce1b652c6c60786c32b47",
-      "title": "Last chance to RSVP for our annual CVPR Friends Dinner in Denver on June 4th for conversation, cockt...",
-      "url": "https://x.com/runwayml/status/2060408777518563351",
-      "source": "twitter",
-      "source_author": "RunwayML",
-      "topics": [],
-      "score": 2,
-      "score_reason": "Event announcement lacks novelty and relevance to developers.",
-      "posted": false,
-      "collected_at": "2026-05-30T04:38:20Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 19,
-        "replies": 2,
-        "retweets": 4,
+        "likes": 14,
+        "replies": 8,
+        "retweets": 1,
         "stars": 0,
         "upvotes": 0
       }
     }
   ],
   "source": "twitter",
-  "updated_at": "2026-05-30T04:39:55Z"
+  "updated_at": "2026-05-31T05:08:35Z"
 }
