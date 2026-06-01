@@ -1,17 +1,197 @@
 {
-  "count": 7,
+  "count": 30,
   "items": [
     {
-      "id": "343dbaa294cd7bc127308ad7f19ffb49",
-      "title": "LLMQuant/skills",
-      "url": "https://github.com/LLMQuant/skills",
+      "id": "1ba5277eb5c71321936254f47e177f94",
+      "title": "antigravity-cli-google/antigravity-cli",
+      "url": "https://github.com/antigravity-cli-google/antigravity-cli",
       "source": "github",
-      "source_author": "LLMQuant",
+      "source_author": "antigravity-cli-google",
       "topics": [],
-      "score": 7,
-      "score_reason": "Potentially useful tool for LLM practitioners, moderate interest.",
+      "score": 6,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-05-31T14:19:23Z",
+      "collected_at": "2026-06-01T05:27:30Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 147,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "db5211ac63ab3dfd837719e30a6e2d0c",
+      "title": "goul4rt/lgpd-skills",
+      "url": "https://github.com/goul4rt/lgpd-skills",
+      "source": "github",
+      "source_author": "goul4rt",
+      "topics": [],
+      "score": 5,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-06-01T05:27:26Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 24,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "d0045b5231946fda2153be27fec89829",
+      "title": "GoekeLab/awesome-genomic-skills",
+      "url": "https://github.com/GoekeLab/awesome-genomic-skills",
+      "source": "github",
+      "source_author": "GoekeLab",
+      "topics": [],
+      "score": 5,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-06-01T05:27:26Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 21,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "f5d06e74f7169924982994e7d994fbfa",
+      "title": "ssreeni1/tracebase",
+      "url": "https://github.com/ssreeni1/tracebase",
+      "source": "github",
+      "source_author": "ssreeni1",
+      "topics": [],
+      "score": 4,
+      "score_reason": "Basic project whose utility is unclear.",
+      "posted": false,
+      "collected_at": "2026-06-01T05:27:08Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 75,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "0fa754a031f62dfb31d278cb4a9f877c",
+      "title": "PanisHandsome/ai-rules-sync",
+      "url": "https://github.com/PanisHandsome/ai-rules-sync",
+      "source": "github",
+      "source_author": "PanisHandsome",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-06-01T05:27:27Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 2,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "95ba95e5b423adb8d2db2836140bc64d",
+      "title": "OnlyTerp/UltraCode-Shim",
+      "url": "https://github.com/OnlyTerp/UltraCode-Shim",
+      "source": "github",
+      "source_author": "OnlyTerp",
+      "topics": [],
+      "score": 4,
+      "score_reason": "Appears to be a niche solution, unclear impact.",
+      "posted": false,
+      "collected_at": "2026-06-01T05:27:08Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 74,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "38af84ac0ae4da51344089161b2c07ee",
+      "title": "mr-Dinesh-pro/HITESH-DEVINE-PRODDUCTS-SHOP",
+      "url": "https://github.com/mr-Dinesh-pro/HITESH-DEVINE-PRODDUCTS-SHOP",
+      "source": "github",
+      "source_author": "mr-Dinesh-pro",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-06-01T05:27:28Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "bdc2b7c7410679e4e184e0af8b847f42",
+      "title": "kurumar/devin-autofix-service",
+      "url": "https://github.com/kurumar/devin-autofix-service",
+      "source": "github",
+      "source_author": "kurumar",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-06-01T05:27:28Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "765741be35a4dffb0da7c6a1be56d92f",
+      "title": "aihxp/codeauditor",
+      "url": "https://github.com/aihxp/codeauditor",
+      "source": "github",
+      "source_author": "aihxp",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-06-01T05:27:27Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 2,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "6072de8af5fb37b85c157632cabe78f9",
+      "title": "skyf0xx/Pebble",
+      "url": "https://github.com/skyf0xx/Pebble",
+      "source": "github",
+      "source_author": "skyf0xx",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-06-01T05:27:24Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
@@ -22,76 +202,16 @@
       }
     },
     {
-      "id": "85e3a2b8001d112894840e3c8f66888e",
-      "title": "deusjin/subforge",
-      "url": "https://github.com/deusjin/subforge",
+      "id": "17dab961c7889b33be5921b9e9128e60",
+      "title": "Santazuki/devflow",
+      "url": "https://github.com/Santazuki/devflow",
       "source": "github",
-      "source_author": "deusjin",
-      "topics": [],
-      "score": 6,
-      "score_reason": "Has potential for engagement but lacks exposure and context.",
-      "posted": false,
-      "collected_at": "2026-05-31T14:19:09Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 32,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "10c2c757c6bad6a5b38deb57495e7ab0",
-      "title": "MOLAaaaaaaa/MolaGPT.Desktop",
-      "url": "https://github.com/MOLAaaaaaaa/MolaGPT.Desktop",
-      "source": "github",
-      "source_author": "MOLAaaaaaaa",
-      "topics": [],
-      "score": 5.5,
-      "score_reason": "MolaGPT showcases an interesting approach, though it needs more visibility.",
-      "posted": false,
-      "collected_at": "2026-05-31T14:19:10Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 8,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "e124dbf903c89bcb5849e803795761e0",
-      "title": "DotHarness/dotcraft",
-      "url": "https://github.com/DotHarness/dotcraft",
-      "source": "github",
-      "source_author": "DotHarness",
+      "source_author": "Santazuki",
       "topics": [],
       "score": 4,
-      "score_reason": "Easy to overlook, minimal engagement and utility for developers.",
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-05-31T14:19:13Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 12,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "553338657de03b417209c4172f43b454",
-      "title": "argahv/sisyphus-academica",
-      "url": "https://github.com/argahv/sisyphus-academica",
-      "source": "github",
-      "source_author": "argahv",
-      "topics": [],
-      "score": 3,
-      "score_reason": "Low engagement and unclear relevance to current developer needs.",
-      "posted": false,
-      "collected_at": "2026-05-31T14:19:19Z",
+      "collected_at": "2026-06-01T05:27:27Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
@@ -102,16 +222,196 @@
       }
     },
     {
-      "id": "b5d3f5bff0e95e0141cc8180e6bf2bcc",
-      "title": "rapidstalkercutters/Pika-Labs-Pro-cracked",
-      "url": "https://github.com/rapidstalkercutters/Pika-Labs-Pro-cracked",
+      "id": "2f0b4dfced904eb87492ffc9983fea4c",
+      "title": "Christian-Katzmann/app-it",
+      "url": "https://github.com/Christian-Katzmann/app-it",
       "source": "github",
-      "source_author": "rapidstalkercutters",
+      "source_author": "Christian-Katzmann",
+      "topics": [],
+      "score": 3.5,
+      "score_reason": "GitHub project may be useful but lacks significant novelty.",
+      "posted": false,
+      "collected_at": "2026-06-01T05:27:08Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 109,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "655ca5ff44b483f6ec8884cc9b2582a4",
+      "title": "datfooldive/openai-promo-bypass",
+      "url": "https://github.com/datfooldive/openai-promo-bypass",
+      "source": "github",
+      "source_author": "datfooldive",
+      "topics": [],
+      "score": 3,
+      "score_reason": "Bypassing promos for a commercial product is controversial.",
+      "posted": false,
+      "collected_at": "2026-06-01T05:27:11Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 26,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "acbef920ecfcf6746dfac091bcc0e856",
+      "title": "0xSero/deepseek-spark",
+      "url": "https://github.com/0xSero/deepseek-spark",
+      "source": "github",
+      "source_author": "0xSero",
+      "topics": [],
+      "score": 3,
+      "score_reason": "Low engagement and unclear purpose.",
+      "posted": false,
+      "collected_at": "2026-06-01T05:27:14Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 9,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "7fdf495490365dd7cf02928deb0ecab7",
+      "title": "nnoojibail/Gen-Academy-Wk1-NN",
+      "url": "https://github.com/nnoojibail/Gen-Academy-Wk1-NN",
+      "source": "github",
+      "source_author": "nnoojibail",
       "topics": [],
       "score": 2,
-      "score_reason": "Appears irrelevant with no engagement signals.",
+      "score_reason": "Irrelevant project with low relevance to current trends.",
       "posted": false,
-      "collected_at": "2026-05-31T14:19:16Z",
+      "collected_at": "2026-06-01T05:27:16Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "505ae455b06998236565bfc6450d189a",
+      "title": "leepi/genai-platform",
+      "url": "https://github.com/leepi/genai-platform",
+      "source": "github",
+      "source_author": "leepi",
+      "topics": [],
+      "score": 2,
+      "score_reason": "No significant features or innovations.",
+      "posted": false,
+      "collected_at": "2026-06-01T05:27:16Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "6b3a772ac3844ae0f34394d54d530eab",
+      "title": "talentedman/anyrouter-use-gpt-image",
+      "url": "https://github.com/talentedman/anyrouter-use-gpt-image",
+      "source": "github",
+      "source_author": "talentedman",
+      "topics": [],
+      "score": 2,
+      "score_reason": "Limited functionality and no apparent novelty.",
+      "posted": false,
+      "collected_at": "2026-06-01T05:27:12Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 8,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "d69bd9404a61a2343ee86e5b4856e170",
+      "title": "Tempomacbuild26/Whisper-Desktop-Pro-cracked",
+      "url": "https://github.com/Tempomacbuild26/Whisper-Desktop-Pro-cracked",
+      "source": "github",
+      "source_author": "Tempomacbuild26",
+      "topics": [],
+      "score": 2,
+      "score_reason": "Replicated software not likely to benefit developers.",
+      "posted": false,
+      "collected_at": "2026-06-01T05:27:11Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 50,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "21f6eabc72dbb724e3117f213f699091",
+      "title": "elonmust26/agentprep",
+      "url": "https://github.com/elonmust26/agentprep",
+      "source": "github",
+      "source_author": "elonmust26",
+      "topics": [],
+      "score": 1,
+      "score_reason": "Lacks meaningful context or user engagement.",
+      "posted": false,
+      "collected_at": "2026-06-01T05:27:23Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "bcc6d1cde8e5163ff0f224395a22ce46",
+      "title": "ethanhq/cc-fleet",
+      "url": "https://github.com/ethanhq/cc-fleet",
+      "source": "github",
+      "source_author": "ethanhq",
+      "topics": [],
+      "score": 1,
+      "score_reason": "Minimal engagement and unclear utility.",
+      "posted": false,
+      "collected_at": "2026-06-01T05:27:17Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 6,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "abaeee05d0424ca9a1cde1737fa51517",
+      "title": "superpeperzk2842-dotcom/ollama-281",
+      "url": "https://github.com/superpeperzk2842-dotcom/ollama-281",
+      "source": "github",
+      "source_author": "superpeperzk2842-dotcom",
+      "topics": [],
+      "score": 1,
+      "score_reason": "Limited insights and engagement.",
+      "posted": false,
+      "collected_at": "2026-06-01T05:27:17Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
@@ -122,16 +422,16 @@
       }
     },
     {
-      "id": "11e20ecf95656be1322262126bef87c1",
-      "title": "de1eteDuser/WindsurfProxyUpdata",
-      "url": "https://github.com/de1eteDuser/WindsurfProxyUpdata",
+      "id": "03370272d391ed98bb397b15908c71fc",
+      "title": "Zzzgamingo/ollama-172",
+      "url": "https://github.com/Zzzgamingo/ollama-172",
       "source": "github",
-      "source_author": "de1eteDuser",
+      "source_author": "Zzzgamingo",
       "topics": [],
-      "score": 2,
-      "score_reason": "Limited engagement and relevance, not appealing to developers.",
+      "score": 1,
+      "score_reason": "Low engagement and unclear purpose.",
       "posted": false,
-      "collected_at": "2026-05-31T14:19:25Z",
+      "collected_at": "2026-06-01T05:27:17Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
@@ -140,8 +440,168 @@
         "stars": 2,
         "upvotes": 0
       }
+    },
+    {
+      "id": "2e9e357b10cec816e4af8e83ad6060dd",
+      "title": "xin1u/UltraFlash",
+      "url": "https://github.com/xin1u/UltraFlash",
+      "source": "github",
+      "source_author": "xin1u",
+      "topics": [],
+      "score": 1,
+      "score_reason": "Minimal engagement and contribution to the field.",
+      "posted": false,
+      "collected_at": "2026-06-01T05:27:18Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "5b059b27bc02ed243cb764de0cf1f11a",
+      "title": "pkp666/mjj-ai-studio",
+      "url": "https://github.com/pkp666/mjj-ai-studio",
+      "source": "github",
+      "source_author": "pkp666",
+      "topics": [],
+      "score": 1,
+      "score_reason": "Low engagement and unclear purpose.",
+      "posted": false,
+      "collected_at": "2026-06-01T05:27:18Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "94671f0b17e7d7d073ce68dd493007cb",
+      "title": "smash273/Multimodal-AI-Driven-Contextual-Story-Title-Generation-Samsung-PRISM-",
+      "url": "https://github.com/smash273/Multimodal-AI-Driven-Contextual-Story-Title-Generation-Samsung-PRISM-",
+      "source": "github",
+      "source_author": "smash273",
+      "topics": [],
+      "score": 1,
+      "score_reason": "Lacks significant engagement or innovative value.",
+      "posted": false,
+      "collected_at": "2026-06-01T05:27:19Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "75aed14921c861730720da0e06dfb586",
+      "title": "zougar99/ai-geanret",
+      "url": "https://github.com/zougar99/ai-geanret",
+      "source": "github",
+      "source_author": "zougar99",
+      "topics": [],
+      "score": 1,
+      "score_reason": "Minimal engagement and unclear utility.",
+      "posted": false,
+      "collected_at": "2026-06-01T05:27:19Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "9763d8aab4b3bb586d9fb1c668d972da",
+      "title": "charanrathod-cr17/Anything-to-audio-generation",
+      "url": "https://github.com/charanrathod-cr17/Anything-to-audio-generation",
+      "source": "github",
+      "source_author": "charanrathod-cr17",
+      "topics": [],
+      "score": 1,
+      "score_reason": "No apparent benefits or engagement with the project.",
+      "posted": false,
+      "collected_at": "2026-06-01T05:27:19Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "28c2c89e1ab8b752616db4c62c0f841a",
+      "title": "guruprasadss0512/Competitive_Intelligence_Swarm",
+      "url": "https://github.com/guruprasadss0512/Competitive_Intelligence_Swarm",
+      "source": "github",
+      "source_author": "guruprasadss0512",
+      "topics": [],
+      "score": 1,
+      "score_reason": "Minimal engagement and unclear contribution.",
+      "posted": false,
+      "collected_at": "2026-06-01T05:27:21Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "3f63050ef11d104cca25e531133cb709",
+      "title": "mauricedesaxe/claude-harness-template",
+      "url": "https://github.com/mauricedesaxe/claude-harness-template",
+      "source": "github",
+      "source_author": "mauricedesaxe",
+      "topics": [],
+      "score": 1,
+      "score_reason": "Limited insights and engagement.",
+      "posted": false,
+      "collected_at": "2026-06-01T05:27:23Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "b45dbccb3ff314ced6090784a9c9d7dc",
+      "title": "AryanAT13/smart-dining",
+      "url": "https://github.com/AryanAT13/smart-dining",
+      "source": "github",
+      "source_author": "AryanAT13",
+      "topics": [],
+      "score": 1,
+      "score_reason": "Minimal engagement and unclear utility.",
+      "posted": false,
+      "collected_at": "2026-06-01T05:27:16Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
+        "upvotes": 0
+      }
     }
   ],
   "source": "github",
-  "updated_at": "2026-05-31T14:22:47Z"
+  "updated_at": "2026-06-01T05:30:58Z"
 }
