@@ -1,67 +1,147 @@
 {
-  "count": 3,
+  "count": 7,
   "items": [
     {
-      "id": "51843fe1925d888b1c095b3e9a0126fe",
-      "title": "MMA turned him from an awkward nervous wreck into a a confident fluent nice to listen to guy\n\nPower ...",
-      "url": "https://x.com/levelsio/status/1757577184481272118",
+      "id": "42fe93d1be9a57e440b60bc42c3bad2f",
+      "title": "Anthropic has confidentially submitted a draft S-1 registration statement to the Securities and Exch...",
+      "url": "https://x.com/AnthropicAI/status/2061478052257841495",
       "source": "twitter",
-      "source_author": "levelsio",
+      "source_author": "AnthropicAI",
       "topics": [],
-      "score": 8,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "score": 9.5,
+      "score_reason": "Potentially significant IPO news from a key player in AI, high engagement.",
       "posted": false,
-      "collected_at": "2026-06-01T05:29:56Z",
+      "collected_at": "2026-06-01T18:27:51Z",
       "engagement": {
         "comments": 0,
-        "likes": 33053,
-        "replies": 263,
-        "retweets": 2191,
+        "likes": 11634,
+        "replies": 510,
+        "retweets": 1921,
         "stars": 0,
         "upvotes": 0
       }
     },
     {
-      "id": "2ababa83f13391b842ca42ed7402131d",
-      "title": "Read more:",
-      "url": "https://x.com/runwayml/status/2061315092390519202",
+      "id": "205455a70851ae0364bcf199e2532f6a",
+      "title": "A prompt can cost a million times more than an HTTP request, so token theft is a high-margin busines...",
+      "url": "https://x.com/vercel_dev/status/2061447653129671014",
+      "source": "twitter",
+      "source_author": "vercel",
+      "topics": [],
+      "score": 7,
+      "score_reason": "Insight into economics of prompt usage in GenAI, relevant for developers.",
+      "posted": false,
+      "collected_at": "2026-06-01T18:27:51Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 63,
+        "replies": 5,
+        "retweets": 8,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "831e63912f1b71964261526fd3f0bcfc",
+      "title": "Today we're announcing London as Runway's new European headquarters and our newest research hub focu...",
+      "url": "https://x.com/runwayml/status/2061450141614145621",
       "source": "twitter",
       "source_author": "RunwayML",
       "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "score": 6.5,
+      "score_reason": "Expands Runway's presence in Europe, relevant for AI research landscape.",
       "posted": false,
-      "collected_at": "2026-06-01T05:29:56Z",
+      "collected_at": "2026-06-01T18:27:51Z",
       "engagement": {
         "comments": 0,
-        "likes": 3,
-        "replies": 0,
+        "likes": 111,
+        "replies": 12,
+        "retweets": 13,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "8f1cd24081ed32de115bd2f8805b0fdf",
+      "title": "Most AI research tools need prompting. \n\nAutoDiscovery analyzes your data instead, generating its ow...",
+      "url": "https://x.com/allen_ai/status/2061483773804298467",
+      "source": "twitter",
+      "source_author": "Allen_AI",
+      "topics": [],
+      "score": 6,
+      "score_reason": "Highlights a tool's data analysis capability, relevant to developers.",
+      "posted": false,
+      "collected_at": "2026-06-01T18:27:51Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 8,
+        "replies": 1,
         "retweets": 0,
         "stars": 0,
         "upvotes": 0
       }
     },
     {
-      "id": "c3fd634ab1218f0dc5d8f8b37f9af656",
-      "title": "Introducing the Cosmos Coalition\n\nA new global initiative with NVIDIA and leading AI labs to build a...",
-      "url": "https://x.com/runwayml/status/2061315089869721682",
+      "id": "6b8f489fa2ff4a97c2988394ef364204",
+      "title": "Evaluating agentic behaviors at scale, making the case for repositories over documents, and inviting...",
+      "url": "https://x.com/MSFTResearch/status/2061440352859361521",
+      "source": "twitter",
+      "source_author": "MSFTResearch",
+      "topics": [],
+      "score": 5.5,
+      "score_reason": "Discusses agentic AI methodologies, but lacks broad applicability.",
+      "posted": false,
+      "collected_at": "2026-06-01T18:27:51Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 12,
+        "replies": 2,
+        "retweets": 7,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "6332ba3da1af7b752e7479bb571c91ee",
+      "title": "We're extending AutoDiscovery early access through July 31. \n\nNew accounts start with 500 Hypothesis...",
+      "url": "https://x.com/allen_ai/status/2061483772755738648",
+      "source": "twitter",
+      "source_author": "Allen_AI",
+      "topics": [],
+      "score": 5,
+      "score_reason": "Feature update on AutoDiscovery, relevant but low engagement.",
+      "posted": false,
+      "collected_at": "2026-06-01T18:27:51Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 20,
+        "replies": 1,
+        "retweets": 6,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "dd6d45b5491b5b727503b6e1bae792ca",
+      "title": "Learn more: \nhttps://\nrunwayml.com/news/runway-op\nens-london-hq\n…",
+      "url": "https://x.com/runwayml/status/2061450144692719722",
       "source": "twitter",
       "source_author": "RunwayML",
       "topics": [],
       "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "score_reason": "Less informative follow-up on Runway's announcement, limited novelty.",
       "posted": false,
-      "collected_at": "2026-06-01T05:29:56Z",
+      "collected_at": "2026-06-01T18:27:51Z",
       "engagement": {
         "comments": 0,
-        "likes": 15,
-        "replies": 1,
-        "retweets": 2,
+        "likes": 5,
+        "replies": 0,
+        "retweets": 1,
         "stars": 0,
         "upvotes": 0
       }
     }
   ],
   "source": "twitter",
-  "updated_at": "2026-06-01T05:30:58Z"
+  "updated_at": "2026-06-01T18:29:27Z"
 }
