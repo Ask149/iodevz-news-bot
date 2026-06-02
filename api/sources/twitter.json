@@ -1,147 +1,187 @@
 {
-  "count": 7,
+  "count": 9,
   "items": [
     {
-      "id": "42fe93d1be9a57e440b60bc42c3bad2f",
-      "title": "Anthropic has confidentially submitted a draft S-1 registration statement to the Securities and Exch...",
-      "url": "https://x.com/AnthropicAI/status/2061478052257841495",
+      "id": "f378fd0cc85d26e36b4c405f62878026",
+      "title": "OpenAI frontier models and Codex are now generally available on AWS, giving enterprises a new way to...",
+      "url": "https://x.com/OpenAI/status/2061564502160892138",
       "source": "twitter",
-      "source_author": "AnthropicAI",
+      "source_author": "OpenAI",
       "topics": [],
       "score": 9.5,
-      "score_reason": "Potentially significant IPO news from a key player in AI, high engagement.",
+      "score_reason": "OpenAI's models being available on AWS signifies major changes in enterprise AI accessibility.",
       "posted": false,
-      "collected_at": "2026-06-01T18:27:51Z",
+      "collected_at": "2026-06-02T05:15:31Z",
       "engagement": {
         "comments": 0,
-        "likes": 11634,
-        "replies": 510,
-        "retweets": 1921,
+        "likes": 3598,
+        "replies": 200,
+        "retweets": 532,
         "stars": 0,
         "upvotes": 0
       }
     },
     {
-      "id": "205455a70851ae0364bcf199e2532f6a",
-      "title": "A prompt can cost a million times more than an HTTP request, so token theft is a high-margin busines...",
-      "url": "https://x.com/vercel_dev/status/2061447653129671014",
+      "id": "e97503c2dac67eb9e2503dae5a58a4a3",
+      "title": "We’re increasing usage limits for every Teams user.\n\nInspired by the success of our Ultra plan, we...",
+      "url": "https://x.com/cursor_ai/status/2061550723503194426",
       "source": "twitter",
-      "source_author": "vercel",
+      "source_author": "cursor_ai",
       "topics": [],
-      "score": 7,
-      "score_reason": "Insight into economics of prompt usage in GenAI, relevant for developers.",
+      "score": 8.5,
+      "score_reason": "Increasing usage limits for Teams users indicates improvements in AI tools for collaborative development.",
       "posted": false,
-      "collected_at": "2026-06-01T18:27:51Z",
+      "collected_at": "2026-06-02T05:15:31Z",
       "engagement": {
         "comments": 0,
-        "likes": 63,
+        "likes": 1314,
+        "replies": 54,
+        "retweets": 69,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "30d764f323f9dd98b83c463f81ff18ab",
+      "title": "Can you build a real business for free with a single prompt?\n\nStarting today on Replit, the answer i...",
+      "url": "https://x.com/Replit/status/2061537387726119165",
+      "source": "twitter",
+      "source_author": "replit",
+      "topics": [],
+      "score": 8,
+      "score_reason": "Replit's new business-building feature could democratize entrepreneurship for developers.",
+      "posted": false,
+      "collected_at": "2026-06-02T05:15:31Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 279,
+        "replies": 26,
+        "retweets": 56,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "c7b9a61165468dae70762c2f2cb83bdc",
+      "title": "Create compositing mattes in seconds with Aleph 2.0\n\nMattes let you isolate a subject from its backg...",
+      "url": "https://x.com/runwayml/status/2061548752989753454",
+      "source": "twitter",
+      "source_author": "RunwayML",
+      "topics": [],
+      "score": 7.5,
+      "score_reason": "The introduction of Aleph 2.0 for compositing highlights advancements in AI tools for creatives.",
+      "posted": false,
+      "collected_at": "2026-06-02T05:15:31Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 175,
+        "replies": 13,
+        "retweets": 18,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "c72bdeaf5db0333f3d409dde3d9a9442",
+      "title": "Since you've asked! \n\n45K+ hypotheses have been run by the community so far, and I know at least 5+ ...",
+      "url": "https://x.com/mbodhisattwa/status/2061518872206090641",
+      "source": "twitter",
+      "source_author": "Allen_AI",
+      "topics": [],
+      "score": 2,
+      "score_reason": "The announcement lacks context on impact and developer interest.",
+      "posted": false,
+      "collected_at": "2026-06-02T05:15:31Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 9,
+        "replies": 1,
+        "retweets": 2,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "ba584357ba04200243e5f6e491a127c7",
+      "title": "Read more about all the fun ways we used AI to bring I/O to life this year:",
+      "url": "https://x.com/GoogleAI/status/2061544208289132791",
+      "source": "twitter",
+      "source_author": "GoogleAI",
+      "topics": [],
+      "score": 2,
+      "score_reason": "Minimal engagement signals a lack of interest or relevance to developers.",
+      "posted": false,
+      "collected_at": "2026-06-02T05:15:31Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 14,
         "replies": 5,
-        "retweets": 8,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "831e63912f1b71964261526fd3f0bcfc",
-      "title": "Today we're announcing London as Runway's new European headquarters and our newest research hub focu...",
-      "url": "https://x.com/runwayml/status/2061450141614145621",
-      "source": "twitter",
-      "source_author": "RunwayML",
-      "topics": [],
-      "score": 6.5,
-      "score_reason": "Expands Runway's presence in Europe, relevant for AI research landscape.",
-      "posted": false,
-      "collected_at": "2026-06-01T18:27:51Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 111,
-        "replies": 12,
-        "retweets": 13,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "8f1cd24081ed32de115bd2f8805b0fdf",
-      "title": "Most AI research tools need prompting. \n\nAutoDiscovery analyzes your data instead, generating its ow...",
-      "url": "https://x.com/allen_ai/status/2061483773804298467",
-      "source": "twitter",
-      "source_author": "Allen_AI",
-      "topics": [],
-      "score": 6,
-      "score_reason": "Highlights a tool's data analysis capability, relevant to developers.",
-      "posted": false,
-      "collected_at": "2026-06-01T18:27:51Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 8,
-        "replies": 1,
-        "retweets": 0,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "6b8f489fa2ff4a97c2988394ef364204",
-      "title": "Evaluating agentic behaviors at scale, making the case for repositories over documents, and inviting...",
-      "url": "https://x.com/MSFTResearch/status/2061440352859361521",
-      "source": "twitter",
-      "source_author": "MSFTResearch",
-      "topics": [],
-      "score": 5.5,
-      "score_reason": "Discusses agentic AI methodologies, but lacks broad applicability.",
-      "posted": false,
-      "collected_at": "2026-06-01T18:27:51Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 12,
-        "replies": 2,
-        "retweets": 7,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "6332ba3da1af7b752e7479bb571c91ee",
-      "title": "We're extending AutoDiscovery early access through July 31. \n\nNew accounts start with 500 Hypothesis...",
-      "url": "https://x.com/allen_ai/status/2061483772755738648",
-      "source": "twitter",
-      "source_author": "Allen_AI",
-      "topics": [],
-      "score": 5,
-      "score_reason": "Feature update on AutoDiscovery, relevant but low engagement.",
-      "posted": false,
-      "collected_at": "2026-06-01T18:27:51Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 20,
-        "replies": 1,
-        "retweets": 6,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "dd6d45b5491b5b727503b6e1bae792ca",
-      "title": "Learn more: \nhttps://\nrunwayml.com/news/runway-op\nens-london-hq\n…",
-      "url": "https://x.com/runwayml/status/2061450144692719722",
-      "source": "twitter",
-      "source_author": "RunwayML",
-      "topics": [],
-      "score": 4,
-      "score_reason": "Less informative follow-up on Runway's announcement, limited novelty.",
-      "posted": false,
-      "collected_at": "2026-06-01T18:27:51Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 5,
-        "replies": 0,
         "retweets": 1,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "12a7265a688ca534398dea3767c5aaf6",
+      "title": "After 3 years in startup land taking Envive from zero to pre-Series B, I'm returning to \n@allen_ai\n ...",
+      "url": "https://x.com/i_beltagy/status/2061655534156370030",
+      "source": "twitter",
+      "source_author": "Allen_AI",
+      "topics": [],
+      "score": 1.5,
+      "score_reason": "While personal, it's not a development-focused update that influences broader trends.",
+      "posted": false,
+      "collected_at": "2026-06-02T05:15:31Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 60,
+        "replies": 5,
+        "retweets": 3,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "097b34718a77a176a91a69f5c1c848a5",
+      "title": "Read the full announcement:",
+      "url": "https://x.com/cursor_ai/status/2061550724736241718",
+      "source": "twitter",
+      "source_author": "cursor_ai",
+      "topics": [],
+      "score": 1.5,
+      "score_reason": "A generic announcement with little substance or developer utility.",
+      "posted": false,
+      "collected_at": "2026-06-02T05:15:31Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 47,
+        "replies": 2,
+        "retweets": 2,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "076b75d567b8feaabf0815e167c999a4",
+      "title": "Go to \nhttps://\nreplit.com/free-business to redeem offer\n\nAvailable for a limited time only",
+      "url": "https://x.com/Replit/status/2061537388971888793",
+      "source": "twitter",
+      "source_author": "replit",
+      "topics": [],
+      "score": 1,
+      "score_reason": "Very low engagement and limited relevance to current developer trends.",
+      "posted": false,
+      "collected_at": "2026-06-02T05:15:31Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 15,
+        "replies": 3,
+        "retweets": 3,
         "stars": 0,
         "upvotes": 0
       }
     }
   ],
   "source": "twitter",
-  "updated_at": "2026-06-01T18:29:27Z"
+  "updated_at": "2026-06-02T05:17:06Z"
 }
