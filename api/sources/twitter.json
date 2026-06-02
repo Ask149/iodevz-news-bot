@@ -1,160 +1,120 @@
 {
-  "count": 9,
+  "count": 7,
   "items": [
     {
-      "id": "f378fd0cc85d26e36b4c405f62878026",
-      "title": "OpenAI frontier models and Codex are now generally available on AWS, giving enterprises a new way to...",
-      "url": "https://x.com/OpenAI/status/2061564502160892138",
+      "id": "31b54979320a6b0153c51f017af0544b",
+      "title": "We’re expanding Project Glasswing. We’ve extended access to Claude Mythos Preview to approximate...",
+      "url": "https://x.com/AnthropicAI/status/2061796327986454883",
+      "source": "twitter",
+      "source_author": "AnthropicAI",
+      "topics": [],
+      "score": 9.5,
+      "score_reason": "Significant engagement indicates high interest in new AI capabilities.",
+      "posted": false,
+      "collected_at": "2026-06-02T17:06:55Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 2381,
+        "replies": 220,
+        "retweets": 342,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "bdeece787d6d606437e720a8c9be3956",
+      "title": "We’re moving away from search as a web fetch tool call to search as codegen to be future proof in ...",
+      "url": "https://x.com/AravSrinivas/status/2061575845056278971",
+      "source": "twitter",
+      "source_author": "AravSrinivas",
+      "topics": [],
+      "score": 8,
+      "score_reason": "Innovative approach to search and codegen that impacts developer workflows.",
+      "posted": false,
+      "collected_at": "2026-06-02T17:06:55Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 841,
+        "replies": 72,
+        "retweets": 85,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "fdf7bf545c1eb133fb825ec36c0e2028",
+      "title": "Conductor's parallel coding agents were local-only, but now they can run remotely on Vercel.\n\n\"Our c...",
+      "url": "https://x.com/vercel/status/2061807920275210336",
+      "source": "twitter",
+      "source_author": "vercel",
+      "topics": [],
+      "score": 7.5,
+      "score_reason": "Enhancement in execution capabilities for coding agents impacts workflows.",
+      "posted": false,
+      "collected_at": "2026-06-02T17:06:55Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 74,
+        "replies": 4,
+        "retweets": 5,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "c7302beb9e6895ceef556621a761fbb0",
+      "title": "Microsoft Research is at #MSBuild! \u2028\u2028Come check out the Microsoft Research Lab on the 1st Floor ...",
+      "url": "https://x.com/MSFTResearch/status/2061847120311902284",
+      "source": "twitter",
+      "source_author": "MSFTResearch",
+      "topics": [],
+      "score": 6,
+      "score_reason": "Event related to research, relevant but less direct impact on developers.",
+      "posted": false,
+      "collected_at": "2026-06-02T17:06:55Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 13,
+        "replies": 1,
+        "retweets": 4,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "82372b13e53605a0ba6c517580db1a2e",
+      "title": "Building apps has never been easier.\n\nWith Sites, Codex can turn your work, ideas, and plans into an...",
+      "url": "https://x.com/OpenAI/status/2061845949170045346",
       "source": "twitter",
       "source_author": "OpenAI",
       "topics": [],
-      "score": 9.5,
-      "score_reason": "OpenAI's models being available on AWS signifies major changes in enterprise AI accessibility.",
+      "score": 6,
+      "score_reason": "Relevant but low overall engagement may limit impact.",
       "posted": false,
-      "collected_at": "2026-06-02T05:15:31Z",
+      "collected_at": "2026-06-02T17:06:55Z",
       "engagement": {
         "comments": 0,
-        "likes": 3598,
-        "replies": 200,
-        "retweets": 532,
+        "likes": 2066,
+        "replies": 196,
+        "retweets": 305,
         "stars": 0,
         "upvotes": 0
       }
     },
     {
-      "id": "e97503c2dac67eb9e2503dae5a58a4a3",
-      "title": "We’re increasing usage limits for every Teams user.\n\nInspired by the success of our Ultra plan, we...",
-      "url": "https://x.com/cursor_ai/status/2061550723503194426",
-      "source": "twitter",
-      "source_author": "cursor_ai",
-      "topics": [],
-      "score": 8.5,
-      "score_reason": "Increasing usage limits for Teams users indicates improvements in AI tools for collaborative development.",
-      "posted": false,
-      "collected_at": "2026-06-02T05:15:31Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 1314,
-        "replies": 54,
-        "retweets": 69,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "30d764f323f9dd98b83c463f81ff18ab",
-      "title": "Can you build a real business for free with a single prompt?\n\nStarting today on Replit, the answer i...",
-      "url": "https://x.com/Replit/status/2061537387726119165",
+      "id": "17401ae27e991c77e4be521c8ba8dda0",
+      "title": "Using Parallel Agents to Move Faster in Replit",
+      "url": "https://x.com/Replit/status/2061840350705271281",
       "source": "twitter",
       "source_author": "replit",
       "topics": [],
-      "score": 8,
-      "score_reason": "Replit's new business-building feature could democratize entrepreneurship for developers.",
+      "score": 5.5,
+      "score_reason": "Moderate interest in tools to enhance coding speed but less novelty.",
       "posted": false,
-      "collected_at": "2026-06-02T05:15:31Z",
+      "collected_at": "2026-06-02T17:06:55Z",
       "engagement": {
         "comments": 0,
-        "likes": 279,
-        "replies": 26,
-        "retweets": 56,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "c7b9a61165468dae70762c2f2cb83bdc",
-      "title": "Create compositing mattes in seconds with Aleph 2.0\n\nMattes let you isolate a subject from its backg...",
-      "url": "https://x.com/runwayml/status/2061548752989753454",
-      "source": "twitter",
-      "source_author": "RunwayML",
-      "topics": [],
-      "score": 7.5,
-      "score_reason": "The introduction of Aleph 2.0 for compositing highlights advancements in AI tools for creatives.",
-      "posted": false,
-      "collected_at": "2026-06-02T05:15:31Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 175,
-        "replies": 13,
-        "retweets": 18,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "c72bdeaf5db0333f3d409dde3d9a9442",
-      "title": "Since you've asked! \n\n45K+ hypotheses have been run by the community so far, and I know at least 5+ ...",
-      "url": "https://x.com/mbodhisattwa/status/2061518872206090641",
-      "source": "twitter",
-      "source_author": "Allen_AI",
-      "topics": [],
-      "score": 2,
-      "score_reason": "The announcement lacks context on impact and developer interest.",
-      "posted": false,
-      "collected_at": "2026-06-02T05:15:31Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 9,
-        "replies": 1,
-        "retweets": 2,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "ba584357ba04200243e5f6e491a127c7",
-      "title": "Read more about all the fun ways we used AI to bring I/O to life this year:",
-      "url": "https://x.com/GoogleAI/status/2061544208289132791",
-      "source": "twitter",
-      "source_author": "GoogleAI",
-      "topics": [],
-      "score": 2,
-      "score_reason": "Minimal engagement signals a lack of interest or relevance to developers.",
-      "posted": false,
-      "collected_at": "2026-06-02T05:15:31Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 14,
-        "replies": 5,
-        "retweets": 1,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "12a7265a688ca534398dea3767c5aaf6",
-      "title": "After 3 years in startup land taking Envive from zero to pre-Series B, I'm returning to \n@allen_ai\n ...",
-      "url": "https://x.com/i_beltagy/status/2061655534156370030",
-      "source": "twitter",
-      "source_author": "Allen_AI",
-      "topics": [],
-      "score": 1.5,
-      "score_reason": "While personal, it's not a development-focused update that influences broader trends.",
-      "posted": false,
-      "collected_at": "2026-06-02T05:15:31Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 60,
-        "replies": 5,
-        "retweets": 3,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "097b34718a77a176a91a69f5c1c848a5",
-      "title": "Read the full announcement:",
-      "url": "https://x.com/cursor_ai/status/2061550724736241718",
-      "source": "twitter",
-      "source_author": "cursor_ai",
-      "topics": [],
-      "score": 1.5,
-      "score_reason": "A generic announcement with little substance or developer utility.",
-      "posted": false,
-      "collected_at": "2026-06-02T05:15:31Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 47,
+        "likes": 10,
         "replies": 2,
         "retweets": 2,
         "stars": 0,
@@ -162,20 +122,20 @@
       }
     },
     {
-      "id": "076b75d567b8feaabf0815e167c999a4",
-      "title": "Go to \nhttps://\nreplit.com/free-business to redeem offer\n\nAvailable for a limited time only",
-      "url": "https://x.com/Replit/status/2061537388971888793",
+      "id": "08ed51bdacf7f566cb4d433a37cbe187",
+      "title": "Replit Canvas has a few new updates! \n\nLearn more at: \nhttp://\nreplit.com/canvas\n\nOpen thread  ↓",
+      "url": "https://x.com/Replit/status/2061840304534102036",
       "source": "twitter",
       "source_author": "replit",
       "topics": [],
-      "score": 1,
-      "score_reason": "Very low engagement and limited relevance to current developer trends.",
+      "score": 5,
+      "score_reason": "Minor updates for a specific tool, limited engagement.",
       "posted": false,
-      "collected_at": "2026-06-02T05:15:31Z",
+      "collected_at": "2026-06-02T17:06:55Z",
       "engagement": {
         "comments": 0,
-        "likes": 15,
-        "replies": 3,
+        "likes": 27,
+        "replies": 2,
         "retweets": 3,
         "stars": 0,
         "upvotes": 0
@@ -183,5 +143,5 @@
     }
   ],
   "source": "twitter",
-  "updated_at": "2026-06-02T05:17:06Z"
+  "updated_at": "2026-06-02T17:08:38Z"
 }
