@@ -1,120 +1,200 @@
 {
-  "count": 7,
+  "count": 14,
   "items": [
     {
-      "id": "31b54979320a6b0153c51f017af0544b",
-      "title": "We’re expanding Project Glasswing. We’ve extended access to Claude Mythos Preview to approximate...",
-      "url": "https://x.com/AnthropicAI/status/2061796327986454883",
-      "source": "twitter",
-      "source_author": "AnthropicAI",
-      "topics": [],
-      "score": 9.5,
-      "score_reason": "Significant engagement indicates high interest in new AI capabilities.",
-      "posted": false,
-      "collected_at": "2026-06-02T17:06:55Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 2381,
-        "replies": 220,
-        "retweets": 342,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "bdeece787d6d606437e720a8c9be3956",
-      "title": "We’re moving away from search as a web fetch tool call to search as codegen to be future proof in ...",
-      "url": "https://x.com/AravSrinivas/status/2061575845056278971",
-      "source": "twitter",
-      "source_author": "AravSrinivas",
-      "topics": [],
-      "score": 8,
-      "score_reason": "Innovative approach to search and codegen that impacts developer workflows.",
-      "posted": false,
-      "collected_at": "2026-06-02T17:06:55Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 841,
-        "replies": 72,
-        "retweets": 85,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "fdf7bf545c1eb133fb825ec36c0e2028",
-      "title": "Conductor's parallel coding agents were local-only, but now they can run remotely on Vercel.\n\n\"Our c...",
-      "url": "https://x.com/vercel/status/2061807920275210336",
-      "source": "twitter",
-      "source_author": "vercel",
-      "topics": [],
-      "score": 7.5,
-      "score_reason": "Enhancement in execution capabilities for coding agents impacts workflows.",
-      "posted": false,
-      "collected_at": "2026-06-02T17:06:55Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 74,
-        "replies": 4,
-        "retweets": 5,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "c7302beb9e6895ceef556621a761fbb0",
-      "title": "Microsoft Research is at #MSBuild! \u2028\u2028Come check out the Microsoft Research Lab on the 1st Floor ...",
-      "url": "https://x.com/MSFTResearch/status/2061847120311902284",
-      "source": "twitter",
-      "source_author": "MSFTResearch",
-      "topics": [],
-      "score": 6,
-      "score_reason": "Event related to research, relevant but less direct impact on developers.",
-      "posted": false,
-      "collected_at": "2026-06-02T17:06:55Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 13,
-        "replies": 1,
-        "retweets": 4,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "82372b13e53605a0ba6c517580db1a2e",
-      "title": "Building apps has never been easier.\n\nWith Sites, Codex can turn your work, ideas, and plans into an...",
-      "url": "https://x.com/OpenAI/status/2061845949170045346",
+      "id": "d830abd85791988ecbc9b33baa2a0c37",
+      "title": "We’re making Codex more useful for your work by expanding plugins beyond individual tools.\n\nThese ...",
+      "url": "https://x.com/OpenAI/status/2061887650391625870",
       "source": "twitter",
       "source_author": "OpenAI",
       "topics": [],
-      "score": 6,
-      "score_reason": "Relevant but low overall engagement may limit impact.",
+      "score": 9,
+      "score_reason": "Enhancements to Codex plugins can significantly boost developer productivity.",
       "posted": false,
-      "collected_at": "2026-06-02T17:06:55Z",
+      "collected_at": "2026-06-03T05:31:37Z",
       "engagement": {
         "comments": 0,
-        "likes": 2066,
-        "replies": 196,
-        "retweets": 305,
+        "likes": 3224,
+        "replies": 188,
+        "retweets": 373,
         "stars": 0,
         "upvotes": 0
       }
     },
     {
-      "id": "17401ae27e991c77e4be521c8ba8dda0",
-      "title": "Using Parallel Agents to Move Faster in Replit",
-      "url": "https://x.com/Replit/status/2061840350705271281",
+      "id": "843edf194b31593cca36a7e2f9f57577",
+      "title": "This Executive Order is an important step in strengthening America’s leadership in AI. \n\nWe look f...",
+      "url": "https://x.com/AnthropicAI/status/2061924580222968183",
+      "source": "twitter",
+      "source_author": "AnthropicAI",
+      "topics": [],
+      "score": 8.5,
+      "score_reason": "Novel executive order impacting the AI landscape.",
+      "posted": false,
+      "collected_at": "2026-06-03T05:31:37Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 1708,
+        "replies": 184,
+        "retweets": 278,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "e3ff3091ecd845782d3f7cecca311ad3",
+      "title": "Aleph 2.0 is now available via the Runway API. Bring precise video editing directly into your apps, ...",
+      "url": "https://x.com/runwayml/status/2061895998545244342",
+      "source": "twitter",
+      "source_author": "RunwayML",
+      "topics": [],
+      "score": 6.5,
+      "score_reason": "Video editing API is relevant but not highly novel.",
+      "posted": false,
+      "collected_at": "2026-06-03T05:31:37Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 170,
+        "replies": 11,
+        "retweets": 23,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "442ac960c73041ee853e1f64f0fc0845",
+      "title": "A great cloud agent experience involves a lot more than moving a local agent to a server.\n\nWe've lea...",
+      "url": "https://x.com/cursor_ai/status/2061878340265656620",
+      "source": "twitter",
+      "source_author": "cursor_ai",
+      "topics": [],
+      "score": 6,
+      "score_reason": "Insights into cloud agent experiences, relevant but niche.",
+      "posted": false,
+      "collected_at": "2026-06-03T05:31:37Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 500,
+        "replies": 32,
+        "retweets": 36,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "728c9ed5236c4db6e712d515e6705653",
+      "title": "Announcing our new collaboration with \n@Microsoft\n \n\nOrganizations can now build internal tools, wor...",
+      "url": "https://x.com/Replit/status/2061892255028486435",
       "source": "twitter",
       "source_author": "replit",
       "topics": [],
       "score": 5.5,
-      "score_reason": "Moderate interest in tools to enhance coding speed but less novelty.",
+      "score_reason": "Collaboration news, relevant but lacks technical depth.",
       "posted": false,
-      "collected_at": "2026-06-02T17:06:55Z",
+      "collected_at": "2026-06-03T05:31:37Z",
       "engagement": {
         "comments": 0,
-        "likes": 10,
+        "likes": 131,
+        "replies": 8,
+        "retweets": 22,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "1d239ebb977b35d4ed356f2e8e881a01",
+      "title": "Prep faster. Sell smarter.\n\nThe sales plugin for Codex.",
+      "url": "https://x.com/OpenAI/status/2061887949516730502",
+      "source": "twitter",
+      "source_author": "OpenAI",
+      "topics": [],
+      "score": 5,
+      "score_reason": "New plugin for Codex, but less impactful compared to others.",
+      "posted": false,
+      "collected_at": "2026-06-03T05:31:37Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 338,
+        "replies": 8,
+        "retweets": 20,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "95b180619f152038da9acbdaf7318adb",
+      "title": "We’re excited to be making Co-Scientist available to individual researchers through Hypothesis Gen...",
+      "url": "https://x.com/GoogleDeepMind/status/2061857553076920643",
+      "source": "twitter",
+      "source_author": "GoogleDeepMind",
+      "topics": [],
+      "score": 5,
+      "score_reason": "New tools for researchers, but limited engagement.",
+      "posted": false,
+      "collected_at": "2026-06-03T05:31:37Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 98,
+        "replies": 7,
+        "retweets": 9,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "2a99148d42135c6d4e17edfa0322803d",
+      "title": "Over the past year, we’ve collaborated with global scientific experts to evaluate the system on co...",
+      "url": "https://x.com/GoogleDeepMind/status/2061857550438392094",
+      "source": "twitter",
+      "source_author": "GoogleDeepMind",
+      "topics": [],
+      "score": 4.5,
+      "score_reason": "Collaboration in AI research, moderate relevance.",
+      "posted": false,
+      "collected_at": "2026-06-03T05:31:37Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 75,
+        "replies": 3,
+        "retweets": 8,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "d8cb998a9bbaba101fe52518f5282048",
+      "title": "We believe AI can be a dedicated research partner to help discover the next breakthrough.\n\nEnter Co-...",
+      "url": "https://x.com/GoogleDeepMind/status/2061857539977842793",
+      "source": "twitter",
+      "source_author": "GoogleDeepMind",
+      "topics": [],
+      "score": 4.5,
+      "score_reason": "Research collaborations are relevant but not groundbreaking.",
+      "posted": false,
+      "collected_at": "2026-06-03T05:31:37Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 1098,
+        "replies": 71,
+        "retweets": 270,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "2bf4bea9e50818be0bfc3cb8c260aa0a",
+      "title": "Agentic experiences powered by small models that fit on your own device. Hear from Maya Murad on Mag...",
+      "url": "https://x.com/MSFTResearch/status/2061908328687501411",
+      "source": "twitter",
+      "source_author": "MSFTResearch",
+      "topics": [],
+      "score": 4,
+      "score_reason": "Small models for agentic experiences, but not groundbreaking.",
+      "posted": false,
+      "collected_at": "2026-06-03T05:31:37Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 19,
         "replies": 2,
         "retweets": 2,
         "stars": 0,
@@ -122,26 +202,86 @@
       }
     },
     {
-      "id": "08ed51bdacf7f566cb4d433a37cbe187",
-      "title": "Replit Canvas has a few new updates! \n\nLearn more at: \nhttp://\nreplit.com/canvas\n\nOpen thread  ↓",
-      "url": "https://x.com/Replit/status/2061840304534102036",
+      "id": "7f2c587c67a52c32a72aa0baf5ba2afb",
+      "title": "For organizations already using Azure and Fabric, this means a much faster path from governed data t...",
+      "url": "https://x.com/Replit/status/2061892256978845855",
       "source": "twitter",
       "source_author": "replit",
       "topics": [],
-      "score": 5,
-      "score_reason": "Minor updates for a specific tool, limited engagement.",
+      "score": 3.5,
+      "score_reason": "Relevant to Azure but not very novel.",
       "posted": false,
-      "collected_at": "2026-06-02T17:06:55Z",
+      "collected_at": "2026-06-03T05:31:37Z",
       "engagement": {
         "comments": 0,
-        "likes": 27,
-        "replies": 2,
-        "retweets": 3,
+        "likes": 8,
+        "replies": 1,
+        "retweets": 2,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "128a5d1286165ad522be940fd1e486be",
+      "title": "Day 1 of Microsoft Build is a wrap. A lot happened today, and we brought some of our favorite tools ...",
+      "url": "https://x.com/MSFTResearch/status/2061980235994632549",
+      "source": "twitter",
+      "source_author": "MSFTResearch",
+      "topics": [],
+      "score": 3,
+      "score_reason": "Low engagement and lacks technical substance.",
+      "posted": false,
+      "collected_at": "2026-06-03T05:31:37Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 9,
+        "replies": 0,
+        "retweets": 2,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "16a1daa0211494dc4e067cf27c09fa39",
+      "title": "Weather forecasts thousands of times faster than traditional supercomputers. Hear from Kenji Takeda ...",
+      "url": "https://x.com/MSFTResearch/status/2061927189977727450",
+      "source": "twitter",
+      "source_author": "MSFTResearch",
+      "topics": [],
+      "score": 3,
+      "score_reason": "Some novelty, but limited engagement.",
+      "posted": false,
+      "collected_at": "2026-06-03T05:31:37Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 19,
+        "replies": 0,
+        "retweets": 2,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "74c61d9eb2c587fe79edb14dbd8b774d",
+      "title": "Get started at \nhttp://\ndev.runwayml.com",
+      "url": "https://x.com/runwayml/status/2061896000646553873",
+      "source": "twitter",
+      "source_author": "RunwayML",
+      "topics": [],
+      "score": 2,
+      "score_reason": "Minimal engagement, appears promotional.",
+      "posted": false,
+      "collected_at": "2026-06-03T05:31:37Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 4,
+        "replies": 0,
+        "retweets": 0,
         "stars": 0,
         "upvotes": 0
       }
     }
   ],
   "source": "twitter",
-  "updated_at": "2026-06-02T17:08:38Z"
+  "updated_at": "2026-06-03T05:33:06Z"
 }
