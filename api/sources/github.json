@@ -1,117 +1,17 @@
 {
-  "count": 7,
+  "count": 6,
   "items": [
     {
-      "id": "2333df8d7138874a89e7d9606a2e9708",
-      "title": "caezium/Burrow",
-      "url": "https://github.com/caezium/Burrow",
+      "id": "9e28ce7a8882b8c292d7a2700b7f68db",
+      "title": "onel/openclaw-event",
+      "url": "https://github.com/onel/openclaw-event",
       "source": "github",
-      "source_author": "caezium",
-      "topics": [],
-      "score": 6,
-      "score_reason": "Gains attention with 33 stars, indicating a growing interest in the tool.",
-      "posted": false,
-      "collected_at": "2026-06-06T09:08:57Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 33,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "7071cec3934f2fecd997bf5f98efc69a",
-      "title": "avaritiachaos/qoder-proxy",
-      "url": "https://github.com/avaritiachaos/qoder-proxy",
-      "source": "github",
-      "source_author": "avaritiachaos",
+      "source_author": "onel",
       "topics": [],
       "score": 5,
-      "score_reason": "New GitHub project could appeal to niche developers interested in 'proxy' tools.",
+      "score_reason": "unscored",
       "posted": false,
-      "collected_at": "2026-06-06T09:08:46Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 21,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "8d2e32eeade0bea7eb299f27116afd2d",
-      "title": "jrcjrcc/deepseek-nyamu",
-      "url": "https://github.com/jrcjrcc/deepseek-nyamu",
-      "source": "github",
-      "source_author": "jrcjrcc",
-      "topics": [],
-      "score": 5,
-      "score_reason": "Another GitHub project, potentially useful but lacks detailed context.",
-      "posted": false,
-      "collected_at": "2026-06-06T09:08:50Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 11,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "0752053cd670609ae2887a772a737adc",
-      "title": "xqnode/claude-code-helper",
-      "url": "https://github.com/xqnode/claude-code-helper",
-      "source": "github",
-      "source_author": "xqnode",
-      "topics": [],
-      "score": 4.5,
-      "score_reason": "Specific tool for coding assistance, niche appeal among developers.",
-      "posted": false,
-      "collected_at": "2026-06-06T09:08:50Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 10,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "df8a560214e30edd45e2e5b939c58ad7",
-      "title": "deancourse/user-dot-agents",
-      "url": "https://github.com/deancourse/user-dot-agents",
-      "source": "github",
-      "source_author": "deancourse",
-      "topics": [],
-      "score": 4,
-      "score_reason": "Low engagement signals limited impact or interest.",
-      "posted": false,
-      "collected_at": "2026-06-06T09:08:59Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 3,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "3b26794da2e0a771da999f102842414b",
-      "title": "abdulazizsapra/clawgrid",
-      "url": "https://github.com/abdulazizsapra/clawgrid",
-      "source": "github",
-      "source_author": "abdulazizsapra",
-      "topics": [],
-      "score": 3.5,
-      "score_reason": "New project with minimal engagement might not attract developers.",
-      "posted": false,
-      "collected_at": "2026-06-06T09:09:00Z",
+      "collected_at": "2026-06-06T14:18:23Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
@@ -122,26 +22,106 @@
       }
     },
     {
-      "id": "f0200216163ffa8726d8b28825efb34e",
-      "title": "Kepsilent/Bug-Report-Skill",
-      "url": "https://github.com/Kepsilent/Bug-Report-Skill",
+      "id": "7b9404161139fa0a3728ef162693ed41",
+      "title": "CAHN91/gpt-repo-mcp",
+      "url": "https://github.com/CAHN91/gpt-repo-mcp",
       "source": "github",
-      "source_author": "Kepsilent",
+      "source_author": "CAHN91",
       "topics": [],
-      "score": 2,
-      "score_reason": "Failed to generate significant interest or engagement.",
+      "score": 3.5,
+      "score_reason": "New GitHub repository but lacks context or highlights that would engage a developer audience.",
       "posted": false,
-      "collected_at": "2026-06-06T09:09:02Z",
+      "collected_at": "2026-06-06T14:18:11Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 2,
+        "stars": 17,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "0cc71aabd8b24e4dc07ebd489e8ab7c4",
+      "title": "astro-koko/deepseek-copilot-for-zotero",
+      "url": "https://github.com/astro-koko/deepseek-copilot-for-zotero",
+      "source": "github",
+      "source_author": "astro-koko",
+      "topics": [],
+      "score": 2,
+      "score_reason": "Limited utility and exposure, making it less relevant.",
+      "posted": false,
+      "collected_at": "2026-06-06T14:18:13Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 9,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "f141c71c33c63a8c35a90926b2d3c52d",
+      "title": "sadassimov/geemu-skill",
+      "url": "https://github.com/sadassimov/geemu-skill",
+      "source": "github",
+      "source_author": "sadassimov",
+      "topics": [],
+      "score": 1,
+      "score_reason": "GitHub project not gaining traction or engagement.",
+      "posted": false,
+      "collected_at": "2026-06-06T14:18:10Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 21,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "862b1e32c6193bd98f2e0bc1178a660d",
+      "title": "zhuang2002/ComfyUI_JoyAI_Echo",
+      "url": "https://github.com/zhuang2002/ComfyUI_JoyAI_Echo",
+      "source": "github",
+      "source_author": "zhuang2002",
+      "topics": [],
+      "score": 1,
+      "score_reason": "Currently lacks context and engagement, making it less compelling.",
+      "posted": false,
+      "collected_at": "2026-06-06T14:18:18Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "8d99179cf20b242da4a241641c96e7b1",
+      "title": "HyperClockUp/Coday",
+      "url": "https://github.com/HyperClockUp/Coday",
+      "source": "github",
+      "source_author": "HyperClockUp",
+      "topics": [],
+      "score": 1,
+      "score_reason": "Another GitHub link with minimal engagement or clarity on its significance.",
+      "posted": false,
+      "collected_at": "2026-06-06T14:18:25Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 12,
         "upvotes": 0
       }
     }
   ],
   "source": "github",
-  "updated_at": "2026-06-06T09:12:02Z"
+  "updated_at": "2026-06-06T14:21:29Z"
 }
