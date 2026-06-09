@@ -1,97 +1,157 @@
 {
-  "count": 10,
+  "count": 14,
   "items": [
     {
-      "id": "ea83f1837f35ee084f341dff235e6565",
-      "title": "xuansenpa1/skillrevise",
-      "url": "https://github.com/xuansenpa1/skillrevise",
+      "id": "762d648a9434f43da46b40cd9953320d",
+      "title": "jmmy9609-design/gpt-pp",
+      "url": "https://github.com/jmmy9609-design/gpt-pp",
       "source": "github",
-      "source_author": "xuansenpa1",
+      "source_author": "jmmy9609-design",
       "topics": [],
-      "score": 7.5,
-      "score_reason": "Higher star count indicates potential novelty and interest in developer tools.",
+      "score": 4,
+      "score_reason": "Higher stars indicate some interest, but still minimal engagement.",
       "posted": false,
-      "collected_at": "2026-06-09T10:10:48Z",
+      "collected_at": "2026-06-09T15:40:48Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 46,
+        "stars": 197,
         "upvotes": 0
       }
     },
     {
-      "id": "8376c7b40fb17bffffd6f8e349ff01cc",
-      "title": "xixicc186/clawd-cursor",
-      "url": "https://github.com/xixicc186/clawd-cursor",
+      "id": "1ec55a5ddb894aeb4aa014b7b15ad604",
+      "title": "ferdinandobons/brand-docs",
+      "url": "https://github.com/ferdinandobons/brand-docs",
       "source": "github",
-      "source_author": "xixicc186",
-      "topics": [],
-      "score": 5.5,
-      "score_reason": "Moderate stars but lacks engagement, suggesting niche interest.",
-      "posted": false,
-      "collected_at": "2026-06-09T10:10:43Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 12,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "4bf01293fafe334b7185ed41f030e196",
-      "title": "iblai/legal-agents",
-      "url": "https://github.com/iblai/legal-agents",
-      "source": "github",
-      "source_author": "iblai",
-      "topics": [],
-      "score": 5,
-      "score_reason": "Some engagement but overall low visibility, indicating moderate relevance.",
-      "posted": false,
-      "collected_at": "2026-06-09T10:10:42Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 8,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "b3954ef36c883bd99e56d3fe037703cb",
-      "title": "imoling/iml-skills",
-      "url": "https://github.com/imoling/iml-skills",
-      "source": "github",
-      "source_author": "imoling",
-      "topics": [],
-      "score": 3.5,
-      "score_reason": "Low engagement and stars, indicating limited novelty and impact.",
-      "posted": false,
-      "collected_at": "2026-06-09T10:10:28Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 7,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "455ee42f046af96e8da3234b069c5228",
-      "title": "chees-cn/codex-api",
-      "url": "https://github.com/chees-cn/codex-api",
-      "source": "github",
-      "source_author": "chees-cn",
+      "source_author": "ferdinandobons",
       "topics": [],
       "score": 3,
-      "score_reason": "Very few stars and engagement, suggesting minimal relevance and interest.",
+      "score_reason": "Lacks engagement and novelty.",
       "posted": false,
-      "collected_at": "2026-06-09T10:10:33Z",
+      "collected_at": "2026-06-09T15:40:44Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 95,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "949cf261ad10dd2c502f5a6ad58a00a0",
+      "title": "valkor-ai/loom",
+      "url": "https://github.com/valkor-ai/loom",
+      "source": "github",
+      "source_author": "valkor-ai",
+      "topics": [],
+      "score": 3,
+      "score_reason": "Limited visibility and impact.",
+      "posted": false,
+      "collected_at": "2026-06-09T15:40:44Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 83,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "6afa388d9087eb9148373117418ec7bf",
+      "title": "Toolsai/GPT-Relay-Codex-Plugin-",
+      "url": "https://github.com/Toolsai/GPT-Relay-Codex-Plugin-",
+      "source": "github",
+      "source_author": "Toolsai",
+      "topics": [],
+      "score": 2,
+      "score_reason": "Very low engagement and unclear implications for developers.",
+      "posted": false,
+      "collected_at": "2026-06-09T15:40:48Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 14,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "1594dd73c87dbc3b1122c2f45abcce5d",
+      "title": "MAXeaglet/commandcode-proxy",
+      "url": "https://github.com/MAXeaglet/commandcode-proxy",
+      "source": "github",
+      "source_author": "MAXeaglet",
+      "topics": [],
+      "score": 2,
+      "score_reason": "Insufficient traction and relevance.",
+      "posted": false,
+      "collected_at": "2026-06-09T15:40:47Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 13,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "d3080e3966891c3e6cf131669d6546d7",
+      "title": "albertobarnabo/lazy-cat",
+      "url": "https://github.com/albertobarnabo/lazy-cat",
+      "source": "github",
+      "source_author": "albertobarnabo",
+      "topics": [],
+      "score": 2,
+      "score_reason": "Low engagement and unclear significance.",
+      "posted": false,
+      "collected_at": "2026-06-09T15:40:45Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 23,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "ffebe5ca679b0bfe418d32ceee71dae9",
+      "title": "kanna12580/kk-knowledge-agent",
+      "url": "https://github.com/kanna12580/kk-knowledge-agent",
+      "source": "github",
+      "source_author": "kanna12580",
+      "topics": [],
+      "score": 2,
+      "score_reason": "Underwhelming engagement; unclear benefits.",
+      "posted": false,
+      "collected_at": "2026-06-09T15:40:59Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 41,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "ba06409e17ed1224c8f595bbb9deee70",
+      "title": "sentrysurface/surfaceproxy-core",
+      "url": "https://github.com/sentrysurface/surfaceproxy-core",
+      "source": "github",
+      "source_author": "sentrysurface",
+      "topics": [],
+      "score": 1,
+      "score_reason": "Very low engagement; unlikely to be of interest.",
+      "posted": false,
+      "collected_at": "2026-06-09T15:41:05Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
@@ -102,106 +162,126 @@
       }
     },
     {
-      "id": "8a1c1609ca65586473aa26a1f56fc3fe",
-      "title": "lsjpp2/king-agent-swarm",
-      "url": "https://github.com/lsjpp2/king-agent-swarm",
+      "id": "d5312380a7b96a7c218d9df89433dda2",
+      "title": "zx1160763849-hash/codex-cost-router-skills",
+      "url": "https://github.com/zx1160763849-hash/codex-cost-router-skills",
       "source": "github",
-      "source_author": "lsjpp2",
-      "topics": [],
-      "score": 2.5,
-      "score_reason": "No engagement and low stars, indicating little novelty and impact.",
-      "posted": false,
-      "collected_at": "2026-06-09T10:10:38Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 1,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "612f3f12022b9216b8b28b8658c48014",
-      "title": "sayed3ali/Hermes---deep-research-swarm",
-      "url": "https://github.com/sayed3ali/Hermes---deep-research-swarm",
-      "source": "github",
-      "source_author": "sayed3ali",
-      "topics": [],
-      "score": 2,
-      "score_reason": "No engagement and low visibility, indicating a lack of novelty.",
-      "posted": false,
-      "collected_at": "2026-06-09T10:10:38Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 1,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "2ea5f38193252d7d6edfcf60aa7aed39",
-      "title": "Pyfagorass/bookofspells",
-      "url": "https://github.com/Pyfagorass/bookofspells",
-      "source": "github",
-      "source_author": "Pyfagorass",
-      "topics": [],
-      "score": 2,
-      "score_reason": "Very low engagement and star count, suggesting limited impact.",
-      "posted": false,
-      "collected_at": "2026-06-09T10:10:41Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 1,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "f31a79a0ea299d37e1bb48ceeb014d2a",
-      "title": "Sahil-SS9/hermes-simplify-swarm",
-      "url": "https://github.com/Sahil-SS9/hermes-simplify-swarm",
-      "source": "github",
-      "source_author": "Sahil-SS9",
-      "topics": [],
-      "score": 2,
-      "score_reason": "Minimal visibility and engagement, showing low relevance.",
-      "posted": false,
-      "collected_at": "2026-06-09T10:10:38Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 1,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "ded2051826fe07365e14642b5cb883f3",
-      "title": "SFzxc/ai-wallet-extension",
-      "url": "https://github.com/SFzxc/ai-wallet-extension",
-      "source": "github",
-      "source_author": "SFzxc",
+      "source_author": "zx1160763849-hash",
       "topics": [],
       "score": 1,
-      "score_reason": "Very little engagement and unclear relevance.",
+      "score_reason": "Very low visibility and lack of comments.",
       "posted": false,
-      "collected_at": "2026-06-09T10:10:27Z",
+      "collected_at": "2026-06-09T15:40:51Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 12,
+        "stars": 10,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "68a6c81729461b57c3010f06a506e2ed",
+      "title": "JianhuiWei7/VideoWeaver",
+      "url": "https://github.com/JianhuiWei7/VideoWeaver",
+      "source": "github",
+      "source_author": "JianhuiWei7",
+      "topics": [],
+      "score": 1,
+      "score_reason": "Minimal visibility and potential relevance.",
+      "posted": false,
+      "collected_at": "2026-06-09T15:40:55Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 5,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "84a30725ddc4abed1752f94093c6d64b",
+      "title": "gantasmo/magenta-rt2-nvidia",
+      "url": "https://github.com/gantasmo/magenta-rt2-nvidia",
+      "source": "github",
+      "source_author": "gantasmo",
+      "topics": [],
+      "score": 1,
+      "score_reason": "Extremely low engagement across all metrics.",
+      "posted": false,
+      "collected_at": "2026-06-09T15:40:56Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 2,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "a7fdb382f52c85944a6384b846bd7b5d",
+      "title": "marker-io/mcp-skills",
+      "url": "https://github.com/marker-io/mcp-skills",
+      "source": "github",
+      "source_author": "marker-io",
+      "topics": [],
+      "score": 1,
+      "score_reason": "Lacks any influencer impact or relevance.",
+      "posted": false,
+      "collected_at": "2026-06-09T15:41:05Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 7,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "5ed596bbd41b28db4848a509dbd37032",
+      "title": "libertywing/FlashMemory-Deepseek-V4",
+      "url": "https://github.com/libertywing/FlashMemory-Deepseek-V4",
+      "source": "github",
+      "source_author": "libertywing",
+      "topics": [],
+      "score": 1,
+      "score_reason": "Negligible engagement; likely of limited interest.",
+      "posted": false,
+      "collected_at": "2026-06-09T15:40:51Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 10,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "2d21af12834324c6fbf55f4d5eb780cc",
+      "title": "ycx932436/devin-byok-bridge",
+      "url": "https://github.com/ycx932436/devin-byok-bridge",
+      "source": "github",
+      "source_author": "ycx932436",
+      "topics": [],
+      "score": 1,
+      "score_reason": "Almost no stars or engagement.",
+      "posted": false,
+      "collected_at": "2026-06-09T15:41:07Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
         "upvotes": 0
       }
     }
   ],
   "source": "github",
-  "updated_at": "2026-06-09T10:13:57Z"
+  "updated_at": "2026-06-09T15:45:03Z"
 }

@@ -1,47 +1,127 @@
 {
-  "count": 2,
+  "count": 6,
   "items": [
     {
-      "id": "f5e6b88a0aa911ecb83ef13c0a5c2c1d",
-      "title": "New Science Blog: Why has AI advanced faster in coding than in biology? \n\nTo agents, bio databases a...",
-      "url": "https://x.com/AnthropicAI/status/2064054837294354677",
+      "id": "97f724c4f79a5d1d40d4f656421d88c2",
+      "title": "Say hello, hola, 你好 to Gemini 3.5 Live Translate: our latest audio model built for fast, cross-l...",
+      "url": "https://x.com/GoogleDeepMind/status/2064366504745828689",
       "source": "twitter",
-      "source_author": "AnthropicAI",
+      "source_author": "GoogleDeepMind",
       "topics": [],
-      "score": 9,
-      "score_reason": "High engagement signals strong interest among developers.",
+      "score": 8,
+      "score_reason": "High engagement indicates significant interest in new model.",
       "posted": false,
-      "collected_at": "2026-06-09T04:49:52Z",
+      "collected_at": "2026-06-09T15:43:38Z",
       "engagement": {
         "comments": 0,
-        "likes": 2417,
-        "replies": 198,
-        "retweets": 409,
+        "likes": 180,
+        "replies": 12,
+        "retweets": 40,
         "stars": 0,
         "upvotes": 0
       }
     },
     {
-      "id": "0baa978fdac8952783074c98e5e9c1f8",
-      "title": "The north stars we're working towards at OpenAI all center around the mission: ensure AGI benefits a...",
-      "url": "https://x.com/merettm/status/2064092423740174582",
+      "id": "4ff9458ef6121fd4021bfba2a31750c2",
+      "title": "Today, we released Gemini 3.5 Live Translate, our latest audio model for live speech-to-speech trans...",
+      "url": "https://x.com/GoogleAI/status/2064366504112505266",
       "source": "twitter",
-      "source_author": "OpenAI",
+      "source_author": "GoogleAI",
       "topics": [],
       "score": 7,
-      "score_reason": "Moderate engagement suggests relevance to the developer community.",
+      "score_reason": "High engagement, signaling interest in speech technology.",
       "posted": false,
-      "collected_at": "2026-06-09T04:49:52Z",
+      "collected_at": "2026-06-09T15:43:38Z",
       "engagement": {
         "comments": 0,
-        "likes": 280,
-        "replies": 40,
-        "retweets": 25,
+        "likes": 100,
+        "replies": 14,
+        "retweets": 23,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "f61808cb148a6f672e98e44117163a60",
+      "title": "3.5 Live Translate can convert speech into over 70 languages and processes it as it’s streamed - w...",
+      "url": "https://x.com/GoogleDeepMind/status/2064366509216928102",
+      "source": "twitter",
+      "source_author": "GoogleDeepMind",
+      "topics": [],
+      "score": 6,
+      "score_reason": "Decent engagement but lacks deeper insights.",
+      "posted": false,
+      "collected_at": "2026-06-09T15:43:38Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 48,
+        "replies": 5,
+        "retweets": 8,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "d657c301302f6392d2a1f6a0bf12b84c",
+      "title": "Easily reformat your videos to different aspect ratios, so you can show up everywhere that matters.\n...",
+      "url": "https://x.com/runwayml/status/2064350871048077756",
+      "source": "twitter",
+      "source_author": "RunwayML",
+      "topics": [],
+      "score": 5,
+      "score_reason": "Moderate interest with practical implications.",
+      "posted": false,
+      "collected_at": "2026-06-09T15:43:38Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 54,
+        "replies": 7,
+        "retweets": 7,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "eee3b309503add1f4f7c03a06594db19",
+      "title": "Get started:",
+      "url": "https://x.com/runwayml/status/2064350872868380705",
+      "source": "twitter",
+      "source_author": "RunwayML",
+      "topics": [],
+      "score": 2,
+      "score_reason": "Low engagement; limited impact.",
+      "posted": false,
+      "collected_at": "2026-06-09T15:43:38Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 7,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "427738538f077c5be784a5111bb5cfec",
+      "title": "Read the blog to learn more:",
+      "url": "https://x.com/GoogleAI/status/2064366505630802081",
+      "source": "twitter",
+      "source_author": "GoogleAI",
+      "topics": [],
+      "score": 2,
+      "score_reason": "Minimal impact and engagement.",
+      "posted": false,
+      "collected_at": "2026-06-09T15:43:38Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 11,
+        "replies": 0,
+        "retweets": 1,
         "stars": 0,
         "upvotes": 0
       }
     }
   ],
   "source": "twitter",
-  "updated_at": "2026-06-09T04:51:14Z"
+  "updated_at": "2026-06-09T15:45:03Z"
 }
