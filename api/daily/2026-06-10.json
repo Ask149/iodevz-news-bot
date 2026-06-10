@@ -1,6 +1,27 @@
 {
-  "count": 112,
+  "count": 142,
+  "date": "2026-06-10",
   "items": [
+    {
+      "id": "7a1e85f03fe2c69ba31e4c139fcdcfdd",
+      "title": "Introducing Claude Fable 5: a Mythos-class model that we’ve made safe for general use.\n\nIts capabi...",
+      "url": "https://x.com/claudeai/status/2064394146916229443",
+      "source": "twitter",
+      "source_author": "AnthropicAI",
+      "topics": [],
+      "score": 10,
+      "score_reason": "Introduces a powerful new AI model that enhances capabilities for developers.",
+      "posted": false,
+      "collected_at": "2026-06-10T05:04:12Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 87152,
+        "replies": 3969,
+        "retweets": 20343,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
     {
       "id": "ab894c0661b4a59ba78ef00c0c514623",
       "title": "If Claude Fable stops helping you, you'll never know",
@@ -79,6 +100,26 @@
         "retweets": 0,
         "stars": 0,
         "upvotes": 3
+      }
+    },
+    {
+      "id": "66403a7d1524693466fe62a85af65d68",
+      "title": "Claude Fable 5 is now available in Cursor.\n\nIt sets a new state of the art on CursorBench at 72.9%, ...",
+      "url": "https://x.com/cursor_ai/status/2064394824313376787",
+      "source": "twitter",
+      "source_author": "cursor_ai",
+      "topics": [],
+      "score": 9,
+      "score_reason": "Highlights impressive benchmarks and availability of a new AI model, relevant for developers.",
+      "posted": false,
+      "collected_at": "2026-06-10T05:04:12Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 5152,
+        "replies": 200,
+        "retweets": 584,
+        "stars": 0,
+        "upvotes": 0
       }
     },
     {
@@ -219,6 +260,26 @@
         "retweets": 0,
         "stars": 0,
         "upvotes": 2
+      }
+    },
+    {
+      "id": "35fc90998054eac82cca4c366fcf4d1e",
+      "title": "High Effort handles your most complex builds with ease on Replit.\n\nNow powered by Claude Fable 5.\n\n2...",
+      "url": "https://x.com/pirroh/status/2064408022651191613",
+      "source": "twitter",
+      "source_author": "replit",
+      "topics": [],
+      "score": 8,
+      "score_reason": "The integration of Claude Fable 5 indicates a significant enhancement in automation for complex builds.",
+      "posted": false,
+      "collected_at": "2026-06-10T05:04:12Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 119,
+        "replies": 15,
+        "retweets": 24,
+        "stars": 0,
+        "upvotes": 0
       }
     },
     {
@@ -602,6 +663,26 @@
       }
     },
     {
+      "id": "8b1730b3897307a946c1ed6f1171b779",
+      "title": "I built a mobile app, promo video, and pitch deck for my travel app at the same time using Replit's ...",
+      "url": "https://x.com/Replit/status/2064407281278607791",
+      "source": "twitter",
+      "source_author": "replit",
+      "topics": [],
+      "score": 6.5,
+      "score_reason": "Demonstrates practical use of tools but isn't particularly novel compared to existing solutions.",
+      "posted": false,
+      "collected_at": "2026-06-10T05:04:12Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 44,
+        "replies": 8,
+        "retweets": 5,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
       "id": "c5e70d246978afc9c644634f57022f2e",
       "title": "Show HN: Messagevisor – Git-based internationalization and l10n management",
       "url": "https://messagevisor.com/",
@@ -962,6 +1043,26 @@
       }
     },
     {
+      "id": "a6e68a1d3684da13725db0662f956eb8",
+      "title": "See how Claude Fable 5 compares across every model: \nhttp://\ncursor.com/evals",
+      "url": "https://x.com/cursor_ai/status/2064394826100134193",
+      "source": "twitter",
+      "source_author": "cursor_ai",
+      "topics": [],
+      "score": 5,
+      "score_reason": "unscored",
+      "posted": false,
+      "collected_at": "2026-06-10T05:04:12Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 127,
+        "replies": 4,
+        "retweets": 8,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
       "id": "ea6dde81e702851b1f3133d0c980fe5a",
       "title": "Fable 5 as an agent: only the last thing it tells you is real",
       "url": "https://matrix.dev/blog-2026-06-10",
@@ -1022,6 +1123,26 @@
       }
     },
     {
+      "id": "4e535819d5898754a83e9c7298bc2ea0",
+      "title": "yzfly/TokenCode",
+      "url": "https://github.com/yzfly/TokenCode",
+      "source": "github",
+      "source_author": "yzfly",
+      "topics": [],
+      "score": 5,
+      "score_reason": "New GitHub project, but lacks broader impact on developer practices.",
+      "posted": false,
+      "collected_at": "2026-06-10T05:01:30Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 17,
+        "upvotes": 0
+      }
+    },
+    {
       "id": "90c50e8c1c4a1ed64f4beef4aacaf619",
       "title": "OpenClaw agent leaked mock AWS keys and CRM data in phishing tests",
       "url": "https://www.varonis.com/blog/openclaw-phishing",
@@ -1039,6 +1160,26 @@
         "retweets": 0,
         "stars": 0,
         "upvotes": 3
+      }
+    },
+    {
+      "id": "9870ea6e9cac617a30affcb4058891b9",
+      "title": "bishwajeetpandey-glitch/genaipoemgenerator.github.io",
+      "url": "https://github.com/bishwajeetpandey-glitch/genaipoemgenerator.github.io",
+      "source": "github",
+      "source_author": "bishwajeetpandey-glitch",
+      "topics": [],
+      "score": 5,
+      "score_reason": "unscored",
+      "posted": false,
+      "collected_at": "2026-06-10T05:01:31Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
+        "upvotes": 0
       }
     },
     {
@@ -1062,6 +1203,46 @@
       }
     },
     {
+      "id": "7f821b19121d3458b9f711f9429821b6",
+      "title": "spiritsystemvault/Unfiltered-AI",
+      "url": "https://github.com/spiritsystemvault/Unfiltered-AI",
+      "source": "github",
+      "source_author": "spiritsystemvault",
+      "topics": [],
+      "score": 5,
+      "score_reason": "unscored",
+      "posted": false,
+      "collected_at": "2026-06-10T05:01:34Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 13,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "4979fa4456646f70564158c91f5701e6",
+      "title": "carpedkm/CustoMDiT",
+      "url": "https://github.com/carpedkm/CustoMDiT",
+      "source": "github",
+      "source_author": "carpedkm",
+      "topics": [],
+      "score": 5,
+      "score_reason": "A niche project that may have potential applicability but lacks broad engagement.",
+      "posted": false,
+      "collected_at": "2026-06-10T05:01:34Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 12,
+        "upvotes": 0
+      }
+    },
+    {
       "id": "e1ae48d7b32737eb4931a3858b98f407",
       "title": "Building an AI-Native Engineering Team",
       "url": "https://developers.openai.com/codex/guides/build-ai-native-engineering-team",
@@ -1079,6 +1260,26 @@
         "retweets": 0,
         "stars": 0,
         "upvotes": 2
+      }
+    },
+    {
+      "id": "03ec11a35819276549b755cb237055fc",
+      "title": "fubak/ultraswarm",
+      "url": "https://github.com/fubak/ultraswarm",
+      "source": "github",
+      "source_author": "fubak",
+      "topics": [],
+      "score": 5,
+      "score_reason": "unscored",
+      "posted": false,
+      "collected_at": "2026-06-10T05:01:36Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 3,
+        "upvotes": 0
       }
     },
     {
@@ -1102,6 +1303,26 @@
       }
     },
     {
+      "id": "e8030c50f91a0b68819a17424dfe3abd",
+      "title": "amarnath3003/MCPify",
+      "url": "https://github.com/amarnath3003/MCPify",
+      "source": "github",
+      "source_author": "amarnath3003",
+      "topics": [],
+      "score": 5,
+      "score_reason": "unscored",
+      "posted": false,
+      "collected_at": "2026-06-10T05:01:38Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 32,
+        "upvotes": 0
+      }
+    },
+    {
       "id": "e2335aab7d2908805033e64b23238bf1",
       "title": "Claude and ChatGPT are getting worse. It's not your imagination",
       "url": "https://www.artificialstudio.ai/blog/chatgpt-claude-getting-worse-compute-crisis",
@@ -1122,6 +1343,26 @@
       }
     },
     {
+      "id": "ed92d225ac4d1d88d8a4c3203633b0ca",
+      "title": "HappyLifeOk/cc-3-8-x-mcp",
+      "url": "https://github.com/HappyLifeOk/cc-3-8-x-mcp",
+      "source": "github",
+      "source_author": "HappyLifeOk",
+      "topics": [],
+      "score": 5,
+      "score_reason": "unscored",
+      "posted": false,
+      "collected_at": "2026-06-10T05:01:38Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 28,
+        "upvotes": 0
+      }
+    },
+    {
       "id": "5837bc28bbfd026b4c80a3e8966ff8e4",
       "title": "Retryable Is Not Enough: A Genkit Case Study in AI Execution Semantics",
       "url": "https://blog.pitstop.dev/i-filed-a-github-issue-against-googles-ai-framework-heres-what-happened/",
@@ -1139,6 +1380,46 @@
         "retweets": 0,
         "stars": 0,
         "upvotes": 2
+      }
+    },
+    {
+      "id": "5bb709ea6f773ebe8dc987dda0448be3",
+      "title": "CYC2002tommy/Deep-Research-Agent",
+      "url": "https://github.com/CYC2002tommy/Deep-Research-Agent",
+      "source": "github",
+      "source_author": "CYC2002tommy",
+      "topics": [],
+      "score": 5,
+      "score_reason": "unscored",
+      "posted": false,
+      "collected_at": "2026-06-10T05:01:40Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 10,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "504ba27dc81f4e023676b3e7518bc613",
+      "title": "infersports/infersports-skill",
+      "url": "https://github.com/infersports/infersports-skill",
+      "source": "github",
+      "source_author": "infersports",
+      "topics": [],
+      "score": 5,
+      "score_reason": "unscored",
+      "posted": false,
+      "collected_at": "2026-06-10T05:01:40Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 8,
+        "upvotes": 0
       }
     },
     {
@@ -1222,6 +1503,46 @@
       }
     },
     {
+      "id": "0bb927466a4b4e61b7c799761f796ff5",
+      "title": "matthewdcage/llm-swarm-router",
+      "url": "https://github.com/matthewdcage/llm-swarm-router",
+      "source": "github",
+      "source_author": "matthewdcage",
+      "topics": [],
+      "score": 5,
+      "score_reason": "While interesting, it currently shows low engagement and appeal to a wider audience.",
+      "posted": false,
+      "collected_at": "2026-06-10T05:01:41Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 17,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "4281672c92a48d90c9957364c23c3b5c",
+      "title": "maximecb/bebelm",
+      "url": "https://github.com/maximecb/bebelm",
+      "source": "github",
+      "source_author": "maximecb",
+      "topics": [],
+      "score": 5,
+      "score_reason": "unscored",
+      "posted": false,
+      "collected_at": "2026-06-10T05:01:45Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 48,
+        "upvotes": 0
+      }
+    },
+    {
       "id": "40e30cd422bc6e60bb0cf93a1e8bd084",
       "title": "Fable 5 remotion video benchmark and examples",
       "url": "https://mesmer.tools/benchmarks/ai-video-generation",
@@ -1259,6 +1580,26 @@
         "retweets": 0,
         "stars": 0,
         "upvotes": 1
+      }
+    },
+    {
+      "id": "42fcbec0b5b09795251d7692ee15b764",
+      "title": "ziqihe10-droid/xuefeng-agent",
+      "url": "https://github.com/ziqihe10-droid/xuefeng-agent",
+      "source": "github",
+      "source_author": "ziqihe10-droid",
+      "topics": [],
+      "score": 5,
+      "score_reason": "Has a relatively high star count, but lacks context on its novelty and impact.",
+      "posted": false,
+      "collected_at": "2026-06-10T05:01:47Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 158,
+        "upvotes": 0
       }
     },
     {
@@ -1802,6 +2143,26 @@
       }
     },
     {
+      "id": "6c3c52d89dd0ba7025521f6e38f496ad",
+      "title": "New research in Nature Methods from Project Ex Vivo shows AI models learn more from diverse cell sta...",
+      "url": "https://x.com/MSFTResearch/status/2064384745195118817",
+      "source": "twitter",
+      "source_author": "MSFTResearch",
+      "topics": [],
+      "score": 3,
+      "score_reason": "Research findings may influence AI modeling but lacks direct implications for developers.",
+      "posted": false,
+      "collected_at": "2026-06-10T05:04:12Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 6,
+        "replies": 1,
+        "retweets": 3,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
       "id": "17a0df672c1d262a513e758375627b36",
       "title": "Show HN: Draft an all-time XI and simulate a World Cup run",
       "url": "https://www.perfectworldcup.com",
@@ -1819,6 +2180,26 @@
         "retweets": 0,
         "stars": 0,
         "upvotes": 1
+      }
+    },
+    {
+      "id": "b585618549375426356b041a602dd533",
+      "title": "Today we're introducing ACE2S-SHiELD+, a climate emulator that learns to separate the effects of sea...",
+      "url": "https://x.com/allen_ai/status/2064377602425458972",
+      "source": "twitter",
+      "source_author": "Allen_AI",
+      "topics": [],
+      "score": 3,
+      "score_reason": "Early stage research with limited interest in direct developer tools or applications.",
+      "posted": false,
+      "collected_at": "2026-06-10T05:04:12Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 19,
+        "replies": 1,
+        "retweets": 5,
+        "stars": 0,
+        "upvotes": 0
       }
     },
     {
@@ -1922,6 +2303,26 @@
       }
     },
     {
+      "id": "74ab3dbf4bc1f137b61a68766f0866f4",
+      "title": "samarailly51-pixel/opencode-harness",
+      "url": "https://github.com/samarailly51-pixel/opencode-harness",
+      "source": "github",
+      "source_author": "samarailly51-pixel",
+      "topics": [],
+      "score": 2,
+      "score_reason": "GitHub project with no context on its impact or relevance.",
+      "posted": false,
+      "collected_at": "2026-06-10T05:01:24Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 65,
+        "upvotes": 0
+      }
+    },
+    {
       "id": "2bf7427cfcf2ce0de2db22b44be38015",
       "title": "Show HN: Statanim – Animate Statistics in Python",
       "url": "https://github.com/rishabhbhartiya/STATANIM",
@@ -1962,6 +2363,26 @@
       }
     },
     {
+      "id": "f10378523171cfc6168606c53e60f408",
+      "title": "Trained on the new \u0026 existing data, ACE2S-SHiELD+ accurately handles the scenarios earlier ACE model...",
+      "url": "https://x.com/allen_ai/status/2064377610042273827",
+      "source": "twitter",
+      "source_author": "Allen_AI",
+      "topics": [],
+      "score": 2,
+      "score_reason": "Limited engagement and relevance to typical developer concerns.",
+      "posted": false,
+      "collected_at": "2026-06-10T05:04:12Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 2,
+        "replies": 1,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
       "id": "e879ea8edaa94473126acf59265c3533",
       "title": "Free Recoll for Windows",
       "url": "https://github.com/alarmz/recoll",
@@ -1979,6 +2400,26 @@
         "retweets": 0,
         "stars": 0,
         "upvotes": 1
+      }
+    },
+    {
+      "id": "1476e24959c6e201f0443acfaf673a21",
+      "title": "hadihonarvar/flock",
+      "url": "https://github.com/hadihonarvar/flock",
+      "source": "github",
+      "source_author": "hadihonarvar",
+      "topics": [],
+      "score": 2,
+      "score_reason": "GitHub project with minimal engagement or relevance.",
+      "posted": false,
+      "collected_at": "2026-06-10T05:01:25Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 38,
+        "upvotes": 0
       }
     },
     {
@@ -2039,6 +2480,26 @@
         "retweets": 0,
         "stars": 0,
         "upvotes": 1
+      }
+    },
+    {
+      "id": "b90217e2d51c29f50c710e310ce99645",
+      "title": "affaqk/GenAi-Js",
+      "url": "https://github.com/affaqk/GenAi-Js",
+      "source": "github",
+      "source_author": "affaqk",
+      "topics": [],
+      "score": 1.5,
+      "score_reason": "Very low engagement and unclear utility.",
+      "posted": false,
+      "collected_at": "2026-06-10T05:01:31Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
+        "upvotes": 0
       }
     },
     {
@@ -2142,6 +2603,66 @@
       }
     },
     {
+      "id": "6a4dac708262fe118a34e88d2420611f",
+      "title": "Nanako0129/TokenBar",
+      "url": "https://github.com/Nanako0129/TokenBar",
+      "source": "github",
+      "source_author": "Nanako0129",
+      "topics": [],
+      "score": 1,
+      "score_reason": "Another low-engagement item with little context.",
+      "posted": false,
+      "collected_at": "2026-06-10T05:01:41Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 13,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "3c126b3831c2a147438ebf0cc02fe83e",
+      "title": "vertex-kg/devin",
+      "url": "https://github.com/vertex-kg/devin",
+      "source": "github",
+      "source_author": "vertex-kg",
+      "topics": [],
+      "score": 1,
+      "score_reason": "Not enough information to display relevance or importance.",
+      "posted": false,
+      "collected_at": "2026-06-10T05:01:44Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "4f08e2a28348622a95945da94576fba4",
+      "title": "ako1983/SwarmInspector",
+      "url": "https://github.com/ako1983/SwarmInspector",
+      "source": "github",
+      "source_author": "ako1983",
+      "topics": [],
+      "score": 1,
+      "score_reason": "Very low engagement and unclear impact on developer workflows.",
+      "posted": false,
+      "collected_at": "2026-06-10T05:01:36Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
+        "upvotes": 0
+      }
+    },
+    {
       "id": "6ad5ac74193445410b3260da356d5fbf",
       "title": "Nagent, a uniuqe LLM loop reference implementation",
       "url": "https://github.com/macton/nagent",
@@ -2159,6 +2680,26 @@
         "retweets": 0,
         "stars": 0,
         "upvotes": 2
+      }
+    },
+    {
+      "id": "b445457d9b4cfd26bdecfc3b216ebbdf",
+      "title": "iblai/higher-education-agents",
+      "url": "https://github.com/iblai/higher-education-agents",
+      "source": "github",
+      "source_author": "iblai",
+      "topics": [],
+      "score": 1,
+      "score_reason": "Suffers from low engagement and fails to showcase its relevance.",
+      "posted": false,
+      "collected_at": "2026-06-10T05:01:40Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 9,
+        "upvotes": 0
       }
     },
     {
@@ -2182,6 +2723,46 @@
       }
     },
     {
+      "id": "e280f1862a09fba003b82c463e4ee446",
+      "title": "heyxiaoc/not-fade-away",
+      "url": "https://github.com/heyxiaoc/not-fade-away",
+      "source": "github",
+      "source_author": "heyxiaoc",
+      "topics": [],
+      "score": 1,
+      "score_reason": "Low-impact GitHub project.",
+      "posted": false,
+      "collected_at": "2026-06-10T05:01:25Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 23,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "917d2547e7d15704f304a1debff7a8c9",
+      "title": "sushanglewis/my-skills",
+      "url": "https://github.com/sushanglewis/my-skills",
+      "source": "github",
+      "source_author": "sushanglewis",
+      "topics": [],
+      "score": 1,
+      "score_reason": "Low utility for developers, mostly personal project.",
+      "posted": false,
+      "collected_at": "2026-06-10T05:01:32Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 3,
+        "upvotes": 0
+      }
+    },
+    {
       "id": "35b06fbbc0a6a4d7406b6a68b254596f",
       "title": "This week tells you everything about Europe's digital sovereignty transition",
       "url": "https://proton.me/business/blog/europe-us-tech-dependence-qwant",
@@ -2199,6 +2780,26 @@
         "retweets": 0,
         "stars": 0,
         "upvotes": 5
+      }
+    },
+    {
+      "id": "66f7be73308d94999f34899be3455cae",
+      "title": "eduramosalves/genai-biomedical-nlp",
+      "url": "https://github.com/eduramosalves/genai-biomedical-nlp",
+      "source": "github",
+      "source_author": "eduramosalves",
+      "topics": [],
+      "score": 1,
+      "score_reason": "Insufficient information on its relevance.",
+      "posted": false,
+      "collected_at": "2026-06-10T05:01:31Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
+        "upvotes": 0
       }
     },
     {
@@ -2242,6 +2843,5 @@
       }
     }
   ],
-  "source": "hackernews",
   "updated_at": "2026-06-10T05:05:44Z"
 }
