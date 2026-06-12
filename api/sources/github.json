@@ -1,147 +1,107 @@
 {
-  "count": 7,
+  "count": 5,
   "items": [
     {
-      "id": "060b3201b52d80b79fe83ba1010dafe1",
-      "title": "levy-street/world-of-claudecraft",
-      "url": "https://github.com/levy-street/world-of-claudecraft",
+      "id": "75fbed5dce55ca64c4dfed7ec0342eee",
+      "title": "vinayaklatthe/microsoft-security-skills",
+      "url": "https://github.com/vinayaklatthe/microsoft-security-skills",
       "source": "github",
-      "source_author": "levy-street",
+      "source_author": "vinayaklatthe",
       "topics": [],
       "score": 7,
-      "score_reason": "Unique project on GitHub showing creativity in implementation.",
+      "score_reason": "Relevant security skills for Microsoft environments with increasing star count.",
       "posted": false,
-      "collected_at": "2026-06-12T10:50:09Z",
+      "collected_at": "2026-06-12T15:48:26Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 101,
+        "stars": 72,
         "upvotes": 0
       }
     },
     {
-      "id": "508a1a065b1fa98c92b2f9e6bfa2c1e6",
-      "title": "zhouwei713/fpv-immersive-video-prompting",
-      "url": "https://github.com/zhouwei713/fpv-immersive-video-prompting",
+      "id": "3dbfacd7dcad9aa7840ee9cc8f9d3c50",
+      "title": "spree/agent-skills",
+      "url": "https://github.com/spree/agent-skills",
       "source": "github",
-      "source_author": "zhouwei713",
+      "source_author": "spree",
+      "topics": [],
+      "score": 5,
+      "score_reason": "Focuses on agent skills but minimal user interest and development activity.",
+      "posted": false,
+      "collected_at": "2026-06-12T15:48:22Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 4,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "10e5e98c706c31ae4fc931940a013e40",
+      "title": "kadevin/ilab-gpt-conjure",
+      "url": "https://github.com/kadevin/ilab-gpt-conjure",
+      "source": "github",
+      "source_author": "kadevin",
       "topics": [],
       "score": 4,
-      "score_reason": "While immersive video prompting is intriguing, the project is obscure.",
+      "score_reason": "Basic tool for AI interaction without notable features or community interest.",
       "posted": false,
-      "collected_at": "2026-06-12T10:50:13Z",
+      "collected_at": "2026-06-12T15:48:06Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 14,
+        "stars": 13,
         "upvotes": 0
       }
     },
     {
-      "id": "0466888535cbf589fca9ca16e9ceba58",
-      "title": "TradingAi666/worldcup2026-prediction-skill",
-      "url": "https://github.com/TradingAi666/worldcup2026-prediction-skill",
+      "id": "7c3ac025b448edac0c081262579f840b",
+      "title": "ghy196830-del/agent-watch-approve",
+      "url": "https://github.com/ghy196830-del/agent-watch-approve",
       "source": "github",
-      "source_author": "TradingAi666",
-      "topics": [],
-      "score": 4,
-      "score_reason": "Limited engagement, predictions are of seasonal interest.",
-      "posted": false,
-      "collected_at": "2026-06-12T10:50:11Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 29,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "bd957ec8cdf60de9f0967a9319ea2905",
-      "title": "DragonMeow1012/DragonMeow-MangaTranslator",
-      "url": "https://github.com/DragonMeow1012/DragonMeow-MangaTranslator",
-      "source": "github",
-      "source_author": "DragonMeow1012",
-      "topics": [],
-      "score": 3.5,
-      "score_reason": "Potentially useful for manga translation, but narrow audience.",
-      "posted": false,
-      "collected_at": "2026-06-12T10:50:15Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 15,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "5e46f7cf254eff92e0c20b0e811acee5",
-      "title": "WhiteNightShadow/frx-director-mcp",
-      "url": "https://github.com/WhiteNightShadow/frx-director-mcp",
-      "source": "github",
-      "source_author": "WhiteNightShadow",
+      "source_author": "ghy196830-del",
       "topics": [],
       "score": 3,
-      "score_reason": "Low engagement and limited context may not attract developer interest.",
+      "score_reason": "While collaboration in tech is valuable, the content lacks specific insights for developers.",
       "posted": false,
-      "collected_at": "2026-06-12T10:50:13Z",
+      "collected_at": "2026-06-12T15:48:03Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 10,
+        "stars": 72,
         "upvotes": 0
       }
     },
     {
-      "id": "750dd8a952437ef59584a7b29bc8ef00",
-      "title": "robzilla1738/agentswarm",
-      "url": "https://github.com/robzilla1738/agentswarm",
+      "id": "d4abe9713a86bca6596c7f931c540c1e",
+      "title": "vstorm-co/agentcanvas",
+      "url": "https://github.com/vstorm-co/agentcanvas",
       "source": "github",
-      "source_author": "robzilla1738",
+      "source_author": "vstorm-co",
       "topics": [],
-      "score": 2.5,
-      "score_reason": "Edge case for AI agents, minimal engagement hampers relevance.",
+      "score": 3,
+      "score_reason": "New repository but lacks engagement and clear impact on developer workflows.",
       "posted": false,
-      "collected_at": "2026-06-12T10:50:22Z",
+      "collected_at": "2026-06-12T15:48:10Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 2,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "52af15aa9feac85fb435e6a9c78371df",
-      "title": "Dkm0315/muster",
-      "url": "https://github.com/Dkm0315/muster",
-      "source": "github",
-      "source_author": "Dkm0315",
-      "topics": [],
-      "score": 2,
-      "score_reason": "Low engagement and unclear utility for wider developer community.",
-      "posted": false,
-      "collected_at": "2026-06-12T10:50:18Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 3,
+        "stars": 7,
         "upvotes": 0
       }
     }
   ],
   "source": "github",
-  "updated_at": "2026-06-12T10:54:10Z"
+  "updated_at": "2026-06-12T15:52:18Z"
 }
