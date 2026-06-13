@@ -1,57 +1,157 @@
 {
-  "count": 3,
+  "count": 8,
   "items": [
     {
-      "id": "4983d0bf1ce355a77482a259dcf35725",
-      "title": "eric248550/comcom",
-      "url": "https://github.com/eric248550/comcom",
+      "id": "ef17817c7f2813e801404a8558042029",
+      "title": "PentHertz/grimoire",
+      "url": "https://github.com/PentHertz/grimoire",
       "source": "github",
-      "source_author": "eric248550",
+      "source_author": "PentHertz",
       "topics": [],
       "score": 6,
-      "score_reason": "GitHub project with potential utility but lacking engagement.",
+      "score_reason": "Moderate engagement; potential for future relevance in the community.",
       "posted": false,
-      "collected_at": "2026-06-13T09:43:51Z",
+      "collected_at": "2026-06-13T14:39:42Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 37,
+        "stars": 44,
         "upvotes": 0
       }
     },
     {
-      "id": "cd9d90ede6e3cbe89b6f3ce9ba2474ad",
-      "title": "stephonGAO/milu",
-      "url": "https://github.com/stephonGAO/milu",
+      "id": "a22575ef98bcf74e1136afa16b85a03a",
+      "title": "Seizenyaculvert/openvoice-cloning",
+      "url": "https://github.com/Seizenyaculvert/openvoice-cloning",
       "source": "github",
-      "source_author": "stephonGAO",
-      "topics": [],
-      "score": 5.5,
-      "score_reason": "Another GitHub project, limited impact or novelty.",
-      "posted": false,
-      "collected_at": "2026-06-13T09:43:57Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 3,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "54839ca6fc5a920dc3b7e44831cc4632",
-      "title": "TatianaTchouakam/moosic-unsupervised-playlist-clustering",
-      "url": "https://github.com/TatianaTchouakam/moosic-unsupervised-playlist-clustering",
-      "source": "github",
-      "source_author": "TatianaTchouakam",
+      "source_author": "Seizenyaculvert",
       "topics": [],
       "score": 4,
-      "score_reason": "Focuses on a specific project in playlist clustering, niche interest.",
+      "score_reason": "Slightly interesting but lacks significant engagement.",
       "posted": false,
-      "collected_at": "2026-06-13T09:43:59Z",
+      "collected_at": "2026-06-13T14:39:39Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 5,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "dfe1c3d5684c72da809feacd5ba88649",
+      "title": "ChxisB/spectre-proxy",
+      "url": "https://github.com/ChxisB/spectre-proxy",
+      "source": "github",
+      "source_author": "ChxisB",
+      "topics": [],
+      "score": 3,
+      "score_reason": "Low engagement and no distinctive features.",
+      "posted": false,
+      "collected_at": "2026-06-13T14:39:36Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 2,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "b570046de4b58e3653133e31b3800814",
+      "title": "zFusions/beautiful-mysellauth-themes",
+      "url": "https://github.com/zFusions/beautiful-mysellauth-themes",
+      "source": "github",
+      "source_author": "zFusions",
+      "topics": [],
+      "score": 2,
+      "score_reason": "Minimal engagement and limited scope.",
+      "posted": false,
+      "collected_at": "2026-06-13T14:39:43Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 2,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "156ec5665c66472adce031bf40a6aa80",
+      "title": "strongshuai/proxy-checker",
+      "url": "https://github.com/strongshuai/proxy-checker",
+      "source": "github",
+      "source_author": "strongshuai",
+      "topics": [],
+      "score": 1,
+      "score_reason": "Repository appears uninteresting with no initial traction.",
+      "posted": false,
+      "collected_at": "2026-06-13T14:39:31Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 27,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "c04734be735d8042b3839123d5ffdfd5",
+      "title": "Blackstocks/GenAI-ktech",
+      "url": "https://github.com/Blackstocks/GenAI-ktech",
+      "source": "github",
+      "source_author": "Blackstocks",
+      "topics": [],
+      "score": 1,
+      "score_reason": "Lack of engagement suggests this repository is not currently appealing.",
+      "posted": false,
+      "collected_at": "2026-06-13T14:39:36Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 5,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "785c5171d4edf5662c78622478fe75af",
+      "title": "MiaAI-Lab/DeepSeek-V4-Flash-Dual-DGX-Spark-1M-Context",
+      "url": "https://github.com/MiaAI-Lab/DeepSeek-V4-Flash-Dual-DGX-Spark-1M-Context",
+      "source": "github",
+      "source_author": "MiaAI-Lab",
+      "topics": [],
+      "score": 1,
+      "score_reason": "No engagement indicates minimal relevance or interest.",
+      "posted": false,
+      "collected_at": "2026-06-13T14:39:35Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 13,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "b27150170cf82aa7f710ed61179bbcb9",
+      "title": "rshdhere/devin",
+      "url": "https://github.com/rshdhere/devin",
+      "source": "github",
+      "source_author": "rshdhere",
+      "topics": [],
+      "score": 1,
+      "score_reason": "Low activity and negligible impact on developers.",
+      "posted": false,
+      "collected_at": "2026-06-13T14:39:48Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
@@ -63,5 +163,5 @@
     }
   ],
   "source": "github",
-  "updated_at": "2026-06-13T09:47:31Z"
+  "updated_at": "2026-06-13T14:43:35Z"
 }
