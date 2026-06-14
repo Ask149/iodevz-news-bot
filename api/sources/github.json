@@ -1,57 +1,37 @@
 {
-  "count": 9,
+  "count": 3,
   "items": [
     {
-      "id": "0bd0eb3be4a46e294918a3468a162508",
-      "title": "itsinseong/value-for-fable",
-      "url": "https://github.com/itsinseong/value-for-fable",
+      "id": "ad99888ea6e6dba38943819bb57945da",
+      "title": "FighterRepresent/cursor-rules-generator",
+      "url": "https://github.com/FighterRepresent/cursor-rules-generator",
       "source": "github",
-      "source_author": "itsinseong",
+      "source_author": "FighterRepresent",
       "topics": [],
-      "score": 1,
-      "score_reason": "Lacks engagement and relevance to technical audience.",
+      "score": 1.5,
+      "score_reason": "Niche project that does not appeal to a wide developer audience.",
       "posted": false,
-      "collected_at": "2026-06-14T10:04:44Z",
+      "collected_at": "2026-06-14T14:55:27Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 152,
+        "stars": 16,
         "upvotes": 0
       }
     },
     {
-      "id": "74001714bfe1006f68f506be2c98a152",
-      "title": "fivetaku/fablize",
-      "url": "https://github.com/fivetaku/fablize",
+      "id": "f37975dd9747580d6049c9c54e8b6689",
+      "title": "G12789/mcp-quickstart",
+      "url": "https://github.com/G12789/mcp-quickstart",
       "source": "github",
-      "source_author": "fivetaku",
+      "source_author": "G12789",
       "topics": [],
-      "score": 1,
-      "score_reason": "Minimal engagement signals and unclear relevance.",
+      "score": 1.5,
+      "score_reason": "Similarly, this project lacks significant appeal or relevance.",
       "posted": false,
-      "collected_at": "2026-06-14T10:04:45Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 60,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "33190b4089e7a82e4c0d723cddcf0c3f",
-      "title": "Neusoft-Intelligent-Laboratory/FridayOS-Lite",
-      "url": "https://github.com/Neusoft-Intelligent-Laboratory/FridayOS-Lite",
-      "source": "github",
-      "source_author": "Neusoft-Intelligent-Laboratory",
-      "topics": [],
-      "score": 1,
-      "score_reason": "Little engagement and niche appeal to developers.",
-      "posted": false,
-      "collected_at": "2026-06-14T10:04:50Z",
+      "collected_at": "2026-06-14T14:55:27Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
@@ -62,16 +42,16 @@
       }
     },
     {
-      "id": "7327681a434b48055ca414d02756f4cc",
-      "title": "cvlab-kaist/MVTrack4Gen",
-      "url": "https://github.com/cvlab-kaist/MVTrack4Gen",
+      "id": "fa23df378534b3f49edf09e7366f53ae",
+      "title": "jiaqianjing/mengmeng",
+      "url": "https://github.com/jiaqianjing/mengmeng",
       "source": "github",
-      "source_author": "cvlab-kaist",
+      "source_author": "jiaqianjing",
       "topics": [],
       "score": 1,
-      "score_reason": "Very low engagement and unclear applicability.",
+      "score_reason": "Not relevant to a technical audience; lacks any substantial commentary.",
       "posted": false,
-      "collected_at": "2026-06-14T10:04:54Z",
+      "collected_at": "2026-06-14T14:55:19Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
@@ -80,108 +60,8 @@
         "stars": 2,
         "upvotes": 0
       }
-    },
-    {
-      "id": "19793c496f3e1b9ccaa546d1be88b0a5",
-      "title": "Harmain11/audio-diffusion-model-colab",
-      "url": "https://github.com/Harmain11/audio-diffusion-model-colab",
-      "source": "github",
-      "source_author": "Harmain11",
-      "topics": [],
-      "score": 1,
-      "score_reason": "Not appealing to the target developer audience.",
-      "posted": false,
-      "collected_at": "2026-06-14T10:04:55Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "75e945ae71a30f77229dbfa9b539f465",
-      "title": "nader0913/ocpp-rag",
-      "url": "https://github.com/nader0913/ocpp-rag",
-      "source": "github",
-      "source_author": "nader0913",
-      "topics": [],
-      "score": 1,
-      "score_reason": "Minimal engagement and low relevance to current AI trends.",
-      "posted": false,
-      "collected_at": "2026-06-14T10:04:58Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 114,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "4c08e3c4d6b8ba09fa1f41aff2a84bc8",
-      "title": "stareezy-1/frontend-architecture-skill",
-      "url": "https://github.com/stareezy-1/frontend-architecture-skill",
-      "source": "github",
-      "source_author": "stareezy-1",
-      "topics": [],
-      "score": 1,
-      "score_reason": "Fairly low engagement and specific topic.",
-      "posted": false,
-      "collected_at": "2026-06-14T10:04:59Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 4,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "8c2404fe11fc65a6f7eac0e03528a929",
-      "title": "ruvnet/agent-harness-generator",
-      "url": "https://github.com/ruvnet/agent-harness-generator",
-      "source": "github",
-      "source_author": "ruvnet",
-      "topics": [],
-      "score": 1,
-      "score_reason": "Lacks engagement and relevance for technical audience.",
-      "posted": false,
-      "collected_at": "2026-06-14T10:05:00Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 12,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "ce290e98034b817211ee6405337fc7de",
-      "title": "fxa3bah/OneBrain",
-      "url": "https://github.com/fxa3bah/OneBrain",
-      "source": "github",
-      "source_author": "fxa3bah",
-      "topics": [],
-      "score": 1,
-      "score_reason": "Insufficient engagement and not immediately relevant.",
-      "posted": false,
-      "collected_at": "2026-06-14T10:05:00Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 11,
-        "upvotes": 0
-      }
     }
   ],
   "source": "github",
-  "updated_at": "2026-06-14T10:08:38Z"
+  "updated_at": "2026-06-14T14:59:06Z"
 }
