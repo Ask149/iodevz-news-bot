@@ -1,217 +1,97 @@
 {
-  "count": 11,
+  "count": 7,
   "items": [
     {
-      "id": "1f0af53ea3ec4f47089bdd7339ad6a43",
-      "title": "r266-tech/agent-access",
-      "url": "https://github.com/r266-tech/agent-access",
+      "id": "fb048393cb6e5ede6e78da2db35c1169",
+      "title": "vercel/eve",
+      "url": "https://github.com/vercel/eve",
       "source": "github",
-      "source_author": "r266-tech",
+      "source_author": "vercel",
       "topics": [],
-      "score": 5,
-      "score_reason": "Moderate star count suggests some interest, but lack of comments or engagement limits impact.",
+      "score": 8,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-06-17T11:22:10Z",
+      "collected_at": "2026-06-17T16:24:31Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 9,
+        "stars": 375,
         "upvotes": 0
       }
     },
     {
-      "id": "6acc396272b9d47802acf40bfcd91c53",
-      "title": "phuhao00/bony-agent",
-      "url": "https://github.com/phuhao00/bony-agent",
+      "id": "c31b4cbcd9b90d12c0a4d317e35f257c",
+      "title": "aresyn/codex-control-plane-mcp",
+      "url": "https://github.com/aresyn/codex-control-plane-mcp",
       "source": "github",
-      "source_author": "phuhao00",
+      "source_author": "aresyn",
+      "topics": [],
+      "score": 6,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-06-17T16:24:41Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 48,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "90732cef10cc9487c2e6a5c1c58bf2bf",
+      "title": "yolfinance/yolfi-agent",
+      "url": "https://github.com/yolfinance/yolfi-agent",
+      "source": "github",
+      "source_author": "yolfinance",
+      "topics": [],
+      "score": 6,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-06-17T16:24:41Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 47,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "4f7c9fd412628b225eaf4f9e557b6496",
+      "title": "alpacahq/alpaca-skills",
+      "url": "https://github.com/alpacahq/alpaca-skills",
+      "source": "github",
+      "source_author": "alpacahq",
+      "topics": [],
+      "score": 6,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-06-17T16:24:43Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 39,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "7501d9e30924af1aab9426a16a523ba2",
+      "title": "SanikaD05/LSTM-Text-to-Audio-Generation",
+      "url": "https://github.com/SanikaD05/LSTM-Text-to-Audio-Generation",
+      "source": "github",
+      "source_author": "SanikaD05",
       "topics": [],
       "score": 4,
-      "score_reason": "Higher star count but still lacks significant relevance or developer interest.",
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-06-17T11:22:03Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 4,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "e1ee8f26e8550b93e53a92d6ca0258b5",
-      "title": "boringman21/hyp-harness",
-      "url": "https://github.com/boringman21/hyp-harness",
-      "source": "github",
-      "source_author": "boringman21",
-      "topics": [],
-      "score": 3,
-      "score_reason": "Low stars indicate minimal interest or impact in the developer community.",
-      "posted": false,
-      "collected_at": "2026-06-17T11:22:02Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 3,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "b48eeb4b294f718fa78603d3fdebe936",
-      "title": "AhmadMahi/GenAI-and-ML-Training---BEPL",
-      "url": "https://github.com/AhmadMahi/GenAI-and-ML-Training---BEPL",
-      "source": "github",
-      "source_author": "AhmadMahi",
-      "topics": [],
-      "score": 3,
-      "score_reason": "Limited engagement suggests a lack of novelty or immediate impact.",
-      "posted": false,
-      "collected_at": "2026-06-17T11:22:00Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 1,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "68fce8e83451edbf6d6fc58723891265",
-      "title": "Explorer-Zero-N/bull-doctor",
-      "url": "https://github.com/Explorer-Zero-N/bull-doctor",
-      "source": "github",
-      "source_author": "Explorer-Zero-N",
-      "topics": [],
-      "score": 3,
-      "score_reason": "A newcomer project with no visible engagement or interest.",
-      "posted": false,
-      "collected_at": "2026-06-17T11:22:02Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 3,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "26cb107854ed828eb8ba9787c542bfe2",
-      "title": "leechild4/claude-session-widget",
-      "url": "https://github.com/leechild4/claude-session-widget",
-      "source": "github",
-      "source_author": "leechild4",
-      "topics": [],
-      "score": 2,
-      "score_reason": "The GitHub project lacks visibility and engagement, indicating limited interest among developers.",
-      "posted": false,
-      "collected_at": "2026-06-17T11:21:54Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 17,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "8c15d414f5ed622957ae16102f921d75",
-      "title": "mmeyerlein/meclaw",
-      "url": "https://github.com/mmeyerlein/meclaw",
-      "source": "github",
-      "source_author": "mmeyerlein",
-      "topics": [],
-      "score": 2,
-      "score_reason": "Negligible engagement and no apparent impact on developer work.",
-      "posted": false,
-      "collected_at": "2026-06-17T11:22:06Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 2,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "944266e45942553cff9d474467d00f64",
-      "title": "thegoodguysla/myco-brain",
-      "url": "https://github.com/thegoodguysla/myco-brain",
-      "source": "github",
-      "source_author": "thegoodguysla",
-      "topics": [],
-      "score": 2,
-      "score_reason": "Low engagement suggests limited relevance or novelty.",
-      "posted": false,
-      "collected_at": "2026-06-17T11:22:12Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 2,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "30f6cd5a14da54409b69b4d9aad6cd5b",
-      "title": "Plaer1/junction",
-      "url": "https://github.com/Plaer1/junction",
-      "source": "github",
-      "source_author": "Plaer1",
-      "topics": [],
-      "score": 1.5,
-      "score_reason": "Limited engagement and a lack of distinct contributions to the developer community reduce its relevance.",
-      "posted": false,
-      "collected_at": "2026-06-17T11:21:58Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 496,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "7710be414620bdc045e850e4f4ce10a7",
-      "title": "baskduf/FableCodex",
-      "url": "https://github.com/baskduf/FableCodex",
-      "source": "github",
-      "source_author": "baskduf",
-      "topics": [],
-      "score": 1,
-      "score_reason": "The project seems to have minimal engagement and doesn't offer significant innovations for developers.",
-      "posted": false,
-      "collected_at": "2026-06-17T11:21:58Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 228,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "8404cea98355d8a1cbe38163810b2e79",
-      "title": "CauaChiappin/DevIN",
-      "url": "https://github.com/CauaChiappin/DevIN",
-      "source": "github",
-      "source_author": "CauaChiappin",
-      "topics": [],
-      "score": 1,
-      "score_reason": "No stars or engagement points to no interest or relevance.",
-      "posted": false,
-      "collected_at": "2026-06-17T11:22:14Z",
+      "collected_at": "2026-06-17T16:24:38Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
@@ -220,8 +100,48 @@
         "stars": 0,
         "upvotes": 0
       }
+    },
+    {
+      "id": "950dd0f9f5960427c9cdf148c39f93ae",
+      "title": "parthmax2/genai-starter-pack",
+      "url": "https://github.com/parthmax2/genai-starter-pack",
+      "source": "github",
+      "source_author": "parthmax2",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-06-17T16:24:34Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 2,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "26b4e4036f002a4dda38df484e5c2710",
+      "title": "Limitplohole30/NeuralVoice-Studio-AI-Text-to-Speech-with-85-Dialects-Offline-Lightweight",
+      "url": "https://github.com/Limitplohole30/NeuralVoice-Studio-AI-Text-to-Speech-with-85-Dialects-Offline-Lightweight",
+      "source": "github",
+      "source_author": "Limitplohole30",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-06-17T16:24:38Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
+        "upvotes": 0
+      }
     }
   ],
   "source": "github",
-  "updated_at": "2026-06-17T11:26:02Z"
+  "updated_at": "2026-06-17T16:28:27Z"
 }
