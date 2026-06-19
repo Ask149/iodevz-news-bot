@@ -1,57 +1,37 @@
 {
-  "count": 5,
+  "count": 3,
   "items": [
     {
-      "id": "cf0b54a4697319473b064290e122cbac",
-      "title": "nagasamanvitha/autocheckpoint",
-      "url": "https://github.com/nagasamanvitha/autocheckpoint",
+      "id": "0c3982c4854f387fb7ec4c498665eec2",
+      "title": "xiaoguzuiniu/gpt-free-register",
+      "url": "https://github.com/xiaoguzuiniu/gpt-free-register",
       "source": "github",
-      "source_author": "nagasamanvitha",
+      "source_author": "xiaoguzuiniu",
       "topics": [],
-      "score": 5,
-      "score_reason": "unscored",
+      "score": 3.5,
+      "score_reason": "A GitHub project with little context or engagement, limits its novelty.",
       "posted": false,
-      "collected_at": "2026-06-19T11:06:19Z",
+      "collected_at": "2026-06-19T15:49:48Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 1,
+        "stars": 33,
         "upvotes": 0
       }
     },
     {
-      "id": "8ac5808ff96aae13bebd21abcab8ce6c",
-      "title": "Hanyuyuan6/remote-gpu-trainer",
-      "url": "https://github.com/Hanyuyuan6/remote-gpu-trainer",
+      "id": "ce2e8939378151c01da33cf53630fa34",
+      "title": "GoldLegendW80/llm-video-maker",
+      "url": "https://github.com/GoldLegendW80/llm-video-maker",
       "source": "github",
-      "source_author": "Hanyuyuan6",
+      "source_author": "GoldLegendW80",
       "topics": [],
-      "score": 2,
-      "score_reason": "GitHub tool that lacks immediate relevance or engagement signals for the AI community.",
+      "score": 3,
+      "score_reason": "The GitHub project appears to lack unique features or substantial engagement.",
       "posted": false,
-      "collected_at": "2026-06-19T11:06:18Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 26,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "c72da9d90fd4a8e5a02641a3ba7cf1b6",
-      "title": "Aakash76k/Next-GenAI",
-      "url": "https://github.com/Aakash76k/Next-GenAI",
-      "source": "github",
-      "source_author": "Aakash76k",
-      "topics": [],
-      "score": 2,
-      "score_reason": "Primary interest in GitHub repository with little apparent impact or innovation.",
-      "posted": false,
-      "collected_at": "2026-06-19T11:06:07Z",
+      "collected_at": "2026-06-19T15:50:04Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
@@ -62,36 +42,16 @@
       }
     },
     {
-      "id": "24724430a6165c58f9d570f66c067600",
-      "title": "joeseesun/qiaomu-llm-mcp",
-      "url": "https://github.com/joeseesun/qiaomu-llm-mcp",
+      "id": "fdda1ac41593b6992adefd33aed2fa9e",
+      "title": "MAFYA404/devin-agent",
+      "url": "https://github.com/MAFYA404/devin-agent",
       "source": "github",
-      "source_author": "joeseesun",
+      "source_author": "MAFYA404",
       "topics": [],
       "score": 2,
-      "score_reason": "GitHub repo without strong context or clear relevance for immediate developer needs.",
+      "score_reason": "Barely any engagement or description makes it less compelling.",
       "posted": false,
-      "collected_at": "2026-06-19T11:06:06Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 23,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "afc8459a0ddfd0d7cc021f5cae6bc209",
-      "title": "Mosss-OS/SONER",
-      "url": "https://github.com/Mosss-OS/SONER",
-      "source": "github",
-      "source_author": "Mosss-OS",
-      "topics": [],
-      "score": 1,
-      "score_reason": "Low engagement and unclear relevance to current developer tools or innovations.",
-      "posted": false,
-      "collected_at": "2026-06-19T11:06:19Z",
+      "collected_at": "2026-06-19T15:50:05Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
@@ -103,5 +63,5 @@
     }
   ],
   "source": "github",
-  "updated_at": "2026-06-19T11:09:58Z"
+  "updated_at": "2026-06-19T15:53:56Z"
 }
