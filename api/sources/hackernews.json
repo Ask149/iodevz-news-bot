@@ -1,497 +1,17 @@
 {
-  "count": 30,
+  "count": 45,
   "items": [
     {
-      "id": "3b4b65cc57a82ee757588af3dda4e2d1",
-      "title": "ClawTown: Autonomous agents bid on tasks and settle out of escrow",
-      "url": "https://clawtownai.com/",
+      "id": "098e29b635f40d6be1ab51eff1ec6f52",
+      "title": "Show HN: Lelu – authorization engine that catches manipulated AI agents",
+      "url": "https://github.com/lelu-auth/lelu",
       "source": "hackernews",
-      "source_author": "Emadiali83",
+      "source_author": "Abenezer0923",
       "topics": [],
-      "score": 9,
-      "score_reason": "Introduces a novel concept of autonomous agents bidding on tasks, which could significantly alter workflow for developers.",
+      "score": 8,
+      "score_reason": "Provides a novel approach to authorize AI agents effectively.",
       "posted": false,
-      "collected_at": "2026-06-20T09:50:12Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 0,
-        "upvotes": 1
-      }
-    },
-    {
-      "id": "64f9b7df446814895b0338d50a28601f",
-      "title": "Show HN: Make every bug perfectly reproducible",
-      "url": "https://workers.io/",
-      "source": "hackernews",
-      "source_author": "chaitanyya",
-      "topics": [],
-      "score": 8.5,
-      "score_reason": "Addresses a crucial issue in software development by aiming to create reproducible bugs, enhancing productivity.",
-      "posted": false,
-      "collected_at": "2026-06-20T09:50:12Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 0,
-        "upvotes": 6
-      }
-    },
-    {
-      "id": "f1f32c612741105c0756d90b4135cb0f",
-      "title": "Show HN: Autonomy – Self-Harness/Self-Directed AI Agent Core Under Development",
-      "url": "https://autonomy-landing-page.vercel.app/",
-      "source": "hackernews",
-      "source_author": "agentic_vector",
-      "topics": [],
-      "score": 7.5,
-      "score_reason": "Explores self-directed AI agents, relevant to frontier research in AI autonomy.",
-      "posted": false,
-      "collected_at": "2026-06-20T09:50:12Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 0,
-        "upvotes": 3
-      }
-    },
-    {
-      "id": "e9148db3dca8fcb8f0cc96c0b597ad0f",
-      "title": "The seven methods for delivering instructions",
-      "url": "https://claude.com/blog/steering-claude-code-skills-hooks-rules-subagents-and-more",
-      "source": "hackernews",
-      "source_author": "twapi",
-      "topics": [],
-      "score": 7.5,
-      "score_reason": "Offers diverse methods for steering AI capabilities in programming.",
-      "posted": false,
-      "collected_at": "2026-06-20T09:50:11Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 0,
-        "upvotes": 1
-      }
-    },
-    {
-      "id": "659ac3e751d7e1c112dd23d8d60add14",
-      "title": "Show HN: CoshUI – A back end-agnostic UI engine for Python game development",
-      "url": "https://gitlab.com/jylefv/CoshUI",
-      "source": "hackernews",
-      "source_author": "jylefv",
-      "topics": [],
-      "score": 7,
-      "score_reason": "New UI engine for gaming could enhance developer productivity.",
-      "posted": false,
-      "collected_at": "2026-06-20T09:50:12Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 0,
-        "upvotes": 1
-      }
-    },
-    {
-      "id": "c5dddfa4972d14143a81b52a315f1ac2",
-      "title": "Pappice – a self-hosted support desk in one Go binary",
-      "url": "https://github.com/lallero-dev/pappice",
-      "source": "hackernews",
-      "source_author": "lallero317",
-      "topics": [],
-      "score": 6.5,
-      "score_reason": "Self-hosted support desk could streamline developer operations.",
-      "posted": false,
-      "collected_at": "2026-06-20T09:50:12Z",
-      "engagement": {
-        "comments": 1,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 0,
-        "upvotes": 1
-      }
-    },
-    {
-      "id": "9b0d1e8320108151064c336b2b008133",
-      "title": "A synthetic order analytics pipeline built on CDC from Postgres to ClickHouse",
-      "url": "https://github.com/el10savio/ecommrt",
-      "source": "hackernews",
-      "source_author": "ugabuga",
-      "topics": [],
-      "score": 6,
-      "score_reason": "Technical implementation of data pipelines could be useful for developers.",
-      "posted": false,
-      "collected_at": "2026-06-20T09:50:12Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 0,
-        "upvotes": 1
-      }
-    },
-    {
-      "id": "30720c66045a2888c35dd89790079375",
-      "title": "Show HN: Local automation runner with built-in LLM steps – YAML pipelines",
-      "url": "https://rorlikowski.github.io/stepyard/",
-      "source": "hackernews",
-      "source_author": "rorlikowski",
-      "topics": [],
-      "score": 6,
-      "score_reason": "LLM integrations in automation pipelines could be impactful.",
-      "posted": false,
-      "collected_at": "2026-06-20T09:50:12Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 0,
-        "upvotes": 1
-      }
-    },
-    {
-      "id": "17e87148fcc37d9a3af78f939be5ec70",
-      "title": "Who Owns the Code Claude Wrote?",
-      "url": "https://www.oreilly.com/radar/who-owns-the-code-claude-wrote/",
-      "source": "hackernews",
-      "source_author": "Garbage",
-      "topics": [],
-      "score": 6,
-      "score_reason": "Legal ownership of AI-generated code raises critical discussions.",
-      "posted": false,
-      "collected_at": "2026-06-20T09:50:11Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 0,
-        "upvotes": 1
-      }
-    },
-    {
-      "id": "32eeb6fc70689ac6931c09ea33e2b1be",
-      "title": "I made ChatGPT look like a Google Doc",
-      "url": "https://gptdisguise.vercel.app",
-      "source": "hackernews",
-      "source_author": "yuljg",
-      "topics": [],
-      "score": 6,
-      "score_reason": "Transforms ChatGPT into a familiar format, although not groundbreaking for developer tools.",
-      "posted": false,
-      "collected_at": "2026-06-20T09:50:12Z",
-      "engagement": {
-        "comments": 1,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 0,
-        "upvotes": 1
-      }
-    },
-    {
-      "id": "0daeb38a3b9f4a42fd07993bd97e7e32",
-      "title": "Claude Code scans your whole drive, admits it when caught",
-      "url": "https://github.com/anthropics/claude-code/issues",
-      "source": "hackernews",
-      "source_author": "cashmawy",
-      "topics": [],
-      "score": 5.5,
-      "score_reason": "Highlights privacy issues related to AI code generation.",
-      "posted": false,
-      "collected_at": "2026-06-20T09:50:11Z",
-      "engagement": {
-        "comments": 1,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 0,
-        "upvotes": 3
-      }
-    },
-    {
-      "id": "38d27d930796a5d750bd3c3bfd58b648",
-      "title": "Show HN: Aastro – Extendable API Gateway in Go",
-      "url": "https://starwalkn.github.io/aastro-docs/",
-      "source": "hackernews",
-      "source_author": "starwalkn",
-      "topics": [],
-      "score": 5.5,
-      "score_reason": "An API gateway could interest developers involved in microservices.",
-      "posted": false,
-      "collected_at": "2026-06-20T09:50:12Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 0,
-        "upvotes": 2
-      }
-    },
-    {
-      "id": "29b8870ff66262f4c25e969b1345a0a2",
-      "title": "An experiment in building accounting around financial actions instead of forms",
-      "url": "https://github.com/hisaabo/hisaabo",
-      "source": "hackernews",
-      "source_author": "saurabhsinghvi",
-      "topics": [],
-      "score": 5,
-      "score_reason": "Innovative approach to financial applications may benefit developers.",
-      "posted": false,
-      "collected_at": "2026-06-20T09:50:12Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 0,
-        "upvotes": 2
-      }
-    },
-    {
-      "id": "4e70b6fbd51597ff03bdc6f8d979ce55",
-      "title": "Show HN: APK-interceptor – Android deeplink, Intent assessment helper",
-      "url": "https://github.com/sterrasec/apk-interceptor",
-      "source": "hackernews",
-      "source_author": "tkmru",
-      "topics": [],
-      "score": 5,
-      "score_reason": "Android tool may assist in app development, though less innovative.",
-      "posted": false,
-      "collected_at": "2026-06-20T09:50:12Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 0,
-        "upvotes": 1
-      }
-    },
-    {
-      "id": "293e1fa25e4ddea8d1ab0741b628c998",
-      "title": "Show HN: WhatsKept – Searchable,agent-queryable WhatsApp history from iOS backup",
-      "url": "https://github.com/alkait/whatskept",
-      "source": "hackernews",
-      "source_author": "tenthead",
-      "topics": [],
-      "score": 5,
-      "score_reason": "Focus on WhatsApp history may have niche developer appeal.",
-      "posted": false,
-      "collected_at": "2026-06-20T09:50:12Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 0,
-        "upvotes": 1
-      }
-    },
-    {
-      "id": "8d70d1195286b96af83254fe7d04e778",
-      "title": "'Politically naive': The fight behind Anthropic's export controls",
-      "url": "https://www.politico.com/news/2026/06/19/he-has-to-find-a-way-to-be-friends-the-political-fight-behind-anthropics-export-controls-00968597",
-      "source": "hackernews",
-      "source_author": "Alien1Being",
-      "topics": [],
-      "score": 5,
-      "score_reason": "Explores political aspects influencing AI export controls.",
-      "posted": false,
-      "collected_at": "2026-06-20T09:50:11Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 0,
-        "upvotes": 3
-      }
-    },
-    {
-      "id": "880fda73727cfc7b7d60bca7c13ee275",
-      "title": "Show HN: StayUp – keep a Mac awake (lid closed) while AI agents are working",
-      "url": "https://getstayup.app",
-      "source": "hackernews",
-      "source_author": "nongknot",
-      "topics": [],
-      "score": 5,
-      "score_reason": "A tool for keeping a Mac awake, which may not significantly impact development processes.",
-      "posted": false,
-      "collected_at": "2026-06-20T09:50:12Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 0,
-        "upvotes": 1
-      }
-    },
-    {
-      "id": "2f87310ead607d7ed6b47e2023244673",
-      "title": "Show HN: Reachpad – document and knowledge sharing for your agents",
-      "url": "https://reachpad.dev/",
-      "source": "hackernews",
-      "source_author": "sakuraiben",
-      "topics": [],
-      "score": 5,
-      "score_reason": "Knowledge sharing among AI agents may appeal to developers.",
-      "posted": false,
-      "collected_at": "2026-06-20T09:50:12Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 0,
-        "upvotes": 1
-      }
-    },
-    {
-      "id": "0813bc7dc495c43f64e9fb768d9399d8",
-      "title": "Show HN: I made a startup idea validator for founders who move fast",
-      "url": "https://ideas.trk7.app/use-cases/startup-idea-validation",
-      "source": "hackernews",
-      "source_author": "cosmok",
-      "topics": [],
-      "score": 4.5,
-      "score_reason": "Startup idea validation offers potential insights for dev entrepreneurs.",
-      "posted": false,
-      "collected_at": "2026-06-20T09:50:12Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 0,
-        "upvotes": 1
-      }
-    },
-    {
-      "id": "d3f9d438f171bcf3dd74d5bad612aaa7",
-      "title": "Show HN: A Context Brain for You (and Your AI Agent)",
-      "url": "https://gcontext.ai",
-      "source": "hackernews",
-      "source_author": "bsampera",
-      "topics": [],
-      "score": 4.5,
-      "score_reason": "Concept of a Context Brain is intriguing, but lacks immediate application for developers.",
-      "posted": false,
-      "collected_at": "2026-06-20T09:50:12Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 0,
-        "upvotes": 1
-      }
-    },
-    {
-      "id": "6b356b939f8b9d77beb255235f05a4b1",
-      "title": "Show HN: F1l0 – Fitness Logger",
-      "url": "https://f1l0.nickyreinert.de/",
-      "source": "hackernews",
-      "source_author": "y42",
-      "topics": [],
-      "score": 4.5,
-      "score_reason": "Fitness logging may not be highly relevant for developers.",
-      "posted": false,
-      "collected_at": "2026-06-20T09:50:12Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 0,
-        "upvotes": 1
-      }
-    },
-    {
-      "id": "b96b3bcf4bf35a0168290dbf85a7906d",
-      "title": "GenAIDojo",
-      "url": "https://www.genaidojo.io/",
-      "source": "hackernews",
-      "source_author": "aniketwattawmar",
-      "topics": [],
-      "score": 4,
-      "score_reason": "GenAIDojo is less relevant to technical development focus.",
-      "posted": false,
-      "collected_at": "2026-06-20T09:50:12Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 0,
-        "upvotes": 2
-      }
-    },
-    {
-      "id": "b3141f701e551fa7669c4bfa122e0ce5",
-      "title": "Logslim – compact test/build output before your AI agent reads it",
-      "url": "https://github.com/P156HAM/logslim",
-      "source": "hackernews",
-      "source_author": "P156HAM",
-      "topics": [],
-      "score": 4,
-      "score_reason": "Output compacting is helpful, but lacks broad appeal.",
-      "posted": false,
-      "collected_at": "2026-06-20T09:50:12Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 0,
-        "upvotes": 1
-      }
-    },
-    {
-      "id": "4ccbec262538468c1b9d96dd7b3556e9",
-      "title": "Getting Back to Basics by Abusing AI",
-      "url": "https://blog.unitedheroes.net/5752",
-      "source": "hackernews",
-      "source_author": "simonebrunozzi",
-      "topics": [],
-      "score": 4,
-      "score_reason": "Addresses general AI applications, but not uniquely innovative.",
-      "posted": false,
-      "collected_at": "2026-06-20T09:50:12Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 0,
-        "upvotes": 2
-      }
-    },
-    {
-      "id": "d072e581f97ffe2dd885c93b6319f1bc",
-      "title": "An empirical fit to 171 galaxy rotation curves with zero free parameters",
-      "url": "https://github.com/SPruynIDR/Galaxy-Rotation-Curves-SPARC-Validation-Test",
-      "source": "hackernews",
-      "source_author": "SPruynIDR",
-      "topics": [],
-      "score": 3.5,
-      "score_reason": "A niche topic in astrophysics with limited developer relevance.",
-      "posted": false,
-      "collected_at": "2026-06-20T09:50:12Z",
+      "collected_at": "2026-06-20T14:42:28Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
@@ -502,76 +22,16 @@
       }
     },
     {
-      "id": "e9e04ac39d4f0fdf2911e5d3de143673",
-      "title": "Nvidia Vera CPU Performance Compares to the Ampere Altra Max",
-      "url": "https://www.phoronix.com/review/ampere-altra-nvidia-vera",
+      "id": "8d27c2ad351e9c580caf8c293a88dd97",
+      "title": "Show HN: Zero-config session-taste packer for AI agents",
+      "url": "https://github.com/dvcoolarun/taste-ai",
       "source": "hackernews",
-      "source_author": "rbanffy",
+      "source_author": "dvcoolarun",
       "topics": [],
-      "score": 3.5,
-      "score_reason": "Focuses on hardware performance, which is less engaging for the software/developer community.",
+      "score": 8,
+      "score_reason": "Introduces a useful tool for AI agents without configuration.",
       "posted": false,
-      "collected_at": "2026-06-20T09:50:13Z",
-      "engagement": {
-        "comments": 1,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 0,
-        "upvotes": 1
-      }
-    },
-    {
-      "id": "779a0685732e8c7c06f9a3b2b714cfc1",
-      "title": "Maptap.gg – Daily Geography Game",
-      "url": "https://maptap.gg/",
-      "source": "hackernews",
-      "source_author": "Gathering6678",
-      "topics": [],
-      "score": 3,
-      "score_reason": "Online game likely lacks direct relevance to technical audience.",
-      "posted": false,
-      "collected_at": "2026-06-20T09:50:12Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 0,
-        "upvotes": 1
-      }
-    },
-    {
-      "id": "9be9e74317279c253324572db3038836",
-      "title": "Show HN: Chrome Extension – Donor Metrics Checker with Recommendations",
-      "url": "https://github.com/avldokuchaev/selinkpro-seo-extension",
-      "source": "hackernews",
-      "source_author": "avldokuchaev",
-      "topics": [],
-      "score": 3,
-      "score_reason": "SEO tool may not engage technical developers significantly.",
-      "posted": false,
-      "collected_at": "2026-06-20T09:50:12Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 0,
-        "upvotes": 1
-      }
-    },
-    {
-      "id": "89d8b6c75746711fd62500feb658c7e0",
-      "title": "Möbius Chess",
-      "url": "https://mchess.io/v/m%C3%B6bius/",
-      "source": "hackernews",
-      "source_author": "modinfo",
-      "topics": [],
-      "score": 3,
-      "score_reason": "A niche game that does not impact developer tools or processes.",
-      "posted": false,
-      "collected_at": "2026-06-20T09:50:13Z",
+      "collected_at": "2026-06-20T14:42:28Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
@@ -582,16 +42,36 @@
       }
     },
     {
-      "id": "7cda339bf6472fef7d99d87b06f3ed5d",
-      "title": "GLM-5.2 Beat Fable 5 at Website Design",
-      "url": "https://twitter.com/Designarena/status/2068030598028087788",
+      "id": "7079cfc549b25f812500fa9c928d5fcd",
+      "title": "Show HN: FOSS sandbox platform that hides infra secrets from devs and AI agents",
+      "url": "https://github.com/octelium/cordium",
       "source": "hackernews",
-      "source_author": "tosh",
+      "source_author": "geoctl",
       "topics": [],
-      "score": 2.5,
-      "score_reason": "Although notable, it lacks direct relevance to developer tools or productivity.",
+      "score": 8,
+      "score_reason": "Addresses information security for developers in AI environments.",
       "posted": false,
-      "collected_at": "2026-06-20T09:50:14Z",
+      "collected_at": "2026-06-20T14:42:28Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 2
+      }
+    },
+    {
+      "id": "4248b6235a048c97c40abfa00df4bddc",
+      "title": "Show HN: We post-trained a model that pen tests instead of refusing",
+      "url": "https://www.argusred.com/cli",
+      "source": "hackernews",
+      "source_author": "dk189",
+      "topics": [],
+      "score": 8,
+      "score_reason": "Innovative approach to pen testing through AI, relevant for security developers.",
+      "posted": false,
+      "collected_at": "2026-06-20T14:42:27Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
@@ -600,8 +80,828 @@
         "stars": 0,
         "upvotes": 3
       }
+    },
+    {
+      "id": "ec75115fa6afffd28119e1623a008047",
+      "title": "Show HN: Multi-Agent AI trading firm simulation powered by small language models",
+      "url": "https://huggingface.co/spaces/build-small-hackathon/Wall-Street-of-AI-Agents",
+      "source": "hackernews",
+      "source_author": "Ashish106",
+      "topics": [],
+      "score": 7.5,
+      "score_reason": "Simulates trading with multi-agent AI, which could reshape financial software.",
+      "posted": false,
+      "collected_at": "2026-06-20T14:42:28Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 2
+      }
+    },
+    {
+      "id": "0fd7be5f824465ff6e2795c1e443526d",
+      "title": "I evaluated GLM 5.2 against the frontier on tasks from real repos",
+      "url": "https://www.stet.sh/blog/glm-5-2-passes-tests-fails-review",
+      "source": "hackernews",
+      "source_author": "bisonbear",
+      "topics": [],
+      "score": 7.5,
+      "score_reason": "Evaluation of GLM 5.2 against real tasks could impact future model selection and usage.",
+      "posted": false,
+      "collected_at": "2026-06-20T14:42:30Z",
+      "engagement": {
+        "comments": 2,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 2
+      }
+    },
+    {
+      "id": "ba861d226bf341bd86a4bbb566264099",
+      "title": "Two production Next.js apps, built solo with Cursor+Claude, $13,945",
+      "url": "https://technicalstrat.com/articles/enterprise-app-vibecode-recipe",
+      "source": "hackernews",
+      "source_author": "matttek",
+      "topics": [],
+      "score": 7.5,
+      "score_reason": "Highlights the potential profitability of using AI tools in app development.",
+      "posted": false,
+      "collected_at": "2026-06-20T14:42:27Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 5
+      }
+    },
+    {
+      "id": "bfee4e568433c670d0c73e5b752a0422",
+      "title": "Building a Dense Agentic AI CPU Rack Today",
+      "url": "https://www.servethehome.com/building-a-dense-agentic-ai-cpu-rack-amd-dell-today/",
+      "source": "hackernews",
+      "source_author": "ksec",
+      "topics": [],
+      "score": 7,
+      "score_reason": "Discusses constructing specialized hardware for AI, which is impactful.",
+      "posted": false,
+      "collected_at": "2026-06-20T14:42:28Z",
+      "engagement": {
+        "comments": 1,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 2
+      }
+    },
+    {
+      "id": "bcb112b38279df53de4e188f6cd8a7e7",
+      "title": "Did Anthropic talk its way into an AI export ban?",
+      "url": "https://www.ft.com/content/16ace46c-aeac-40c9-8598-3c01fa4481cb",
+      "source": "hackernews",
+      "source_author": "uxhacker",
+      "topics": [],
+      "score": 7,
+      "score_reason": "Covers discussion on the regulatory landscape affecting AI development.",
+      "posted": false,
+      "collected_at": "2026-06-20T14:42:27Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 4
+      }
+    },
+    {
+      "id": "6d0ea1da8130411e17c98e425bba3345",
+      "title": "Longterm use of intracortical brain–computer interface for speech\u0026cursor control",
+      "url": "https://www.nature.com/articles/s41591-026-04414-6",
+      "source": "hackernews",
+      "source_author": "bookofjoe",
+      "topics": [],
+      "score": 7,
+      "score_reason": "Novel research on brain-computer interfaces has potential implications for accessibility and technology.",
+      "posted": false,
+      "collected_at": "2026-06-20T14:42:30Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 4
+      }
+    },
+    {
+      "id": "685d3031f614cced100facf6094b82c8",
+      "title": "Neuralyzer - allow agent to self-wipe context for easier Ralph loop engineering",
+      "url": "https://github.com/gintasz/neuralyzer",
+      "source": "hackernews",
+      "source_author": "gintasz",
+      "topics": [],
+      "score": 7,
+      "score_reason": "Developing new functionalities for AI agents can improve developer's workflow.",
+      "posted": false,
+      "collected_at": "2026-06-20T14:42:28Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 2
+      }
+    },
+    {
+      "id": "9359e796c58cbd591abf3c6fb47bf48f",
+      "title": "Nvidia-ZPPO: Zone of Proximal Policy Optimization",
+      "url": "https://byungkwanlee.github.io/ZPPO-page/",
+      "source": "hackernews",
+      "source_author": "gmays",
+      "topics": [],
+      "score": 7,
+      "score_reason": "A new optimization technique that could influence ML developers.",
+      "posted": false,
+      "collected_at": "2026-06-20T14:42:28Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 2
+      }
+    },
+    {
+      "id": "1be8e3895f44afec0f6840838a97c505",
+      "title": "VLMs cannot automate construction takeoff. The data is not in the drawings",
+      "url": "https://andrewngo.dev/writing/the-limits-of-takeoff-automation",
+      "source": "hackernews",
+      "source_author": "andrewngo",
+      "topics": [],
+      "score": 6.5,
+      "score_reason": "Addresses limitations of AI in specific professional tasks.",
+      "posted": false,
+      "collected_at": "2026-06-20T14:42:29Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 1
+      }
+    },
+    {
+      "id": "3586ec666ca5aee17a686a4ad4f05075",
+      "title": "Stop Treating LLMs Like Databases",
+      "url": "https://medium.com/@mirshakirdah2/stop-treating-llms-like-databases-the-financial-case-for-event-driven-ai-889057e27461",
+      "source": "hackernews",
+      "source_author": "rovmut",
+      "topics": [],
+      "score": 6.5,
+      "score_reason": "Challenges the conventional use of LLMs, promoting a shift in how they are integrated into development workflows.",
+      "posted": false,
+      "collected_at": "2026-06-20T14:42:30Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 2
+      }
+    },
+    {
+      "id": "46b0b1db0cfa55f3b8923e4398b20a0f",
+      "title": "Do you know what you are *really* selling? [Shreyas Doshi/Claude discussion]",
+      "url": "https://claude.ai/share/406e6fde-73d4-43b5-8d83-ca3ae9275d53",
+      "source": "hackernews",
+      "source_author": "jger15",
+      "topics": [],
+      "score": 6.5,
+      "score_reason": "Discusses the deeper implications of what we're selling in AI, relevant to current industry trends.",
+      "posted": false,
+      "collected_at": "2026-06-20T14:42:27Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 1
+      }
+    },
+    {
+      "id": "0d0c5a6cdceb1f0e6267840f5532e5c5",
+      "title": "Apple unifies device management in devicectl: Impact on iOS test automation and",
+      "url": "https://bitrise.io/blog/post/wwdc-2026-device-hub-and-what-it-means-for-ci-cd",
+      "source": "hackernews",
+      "source_author": "birdculture",
+      "topics": [],
+      "score": 6,
+      "score_reason": "Unification of device management tools could streamline iOS development processes.",
+      "posted": false,
+      "collected_at": "2026-06-20T14:42:30Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 1
+      }
+    },
+    {
+      "id": "d04485f7e1409421ffafee73a8747f33",
+      "title": "Show HN: Macro-template, table-driven code generation for Rust",
+      "url": "https://github.com/fast/macro-template",
+      "source": "hackernews",
+      "source_author": "tison",
+      "topics": [],
+      "score": 6,
+      "score_reason": "Introduces new tools for code generation in Rust, useful for developers.",
+      "posted": false,
+      "collected_at": "2026-06-20T14:42:28Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 2
+      }
+    },
+    {
+      "id": "bd92997a5f96a319262ef08cc0cedea7",
+      "title": "Parse, Don't Validate – In a Language That Doesn't Want You To",
+      "url": "https://cekrem.github.io/posts/parse-dont-validate-typescript/",
+      "source": "hackernews",
+      "source_author": "thunderbong",
+      "topics": [],
+      "score": 6,
+      "score_reason": "Engages with practical coding issues relevant to TypeScript developers.",
+      "posted": false,
+      "collected_at": "2026-06-20T14:42:28Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 2
+      }
+    },
+    {
+      "id": "96f8c6a609ba133b9eb3788bfd25a1ef",
+      "title": "Google Has Added Agentic Browsing to PageSpeed Insights",
+      "url": "https://pagespeed.web.dev/analysis/https-hawksley-dev/bo27z46k5x",
+      "source": "hackernews",
+      "source_author": "ethanhawksley",
+      "topics": [],
+      "score": 6,
+      "score_reason": "Agentic browsing addition highlights evolving web performance analysis.",
+      "posted": false,
+      "collected_at": "2026-06-20T14:42:28Z",
+      "engagement": {
+        "comments": 1,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 3
+      }
+    },
+    {
+      "id": "ddbc20a51b4f6db7cc726996b78bb7a3",
+      "title": "Execution Intelligence Is Missing from the Blockchain Stack",
+      "url": "https://blog.bridgexapi.io/execution-intelligence-for-ai-agents",
+      "source": "hackernews",
+      "source_author": "Bridgexapi",
+      "topics": [],
+      "score": 5.5,
+      "score_reason": "Explores a new concept relevant to blockchain and AI interaction.",
+      "posted": false,
+      "collected_at": "2026-06-20T14:42:28Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 1
+      }
+    },
+    {
+      "id": "b055f5c2521902911a3f6512677d83cd",
+      "title": "Show HN: Visualize audio in VSCode using Multiline Cursors",
+      "url": "https://github.com/ark-tik/vs-code-music-visualiser",
+      "source": "hackernews",
+      "source_author": "kartik0001",
+      "topics": [],
+      "score": 5.5,
+      "score_reason": "Novelty in visualizing audio in a popular developer tool may attract a niche audience.",
+      "posted": false,
+      "collected_at": "2026-06-20T14:42:30Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 2
+      }
+    },
+    {
+      "id": "0c5235a4c123cbab1267402751f6adcb",
+      "title": "Show HN: Material Hack – Reboot of the Hacker News Client Materialistic",
+      "url": "https://github.com/mxmilkiib/material-hack",
+      "source": "hackernews",
+      "source_author": "mxmilkiib",
+      "topics": [],
+      "score": 5,
+      "score_reason": "A new client for Hacker News that may engage developer interest.",
+      "posted": false,
+      "collected_at": "2026-06-20T14:42:28Z",
+      "engagement": {
+        "comments": 1,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 2
+      }
+    },
+    {
+      "id": "53435f2824a16b21f30ffe1e895fd78d",
+      "title": "„We all leave digital footprints on the internet\"",
+      "url": "https://www.mpg.de/26430251/interview-troncoso-ueberwachung",
+      "source": "hackernews",
+      "source_author": "jruohonen",
+      "topics": [],
+      "score": 5,
+      "score_reason": "unscored",
+      "posted": false,
+      "collected_at": "2026-06-20T14:42:29Z",
+      "engagement": {
+        "comments": 1,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 2
+      }
+    },
+    {
+      "id": "a53c31d9dae8cb48465932132c016b0e",
+      "title": "How to sync messages of Claude Code extension in VS Code and Claude Code app?",
+      "url": "https://github.com/budhasantosh010/claude-code-session-bridge",
+      "source": "hackernews",
+      "source_author": "realsanb",
+      "topics": [],
+      "score": 5,
+      "score_reason": "Addresses a specific technical integration of AI in developer tools.",
+      "posted": false,
+      "collected_at": "2026-06-20T14:42:27Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 1
+      }
+    },
+    {
+      "id": "ab4fc81bf61e47a14bf7c8d6ef848ad7",
+      "title": "The ERoadBook – Rally-Inspired GPS Device for Riders and Adventurers [video]",
+      "url": "https://www.youtube.com/watch?v=1KoQ-l3-tg8",
+      "source": "hackernews",
+      "source_author": "arbayi",
+      "topics": [],
+      "score": 5,
+      "score_reason": "unscored",
+      "posted": false,
+      "collected_at": "2026-06-20T14:42:28Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 4
+      }
+    },
+    {
+      "id": "c501dea62e9fde38241bbcf20cdab5b5",
+      "title": "Show HN: I made AI bets for all World Cup games – bet against or with them",
+      "url": "https://www.getaiso.com/tools/world-cup-ai-challenge",
+      "source": "hackernews",
+      "source_author": "bentannen",
+      "topics": [],
+      "score": 5,
+      "score_reason": "AI tools for predicting game outcomes may not directly influence developers.",
+      "posted": false,
+      "collected_at": "2026-06-20T14:42:28Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 3
+      }
+    },
+    {
+      "id": "785420986e5de61581c141dd2b3a18bb",
+      "title": "US Scientist John Jumper to Leave Google DeepMind for Anthropic",
+      "url": "https://www.reuters.com/technology/us-scientist-john-jumper-leave-google-deepmind-anthropic-2026-06-19/",
+      "source": "hackernews",
+      "source_author": "karakoram",
+      "topics": [],
+      "score": 5,
+      "score_reason": "Shift in talent within major AI companies could impact future developments.",
+      "posted": false,
+      "collected_at": "2026-06-20T14:42:27Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 2
+      }
+    },
+    {
+      "id": "f424369416ca3795b642b304a48d06b1",
+      "title": "A 3D cube written in JSX and CSS running natively at 60 FPS on a $3 MCU [video]",
+      "url": "https://www.youtube.com/watch?v=pC3kNSWaL18",
+      "source": "hackernews",
+      "source_author": "arbayi",
+      "topics": [],
+      "score": 5,
+      "score_reason": "unscored",
+      "posted": false,
+      "collected_at": "2026-06-20T14:42:29Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 2
+      }
+    },
+    {
+      "id": "b9a934ccb08a903cbb8cbb1bfe0e0b77",
+      "title": "Windows 11 New Media Player Uses 3.5x More RAM, Charges for Popular Video Codecs",
+      "url": "https://www.extremetech.com/computing/windows-11s-new-media-player-uses-35x-more-ram-charges-for-popular-video",
+      "source": "hackernews",
+      "source_author": "tcp_handshaker",
+      "topics": [],
+      "score": 5,
+      "score_reason": "unscored",
+      "posted": false,
+      "collected_at": "2026-06-20T14:42:29Z",
+      "engagement": {
+        "comments": 3,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 3
+      }
+    },
+    {
+      "id": "1de389135afe8b200194879c0464d121",
+      "title": "Anthropic build AI so safe the Gov made them delete it (YouTube) – Patrick Boyle",
+      "url": "https://www.youtube.com/watch?v=AJP6K2_rr90",
+      "source": "hackernews",
+      "source_author": "ziptron",
+      "topics": [],
+      "score": 5,
+      "score_reason": "Untangles a controversial topic regarding AI safety and regulation.",
+      "posted": false,
+      "collected_at": "2026-06-20T14:42:27Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 3
+      }
+    },
+    {
+      "id": "697b90c7540051ad95487a38852f0c3f",
+      "title": "Over-reliance on chatbots can diminish critical-thinking skills, study finds",
+      "url": "https://www.theguardian.com/us-news/2026/jun/19/chatbots-critical-thinking-skills",
+      "source": "hackernews",
+      "source_author": "jruohonen",
+      "topics": [],
+      "score": 5,
+      "score_reason": "unscored",
+      "posted": false,
+      "collected_at": "2026-06-20T14:42:29Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 2
+      }
+    },
+    {
+      "id": "70a4020b15e58ade4bbbe13a529a22c7",
+      "title": "Getting over Your Skills Issues",
+      "url": "https://theoryvc.com/blog",
+      "source": "hackernews",
+      "source_author": "sambcui",
+      "topics": [],
+      "score": 4.5,
+      "score_reason": "Self-help content is less relevant to technical readers.",
+      "posted": false,
+      "collected_at": "2026-06-20T14:42:28Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 4
+      }
+    },
+    {
+      "id": "edaf772c56207669457d46005330d91c",
+      "title": "Scheduled Tasks in ChatGPT",
+      "url": "https://help.openai.com/en/articles/10291617-scheduled-tasks-in-chatgpt",
+      "source": "hackernews",
+      "source_author": "khutorni",
+      "topics": [],
+      "score": 4,
+      "score_reason": "Details some practical usage of ChatGPT but lacks novelty.",
+      "posted": false,
+      "collected_at": "2026-06-20T14:42:28Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 2
+      }
+    },
+    {
+      "id": "e2dc507b4115b674e2bdf18e322c7610",
+      "title": "Gotique – AI that gives a first-read appraisal on antiques from photos",
+      "url": "https://gotique.ai/en/community",
+      "source": "hackernews",
+      "source_author": "gotique",
+      "topics": [],
+      "score": 4,
+      "score_reason": "Niche AI application with limited impact on developer workflows.",
+      "posted": false,
+      "collected_at": "2026-06-20T14:42:28Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 3
+      }
+    },
+    {
+      "id": "2a300e4d29ef23de293849bd56350eb3",
+      "title": "Show HN: Web-Based FPGA Viewer",
+      "url": "https://edacation.github.io/nextpnr-viewer/",
+      "source": "hackernews",
+      "source_author": "malmeloo",
+      "topics": [],
+      "score": 4,
+      "score_reason": "A web-based tool that may have niche relevance.",
+      "posted": false,
+      "collected_at": "2026-06-20T14:42:28Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 2
+      }
+    },
+    {
+      "id": "51ca8871963006662860977e3caa9b79",
+      "title": "Loupe – A iOS app that raises awareness about what native apps can see",
+      "url": "https://github.com/mysk-research/loupe",
+      "source": "hackernews",
+      "source_author": "Cider9986",
+      "topics": [],
+      "score": 4,
+      "score_reason": "While relevant, it is more about user awareness than developer tools.",
+      "posted": false,
+      "collected_at": "2026-06-20T14:42:28Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 4
+      }
+    },
+    {
+      "id": "7709b4845bbf0d68f8024abfc1961f41",
+      "title": "SpaceX Loses $600B After Announcing Acquisition of Cursor AI Coding Agent",
+      "url": "https://www.forbes.com/sites/tylerroush/2026/06/18/spacex-stock-plunge-wipes-out-600-billion-after-cursor-deal-spooks-investors/",
+      "source": "hackernews",
+      "source_author": "Adam-Hincu",
+      "topics": [],
+      "score": 3.5,
+      "score_reason": "News on a significant loss doesn't directly address developer interests.",
+      "posted": false,
+      "collected_at": "2026-06-20T14:42:28Z",
+      "engagement": {
+        "comments": 1,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 6
+      }
+    },
+    {
+      "id": "69dcd1f5ccae5b346cfec5558dcfb57c",
+      "title": "Talking to My Terminal with Local Speech-to-Text and Pi Coding Agent",
+      "url": "https://www.agenticcodingweekly.com/p/talking-to-my-terminal-with-local-speech-to-text-and-pi-coding-agent",
+      "source": "hackernews",
+      "source_author": "primaprashant",
+      "topics": [],
+      "score": 3,
+      "score_reason": "Niche application of AI processing may not attract broad developer interest.",
+      "posted": false,
+      "collected_at": "2026-06-20T14:42:28Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 3
+      }
+    },
+    {
+      "id": "874cf0ea79a8270831880220f8613278",
+      "title": "VPN ban update for UK households as government looks at 'age-gate'",
+      "url": "https://www.birminghammail.co.uk/news/midlands-news/vpn-ban-update-uk-households-34141063",
+      "source": "hackernews",
+      "source_author": "iamnothere",
+      "topics": [],
+      "score": 3,
+      "score_reason": "VPN legislation doesn't directly pertain to AI development.",
+      "posted": false,
+      "collected_at": "2026-06-20T14:42:28Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 3
+      }
+    },
+    {
+      "id": "45333f49b445e2a45c0a912a890755f3",
+      "title": "Overreach audit your AI agent's diff against the prompt you gave it",
+      "url": "https://github.com/Naveja00/OverReach",
+      "source": "hackernews",
+      "source_author": "Naveja",
+      "topics": [],
+      "score": 2.5,
+      "score_reason": "Incremental tool with limited appeal and lower engagement.",
+      "posted": false,
+      "collected_at": "2026-06-20T14:42:28Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 2
+      }
+    },
+    {
+      "id": "45c6d3bc980707953b73172d6c87a313",
+      "title": "Ubisoft co-founder Claude Guillemot has died in a plane crash",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-20/ubisoft-co-founder-claude-guillemot-dies-in-air-crash-at-age-69",
+      "source": "hackernews",
+      "source_author": "drayfield",
+      "topics": [],
+      "score": 2,
+      "score_reason": "Obituaries generally don't impact the developer community directly.",
+      "posted": false,
+      "collected_at": "2026-06-20T14:42:27Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 3
+      }
+    },
+    {
+      "id": "ac2aa412fa0b4383c7d29511793ed03e",
+      "title": "Claude Guillemot Ubisoft Co-Founder Dead in Plane Crash",
+      "url": "https://www.thegamer.com/ubisoft-co-founder-claude-guillemot-dead/",
+      "source": "hackernews",
+      "source_author": "Animatronio",
+      "topics": [],
+      "score": 2,
+      "score_reason": "Similar content as previous item without new insights.",
+      "posted": false,
+      "collected_at": "2026-06-20T14:42:27Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 14
+      }
+    },
+    {
+      "id": "1b39c3cfb07cd2bdac0ea8810cb85cc0",
+      "title": "The CP-SAT Primer: Using and Understanding Google OR-Tools' CP-SAT Solver",
+      "url": "https://github.com/d-krupke/cpsat-primer/blob/main/README.md",
+      "source": "hackernews",
+      "source_author": "scrlk",
+      "topics": [],
+      "score": 2,
+      "score_reason": "Technical primer that may not attract significant interest.",
+      "posted": false,
+      "collected_at": "2026-06-20T14:42:29Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 4
+      }
+    },
+    {
+      "id": "ad0d3d8c1ee4ac45ef7f59b7fa1ec6a7",
+      "title": "Show HN: CoshUI – A backend-agnostic UI engine for Python game development",
+      "url": "https://gitlab.com/jylefv/CoshUI",
+      "source": "hackernews",
+      "source_author": "jylefv",
+      "topics": [],
+      "score": 1.5,
+      "score_reason": "Limited relevance to broad development or AI topics.",
+      "posted": false,
+      "collected_at": "2026-06-20T14:42:28Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 1
+      }
+    },
+    {
+      "id": "e23aeaee340cd37238534c5b5a6b41fb",
+      "title": "AI-generated synthetic neurons speed up brain mapping",
+      "url": "https://research.google/blog/ai-generated-synthetic-neurons-speed-up-brain-mapping/",
+      "source": "hackernews",
+      "source_author": "modinfo",
+      "topics": [],
+      "score": 1,
+      "score_reason": "Focuses on neuroscience rather than development.",
+      "posted": false,
+      "collected_at": "2026-06-20T14:42:29Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 1
+      }
     }
   ],
   "source": "hackernews",
-  "updated_at": "2026-06-20T09:54:03Z"
+  "updated_at": "2026-06-20T14:46:29Z"
 }
