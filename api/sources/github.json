@@ -1,147 +1,107 @@
 {
-  "count": 7,
+  "count": 5,
   "items": [
     {
-      "id": "bc114b7bef9dd655c48ca979be588951",
-      "title": "larlarua/AutoCVE",
-      "url": "https://github.com/larlarua/AutoCVE",
+      "id": "c3c180f9375ac67f1871a28b5de737a1",
+      "title": "tianjiangqiji/nova-image-studio",
+      "url": "https://github.com/tianjiangqiji/nova-image-studio",
       "source": "github",
-      "source_author": "larlarua",
+      "source_author": "tianjiangqiji",
       "topics": [],
-      "score": 6.5,
-      "score_reason": "Open-source tool for automatic CVE tracking could improve security practices.",
+      "score": 5.5,
+      "score_reason": "A new GitHub project for image editing, but limited engagement and unclear novelty.",
       "posted": false,
-      "collected_at": "2026-06-21T10:10:44Z",
+      "collected_at": "2026-06-21T14:56:46Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 161,
+        "stars": 34,
         "upvotes": 0
       }
     },
     {
-      "id": "7b2354e5801fc8ef9f28b1992bf4c55b",
-      "title": "Francis1998/multi-bot-agentic",
-      "url": "https://github.com/Francis1998/multi-bot-agentic",
+      "id": "b36025ab6c162ccfb209406c068737b8",
+      "title": "sums001/Windows-Copilot-API",
+      "url": "https://github.com/sums001/Windows-Copilot-API",
       "source": "github",
-      "source_author": "Francis1998",
+      "source_author": "sums001",
+      "topics": [],
+      "score": 5.5,
+      "score_reason": "Offering new tooling could attract developers, though engagement levels are low.",
+      "posted": false,
+      "collected_at": "2026-06-21T14:56:46Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 91,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "c456037d1cbdf657d794c90a5c559e3e",
+      "title": "Cortex-AI-Network/polymarket-copy-trading-bot-automated-mirror-trading-engine",
+      "url": "https://github.com/Cortex-AI-Network/polymarket-copy-trading-bot-automated-mirror-trading-engine",
+      "source": "github",
+      "source_author": "Cortex-AI-Network",
       "topics": [],
       "score": 5,
-      "score_reason": "Multi-bot framework could be of interest, but low engagement levels.",
+      "score_reason": "An automated trading bot which could be of interest but lacks engagement or distinct features.",
       "posted": false,
-      "collected_at": "2026-06-21T10:10:48Z",
+      "collected_at": "2026-06-21T14:56:47Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 6,
+        "stars": 29,
         "upvotes": 0
       }
     },
     {
-      "id": "779b3f0da266ce98990595d112c97cc7",
-      "title": "fivetaku/llm-wiki",
-      "url": "https://github.com/fivetaku/llm-wiki",
+      "id": "bf20f1def5df3d09b6a216421c7cfb76",
+      "title": "FlashVision/FlashAudio",
+      "url": "https://github.com/FlashVision/FlashAudio",
       "source": "github",
-      "source_author": "fivetaku",
-      "topics": [],
-      "score": 5,
-      "score_reason": "unscored",
-      "posted": false,
-      "collected_at": "2026-06-21T10:10:40Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 62,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "979d9716bceabbb76d4875024ceacaa1",
-      "title": "h4ckologic/PiRanha",
-      "url": "https://github.com/h4ckologic/PiRanha",
-      "source": "github",
-      "source_author": "h4ckologic",
-      "topics": [],
-      "score": 4.5,
-      "score_reason": "Basic PiRanha project; lacks wide relevance and engagement.",
-      "posted": false,
-      "collected_at": "2026-06-21T10:10:51Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 13,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "ccc2641ad1896fa5783cb7f60e5ba61e",
-      "title": "Sampath7890/aiml-daily-grind",
-      "url": "https://github.com/Sampath7890/aiml-daily-grind",
-      "source": "github",
-      "source_author": "Sampath7890",
+      "source_author": "FlashVision",
       "topics": [],
       "score": 4,
-      "score_reason": "AI and ML daily grind resource but lacks engagement and novelty.",
+      "score_reason": "A new project with no engagement and unclear application or innovation.",
       "posted": false,
-      "collected_at": "2026-06-21T10:10:46Z",
+      "collected_at": "2026-06-21T14:56:54Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 11,
+        "stars": 0,
         "upvotes": 0
       }
     },
     {
-      "id": "1fd1efd583d63499f9063d9d32c5c569",
-      "title": "Cam-Smith-One/Crossthreads",
-      "url": "https://github.com/Cam-Smith-One/Crossthreads",
+      "id": "b4294be16dceba0208e66f6b8acb8c64",
+      "title": "rodrigomidon04-ui/Devin",
+      "url": "https://github.com/rodrigomidon04-ui/Devin",
       "source": "github",
-      "source_author": "Cam-Smith-One",
+      "source_author": "rodrigomidon04-ui",
       "topics": [],
       "score": 3,
-      "score_reason": "Crossthreads is novel but has very low visibility.",
+      "score_reason": "Another new project lacking any engagement and without evident impact or novelty.",
       "posted": false,
-      "collected_at": "2026-06-21T10:10:57Z",
+      "collected_at": "2026-06-21T14:57:02Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 1,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "685e4ea42bc983907cd2bfb1c213d6f8",
-      "title": "Vishnu90Coreinn/lean-dev",
-      "url": "https://github.com/Vishnu90Coreinn/lean-dev",
-      "source": "github",
-      "source_author": "Vishnu90Coreinn",
-      "topics": [],
-      "score": 2,
-      "score_reason": "Lean-dev project is unremarkable with no engagement.",
-      "posted": false,
-      "collected_at": "2026-06-21T10:10:57Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 1,
+        "stars": 0,
         "upvotes": 0
       }
     }
   ],
   "source": "github",
-  "updated_at": "2026-06-21T10:14:31Z"
+  "updated_at": "2026-06-21T15:00:43Z"
 }
