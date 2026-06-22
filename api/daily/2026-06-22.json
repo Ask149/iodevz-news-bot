@@ -1,5 +1,6 @@
 {
-  "count": 71,
+  "count": 96,
+  "date": "2026-06-22",
   "items": [
     {
       "id": "e818a0f4c1ee6fe9975a2cea1a45697a",
@@ -262,6 +263,26 @@
       }
     },
     {
+      "id": "a4cd839c5d64f5f48443ad9a143263f7",
+      "title": "xwk-911/rulehook",
+      "url": "https://github.com/xwk-911/rulehook",
+      "source": "github",
+      "source_author": "xwk-911",
+      "topics": [],
+      "score": 6.5,
+      "score_reason": "Has potential relevance as a tool but low engagement indicates limited novelty.",
+      "posted": false,
+      "collected_at": "2026-06-22T05:43:03Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 23,
+        "upvotes": 0
+      }
+    },
+    {
       "id": "621799a7ad73bdce5583614c0a754485",
       "title": "Show HN: I Built an MCP Server in 200 Lines of Go (and Claude Became 10x Useful)",
       "url": "https://medium.com/dev-genius/i-built-an-mcp-server-in-200-lines-of-go-and-claude-became-10x-more-useful-5352546a48cb",
@@ -482,6 +503,26 @@
       }
     },
     {
+      "id": "a017f1d8df5dd6b9694877aa1d56232c",
+      "title": "toukas80-lab/devin",
+      "url": "https://github.com/toukas80-lab/devin",
+      "source": "github",
+      "source_author": "toukas80-lab",
+      "topics": [],
+      "score": 5,
+      "score_reason": "unscored",
+      "posted": false,
+      "collected_at": "2026-06-22T05:43:06Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
       "id": "0005453d3cfc271a026786593c4f3b85",
       "title": "Badc – optimizing cross-platform C compiler built with Claude",
       "url": "https://github.com/kromych/badc",
@@ -499,6 +540,26 @@
         "retweets": 0,
         "stars": 0,
         "upvotes": 1
+      }
+    },
+    {
+      "id": "a0e437e902cd0f0d9d23c0a4d874366a",
+      "title": "hiramgabriel1/nightdev_rep",
+      "url": "https://github.com/hiramgabriel1/nightdev_rep",
+      "source": "github",
+      "source_author": "hiramgabriel1",
+      "topics": [],
+      "score": 5,
+      "score_reason": "unscored",
+      "posted": false,
+      "collected_at": "2026-06-22T05:43:02Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 10,
+        "upvotes": 0
       }
     },
     {
@@ -562,6 +623,26 @@
       }
     },
     {
+      "id": "9a8cc40e666f5c0bfe51c7789c00c097",
+      "title": "ritheshh-cmyk/claudecode",
+      "url": "https://github.com/ritheshh-cmyk/claudecode",
+      "source": "github",
+      "source_author": "ritheshh-cmyk",
+      "topics": [],
+      "score": 5,
+      "score_reason": "Average engagement and low novelty, primarily GitHub stars.",
+      "posted": false,
+      "collected_at": "2026-06-22T05:43:02Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 7,
+        "upvotes": 0
+      }
+    },
+    {
       "id": "23195bac69efa96840d4b7aa693a2cce",
       "title": "Someone Build a OS for Claude Code",
       "url": "https://github.com/mateolafalce/claudios/blob/main/README.md",
@@ -599,6 +680,26 @@
         "retweets": 0,
         "stars": 0,
         "upvotes": 2
+      }
+    },
+    {
+      "id": "173570a3f6c7decc3906f5d3e25e7141",
+      "title": "liveevilkin/Cortex",
+      "url": "https://github.com/liveevilkin/Cortex",
+      "source": "github",
+      "source_author": "liveevilkin",
+      "topics": [],
+      "score": 5,
+      "score_reason": "unscored",
+      "posted": false,
+      "collected_at": "2026-06-22T05:43:05Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
+        "upvotes": 0
       }
     },
     {
@@ -742,6 +843,26 @@
       }
     },
     {
+      "id": "b8cf2d1e21a6b349ff4a1de2a2d6dc02",
+      "title": "schmarta/claude-code-openai-server",
+      "url": "https://github.com/schmarta/claude-code-openai-server",
+      "source": "github",
+      "source_author": "schmarta",
+      "topics": [],
+      "score": 4.5,
+      "score_reason": "Appears interesting but no clear impact shown from minimal engagement.",
+      "posted": false,
+      "collected_at": "2026-06-22T05:43:02Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 6,
+        "upvotes": 0
+      }
+    },
+    {
       "id": "ca840c0a72342cfb9bfd9921aaed12fb",
       "title": "Compass – guardrails and a hard budget cap for AI coding agents",
       "url": "https://github.com/dshakes/compass",
@@ -839,6 +960,26 @@
         "retweets": 0,
         "stars": 0,
         "upvotes": 2
+      }
+    },
+    {
+      "id": "f79ad18965de80eb5b431d16ea9bc320",
+      "title": "caihongfairys/QMP-Dynamic-Anchors",
+      "url": "https://github.com/caihongfairys/QMP-Dynamic-Anchors",
+      "source": "github",
+      "source_author": "caihongfairys",
+      "topics": [],
+      "score": 4,
+      "score_reason": "Lacks engagement and differentiation from similar tools.",
+      "posted": false,
+      "collected_at": "2026-06-22T05:42:58Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 2,
+        "upvotes": 0
       }
     },
     {
@@ -942,6 +1083,26 @@
       }
     },
     {
+      "id": "c49e74ec9bd3f93e921622406be538d6",
+      "title": "Falcon-Forge/PiRanha",
+      "url": "https://github.com/Falcon-Forge/PiRanha",
+      "source": "github",
+      "source_author": "Falcon-Forge",
+      "topics": [],
+      "score": 3.5,
+      "score_reason": "Very low engagement and potential novelty, unlikely to affect developers.",
+      "posted": false,
+      "collected_at": "2026-06-22T05:42:58Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 3,
+        "upvotes": 0
+      }
+    },
+    {
       "id": "4bbab3976a684581ff18e107b0edb264",
       "title": "Show HN: Open-source Notion-style personal site / blog",
       "url": "https://github.com/terryds/notion-style-personal-site",
@@ -979,6 +1140,26 @@
         "retweets": 0,
         "stars": 0,
         "upvotes": 1
+      }
+    },
+    {
+      "id": "017635e8673eb23cca9c4e7d2360a2bd",
+      "title": "Softchallenge2012/VideoChat",
+      "url": "https://github.com/Softchallenge2012/VideoChat",
+      "source": "github",
+      "source_author": "Softchallenge2012",
+      "topics": [],
+      "score": 3,
+      "score_reason": "Basic functionality that doesn't stand out or show potential.",
+      "posted": false,
+      "collected_at": "2026-06-22T05:42:57Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
+        "upvotes": 0
       }
     },
     {
@@ -1079,6 +1260,46 @@
         "retweets": 0,
         "stars": 0,
         "upvotes": 3
+      }
+    },
+    {
+      "id": "1c69d8d9b566474715106d925779c0ae",
+      "title": "useapi/kling-api",
+      "url": "https://github.com/useapi/kling-api",
+      "source": "github",
+      "source_author": "useapi",
+      "topics": [],
+      "score": 2.5,
+      "score_reason": "Only a minimal star count suggests low interest or novelty.",
+      "posted": false,
+      "collected_at": "2026-06-22T05:42:57Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "1ebc0aff52f9dc975c18b55fea2d9d22",
+      "title": "umacloud/umadev",
+      "url": "https://github.com/umacloud/umadev",
+      "source": "github",
+      "source_author": "umacloud",
+      "topics": [],
+      "score": 2.5,
+      "score_reason": "Limited interest as developer tools are not a focus.",
+      "posted": false,
+      "collected_at": "2026-06-22T05:42:46Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 79,
+        "upvotes": 0
       }
     },
     {
@@ -1282,6 +1503,26 @@
       }
     },
     {
+      "id": "af59df7de9411b8cb592bb392e04facf",
+      "title": "RiteshGenAI/Sentinel",
+      "url": "https://github.com/RiteshGenAI/Sentinel",
+      "source": "github",
+      "source_author": "RiteshGenAI",
+      "topics": [],
+      "score": 1.5,
+      "score_reason": "No engagement and appears not to bring novel insights.",
+      "posted": false,
+      "collected_at": "2026-06-22T05:42:53Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 2,
+        "upvotes": 0
+      }
+    },
+    {
       "id": "72da77c062ac198ac635b0dad6fc9510",
       "title": "Anthropic uses Persona for identity verification",
       "url": "https://web.archive.org/web/20260415064244/https://support.claude.com/en/articles/14328960-identity-verification-on-claude",
@@ -1299,6 +1540,46 @@
         "retweets": 0,
         "stars": 0,
         "upvotes": 4
+      }
+    },
+    {
+      "id": "e871a4cef25cbce50d70f60920ede28d",
+      "title": "raiyanyahya/recall",
+      "url": "https://github.com/raiyanyahya/recall",
+      "source": "github",
+      "source_author": "raiyanyahya",
+      "topics": [],
+      "score": 1.5,
+      "score_reason": "Low activity on this GitHub repo suggests little interest or relevance.",
+      "posted": false,
+      "collected_at": "2026-06-22T05:42:46Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 140,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "b7e7407ba186d63314255eefdf08e27b",
+      "title": "nikitadoudikov/claude-pulse",
+      "url": "https://github.com/nikitadoudikov/claude-pulse",
+      "source": "github",
+      "source_author": "nikitadoudikov",
+      "topics": [],
+      "score": 1,
+      "score_reason": "No engagement signals, making it less relevant to the audience.",
+      "posted": false,
+      "collected_at": "2026-06-22T05:42:47Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 58,
+        "upvotes": 0
       }
     },
     {
@@ -1322,6 +1603,146 @@
       }
     },
     {
+      "id": "61bcfb3a34d590bbbfc275a904d08c20",
+      "title": "MikhailG517/devin",
+      "url": "https://github.com/MikhailG517/devin",
+      "source": "github",
+      "source_author": "MikhailG517",
+      "topics": [],
+      "score": 1,
+      "score_reason": "No visibility or interaction, likely not useful.",
+      "posted": false,
+      "collected_at": "2026-06-22T05:43:06Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "64bfe5323e1e6dc6076704cd64387f86",
+      "title": "moatazhamada/ai-omni-skills",
+      "url": "https://github.com/moatazhamada/ai-omni-skills",
+      "source": "github",
+      "source_author": "moatazhamada",
+      "topics": [],
+      "score": 1,
+      "score_reason": "Bottom tier in engagement and novelty; not applicable.",
+      "posted": false,
+      "collected_at": "2026-06-22T05:42:55Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 2,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "317ed3549d72dc877db0b95615653940",
+      "title": "satiricalguru/Local-Mind",
+      "url": "https://github.com/satiricalguru/Local-Mind",
+      "source": "github",
+      "source_author": "satiricalguru",
+      "topics": [],
+      "score": 1,
+      "score_reason": "Lacks any notable uniqueness; no engagement.",
+      "posted": false,
+      "collected_at": "2026-06-22T05:42:56Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 2,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "a145bf9d30adad7f8466d64b2ae568c4",
+      "title": "yumizyg/Hyperframes-Video-Generation-Skills",
+      "url": "https://github.com/yumizyg/Hyperframes-Video-Generation-Skills",
+      "source": "github",
+      "source_author": "yumizyg",
+      "topics": [],
+      "score": 1,
+      "score_reason": "Poor engagement suggests limited interest.",
+      "posted": false,
+      "collected_at": "2026-06-22T05:42:56Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "5b6085472871e04e4df67b7ed2379786",
+      "title": "yuting0624/antigravity-for-claude-code",
+      "url": "https://github.com/yuting0624/antigravity-for-claude-code",
+      "source": "github",
+      "source_author": "yuting0624",
+      "topics": [],
+      "score": 1,
+      "score_reason": "No signs of engagement or relevance to developers.",
+      "posted": false,
+      "collected_at": "2026-06-22T05:42:47Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 27,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "c8f3e58c41b585993596fc532b214a60",
+      "title": "Francis1998/nexus-llm-router",
+      "url": "https://github.com/Francis1998/nexus-llm-router",
+      "source": "github",
+      "source_author": "Francis1998",
+      "topics": [],
+      "score": 1,
+      "score_reason": "Little to no engagement makes this less appealing.",
+      "posted": false,
+      "collected_at": "2026-06-22T05:42:48Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 32,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "f5b1cbfd2b1586f318db88e12b5584a5",
+      "title": "project820/gjc-multivendor-setup-guide",
+      "url": "https://github.com/project820/gjc-multivendor-setup-guide",
+      "source": "github",
+      "source_author": "project820",
+      "topics": [],
+      "score": 1,
+      "score_reason": "Not a significant topic within AI or developer tools.",
+      "posted": false,
+      "collected_at": "2026-06-22T05:42:50Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 12,
+        "upvotes": 0
+      }
+    },
+    {
       "id": "1dcdc5184754275260b4b59a5af0938f",
       "title": "FDA advisors unanimously vote to approve Moderna's mRNA after agency drama",
       "url": "https://arstechnica.com/health/2026/06/fda-advisors-unanimously-vote-to-approve-modernas-mrna-after-agency-drama/",
@@ -1339,6 +1760,26 @@
         "retweets": 0,
         "stars": 0,
         "upvotes": 158
+      }
+    },
+    {
+      "id": "a7dd5877829787323b03c70e53e8c071",
+      "title": "tharsan1305/Mater-Plan",
+      "url": "https://github.com/tharsan1305/Mater-Plan",
+      "source": "github",
+      "source_author": "tharsan1305",
+      "topics": [],
+      "score": 1,
+      "score_reason": "Complete lack of engagement or followers.",
+      "posted": false,
+      "collected_at": "2026-06-22T05:43:01Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 0
       }
     },
     {
@@ -1420,8 +1861,67 @@
         "stars": 0,
         "upvotes": 3
       }
+    },
+    {
+      "id": "4b313ea229d7a9cca7e72b1fa35b2182",
+      "title": "fivetaku/insane-review",
+      "url": "https://github.com/fivetaku/insane-review",
+      "source": "github",
+      "source_author": "fivetaku",
+      "topics": [],
+      "score": 1,
+      "score_reason": "Low relevance and engagement, not appealing to a technical audience.",
+      "posted": false,
+      "collected_at": "2026-06-22T05:42:50Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 18,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "ce0337ebd1127dccf17b9d91a8638b87",
+      "title": "begin0808/LiveCaption",
+      "url": "https://github.com/begin0808/LiveCaption",
+      "source": "github",
+      "source_author": "begin0808",
+      "topics": [],
+      "score": 0.5,
+      "score_reason": "Low engagement, suggests limited interest from developers.",
+      "posted": false,
+      "collected_at": "2026-06-22T05:42:52Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 34,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "7986b269dfed0e8fb63416e150434878",
+      "title": "lyra81604/zhengxi-views",
+      "url": "https://github.com/lyra81604/zhengxi-views",
+      "source": "github",
+      "source_author": "lyra81604",
+      "topics": [],
+      "score": 0.5,
+      "score_reason": "High stars but no engagement, indicates possible lack of interest overall.",
+      "posted": false,
+      "collected_at": "2026-06-22T05:42:51Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 327,
+        "upvotes": 0
+      }
     }
   ],
-  "source": "hackernews",
   "updated_at": "2026-06-22T05:47:10Z"
 }
