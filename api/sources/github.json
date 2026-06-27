@@ -1,157 +1,37 @@
 {
-  "count": 30,
+  "count": 5,
   "items": [
     {
-      "id": "521a9cbbc156e3ddb40b075f3b58b794",
-      "title": "shreyashankar/error-discovery-skill",
-      "url": "https://github.com/shreyashankar/error-discovery-skill",
+      "id": "12b63c3ced0fd4fcff65617f5153c1e4",
+      "title": "gamedev-skills/awesome-gamedev-agent-skills",
+      "url": "https://github.com/gamedev-skills/awesome-gamedev-agent-skills",
       "source": "github",
-      "source_author": "shreyashankar",
-      "topics": [],
-      "score": 7,
-      "score_reason": "High potential for error discovery in AI systems, indicated by the star count.",
-      "posted": false,
-      "collected_at": "2026-06-27T04:36:46Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 73,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "160b97bf99b78d506d9e9dcad3ec4604",
-      "title": "reloadlife/cursor-account-switcher",
-      "url": "https://github.com/reloadlife/cursor-account-switcher",
-      "source": "github",
-      "source_author": "reloadlife",
+      "source_author": "gamedev-skills",
       "topics": [],
       "score": 6,
-      "score_reason": "A useful utility for switching accounts, increasing its applicability.",
+      "score_reason": "It presents a curated list of resources for game development agents, though it lacks broader transformative impact.",
       "posted": false,
-      "collected_at": "2026-06-27T04:36:42Z",
+      "collected_at": "2026-06-27T09:13:17Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 12,
+        "stars": 4,
         "upvotes": 0
       }
     },
     {
-      "id": "d521dbea76866f400b383a1100731d84",
-      "title": "lucianodiisouza/semaphore",
-      "url": "https://github.com/lucianodiisouza/semaphore",
+      "id": "3dcd3acb173185f84061f54d5f51bb12",
+      "title": "Khush2040/GenAIPEP",
+      "url": "https://github.com/Khush2040/GenAIPEP",
       "source": "github",
-      "source_author": "lucianodiisouza",
-      "topics": [],
-      "score": 6,
-      "score_reason": "A project with potential standard utility but lacking distinctive features.",
-      "posted": false,
-      "collected_at": "2026-06-27T04:36:42Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 12,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "721d09cef9dde9047a81725d342f7e18",
-      "title": "abundantbeing/hermes-browser-extension",
-      "url": "https://github.com/abundantbeing/hermes-browser-extension",
-      "source": "github",
-      "source_author": "abundantbeing",
-      "topics": [],
-      "score": 6,
-      "score_reason": "A browser extension could improve developer workflows but lacks significant novelty.",
-      "posted": false,
-      "collected_at": "2026-06-27T04:36:30Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 177,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "94e6814d69762ea7aa7354aadebcd62c",
-      "title": "yyh-001/llm-value-rankings",
-      "url": "https://github.com/yyh-001/llm-value-rankings",
-      "source": "github",
-      "source_author": "yyh-001",
+      "source_author": "Khush2040",
       "topics": [],
       "score": 5,
-      "score_reason": "Research on LLM value rankings appears interesting but is not groundbreaking.",
+      "score_reason": "unscored",
       "posted": false,
-      "collected_at": "2026-06-27T04:36:31Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 6,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "55aeaf46c8055d4334b7fa197a2aa82c",
-      "title": "fireravenai/fireraven-agent-hooks",
-      "url": "https://github.com/fireravenai/fireraven-agent-hooks",
-      "source": "github",
-      "source_author": "fireravenai",
-      "topics": [],
-      "score": 5,
-      "score_reason": "Agent hooks may be relevant but lacks clarity and engagement.",
-      "posted": false,
-      "collected_at": "2026-06-27T04:36:43Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 2,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "6ec38c0d4ecf159ff59b56d3b46153b1",
-      "title": "chenpg2/genius-plugin",
-      "url": "https://github.com/chenpg2/genius-plugin",
-      "source": "github",
-      "source_author": "chenpg2",
-      "topics": [],
-      "score": 5,
-      "score_reason": "A plugin could be beneficial but has low user feedback.",
-      "posted": false,
-      "collected_at": "2026-06-27T04:36:34Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 2,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "b044d323612798a539ba687c81b2c7f1",
-      "title": "tono2002/gen-ai-project",
-      "url": "https://github.com/tono2002/gen-ai-project",
-      "source": "github",
-      "source_author": "tono2002",
-      "topics": [],
-      "score": 5,
-      "score_reason": "Explores generative AI but with minimal engagement or detail.",
-      "posted": false,
-      "collected_at": "2026-06-27T04:36:33Z",
+      "collected_at": "2026-06-27T09:13:10Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
@@ -162,16 +42,16 @@
       }
     },
     {
-      "id": "2a0e054b09b352870cc78e325d8943bf",
-      "title": "yijunyu/ds4-rs-metal",
-      "url": "https://github.com/yijunyu/ds4-rs-metal",
+      "id": "763aeea660eb16b22fe01161762e3244",
+      "title": "Menfre01/waveloom",
+      "url": "https://github.com/Menfre01/waveloom",
       "source": "github",
-      "source_author": "yijunyu",
+      "source_author": "Menfre01",
       "topics": [],
-      "score": 5,
-      "score_reason": "The project is quite niche, with low engagement and unclear impact.",
+      "score": 4,
+      "score_reason": "Barely presents novel content regarding GitHub projects.",
       "posted": false,
-      "collected_at": "2026-06-27T04:36:31Z",
+      "collected_at": "2026-06-27T09:13:08Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
@@ -182,416 +62,36 @@
       }
     },
     {
-      "id": "b7053cffe46756a39b8fabf49c6260c4",
-      "title": "catalystsystemslab/codex-skill-sync",
-      "url": "https://github.com/catalystsystemslab/codex-skill-sync",
+      "id": "18b210908668666ae1a0d3561ec115e6",
+      "title": "XBuilderLAB/cheat-on-skill",
+      "url": "https://github.com/XBuilderLAB/cheat-on-skill",
       "source": "github",
-      "source_author": "catalystsystemslab",
+      "source_author": "XBuilderLAB",
       "topics": [],
-      "score": 4,
-      "score_reason": "A specialized solution that could serve a niche but lacks engagement.",
+      "score": 3.5,
+      "score_reason": "Limited context on practical application in developer workflows.",
       "posted": false,
-      "collected_at": "2026-06-27T04:36:40Z",
+      "collected_at": "2026-06-27T09:13:04Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 3,
+        "stars": 21,
         "upvotes": 0
       }
     },
     {
-      "id": "d9f5c25f9948525b9d655c14299ca36a",
-      "title": "mangiapanejohn-dev/QuotaLens",
-      "url": "https://github.com/mangiapanejohn-dev/QuotaLens",
+      "id": "ea09c2774716c386a6975334daa38ab6",
+      "title": "getlark/openlily",
+      "url": "https://github.com/getlark/openlily",
       "source": "github",
-      "source_author": "mangiapanejohn-dev",
-      "topics": [],
-      "score": 4,
-      "score_reason": "Limited engagement and unclear utility for a broad developer audience.",
-      "posted": false,
-      "collected_at": "2026-06-27T04:36:27Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 17,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "7d32f101508dbd61775916efa0d18a2c",
-      "title": "Jeronasand/deepseek-saas-starter-vue",
-      "url": "https://github.com/Jeronasand/deepseek-saas-starter-vue",
-      "source": "github",
-      "source_author": "Jeronasand",
-      "topics": [],
-      "score": 4,
-      "score_reason": "A starter template that may be useful but lacks distinctiveness.",
-      "posted": false,
-      "collected_at": "2026-06-27T04:36:31Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 6,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "c7cbd89d44e892db85e32aa795fa1a5b",
-      "title": "motto-debug/dualalpha-lite",
-      "url": "https://github.com/motto-debug/dualalpha-lite",
-      "source": "github",
-      "source_author": "motto-debug",
-      "topics": [],
-      "score": 4,
-      "score_reason": "A minor project with low relevance to widespread developer needs.",
-      "posted": false,
-      "collected_at": "2026-06-27T04:36:31Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 6,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "c3aff367f65ff2e96a0ea5d0b0f93ff8",
-      "title": "AgriciDaniel/google-genai-brain",
-      "url": "https://github.com/AgriciDaniel/google-genai-brain",
-      "source": "github",
-      "source_author": "AgriciDaniel",
-      "topics": [],
-      "score": 4,
-      "score_reason": "Limited engagement and a vague focus reduce its impact.",
-      "posted": false,
-      "collected_at": "2026-06-27T04:36:33Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 1,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "3bc19197948e4601ef5da0d4439aceaa",
-      "title": "SuhuuDev/GLM52-KIMI26-Bot",
-      "url": "https://github.com/SuhuuDev/GLM52-KIMI26-Bot",
-      "source": "github",
-      "source_author": "SuhuuDev",
-      "topics": [],
-      "score": 4,
-      "score_reason": "Interesting concept but lacks clarity on its practical applications.",
-      "posted": false,
-      "collected_at": "2026-06-27T04:36:34Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 2,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "e8b76d917ae84f95b3e2ab5decbc43d0",
-      "title": "MasonSRE/debrief",
-      "url": "https://github.com/MasonSRE/debrief",
-      "source": "github",
-      "source_author": "MasonSRE",
-      "topics": [],
-      "score": 4,
-      "score_reason": "Similar to others, it does provide some value but is low-profile.",
-      "posted": false,
-      "collected_at": "2026-06-27T04:36:41Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 3,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "df832fa089cbcb79ca76cdaa6be229f6",
-      "title": "ahmedhazim97/DevinOS",
-      "url": "https://github.com/ahmedhazim97/DevinOS",
-      "source": "github",
-      "source_author": "ahmedhazim97",
+      "source_author": "getlark",
       "topics": [],
       "score": 3,
-      "score_reason": "Lacks engagement and does not present a noteworthy innovation.",
+      "score_reason": "Low engagement with unclear use cases in developer tools.",
       "posted": false,
-      "collected_at": "2026-06-27T04:36:45Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 1,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "a1ced408af3af9276a6dc59709d5f2d2",
-      "title": "kunal12203/higgsfree",
-      "url": "https://github.com/kunal12203/higgsfree",
-      "source": "github",
-      "source_author": "kunal12203",
-      "topics": [],
-      "score": 3,
-      "score_reason": "Low stars and engagement indicate limited relevance.",
-      "posted": false,
-      "collected_at": "2026-06-27T04:36:35Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 3,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "bcaf703af633d6b9fc112c91f8233c44",
-      "title": "maheshvikrammali2007-gif/MA_Swarm_Project",
-      "url": "https://github.com/maheshvikrammali2007-gif/MA_Swarm_Project",
-      "source": "github",
-      "source_author": "maheshvikrammali2007-gif",
-      "topics": [],
-      "score": 3,
-      "score_reason": "Lack of community feedback makes it less impactful.",
-      "posted": false,
-      "collected_at": "2026-06-27T04:36:37Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 1,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "e3fb46b729d47c40d37bb9989aa26a88",
-      "title": "uthumany/seo-swarm",
-      "url": "https://github.com/uthumany/seo-swarm",
-      "source": "github",
-      "source_author": "uthumany",
-      "topics": [],
-      "score": 3,
-      "score_reason": "Very low engagement and unclear focus on developer tools.",
-      "posted": false,
-      "collected_at": "2026-06-27T04:36:37Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 1,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "6be67a3cca2e7bb4872ef79390089062",
-      "title": "Swetha-K-SoftwareEngineer-AI-DS/AI_Video_Generation_Pipeline-Growfinix",
-      "url": "https://github.com/Swetha-K-SoftwareEngineer-AI-DS/AI_Video_Generation_Pipeline-Growfinix",
-      "source": "github",
-      "source_author": "Swetha-K-SoftwareEngineer-AI-DS",
-      "topics": [],
-      "score": 3,
-      "score_reason": "Minimal detail and engagement reduce potential impact.",
-      "posted": false,
-      "collected_at": "2026-06-27T04:36:35Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 1,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "fbe158e87126381eed47266385632fa3",
-      "title": "kevin333353/jobsmith",
-      "url": "https://github.com/kevin333353/jobsmith",
-      "source": "github",
-      "source_author": "kevin333353",
-      "topics": [],
-      "score": 3,
-      "score_reason": "Little engagement and unclear significance within the developer community.",
-      "posted": false,
-      "collected_at": "2026-06-27T04:36:28Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 50,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "77813b610cbeaab0bb7660f94a151d67",
-      "title": "lj1270998580-crypto/goal-skill",
-      "url": "https://github.com/lj1270998580-crypto/goal-skill",
-      "source": "github",
-      "source_author": "lj1270998580-crypto",
-      "topics": [],
-      "score": 3,
-      "score_reason": "A generic skills project with little engagement or detail.",
-      "posted": false,
-      "collected_at": "2026-06-27T04:36:34Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 2,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "d392dcf19b8a604aa649412fe2dc0420",
-      "title": "bouclem/MultiAgentDevin",
-      "url": "https://github.com/bouclem/MultiAgentDevin",
-      "source": "github",
-      "source_author": "bouclem",
-      "topics": [],
-      "score": 3,
-      "score_reason": "Similar to the previous item, minimal engagement and unclear impact.",
-      "posted": false,
-      "collected_at": "2026-06-27T04:36:45Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 1,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "01210ed19d3381293fd25312da760f9b",
-      "title": "alexey-goloburdin/chebupelka",
-      "url": "https://github.com/alexey-goloburdin/chebupelka",
-      "source": "github",
-      "source_author": "alexey-goloburdin",
-      "topics": [],
-      "score": 3,
-      "score_reason": "Low engagement with unclear benefits for developers.",
-      "posted": false,
-      "collected_at": "2026-06-27T04:36:26Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 71,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "6930aa97aa05621d68cd320d39b28990",
-      "title": "jaydip1212/sentinel-secure-skills",
-      "url": "https://github.com/jaydip1212/sentinel-secure-skills",
-      "source": "github",
-      "source_author": "jaydip1212",
-      "topics": [],
-      "score": 2.5,
-      "score_reason": "Similar to others, it lacks clear application or novelty for developers.",
-      "posted": false,
-      "collected_at": "2026-06-27T04:36:29Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 8,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "d0eb8486b425be27ed16386b0518f145",
-      "title": "JnanaSrota/mcpgen",
-      "url": "https://github.com/JnanaSrota/mcpgen",
-      "source": "github",
-      "source_author": "JnanaSrota",
-      "topics": [],
-      "score": 2.5,
-      "score_reason": "Marginal interest with low engagement; unclear relevance.",
-      "posted": false,
-      "collected_at": "2026-06-27T04:36:27Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 13,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "e92229a13477c0b9afd7b8fecf006101",
-      "title": "Mchicao/swarms-harness",
-      "url": "https://github.com/Mchicao/swarms-harness",
-      "source": "github",
-      "source_author": "Mchicao",
-      "topics": [],
-      "score": 2,
-      "score_reason": "Pointless project with minimal impact or relevance.",
-      "posted": false,
-      "collected_at": "2026-06-27T04:36:37Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 1,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "225d33fcecb4af2daaacddece6062dab",
-      "title": "scratchyone/voice-training-ui",
-      "url": "https://github.com/scratchyone/voice-training-ui",
-      "source": "github",
-      "source_author": "scratchyone",
-      "topics": [],
-      "score": 2,
-      "score_reason": "No significant novel aspect; engagement is minimal.",
-      "posted": false,
-      "collected_at": "2026-06-27T04:36:26Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 65,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "d940e5e44be6646a85c9e4d5cf4fdaba",
-      "title": "naya-ai/promptctl",
-      "url": "https://github.com/naya-ai/promptctl",
-      "source": "github",
-      "source_author": "naya-ai",
-      "topics": [],
-      "score": 2,
-      "score_reason": "Minimal exposure and unclear application for developers.",
-      "posted": false,
-      "collected_at": "2026-06-27T04:36:29Z",
+      "collected_at": "2026-06-27T09:13:06Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
@@ -603,5 +103,5 @@
     }
   ],
   "source": "github",
-  "updated_at": "2026-06-27T04:41:04Z"
+  "updated_at": "2026-06-27T09:16:50Z"
 }
