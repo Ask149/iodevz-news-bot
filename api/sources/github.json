@@ -1,37 +1,137 @@
 {
-  "count": 5,
+  "count": 18,
   "items": [
     {
-      "id": "9ac8569437107a1e8cd51f3d24ce8039",
-      "title": "AIPMAndy/AndySoul",
-      "url": "https://github.com/AIPMAndy/AndySoul",
+      "id": "4fb650653ceb2fda475b164aa31498c5",
+      "title": "eli-labz/Godcoder",
+      "url": "https://github.com/eli-labz/Godcoder",
       "source": "github",
-      "source_author": "AIPMAndy",
+      "source_author": "eli-labz",
       "topics": [],
       "score": 7.5,
-      "score_reason": "AndySoul may be an interesting new tool, though initial engagement is low.",
+      "score_reason": "A well-rated tool that may improve coding efficiency but lacks significant novelty in its current form.",
       "posted": false,
-      "collected_at": "2026-06-27T14:15:13Z",
+      "collected_at": "2026-06-28T05:05:02Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 17,
+        "stars": 241,
         "upvotes": 0
       }
     },
     {
-      "id": "89d2b2163ea8a5d80f8f9b32146c030a",
-      "title": "Devin-IQ/DevinOS",
-      "url": "https://github.com/Devin-IQ/DevinOS",
+      "id": "c202ed8409bab73ab25f1186dc0c8e1f",
+      "title": "lingbol088-spec/Codex-5.5-codex-instruct-5.5",
+      "url": "https://github.com/lingbol088-spec/Codex-5.5-codex-instruct-5.5",
       "source": "github",
-      "source_author": "Devin-IQ",
+      "source_author": "lingbol088-spec",
+      "topics": [],
+      "score": 6,
+      "score_reason": "Offers enhancements for Codex but doesn't introduce groundbreaking changes.",
+      "posted": false,
+      "collected_at": "2026-06-28T05:05:03Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 51,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "25f332dda525549e6999da7325c6833f",
+      "title": "sums001/Deepseek-API",
+      "url": "https://github.com/sums001/Deepseek-API",
+      "source": "github",
+      "source_author": "sums001",
+      "topics": [],
+      "score": 5.5,
+      "score_reason": "An API tool that might be useful for specific applications, but not broadly appealing.",
+      "posted": false,
+      "collected_at": "2026-06-28T05:05:02Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 48,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "66855d2d6647f392e738cdc37a1e6574",
+      "title": "ken310sato1203/devin",
+      "url": "https://github.com/ken310sato1203/devin",
+      "source": "github",
+      "source_author": "ken310sato1203",
       "topics": [],
       "score": 5,
       "score_reason": "unscored",
       "posted": false,
-      "collected_at": "2026-06-27T14:15:16Z",
+      "collected_at": "2026-06-28T05:05:18Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "a11eaef8907d34d178452f0e6dc27215",
+      "title": "orailnoor/private-agent",
+      "url": "https://github.com/orailnoor/private-agent",
+      "source": "github",
+      "source_author": "orailnoor",
+      "topics": [],
+      "score": 5,
+      "score_reason": "unscored",
+      "posted": false,
+      "collected_at": "2026-06-28T05:05:05Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 10,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "419a3215dd8949c6ef24c0d4f6bf65df",
+      "title": "GenseeAI/gensee-crate",
+      "url": "https://github.com/GenseeAI/gensee-crate",
+      "source": "github",
+      "source_author": "GenseeAI",
+      "topics": [],
+      "score": 5,
+      "score_reason": "Has potential due to a decent number of stars but lacks engagement to suggest broad relevance.",
+      "posted": false,
+      "collected_at": "2026-06-28T05:04:59Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 66,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "bd9dfec3539359c7ee3aa01295c98871",
+      "title": "plumpslabs/matcha",
+      "url": "https://github.com/plumpslabs/matcha",
+      "source": "github",
+      "source_author": "plumpslabs",
+      "topics": [],
+      "score": 5,
+      "score_reason": "unscored",
+      "posted": false,
+      "collected_at": "2026-06-28T05:05:17Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
@@ -42,36 +142,36 @@
       }
     },
     {
-      "id": "c0f4cec809a4b7e129372aa6406093d8",
-      "title": "FeiFei-AIDev/ai-script-generation-skill",
-      "url": "https://github.com/FeiFei-AIDev/ai-script-generation-skill",
+      "id": "f4c2e320e895d67a6a3189d06fd7cab0",
+      "title": "liyupi/ai-investor",
+      "url": "https://github.com/liyupi/ai-investor",
       "source": "github",
-      "source_author": "FeiFei-AIDev",
+      "source_author": "liyupi",
       "topics": [],
-      "score": 3,
-      "score_reason": "AI script generation skills are niche and may not attract broad interest.",
+      "score": 4,
+      "score_reason": "Limited initial interest might indicate niche application or unclear value proposition.",
       "posted": false,
-      "collected_at": "2026-06-27T14:15:05Z",
+      "collected_at": "2026-06-28T05:05:05Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 5,
+        "stars": 7,
         "upvotes": 0
       }
     },
     {
-      "id": "4647b0cd53c8b4921e722661f0b44677",
-      "title": "hirokawaguchi/open-genai",
-      "url": "https://github.com/hirokawaguchi/open-genai",
+      "id": "d8725886cd3fa763fafc743dc83aca7f",
+      "title": "3964tian/AlphaGPT",
+      "url": "https://github.com/3964tian/AlphaGPT",
       "source": "github",
-      "source_author": "hirokawaguchi",
+      "source_author": "3964tian",
       "topics": [],
-      "score": 1.5,
-      "score_reason": "Repo has low engagement and limited context or relevance to developers.",
+      "score": 3.5,
+      "score_reason": "Low engagement suggests it may not address a significant need or provide impactful insights.",
       "posted": false,
-      "collected_at": "2026-06-27T14:15:02Z",
+      "collected_at": "2026-06-28T05:05:03Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
@@ -82,26 +182,186 @@
       }
     },
     {
-      "id": "84b44fa132826309774c7b975f07a92a",
-      "title": "TNTnext/Lumen",
-      "url": "https://github.com/TNTnext/Lumen",
+      "id": "a21bcdae1b2c9cde90769e409dc31f24",
+      "title": "qourex/FasterWhisper.NET",
+      "url": "https://github.com/qourex/FasterWhisper.NET",
       "source": "github",
-      "source_author": "TNTnext",
+      "source_author": "qourex",
       "topics": [],
-      "score": 1,
-      "score_reason": "Minimal engagement indicates low interest from the audience.",
+      "score": 3,
+      "score_reason": "Minimal traction indicating a lack of strong relevance or utility.",
       "posted": false,
-      "collected_at": "2026-06-27T14:15:04Z",
+      "collected_at": "2026-06-28T05:05:10Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 4,
+        "stars": 1,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "b3ce936fa028fbb945d080ad4765a573",
+      "title": "uudam42/agent-memory-engine",
+      "url": "https://github.com/uudam42/agent-memory-engine",
+      "source": "github",
+      "source_author": "uudam42",
+      "topics": [],
+      "score": 2.5,
+      "score_reason": "Very low engagement and stars suggest it may not resonate with developers.",
+      "posted": false,
+      "collected_at": "2026-06-28T05:05:12Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 28,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "e8557f8e5cb55908b569034487a41330",
+      "title": "lingbol088-spec/-github-ai-",
+      "url": "https://github.com/lingbol088-spec/-github-ai-",
+      "source": "github",
+      "source_author": "lingbol088-spec",
+      "topics": [],
+      "score": 2,
+      "score_reason": "Lacks engagement, indicating limited relevance or interest from the developer community.",
+      "posted": false,
+      "collected_at": "2026-06-28T05:05:05Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 9,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "f7854e83ccac0d5f036da2e7346a2204",
+      "title": "hustfyb/kimi2api",
+      "url": "https://github.com/hustfyb/kimi2api",
+      "source": "github",
+      "source_author": "hustfyb",
+      "topics": [],
+      "score": 2,
+      "score_reason": "Little interest surrounding this tool implies it doesn't meet a pressing developer need.",
+      "posted": false,
+      "collected_at": "2026-06-28T05:05:07Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "446eafbe5446044e9462c5c883e364cb",
+      "title": "vikastiwari/enterprise-agent-swarm",
+      "url": "https://github.com/vikastiwari/enterprise-agent-swarm",
+      "source": "github",
+      "source_author": "vikastiwari",
+      "topics": [],
+      "score": 1.5,
+      "score_reason": "Minimal engagement suggests a lack of impactful features or novelty.",
+      "posted": false,
+      "collected_at": "2026-06-28T05:05:11Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "72a123b528e36a1eb3b02f4c388c052c",
+      "title": "giossaurus/spec-okf",
+      "url": "https://github.com/giossaurus/spec-okf",
+      "source": "github",
+      "source_author": "giossaurus",
+      "topics": [],
+      "score": 1,
+      "score_reason": "No engagement indicates minimal interest in this project, likely due to lack of unique value.",
+      "posted": false,
+      "collected_at": "2026-06-28T05:05:17Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "989755c6073450045405c7594527482d",
+      "title": "luiznani/devin",
+      "url": "https://github.com/luiznani/devin",
+      "source": "github",
+      "source_author": "luiznani",
+      "topics": [],
+      "score": 1,
+      "score_reason": "Unsubstantial engagement and stars pointing to little relevance or potential utility.",
+      "posted": false,
+      "collected_at": "2026-06-28T05:05:18Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "1c4a639ee0a0ca245cc8e6b12efbb1e7",
+      "title": "siddharthchauhan3128/Devin",
+      "url": "https://github.com/siddharthchauhan3128/Devin",
+      "source": "github",
+      "source_author": "siddharthchauhan3128",
+      "topics": [],
+      "score": 1,
+      "score_reason": "Very low engagement suggests it provides little value to the target audience.",
+      "posted": false,
+      "collected_at": "2026-06-28T05:05:18Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "fb313f873bfc015da8356c19b4979740",
+      "title": "terrense/LLM_path_for_begginers",
+      "url": "https://github.com/terrense/LLM_path_for_begginers",
+      "source": "github",
+      "source_author": "terrense",
+      "topics": [],
+      "score": 1,
+      "score_reason": "High potential visibility but very low interest indicates it may not be addressing a real problem.",
+      "posted": false,
+      "collected_at": "2026-06-28T05:05:19Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 93,
         "upvotes": 0
       }
     }
   ],
   "source": "github",
-  "updated_at": "2026-06-27T14:18:49Z"
+  "updated_at": "2026-06-28T05:09:29Z"
 }
