@@ -1,79 +1,39 @@
 {
-  "count": 67,
+  "count": 69,
   "items": [
     {
-      "id": "96779905b60a010e3f30fd0a7e43c2a5",
-      "title": "Show HN: Marmot, context layer for agents and humans",
-      "url": "https://marmotdata.io/",
-      "source": "hackernews",
-      "source_author": "bschaatsbergen",
-      "topics": [],
-      "score": 9,
-      "score_reason": "High engagement and relevance in the growing field of AI coding agents.",
-      "posted": false,
-      "collected_at": "2026-06-29T11:33:03Z",
-      "engagement": {
-        "comments": 1,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 0,
-        "upvotes": 12
-      }
-    },
-    {
-      "id": "7b44acb185ac88f06aa3b6ded104da6c",
-      "title": "I built 25 executable skills for AI coding agents � all open source",
-      "url": "https://github.com/chrislamlayer1-gif/hermes-core-skills",
-      "source": "hackernews",
-      "source_author": "ChrisLamDev118",
-      "topics": [],
-      "score": 8.5,
-      "score_reason": "Building executable skills for AI agents is directly relevant and potentially impactful for developers.",
-      "posted": false,
-      "collected_at": "2026-06-29T11:33:03Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 0,
-        "upvotes": 2
-      }
-    },
-    {
-      "id": "10f14c3b49df1ec465c704107a21a373",
-      "title": "LLM-free, layout-aware PDF chunker in pure Rust",
-      "url": "https://github.com/matthiasnordwig/pdf-struct-chunker",
-      "source": "hackernews",
-      "source_author": "MatthiasNordwig",
-      "topics": [],
-      "score": 8,
-      "score_reason": "LLM-free tools are rising in relevance, appealing to developers focused on optimization.",
-      "posted": false,
-      "collected_at": "2026-06-29T11:33:05Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 0,
-        "upvotes": 2
-      }
-    },
-    {
-      "id": "e09901e6191a3a2d7e81c3881d0a1cc7",
-      "title": "Anthropic CEO: Open-Source AI is getting dangerous",
+      "id": "93e927d725d1f0f7d7ee2b2fcca8be73",
+      "title": "Anthropic CEO: Open-Source AI is getting dangerous (2023)",
       "url": "https://xcancel.com/coinbureau/status/2071330294452666695",
       "source": "hackernews",
       "source_author": "therein",
       "topics": [],
-      "score": 8,
-      "score_reason": "The topic of dangerous open-source AI is timely and relevant to developers.",
+      "score": 9.5,
+      "score_reason": "Engages critical themes on AI safety and the implications of open-source development.",
       "posted": false,
-      "collected_at": "2026-06-29T11:33:02Z",
+      "collected_at": "2026-06-29T16:25:20Z",
       "engagement": {
-        "comments": 8,
+        "comments": 20,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 44
+      }
+    },
+    {
+      "id": "4c0b8f3f9ddf148599df0ec6fa9ae11f",
+      "title": "Show HN: I built Exfault, agentic mobile app pentesting tool",
+      "url": "https://www.exfault.com/",
+      "source": "hackernews",
+      "source_author": "shubh_sidhu",
+      "topics": [],
+      "score": 9,
+      "score_reason": "Novel pentesting tool speaks directly to app security needs.",
+      "posted": false,
+      "collected_at": "2026-06-29T16:25:20Z",
+      "engagement": {
+        "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
@@ -82,278 +42,98 @@
       }
     },
     {
-      "id": "c60328a003c1d467b0eccc478b2d1fa5",
-      "title": "Show HN: Dotdotduck – open-source Web Agent SDK",
-      "url": "https://github.com/PerhapxinLab/dotdotduck",
+      "id": "301b4cc3ef7029a1240a9221154d12ab",
+      "title": "Why did one day of AI cost more than a month of servers?",
+      "url": "https://junueno.dev/en/retry-storm-rebilled-llm-cost/",
       "source": "hackernews",
-      "source_author": "Lin_Kuei-Kuei",
+      "source_author": "dxs",
+      "topics": [],
+      "score": 8.5,
+      "score_reason": "Highlights unexpected AI costs, very relevant to developers managing budgets.",
+      "posted": false,
+      "collected_at": "2026-06-29T16:25:23Z",
+      "engagement": {
+        "comments": 14,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 14
+      }
+    },
+    {
+      "id": "1d45af8c34e4c1cd4505b4feb1df0850",
+      "title": "Show HN: Running a vision model on every screenshot on-device",
+      "url": "https://github.com/ayushh0110/ScreenMind/blob/main/README.md",
+      "source": "hackernews",
+      "source_author": "alexkarpathy",
+      "topics": [],
+      "score": 8.5,
+      "score_reason": "Presents a novel approach to running vision models on-device, relevant to privacy-conscious developers.",
+      "posted": false,
+      "collected_at": "2026-06-29T16:25:19Z",
+      "engagement": {
+        "comments": 4,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 16
+      }
+    },
+    {
+      "id": "97ef49198e2d8799b978e5fa788371c6",
+      "title": "Ansede – an offline SAST scanner I built to catch IDOR and auth bypass",
+      "url": "https://github.com/mattybellx/Ansede",
+      "source": "hackernews",
+      "source_author": "mattybell",
+      "topics": [],
+      "score": 8.5,
+      "score_reason": "Novel offline SAST tool targeting specific vulnerabilities offers practical utility for developers.",
+      "posted": false,
+      "collected_at": "2026-06-29T16:25:20Z",
+      "engagement": {
+        "comments": 1,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 3
+      }
+    },
+    {
+      "id": "b2ce1847ce74039eaa2d888e62400dba",
+      "title": "Show HN: Run AI chat, image gen, vision, and voice offline on your Mac",
+      "url": "https://github.com/off-grid-ai",
+      "source": "hackernews",
+      "source_author": "olie_h",
       "topics": [],
       "score": 8,
-      "score_reason": "Open-source web agent SDK aligns with current trends in developer tools for AI.",
+      "score_reason": "Offers a unique solution for running AI capabilities offline, which enhances developer flexibility.",
       "posted": false,
-      "collected_at": "2026-06-29T11:33:03Z",
+      "collected_at": "2026-06-29T16:25:19Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
         "stars": 0,
-        "upvotes": 2
+        "upvotes": 8
       }
     },
     {
-      "id": "b689f18fb0803f245c6bb257a7bb0db1",
-      "title": "Show HN: Brain.md – A persistent memory layer for your coding agents",
-      "url": "https://github.com/mindmuxai/brain.md",
+      "id": "b03c458238f75b040507fdd6342eceb2",
+      "title": "Show HN: Reference MCP – let your AI agents search each other's past sessions",
+      "url": "https://github.com/kuberwastaken/reference",
       "source": "hackernews",
-      "source_author": "sunnygao",
+      "source_author": "kuberwastaken",
       "topics": [],
       "score": 7.5,
-      "score_reason": "Persistent memory for AI agents is innovative and could be impactful.",
+      "score_reason": "Introduces the concept of AI agents sharing session data, which could transform agent collaboration.",
       "posted": false,
-      "collected_at": "2026-06-29T11:33:01Z",
+      "collected_at": "2026-06-29T16:25:19Z",
       "engagement": {
         "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 0,
-        "upvotes": 3
-      }
-    },
-    {
-      "id": "15b430346c6e2974627d09d1d3908e8f",
-      "title": "Show HN: Nearest-neighbor, a dating app for AI agents",
-      "url": "https://nearest-neighbor.replygirl.club/",
-      "source": "hackernews",
-      "source_author": "replygirl",
-      "topics": [],
-      "score": 7.5,
-      "score_reason": "This introduces a novel concept in AI interactions which could engage a broader audience.",
-      "posted": false,
-      "collected_at": "2026-06-29T11:33:03Z",
-      "engagement": {
-        "comments": 1,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 0,
-        "upvotes": 2
-      }
-    },
-    {
-      "id": "d3d12f020ded8e6eab671cdc3f06f549",
-      "title": "Lockheed Martin Sees GPS and Quantum Navigation Working Together",
-      "url": "https://thequantuminsider.com/2026/06/25/lockheed-martin-sees-gps-and-quantum-navigation-working-together/",
-      "source": "hackernews",
-      "source_author": "ascarshen",
-      "topics": [],
-      "score": 7,
-      "score_reason": "Explores the intersection of navigation technology and quantum computing, impacting future applications.",
-      "posted": false,
-      "collected_at": "2026-06-29T11:33:03Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 0,
-        "upvotes": 2
-      }
-    },
-    {
-      "id": "f690133ccbdc41577fb2fded0f735140",
-      "title": "htooayelwinict/Agentic-AI-Book",
-      "url": "https://github.com/htooayelwinict/Agentic-AI-Book",
-      "source": "github",
-      "source_author": "htooayelwinict",
-      "topics": [],
-      "score": 7,
-      "score_reason": "High star count suggests community interest in Agentic AI topics.",
-      "posted": false,
-      "collected_at": "2026-06-29T11:33:29Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 138,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "949bb6492c73b636c5c242eb18f65e02",
-      "title": "Squish – The fastest way to run local LLMs on Apple Silicon",
-      "url": "https://squish.run/",
-      "source": "hackernews",
-      "source_author": "jscohn85",
-      "topics": [],
-      "score": 7,
-      "score_reason": "Addresses performance optimization specifically for Apple Silicon, relevant for developers in that ecosystem.",
-      "posted": false,
-      "collected_at": "2026-06-29T11:33:05Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 0,
-        "upvotes": 3
-      }
-    },
-    {
-      "id": "a9ddf674e4cc365cca9ce12599c07be9",
-      "title": "Sling CLI – Open-source tool for fast data ingestion and replication",
-      "url": "https://github.com/slingdata-io/sling-cli",
-      "source": "hackernews",
-      "source_author": "Hayabusaa",
-      "topics": [],
-      "score": 7,
-      "score_reason": "Tools for data ingestion are intriguing but need wider applicability.",
-      "posted": false,
-      "collected_at": "2026-06-29T11:33:03Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 0,
-        "upvotes": 2
-      }
-    },
-    {
-      "id": "42873bed79f89b76d3837f2703666648",
-      "title": "A practical guide to defending your agent memory from attacks",
-      "url": "https://medium.com/@vektormemory/a-practical-guide-to-defending-your-agent-memory-attacks-33b91c382f40",
-      "source": "hackernews",
-      "source_author": "vektormemory",
-      "topics": [],
-      "score": 6.5,
-      "score_reason": "Defensive strategies for agent memory are increasingly relevant as AI systems evolve.",
-      "posted": false,
-      "collected_at": "2026-06-29T11:33:03Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 0,
-        "upvotes": 1
-      }
-    },
-    {
-      "id": "f2fb230479740b8756276387d77e8998",
-      "title": "Compile differentiable audio models to real-time DSP",
-      "url": "https://github.com/cucuwritescode/adac",
-      "source": "hackernews",
-      "source_author": "cucuwritescode",
-      "topics": [],
-      "score": 6.5,
-      "score_reason": "Real-time audio model implementation is innovative but niche.",
-      "posted": false,
-      "collected_at": "2026-06-29T11:33:03Z",
-      "engagement": {
-        "comments": 1,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 0,
-        "upvotes": 1
-      }
-    },
-    {
-      "id": "90af92747e73779f66d8e284bebb01b8",
-      "title": "OctoPerf MCP – drive load tests from any LLM (OAuth 2.1, no API key)",
-      "url": "https://api.octoperf.com/doc/mcp/",
-      "source": "hackernews",
-      "source_author": "Jellly",
-      "topics": [],
-      "score": 6.5,
-      "score_reason": "Provides a unique approach to load testing by integrating LLMs, although engagement is low.",
-      "posted": false,
-      "collected_at": "2026-06-29T11:33:04Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 0,
-        "upvotes": 1
-      }
-    },
-    {
-      "id": "a17e0a9c14cfce1daf86443e3bc25567",
-      "title": "Would Claude Refuse an Illegal Military Order?",
-      "url": "https://www.theatlantic.com/national-security/2026/06/claude-anthropic-ai-warfare-orders/687581/",
-      "source": "hackernews",
-      "source_author": "abdelhousni",
-      "topics": [],
-      "score": 6.5,
-      "score_reason": "Exploring ethical concerns in AI is important but less technical.",
-      "posted": false,
-      "collected_at": "2026-06-29T11:33:01Z",
-      "engagement": {
-        "comments": 2,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 0,
-        "upvotes": 2
-      }
-    },
-    {
-      "id": "422e904ed54ff2709691fe1e40d55552",
-      "title": "Show HN: Chappie – Direct Desktop Search and macOS Control",
-      "url": "https://chappie.a10z.co",
-      "source": "hackernews",
-      "source_author": "adamschwartz",
-      "topics": [],
-      "score": 6,
-      "score_reason": "Desktop search tools can aid productivity, though less developer-centric.",
-      "posted": false,
-      "collected_at": "2026-06-29T11:33:03Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 0,
-        "upvotes": 2
-      }
-    },
-    {
-      "id": "0633c651e05f82a82d4d50e694106011",
-      "title": "The Hitchhiker's Guide to Agentic AI: From Foundations to Systems",
-      "url": "https://arxiv.org/abs/2606.24937",
-      "source": "hackernews",
-      "source_author": "tamnd",
-      "topics": [],
-      "score": 6,
-      "score_reason": "A comprehensive guide to agentic AI serves as a foundational resource for developers.",
-      "posted": false,
-      "collected_at": "2026-06-29T11:33:03Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 0,
-        "upvotes": 1
-      }
-    },
-    {
-      "id": "99f0e8c703d07247c085a9fdc2376db3",
-      "title": "Obfuscation: Building the Final Boss of Cryptography",
-      "url": "https://vitalik.eth.limo/general/2026/06/29/obfuscation1.html",
-      "source": "hackernews",
-      "source_author": "ilreb",
-      "topics": [],
-      "score": 6,
-      "score_reason": "Discusses a cryptography concept relevant to developers, but is somewhat niche.",
-      "posted": false,
-      "collected_at": "2026-06-29T11:33:05Z",
-      "engagement": {
-        "comments": 1,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
@@ -362,56 +142,16 @@
       }
     },
     {
-      "id": "654764bdefa4898ae85df1d0381acb4c",
-      "title": "Show HN: The open-source alternative to Claude Tag",
-      "url": "https://www.agent-swarm.dev",
+      "id": "8e8af0dc8a8ac1a0a17ef5d045f69531",
+      "title": "Show HN: Toolnexus for .NET – MCP and agent skills as tools for any LLM",
+      "url": "https://www.nuget.org/packages/Toolnexus/",
       "source": "hackernews",
-      "source_author": "tarasyarema",
+      "source_author": "muthuishere",
       "topics": [],
-      "score": 6,
-      "score_reason": "Open-source alternatives are always relevant, but lacks significant engagement.",
+      "score": 7.5,
+      "score_reason": "Integrating MCP and agent skills into .NET tools could enhance developer productivity.",
       "posted": false,
-      "collected_at": "2026-06-29T11:33:01Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 0,
-        "upvotes": 2
-      }
-    },
-    {
-      "id": "5ecbaa5722d2c2503278e23d15c2b00a",
-      "title": "Ezeafk/awesome-agent-skills",
-      "url": "https://github.com/Ezeafk/awesome-agent-skills",
-      "source": "github",
-      "source_author": "Ezeafk",
-      "topics": [],
-      "score": 6,
-      "score_reason": "Higher star count suggests it may provide useful resources on agent skills.",
-      "posted": false,
-      "collected_at": "2026-06-29T11:33:20Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 81,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "0d42a77724e90fbb262a1613402b9358",
-      "title": "AI coding agents(Claude, Cursor) ask questions, share learnings, and blueprints",
-      "url": "https://agents.stackoverflow.com/recent",
-      "source": "hackernews",
-      "source_author": "rushil_b_patel",
-      "topics": [],
-      "score": 5.5,
-      "score_reason": "Discussions on AI capabilities are ongoing but lack specific details.",
-      "posted": false,
-      "collected_at": "2026-06-29T11:33:01Z",
+      "collected_at": "2026-06-29T16:25:20Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
@@ -422,196 +162,36 @@
       }
     },
     {
-      "id": "f3a0955ed36167ca79e141fae6916bf8",
-      "title": "Gatekeeping the Frontier: When AI Access Becomes a National Security Concern",
-      "url": "https://www.rusi.org/explore-our-research/publications/commentary/gatekeeping-frontier-when-ai-access-becomes-national-security-concern",
+      "id": "92e79cbb96a958ef725b58bc1fcfdbf2",
+      "title": "Show HN: Fognitix – AI browser with parallel autonomous agents on the browser",
+      "url": "https://www.fognitix.com/",
       "source": "hackernews",
-      "source_author": "ironyman",
+      "source_author": "fognitix",
       "topics": [],
-      "score": 5.5,
-      "score_reason": "Security implications of AI access are vital but may not engage developers directly.",
+      "score": 7.5,
+      "score_reason": "Introduces innovative AI browsing capabilities that could enhance productivity.",
       "posted": false,
-      "collected_at": "2026-06-29T11:33:03Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 0,
-        "upvotes": 1
-      }
-    },
-    {
-      "id": "71a9dd339926ce410e681bf37831bae5",
-      "title": "LLM Medical Triage: Same Symptoms, Gender-Dependent Urgency",
-      "url": "https://arxiv.org/abs/2606.03641",
-      "source": "hackernews",
-      "source_author": "p4bl0",
-      "topics": [],
-      "score": 5.5,
-      "score_reason": "Gender-dependent urgency in medical triage leverages AI for healthcare; however, it's somewhat niche.",
-      "posted": false,
-      "collected_at": "2026-06-29T11:33:05Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 0,
-        "upvotes": 1
-      }
-    },
-    {
-      "id": "ff724c30dbf0e15ec58bf03980882234",
-      "title": "Anthropomorphic Misalignment research needs stronger evidence",
-      "url": "https://www.lesswrong.com/posts/bJcR3yP2avGFuMxyq/anthropomorphic-misalignment-research-needs-stronger-1",
-      "source": "hackernews",
-      "source_author": "joozio",
-      "topics": [],
-      "score": 5.5,
-      "score_reason": "Research discussions are crucial but may not attract high developer interest.",
-      "posted": false,
-      "collected_at": "2026-06-29T11:33:02Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 0,
-        "upvotes": 1
-      }
-    },
-    {
-      "id": "4e961f1deb8a0e5766db823e9869910e",
-      "title": "Top Must-Have Chrome Extensions for Developers in 2026",
-      "url": "https://old.reddit.com/r/AgentContext_dev/comments/1uio3vy/top_10_musthave_chrome_extensions_for_developers/",
-      "source": "hackernews",
-      "source_author": "javaeeeee",
-      "topics": [],
-      "score": 5.5,
-      "score_reason": "Reviewing Chrome extensions for developers is moderately impactful, though not highly novel.",
-      "posted": false,
-      "collected_at": "2026-06-29T11:33:03Z",
+      "collected_at": "2026-06-29T16:25:23Z",
       "engagement": {
         "comments": 2,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
         "stars": 0,
-        "upvotes": 2
+        "upvotes": 4
       }
     },
     {
-      "id": "e792aac6a1a92fd224f52195c194ae5a",
-      "title": "SpecManager – a full agile team for founders, as a Claude Code plugin",
-      "url": "https://github.com/joanseg/specmanager",
+      "id": "54212c398351c6b1537e3934d036c4b6",
+      "title": "AiCompiler – a language where the LLM is the CPU",
+      "url": "https://aicompiler.dev",
       "source": "hackernews",
-      "source_author": "joansg",
+      "source_author": "srobbani",
       "topics": [],
-      "score": 5.5,
-      "score_reason": "Integrating agile tools with AI is relevant but appears derivative.",
+      "score": 7,
+      "score_reason": "Interesting concept of using LLMs as CPUs, could influence future programming paradigms.",
       "posted": false,
-      "collected_at": "2026-06-29T11:33:01Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 0,
-        "upvotes": 1
-      }
-    },
-    {
-      "id": "1ba6c9a1ce1317c9e7503e133cfd8497",
-      "title": "My Mac timeline app got MCP. Cron to vector DB was the real use",
-      "url": "https://sidefyapp.com/blog/mcp-automation-beyond-chat-2026-06-27/",
-      "source": "hackernews",
-      "source_author": "sha2kyou",
-      "topics": [],
-      "score": 5,
-      "score_reason": "Automation insights are timely, but engagement is minimal.",
-      "posted": false,
-      "collected_at": "2026-06-29T11:33:03Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 0,
-        "upvotes": 1
-      }
-    },
-    {
-      "id": "b97c14fc826ff49e7b6f70d8361a33e1",
-      "title": "Show HN: OpenLyfta, a FOSS workout data collection service for the Lyfta app",
-      "url": "https://github.com/kivirnz/OpenLyfta",
-      "source": "hackernews",
-      "source_author": "kivir",
-      "topics": [],
-      "score": 5,
-      "score_reason": "While useful, a workout data collection service has limited broad applicability in developer tools.",
-      "posted": false,
-      "collected_at": "2026-06-29T11:33:03Z",
-      "engagement": {
-        "comments": 1,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 0,
-        "upvotes": 1
-      }
-    },
-    {
-      "id": "4304fdcd30d2e5d24f0bd04dac8f9c4d",
-      "title": "Show HN: Claude Code plugin to draw feedback and send it back into the session",
-      "url": "https://github.com/tomreinert/claude-annotate",
-      "source": "hackernews",
-      "source_author": "tom2948329494",
-      "topics": [],
-      "score": 5,
-      "score_reason": "Feedback mechanisms for AI coding plugins are useful but not groundbreaking.",
-      "posted": false,
-      "collected_at": "2026-06-29T11:33:01Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 0,
-        "upvotes": 1
-      }
-    },
-    {
-      "id": "3e4401d3f48921a7fce1b63d3c42e185",
-      "title": "MageByte-Zero/spec-superflow",
-      "url": "https://github.com/MageByte-Zero/spec-superflow",
-      "source": "github",
-      "source_author": "MageByte-Zero",
-      "topics": [],
-      "score": 5,
-      "score_reason": "Moderate star count but lacks broader relevance or novelty.",
-      "posted": false,
-      "collected_at": "2026-06-29T11:33:24Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 39,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "5b7afb9809f360ca7010b78ce4dccaf4",
-      "title": "Vibe-Trading: Your Personal Trading Agent",
-      "url": "https://github.com/HKUDS/Vibe-Trading",
-      "source": "hackernews",
-      "source_author": "grajmanu",
-      "topics": [],
-      "score": 5,
-      "score_reason": "unscored",
-      "posted": false,
-      "collected_at": "2026-06-29T11:33:03Z",
+      "collected_at": "2026-06-29T16:25:22Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
@@ -622,696 +202,16 @@
       }
     },
     {
-      "id": "35c996bdd1e8514b1e31b2cb649abc78",
-      "title": "alvis-HaoH/gkd",
-      "url": "https://github.com/alvis-HaoH/gkd",
-      "source": "github",
-      "source_author": "alvis-HaoH",
-      "topics": [],
-      "score": 5,
-      "score_reason": "unscored",
-      "posted": false,
-      "collected_at": "2026-06-29T11:33:15Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 5,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "0529596443ff4b75279e19fafc68deee",
-      "title": "Show HN: An open source benchmark for prompt-injection detectors",
-      "url": "https://github.com/bastion-soft/pi-detector-bench",
+      "id": "2e9a89f36db3d4fe7b280972b16d4dc1",
+      "title": "AMD Linux Patches Introduce New \"Low Power\" CPU Core Type",
+      "url": "https://www.phoronix.com/news/AMD-Low-Power-CPU-Core-Linux",
       "source": "hackernews",
-      "source_author": "gugit",
+      "source_author": "LorenDB",
       "topics": [],
-      "score": 4.5,
-      "score_reason": "Open-source prompt-injection benchmark is relevant but offers a narrow focus.",
+      "score": 7,
+      "score_reason": "New CPU core type can impact performance optimizations for Linux developers.",
       "posted": false,
-      "collected_at": "2026-06-29T11:33:03Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 0,
-        "upvotes": 1
-      }
-    },
-    {
-      "id": "31a523c9e788143ff9a1da86481dd882",
-      "title": "Is the Age of Anthropic and OpenAI Over",
-      "url": "https://aifuture.org/news/china-s-z-ai-claims-it-can-match-mythos-on-cybersecurity-2165",
-      "source": "hackernews",
-      "source_author": "humanvsmachine",
-      "topics": [],
-      "score": 4.5,
-      "score_reason": "Speculative articles don't provide actionable insights for developers.",
-      "posted": false,
-      "collected_at": "2026-06-29T11:33:02Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 0,
-        "upvotes": 1
-      }
-    },
-    {
-      "id": "ce986eb46afd386e02027b205fe76713",
-      "title": "The People Who Will Thrive in the AI Age",
-      "url": "https://www.theatlantic.com/ideas/2026/06/ai-open-ai-anthropic/687689/",
-      "source": "hackernews",
-      "source_author": "cplan",
-      "topics": [],
-      "score": 4.5,
-      "score_reason": "Broader societal implications but less direct relevance to technical audience.",
-      "posted": false,
-      "collected_at": "2026-06-29T11:33:02Z",
-      "engagement": {
-        "comments": 2,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 0,
-        "upvotes": 1
-      }
-    },
-    {
-      "id": "1645ebc02aaa1fc6a28cdcb9731022d0",
-      "title": "Empero-AI/Qwythos-9B-Claude-Mythos-5-1M",
-      "url": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M",
-      "source": "hackernews",
-      "source_author": "vednig",
-      "topics": [],
-      "score": 4,
-      "score_reason": "While related to AI, it lacks distinct novelty or engagement.",
-      "posted": false,
-      "collected_at": "2026-06-29T11:33:01Z",
-      "engagement": {
-        "comments": 1,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 0,
-        "upvotes": 3
-      }
-    },
-    {
-      "id": "f954f093a39fa590b6e3dca1bb49a641",
-      "title": "Show HN: Closedtab: a shared record for human-agent teams",
-      "url": "https://www.npmjs.com/package/closedtab",
-      "source": "hackernews",
-      "source_author": "omnivore",
-      "topics": [],
-      "score": 4,
-      "score_reason": "A shared record for human-agent teams might be useful, but lacks broader implication.",
-      "posted": false,
-      "collected_at": "2026-06-29T11:33:03Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 0,
-        "upvotes": 1
-      }
-    },
-    {
-      "id": "f9e30959320c96790c1e38e41a531da4",
-      "title": "GitHub Copilot – 5 years ago today (2021)",
-      "url": "https://github.blog/news-insights/product-news/introducing-github-copilot-ai-pair-programmer/",
-      "source": "hackernews",
-      "source_author": "petercooper",
-      "topics": [],
-      "score": 4,
-      "score_reason": "Retrospectives on AI tools provide context but less immediate relevance.",
-      "posted": false,
-      "collected_at": "2026-06-29T11:33:03Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 0,
-        "upvotes": 2
-      }
-    },
-    {
-      "id": "5549cb1ad26d1c34143e320786e1cd5c",
-      "title": "InnerRipple, on device health scoring against your own Apple Watch baseline",
-      "url": "https://apps.apple.com/us/app/innerripple-know-your-health/id6774995186",
-      "source": "hackernews",
-      "source_author": "stillraft",
-      "topics": [],
-      "score": 4,
-      "score_reason": "Health apps are common, and this one lacks unique innovation.",
-      "posted": false,
-      "collected_at": "2026-06-29T11:33:05Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 0,
-        "upvotes": 1
-      }
-    },
-    {
-      "id": "18ee0dbf06fb0eeb27aa61c27b5a5802",
-      "title": "Mininglamp-OSS/octo-skills",
-      "url": "https://github.com/Mininglamp-OSS/octo-skills",
-      "source": "github",
-      "source_author": "Mininglamp-OSS",
-      "topics": [],
-      "score": 4,
-      "score_reason": "Very few stars and engagement indicate limited impact.",
-      "posted": false,
-      "collected_at": "2026-06-29T11:33:23Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 5,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "d88947827dd4bc66af6f2686e1afa0bf",
-      "title": "SimpleX: A messaging platform with no user identifiers",
-      "url": "https://github.com/simplex-chat/simplex-chat",
-      "source": "hackernews",
-      "source_author": "mpfect",
-      "topics": [],
-      "score": 4,
-      "score_reason": "Simple messaging platforms are commonplace; lacks unique features to draw interest.",
-      "posted": false,
-      "collected_at": "2026-06-29T11:33:04Z",
-      "engagement": {
-        "comments": 1,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 0,
-        "upvotes": 3
-      }
-    },
-    {
-      "id": "135cc632d7acc4987c43466c52787545",
-      "title": "Context engineering for analytics agents: six months of building and rebuilding",
-      "url": "https://blog.getcassis.com/context-engineering-for-analytics-agents/",
-      "source": "hackernews",
-      "source_author": "matthieu_bl",
-      "topics": [],
-      "score": 3.5,
-      "score_reason": "While context engineering is interesting, this may be too niche for many developers.",
-      "posted": false,
-      "collected_at": "2026-06-29T11:33:03Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 0,
-        "upvotes": 1
-      }
-    },
-    {
-      "id": "cb8aba345d00a422b19014b79356dca6",
-      "title": "Show HN: Bbl – a command line Bible to read and search, 26 langauges, offline",
-      "url": "https://github.com/nehemiaharchives/bbl",
-      "source": "hackernews",
-      "source_author": "hokuto-joel-ide",
-      "topics": [],
-      "score": 3.5,
-      "score_reason": "Command line tools are niche and lacking significant impact.",
-      "posted": false,
-      "collected_at": "2026-06-29T11:33:03Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 0,
-        "upvotes": 1
-      }
-    },
-    {
-      "id": "6037ede0c0fa119a2c5c711ac39f244f",
-      "title": "Exploring BPF LSM support on aarch64 with ftrace",
-      "url": "https://www.exein.io/blog/exploring-bpf-lsm-support-on-aarch64-with-ftrace",
-      "source": "hackernews",
-      "source_author": "ankitg12",
-      "topics": [],
-      "score": 3.5,
-      "score_reason": "While it explores BPF LSM support, the engagement is very low which suggests limited interest.",
-      "posted": false,
-      "collected_at": "2026-06-29T11:33:05Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 0,
-        "upvotes": 1
-      }
-    },
-    {
-      "id": "5240c22456970c37a88fb96647ac85c9",
-      "title": "xuanxuan321/xuanxuan-prompts",
-      "url": "https://github.com/xuanxuan321/xuanxuan-prompts",
-      "source": "github",
-      "source_author": "xuanxuan321",
-      "topics": [],
-      "score": 3,
-      "score_reason": "Basic prompt collection; common among devs but lacks standout features.",
-      "posted": false,
-      "collected_at": "2026-06-29T11:33:15Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 17,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "a666bca477796840feaa7faa94709539",
-      "title": "Show HN: SindriKit – A C framework applying DI to Windows internals",
-      "url": "https://github.com/youssefnoob003/SindriKit",
-      "source": "hackernews",
-      "source_author": "sibouzitoun",
-      "topics": [],
-      "score": 3,
-      "score_reason": "The C framework for Windows internals has niche appeal with limited reach.",
-      "posted": false,
-      "collected_at": "2026-06-29T11:33:03Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 0,
-        "upvotes": 1
-      }
-    },
-    {
-      "id": "742b7a7b65f6014f461d95c038d05615",
-      "title": "KeshavCracks/VibeTrading",
-      "url": "https://github.com/KeshavCracks/VibeTrading",
-      "source": "github",
-      "source_author": "KeshavCracks",
-      "topics": [],
-      "score": 3,
-      "score_reason": "Low engagement with no significant novel content.",
-      "posted": false,
-      "collected_at": "2026-06-29T11:33:19Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 2,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "736b43e759d3a757f933158d9982ded6",
-      "title": "atinpothiraj/pqsg",
-      "url": "https://github.com/atinpothiraj/pqsg",
-      "source": "github",
-      "source_author": "atinpothiraj",
-      "topics": [],
-      "score": 3,
-      "score_reason": "No engagement and minimal star count indicate limited interest.",
-      "posted": false,
-      "collected_at": "2026-06-29T11:33:16Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 2,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "3c9900a6b868d344d8be31031d870c26",
-      "title": "tonyd2wild/DeepSeek-v4-Flash-DSpark-1M-NVFP4-KV-2x-DGX-Spark",
-      "url": "https://github.com/tonyd2wild/DeepSeek-v4-Flash-DSpark-1M-NVFP4-KV-2x-DGX-Spark",
-      "source": "github",
-      "source_author": "tonyd2wild",
-      "topics": [],
-      "score": 3,
-      "score_reason": "Github repo lacks context for a broader audience, limiting engagement potential.",
-      "posted": false,
-      "collected_at": "2026-06-29T11:33:13Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 16,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "1ff99dc75cac436236b9f62308c5b531",
-      "title": "Turning Strava data and gym photos into a training recap with my coding agent",
-      "url": "https://www.akashtandon.in/ai/2026-06-29-strava-photos-training-recap-coding-agent/",
-      "source": "hackernews",
-      "source_author": "akashtndn",
-      "topics": [],
-      "score": 3,
-      "score_reason": "A personal training recap coding agent does not significantly impact developer workflows.",
-      "posted": false,
-      "collected_at": "2026-06-29T11:33:03Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 0,
-        "upvotes": 1
-      }
-    },
-    {
-      "id": "f6887a53b9bd12ca1e3868a85d8584a8",
-      "title": "Trump may be mystery patient in case of 79yo getting experimental obesity drug",
-      "url": "https://arstechnica.com/health/2026/06/trump-may-be-mystery-patient-in-odd-case-of-79yo-getting-experimental-obesity-drug/",
-      "source": "hackernews",
-      "source_author": "rbanffy",
-      "topics": [],
-      "score": 3,
-      "score_reason": "Health-related news has limited relevance for a tech-focused audience.",
-      "posted": false,
-      "collected_at": "2026-06-29T11:33:03Z",
-      "engagement": {
-        "comments": 1,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 0,
-        "upvotes": 1
-      }
-    },
-    {
-      "id": "b763c0bc2498dc0a1680153b58a12456",
-      "title": "Opening of a trial for planned obsolescence against Epson: a historic first step",
-      "url": "https://repair.eu/news/lawsuit-against-epson/",
-      "source": "hackernews",
-      "source_author": "precommunicator",
-      "topics": [],
-      "score": 3,
-      "score_reason": "Legal issues in tech are less engaging for developers focused on practical tools.",
-      "posted": false,
-      "collected_at": "2026-06-29T11:33:03Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 0,
-        "upvotes": 1
-      }
-    },
-    {
-      "id": "a72847a0bb3a5e6ee6a23bcffcfe5b54",
-      "title": "XCP-ng: A sovereign alterbative to VMware",
-      "url": "https://xcp-ng.org/",
-      "source": "hackernews",
-      "source_author": "benterix",
-      "topics": [],
-      "score": 2.5,
-      "score_reason": "While it offers an alternative to VMware, the impact is limited and competitive.",
-      "posted": false,
-      "collected_at": "2026-06-29T11:33:04Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 0,
-        "upvotes": 2
-      }
-    },
-    {
-      "id": "d90084b556e4a3014f7bb457893be504",
-      "title": "Show HN: Bare-metal RTOS(TamgaOs) for Cortex-M4, written in C and ARM assembly",
-      "url": "https://github.com/hrasityilmaz/TamgaOs",
-      "source": "hackernews",
-      "source_author": "hrasity",
-      "topics": [],
-      "score": 2.5,
-      "score_reason": "Bare-metal RTOS targeting a specific platform is of limited interest to a wider developer audience.",
-      "posted": false,
-      "collected_at": "2026-06-29T11:33:03Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 0,
-        "upvotes": 1
-      }
-    },
-    {
-      "id": "c1ff8c86946d331372d0ee69b34622ba",
-      "title": "Create sandboxed rich-text telegram agents with a single config file",
-      "url": "https://github.com/montyanderson/007",
-      "source": "hackernews",
-      "source_author": "montyanderson",
-      "topics": [],
-      "score": 2,
-      "score_reason": "Sandboxed rich-text agents may be interesting but lacks impact on development processes.",
-      "posted": false,
-      "collected_at": "2026-06-29T11:33:03Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 0,
-        "upvotes": 2
-      }
-    },
-    {
-      "id": "b1c7c5533d14f6c1c0efff98d902ac27",
-      "title": "Show HN: Shacam for macOS – Screen sharing you can touch",
-      "url": "https://shacam.com",
-      "source": "hackernews",
-      "source_author": "renatoworks",
-      "topics": [],
-      "score": 2,
-      "score_reason": "Basic functionality of screen sharing lacks innovation, unlikely to captivate developers.",
-      "posted": false,
-      "collected_at": "2026-06-29T11:33:05Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 0,
-        "upvotes": 1
-      }
-    },
-    {
-      "id": "ed0bfb6dcec74ebd794621713690d8ef",
-      "title": "A Governance Layer for Agent‑Native Windows RTX PCs (Spark Governance SDK)",
-      "url": "https://github.com/Dario-Chang/Spark-Governance-SDK",
-      "source": "hackernews",
-      "source_author": "Clickhistrory",
-      "topics": [],
-      "score": 2,
-      "score_reason": "A governance layer for Windows RTX PCs may only appeal to a specific user group.",
-      "posted": false,
-      "collected_at": "2026-06-29T11:33:03Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 0,
-        "upvotes": 1
-      }
-    },
-    {
-      "id": "38b570e072d8d7b9b015b4dbf475d313",
-      "title": "CPJ undertakes review of documentation of journalists killed in Israel-Gaza war",
-      "url": "https://cpj.org/2026/06/cpj-undertakes-review-of-its-documentation-of-journalists-killed-in-israel-gaza-war-since-2023/",
-      "source": "hackernews",
-      "source_author": "EvgeniyZh",
-      "topics": [],
-      "score": 2,
-      "score_reason": "The topic is important but does not directly impact developers or tech tools.",
-      "posted": false,
-      "collected_at": "2026-06-29T11:33:04Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 0,
-        "upvotes": 2
-      }
-    },
-    {
-      "id": "9b42be4faf849d81563da44199999bd2",
-      "title": "Map your project into a knowledge graph",
-      "url": "https://github.com/safishamsi/graphify",
-      "source": "hackernews",
-      "source_author": "mdrzn",
-      "topics": [],
-      "score": 2,
-      "score_reason": "Mapping projects into a knowledge graph is a familiar concept with little new insight.",
-      "posted": false,
-      "collected_at": "2026-06-29T11:33:03Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 0,
-        "upvotes": 1
-      }
-    },
-    {
-      "id": "65623c3a2791079a2c50f071ca27a1db",
-      "title": "How to pick the AI agents worth building",
-      "url": "https://www.theaithinker.com/p/how-to-pick-the-ai-agents-worth-building",
-      "source": "hackernews",
-      "source_author": "adamfaik",
-      "topics": [],
-      "score": 2,
-      "score_reason": "General advice for building AI agents is not novel and may not engage many.",
-      "posted": false,
-      "collected_at": "2026-06-29T11:33:03Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 0,
-        "upvotes": 1
-      }
-    },
-    {
-      "id": "4de9acf8368657bf96d3de6a7ab17590",
-      "title": "SPOTWHALE/jean-dockerized",
-      "url": "https://github.com/SPOTWHALE/jean-dockerized",
-      "source": "github",
-      "source_author": "SPOTWHALE",
-      "topics": [],
-      "score": 2,
-      "score_reason": "Minimal engagement and star count indicate low relevance.",
-      "posted": false,
-      "collected_at": "2026-06-29T11:33:26Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 3,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "674c09cac9afbc95a67bba08e203c620",
-      "title": "Show HN: VibeRaven – Production workflows for AI coding agents",
-      "url": "https://github.com/ohad6k/VibeRaven",
-      "source": "hackernews",
-      "source_author": "ohadkr",
-      "topics": [],
-      "score": 2,
-      "score_reason": "Production workflows for AI coding agents is relevant but lacks unique insights.",
-      "posted": false,
-      "collected_at": "2026-06-29T11:33:03Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 0,
-        "upvotes": 2
-      }
-    },
-    {
-      "id": "7758c1dd1baae5283d9f76791aa10a0d",
-      "title": "DeepSeek v4 Releasing Mid July",
-      "url": "https://files.catbox.moe/0j57v9.png",
-      "source": "hackernews",
-      "source_author": "RIshabh235",
-      "topics": [],
-      "score": 1.5,
-      "score_reason": "A minor update that lacks broader significance or appeal.",
-      "posted": false,
-      "collected_at": "2026-06-29T11:33:03Z",
-      "engagement": {
-        "comments": 3,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 0,
-        "upvotes": 1
-      }
-    },
-    {
-      "id": "242057e8e95ce9e586a3b349cc327f2b",
-      "title": "Sandia National Labs SA3000 8085 CPU",
-      "url": "https://www.cpushack.com/2026/06/03/sandia-national-labs-sa3000-8085-cpu/",
-      "source": "hackernews",
-      "source_author": "rbanffy",
-      "topics": [],
-      "score": 1,
-      "score_reason": "An outdated CPU discussion that is unlikely to resonate with a modern developer audience.",
-      "posted": false,
-      "collected_at": "2026-06-29T11:33:04Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 0,
-        "upvotes": 2
-      }
-    },
-    {
-      "id": "671235f0f3d00c2bd823b143be192387",
-      "title": "Sunrich-HT/figure-extractor",
-      "url": "https://github.com/Sunrich-HT/figure-extractor",
-      "source": "github",
-      "source_author": "Sunrich-HT",
-      "topics": [],
-      "score": 1,
-      "score_reason": "Minimal relevance to current developer needs or trends.",
-      "posted": false,
-      "collected_at": "2026-06-29T11:33:15Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 2,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "13d76ee1afe531834226f40ee46ab5c8",
-      "title": "Integrity on Embedded Linux Devices Under the Cyber Resilience Act",
-      "url": "https://sigma-star.at/blog/2026/06/integrity-on-embedded-linux-devices-under-the-cyber-resilience-act/",
-      "source": "hackernews",
-      "source_author": "Deeg9rie9usi",
-      "topics": [],
-      "score": 1,
-      "score_reason": "While relevant to security, it doesn't offer new insights or tools for developers.",
-      "posted": false,
-      "collected_at": "2026-06-29T11:33:05Z",
+      "collected_at": "2026-06-29T16:25:22Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
@@ -1322,16 +222,1156 @@
       }
     },
     {
-      "id": "a790379723a3aba04841617214924308",
-      "title": "DeepSeek V4 Peak Valley Pricing Change",
-      "url": "https://www.kucoin.com/news/flash/deepseek-v4-launches-in-mid-july-with-peak-valley-pricing",
+      "id": "6f8f1f57a9a73fe251915992b48c2b4f",
+      "title": "An agent opened this pull request. Nobody asked it to",
+      "url": "https://www.marcoziccardi.com/blog/ai-agents-open-pr-autonomously",
       "source": "hackernews",
-      "source_author": "lmartineng",
+      "source_author": "marcoziccardi",
+      "topics": [],
+      "score": 7,
+      "score_reason": "Exploring AI agents autonomously opening PRs highlights emerging developer automation trends.",
+      "posted": false,
+      "collected_at": "2026-06-29T16:25:20Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 1
+      }
+    },
+    {
+      "id": "87c2b418993ec9725dfb7b69dc8a25ad",
+      "title": "Argus for Claude Code: run repetitive AI workflows with 80% fewer tokens",
+      "url": "https://github.com/botcircuits-ai/botcircuits-argus",
+      "source": "hackernews",
+      "source_author": "nexcatara",
+      "topics": [],
+      "score": 7,
+      "score_reason": "Streamlines AI workflows, potentially improving efficiency for developers but lacking major novelty.",
+      "posted": false,
+      "collected_at": "2026-06-29T16:25:19Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 1
+      }
+    },
+    {
+      "id": "d83b0fe1df803dc711b815a0edc136a3",
+      "title": "Using Aspect-Oriented Programming to Record DRL Agents' Data",
+      "url": "https://blog.ptidej.net/using-aspect-oriented-programming-to-record-drl-agents-data/",
+      "source": "hackernews",
+      "source_author": "luca-sctr",
+      "topics": [],
+      "score": 6.5,
+      "score_reason": "Applying aspect-oriented programming to record agent data can improve the analysis of AI performance.",
+      "posted": false,
+      "collected_at": "2026-06-29T16:25:20Z",
+      "engagement": {
+        "comments": 1,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 2
+      }
+    },
+    {
+      "id": "bc5dbb4b111ace6aa329d2709059e66e",
+      "title": "Browser CLI for Agents",
+      "url": "https://github.com/detrin/brow",
+      "source": "hackernews",
+      "source_author": "kekqqq",
+      "topics": [],
+      "score": 6.5,
+      "score_reason": "A CLI for agents may enhance developer workflows but lacks widespread appeal.",
+      "posted": false,
+      "collected_at": "2026-06-29T16:25:20Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 3
+      }
+    },
+    {
+      "id": "2e13c2870ce7e4e01e3fe7c604b57af4",
+      "title": "UGC Agent – Run AI agents that find UGC creators",
+      "url": "https://ugcagent.app/",
+      "source": "hackernews",
+      "source_author": "vicpitic",
+      "topics": [],
+      "score": 6,
+      "score_reason": "Novel concept but limited engagement suggests a niche appeal.",
+      "posted": false,
+      "collected_at": "2026-06-29T16:25:23Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 1
+      }
+    },
+    {
+      "id": "7711a2932a9a68dd97335de2f8323d1d",
+      "title": "Gen Z's AI problem isn't about AI",
+      "url": "https://www.computerworld.com/article/4189645/why-spacex-is-the-mcdonalds-of-ai.html",
+      "source": "hackernews",
+      "source_author": "mikelgan",
+      "topics": [],
+      "score": 6,
+      "score_reason": "Discusses AI implications on Gen Z, relevant but more sociocultural than technical.",
+      "posted": false,
+      "collected_at": "2026-06-29T16:25:22Z",
+      "engagement": {
+        "comments": 1,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 3
+      }
+    },
+    {
+      "id": "84d0d832d717442ded96d6501afcbef5",
+      "title": "Vibe Coding to Agentic Engineering: A Three-Phase Workflow with Claude Code",
+      "url": "https://www.apimatic.io/blog/agentic-engineering-claude-code",
+      "source": "hackernews",
+      "source_author": "m3h",
+      "topics": [],
+      "score": 6,
+      "score_reason": "Discusses workflows with Claude Code, somewhat relevant but limited novelty.",
+      "posted": false,
+      "collected_at": "2026-06-29T16:25:19Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 2
+      }
+    },
+    {
+      "id": "1cdeaa61e475ff54b505559d740b30cd",
+      "title": "A reliable unprivileged container jail escape proof of concept for CentOs/RHEL",
+      "url": "https://github.com/sgkdev/ipv6_frag_escape",
+      "source": "hackernews",
+      "source_author": "eyberg",
+      "topics": [],
+      "score": 6,
+      "score_reason": "Container security is crucial; this proof of concept addresses a specific risk.",
+      "posted": false,
+      "collected_at": "2026-06-29T16:25:20Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 2
+      }
+    },
+    {
+      "id": "c7e18e78b206ef35dd8b8d022eae86f2",
+      "title": "OpenAI, Anthropic new AI spending reality as users shift to efficiency",
+      "url": "https://www.cnbc.com/2026/06/26/openai-anthropic-new-ai-spending-reality-as-users-shift-to-efficiency.html",
+      "source": "hackernews",
+      "source_author": "pkaeding",
+      "topics": [],
+      "score": 5.5,
+      "score_reason": "Analyzes AI spending trends but lacks actionable insights for developers.",
+      "posted": false,
+      "collected_at": "2026-06-29T16:25:20Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 12
+      }
+    },
+    {
+      "id": "36d0c2c2c9d1585b33c95652b8c8ac92",
+      "title": "Infini – Audit your agent project for loop portability (0-100 score)",
+      "url": "https://github.com/NickAiNYC/infini",
+      "source": "hackernews",
+      "source_author": "alt313",
+      "topics": [],
+      "score": 5,
+      "score_reason": "unscored",
+      "posted": false,
+      "collected_at": "2026-06-29T16:25:20Z",
+      "engagement": {
+        "comments": 1,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 1
+      }
+    },
+    {
+      "id": "bff271d7f94ff2f714686e10211087d6",
+      "title": "Route Phone Calls to an AI Agent with the Telnyx Voice API",
+      "url": "https://telnyx.com/resources/route-phone-calls-ai-agent",
+      "source": "hackernews",
+      "source_author": "harpreetseehra",
+      "topics": [],
+      "score": 5,
+      "score_reason": "Integration of AI in voice routing is useful but not groundbreaking.",
+      "posted": false,
+      "collected_at": "2026-06-29T16:25:23Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 1
+      }
+    },
+    {
+      "id": "7f6692b491954b1b1bd4748e8b6aed83",
+      "title": "Christopher Alexander and the Inadequacy of Genius (2020)",
+      "url": "https://www.mdpi.com/2413-8851/4/2/17",
+      "source": "hackernews",
+      "source_author": "doright",
+      "topics": [],
+      "score": 5,
+      "score_reason": "unscored",
+      "posted": false,
+      "collected_at": "2026-06-29T16:25:21Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 2
+      }
+    },
+    {
+      "id": "e1494b1014ba524296abcd9e24b527a8",
+      "title": "Low-cost Chinese AI models like DeepSeek gain traction in the U.S.",
+      "url": "https://restofworld.org/2026/when-americans-choose-chinese-ai/",
+      "source": "hackernews",
+      "source_author": "speckx",
+      "topics": [],
+      "score": 5,
+      "score_reason": "While interesting, it focuses on market trends rather than direct developer tools.",
+      "posted": false,
+      "collected_at": "2026-06-29T16:25:20Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 1
+      }
+    },
+    {
+      "id": "86c1b729b643face86c888bbd7f42c6e",
+      "title": "Show HN: Cline subscription plan to access GLM-5.2 at 2-5x discount",
+      "url": "https://cline.bot/cline-pass",
+      "source": "hackernews",
+      "source_author": "sdrzn",
+      "topics": [],
+      "score": 5,
+      "score_reason": "Subscription model for access to a large model, somewhat pertinent but already a common model.",
+      "posted": false,
+      "collected_at": "2026-06-29T16:25:20Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 2
+      }
+    },
+    {
+      "id": "6aa8a6b2602ba6569ed358432544efaa",
+      "title": "Hotels cheat with AI-optimised images",
+      "url": "https://hospitalityinside.com/en/Hotels-cheat-with-AI-optimised-images",
+      "source": "hackernews",
+      "source_author": "bushwart",
+      "topics": [],
+      "score": 5,
+      "score_reason": "Using AI for image optimization presents interesting implications for content delivery.",
+      "posted": false,
+      "collected_at": "2026-06-29T16:25:20Z",
+      "engagement": {
+        "comments": 2,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 1
+      }
+    },
+    {
+      "id": "a3f552de6d04927adcda708d50864957",
+      "title": "Show HN: Add visualisations to your data MCP in a few lines of code",
+      "url": "https://github.com/bonnard-data/mcp-charts",
+      "source": "hackernews",
+      "source_author": "maxmealing",
+      "topics": [],
+      "score": 5,
+      "score_reason": "unscored",
+      "posted": false,
+      "collected_at": "2026-06-29T16:25:20Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 2
+      }
+    },
+    {
+      "id": "09015df8f547f48fa6d2c33547d9a131",
+      "title": "WSJ Article Claiming China Has Matched Anthropic Is Obvious Nonsense",
+      "url": "https://thezvi.substack.com/p/wsj-article-claiming-china-has-matched",
+      "source": "hackernews",
+      "source_author": "7777777phil",
+      "topics": [],
+      "score": 5,
+      "score_reason": "unscored",
+      "posted": false,
+      "collected_at": "2026-06-29T16:25:20Z",
+      "engagement": {
+        "comments": 2,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 5
+      }
+    },
+    {
+      "id": "8f8ab1bb1f4ebbeb4015e204834d72db",
+      "title": "Show HN: Certificate Transparency search that groups related certificates",
+      "url": "https://certobserver.com/ct-search",
+      "source": "hackernews",
+      "source_author": "rellem",
+      "topics": [],
+      "score": 4.5,
+      "score_reason": "Certificate transparency is niche, but security remains relevant to developers.",
+      "posted": false,
+      "collected_at": "2026-06-29T16:25:21Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 2
+      }
+    },
+    {
+      "id": "395dd821b5a2ce92061e8a66869cdad4",
+      "title": "Show HN: PDFx – a 2D canvas for multiple PDFs, stored inside a single PDF",
+      "url": "https://github.com/alexandrosgounis/pdfx/",
+      "source": "hackernews",
+      "source_author": "gounisalex",
+      "topics": [],
+      "score": 4.5,
+      "score_reason": "Provides a functional tool but with limited engagement potential and novelty.",
+      "posted": false,
+      "collected_at": "2026-06-29T16:25:20Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 1
+      }
+    },
+    {
+      "id": "a291cdbc6a369b4378aa9e8e035e71f1",
+      "title": "Everything in Git? No Way",
+      "url": "https://legoraft.com/posts/everything-git-no-way/",
+      "source": "hackernews",
+      "source_author": "speckx",
+      "topics": [],
+      "score": 4,
+      "score_reason": "A critique of Git management may resonate, but lacks direct impact on developer tools.",
+      "posted": false,
+      "collected_at": "2026-06-29T16:25:20Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 2
+      }
+    },
+    {
+      "id": "c40012a4973d71407225f2a6ae597365",
+      "title": "haiou-666/haiou2.0-Claude-Code-",
+      "url": "https://github.com/haiou-666/haiou2.0-Claude-Code-",
+      "source": "github",
+      "source_author": "haiou-666",
+      "topics": [],
+      "score": 4,
+      "score_reason": "Lacks clear application or utility for developers despite decent stars.",
+      "posted": false,
+      "collected_at": "2026-06-29T16:25:24Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 81,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "61dd955f7fee757b269374b38db74882",
+      "title": "Show HN: bbl – a command line Bible to read and search, 26 languages, offline",
+      "url": "https://github.com/nehemiaharchives/bbl",
+      "source": "hackernews",
+      "source_author": "hokuto-joel-ide",
+      "topics": [],
+      "score": 4,
+      "score_reason": "Bible search tool is creative but lacks specific appeal for developers.",
+      "posted": false,
+      "collected_at": "2026-06-29T16:25:21Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 2
+      }
+    },
+    {
+      "id": "e7129d17ca176726166345c3539ab52e",
+      "title": "I built an anime-style UI for watching AI coding agents review each other's code",
+      "url": "https://old.reddit.com/r/codex/comments/1uit86f/i_built_an_animestyle_ui_for_watching_ai_coding/",
+      "source": "hackernews",
+      "source_author": "syumei",
+      "topics": [],
+      "score": 4,
+      "score_reason": "While interesting, the UI for AI coding agents is niche and lacks broader utility.",
+      "posted": false,
+      "collected_at": "2026-06-29T16:25:20Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 3
+      }
+    },
+    {
+      "id": "ea4cf43f75e7fe24c4d66d201d22c9e1",
+      "title": "A New Gaming GPU Challenger: Bolt Graphics Takes Aim at Nvidia [video]",
+      "url": "https://www.youtube.com/watch?v=-fZM9wOvbh0",
+      "source": "hackernews",
+      "source_author": "scns",
+      "topics": [],
+      "score": 4,
+      "score_reason": "Focuses on gaming hardware, which is less relevant to the core developer audience.",
+      "posted": false,
+      "collected_at": "2026-06-29T16:25:20Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 2
+      }
+    },
+    {
+      "id": "f35cc7cbc9088ba6c66101b375da9f82",
+      "title": "Show HN: Timefeed – Auto sync public events to your calendar",
+      "url": "https://timefeed.ai",
+      "source": "hackernews",
+      "source_author": "aaadult",
+      "topics": [],
+      "score": 3.5,
+      "score_reason": "Automation of event sync could ease scheduling for developers, but isn't groundbreaking.",
+      "posted": false,
+      "collected_at": "2026-06-29T16:25:20Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 1
+      }
+    },
+    {
+      "id": "afd9671caab6ee0fade1eb7e606cee45",
+      "title": "Caret – open-source IDE where your design canvas and code editor are the same",
+      "url": "https://github.com/precious112/caret-ide",
+      "source": "hackernews",
+      "source_author": "PreciousH",
+      "topics": [],
+      "score": 3.5,
+      "score_reason": "New IDE concept presented but lacks engagement and groundbreaking features.",
+      "posted": false,
+      "collected_at": "2026-06-29T16:25:20Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 1
+      }
+    },
+    {
+      "id": "5e399a2b7fe1ad36f564dcce9a823044",
+      "title": "Show HN: YouTube to MP3 Converter – Free in the Browser",
+      "url": "https://chromewebstore.google.com/detail/youtube-to-mp3-converter/kgfdacnkkopabjkldcngegljjnelgcgk",
+      "source": "hackernews",
+      "source_author": "yazanbaker",
+      "topics": [],
+      "score": 3.5,
+      "score_reason": "YouTube converter is a common tool and lacks novel features.",
+      "posted": false,
+      "collected_at": "2026-06-29T16:25:21Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 1
+      }
+    },
+    {
+      "id": "6a65185925db450c167ac8dc4810d9be",
+      "title": "tonyd2wild/DeepSeek-v4-Flash-DSpark-60-tok-s-900K-ctx-2x-DGX-Spark",
+      "url": "https://github.com/tonyd2wild/DeepSeek-v4-Flash-DSpark-60-tok-s-900K-ctx-2x-DGX-Spark",
+      "source": "github",
+      "source_author": "tonyd2wild",
+      "topics": [],
+      "score": 3.5,
+      "score_reason": "Limited context and engagement make it less relevant.",
+      "posted": false,
+      "collected_at": "2026-06-29T16:25:31Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 14,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "c2ba2270a6daad1366dea90571ca1bee",
+      "title": "Truckloads of Tesla Batteries Keep Getting Stolen Before They Leave the Factory",
+      "url": "https://www.wired.com/story/truckloads-of-tesla-batteries-keep-getting-stolen-before-they-even-leave-the-factory/",
+      "source": "hackernews",
+      "source_author": "WalterGR",
+      "topics": [],
+      "score": 3,
+      "score_reason": "The story lacks technical relevance to the development community.",
+      "posted": false,
+      "collected_at": "2026-06-29T16:25:20Z",
+      "engagement": {
+        "comments": 1,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 3
+      }
+    },
+    {
+      "id": "bb9ea4b66fbd087b98a3b64b7bddbbb9",
+      "title": "Time to Power",
+      "url": "https://cloudedjudgement.substack.com/p/clouded-judgement-62626-time-to-power",
+      "source": "hackernews",
+      "source_author": "mooreds",
+      "topics": [],
+      "score": 3,
+      "score_reason": "Minimal relevance to AI or development, more of a commentary.",
+      "posted": false,
+      "collected_at": "2026-06-29T16:25:19Z",
+      "engagement": {
+        "comments": 1,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 2
+      }
+    },
+    {
+      "id": "1544df054c3fedaf8b7b1600e0353956",
+      "title": "lycorp-jp/sim-use",
+      "url": "https://github.com/lycorp-jp/sim-use",
+      "source": "github",
+      "source_author": "lycorp-jp",
+      "topics": [],
+      "score": 3,
+      "score_reason": "Some stars but overall obscurity makes it less impactful.",
+      "posted": false,
+      "collected_at": "2026-06-29T16:25:50Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 176,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "6934ee271bb23bc485455e77852ed7df",
+      "title": "Are you sure OneDrive has got your back(up)?",
+      "url": "https://www.mikeayles.com/blog/onedrive-backup-limit/",
+      "source": "hackernews",
+      "source_author": "mikeayles",
+      "topics": [],
+      "score": 3,
+      "score_reason": "Backup article is less focused on direct developer relevance.",
+      "posted": false,
+      "collected_at": "2026-06-29T16:25:21Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 3
+      }
+    },
+    {
+      "id": "2a7e4ee00f7db6d5038506f5c4f393bc",
+      "title": "Building AI Agents in Ruby with the Anthropic SDK",
+      "url": "https://nsinenko.com/rails/ai-agents/architecture/2026/06/09/building-ai-agents-ruby-anthropic-sdk/",
+      "source": "hackernews",
+      "source_author": "nikita-ruby",
+      "topics": [],
+      "score": 2.5,
+      "score_reason": "Technical exploration in Ruby, niche interest with low engagement.",
+      "posted": false,
+      "collected_at": "2026-06-29T16:25:20Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 1
+      }
+    },
+    {
+      "id": "0208c9d81668dca53da46d9b97b58f88",
+      "title": "zx33/zotero-cool-paper",
+      "url": "https://github.com/zx33/zotero-cool-paper",
+      "source": "github",
+      "source_author": "zx33",
+      "topics": [],
+      "score": 2.5,
+      "score_reason": "Low engagement and unclear utility for the developer audience.",
+      "posted": false,
+      "collected_at": "2026-06-29T16:25:34Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 2,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "d3e072648f0ea2c671b12be8463765f1",
+      "title": "Show HN: Ask the Grid: Query a live map of the Texas power grid",
+      "url": "https://askthegrid.com/ercot",
+      "source": "hackernews",
+      "source_author": "jameswlepage",
+      "topics": [],
+      "score": 2.5,
+      "score_reason": "Live power grid query tool is not particularly developer-focused.",
+      "posted": false,
+      "collected_at": "2026-06-29T16:25:22Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 1
+      }
+    },
+    {
+      "id": "7901dbb3a53eccb8e66f87e63d68db72",
+      "title": "I let an AI agent run my SEO site. It broke things. I published the bugs",
+      "url": "https://tokenmaxxing.com/how-this-site-runs-itself",
+      "source": "hackernews",
+      "source_author": "tremblinglemon",
+      "topics": [],
+      "score": 2,
+      "score_reason": "While interesting, the blog on AI sites breaking things lacks actionable insights for developers.",
+      "posted": false,
+      "collected_at": "2026-06-29T16:25:20Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 2
+      }
+    },
+    {
+      "id": "3cff5d7db4e7f1e288345f82073bb77f",
+      "title": "Silicon Valley Gets High on Its Own Supply",
+      "url": "https://monkeynoodle.org/2026/06/27/silicon-valley-gets-high-on-its-own-supply/",
+      "source": "hackernews",
+      "source_author": "mooreds",
+      "topics": [],
+      "score": 2,
+      "score_reason": "Not directly relevant to AI or developer tools; more of a societal commentary.",
+      "posted": false,
+      "collected_at": "2026-06-29T16:25:20Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 2
+      }
+    },
+    {
+      "id": "104675785fa4beb4be2bb706f877da5c",
+      "title": "CoreWeave ARIA: AI Research and Iteration Agent",
+      "url": "https://wandb.ai/wandb/aria/reports/Introducing-CoreWeave-ARIA-AI-Research-and-Iteration-Agent--VmlldzoxNzM1MzA4Mg",
+      "source": "hackernews",
+      "source_author": "OnlineInference",
+      "topics": [],
+      "score": 2,
+      "score_reason": "AI research agent introduction may be of interest, but lacks substance without application.",
+      "posted": false,
+      "collected_at": "2026-06-29T16:25:20Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 1
+      }
+    },
+    {
+      "id": "8358b5a914dcbd90b0aa5571f4b8576c",
+      "title": "AMD contributes their GPU support to tiny-vLLM",
+      "url": "https://github.com/jmaczan/tiny-vllm/pull/2",
+      "source": "hackernews",
+      "source_author": "yu3zhou4",
+      "topics": [],
+      "score": 2,
+      "score_reason": "Contribution of GPU support is technical, but lacking in engagement and novelty.",
+      "posted": false,
+      "collected_at": "2026-06-29T16:25:20Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 2
+      }
+    },
+    {
+      "id": "5e678c2b669beedef95cbd59a239db7f",
+      "title": "TCP Throughput Calculator",
+      "url": "https://network.switch.ch/pub/tools/tcp-throughput/",
+      "source": "hackernews",
+      "source_author": "mrngm",
+      "topics": [],
+      "score": 2,
+      "score_reason": "A simple TCP calculator, lacks innovation or direct developer use.",
+      "posted": false,
+      "collected_at": "2026-06-29T16:25:22Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 2
+      }
+    },
+    {
+      "id": "bb39903afa85d78132962537cbedacee",
+      "title": "Show HN: KaliCart – an agent-readable catalog for WooCommerce (no API key)",
+      "url": "https://github.com/giuseppesocci-bot/kalicart-bridge",
+      "source": "hackernews",
+      "source_author": "carthub",
+      "topics": [],
+      "score": 2,
+      "score_reason": "Basic concept with limited developer impact and engagement.",
+      "posted": false,
+      "collected_at": "2026-06-29T16:25:20Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 1
+      }
+    },
+    {
+      "id": "76fc04ea26482553d1ea14667d79ec23",
+      "title": "TadesseAsrie/Begena-app",
+      "url": "https://github.com/TadesseAsrie/Begena-app",
+      "source": "github",
+      "source_author": "TadesseAsrie",
+      "topics": [],
+      "score": 2,
+      "score_reason": "Minimal engagement indicates lack of interest or relevance.",
+      "posted": false,
+      "collected_at": "2026-06-29T16:25:37Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "b93b8d8e633bf2b286340deb22cbdddb",
+      "title": "DeviceSDK – TypeScript for IoT Devices",
+      "url": "https://github.com/device-sdk/devicesdk",
+      "source": "hackernews",
+      "source_author": "G4brym",
+      "topics": [],
+      "score": 2,
+      "score_reason": "TypeScript for IoT may be useful, but lacks immediate relevance or engagement.",
+      "posted": false,
+      "collected_at": "2026-06-29T16:25:20Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 1
+      }
+    },
+    {
+      "id": "e97b4ccbd35ab7345802af54c42ac784",
+      "title": "nbpadilha/nbp-forge",
+      "url": "https://github.com/nbpadilha/nbp-forge",
+      "source": "github",
+      "source_author": "nbpadilha",
+      "topics": [],
+      "score": 2,
+      "score_reason": "Very low stars and engagement suggest limited impact.",
+      "posted": false,
+      "collected_at": "2026-06-29T16:25:41Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 2,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "ff8c2368be9c97d9e4de482cb1e352ea",
+      "title": "Musk says SpaceX is putting top Starship and Starlink engineers to work on Grok",
+      "url": "https://www.businessinsider.com/grok-4-5-starship-starlink-engineers-elon-musk-ai-cursor-2026-6",
+      "source": "hackernews",
+      "source_author": "dansquizsoft",
+      "topics": [],
+      "score": 2,
+      "score_reason": "Musk's comment on engineers does not provide actionable insights for developers.",
+      "posted": false,
+      "collected_at": "2026-06-29T16:25:22Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 3
+      }
+    },
+    {
+      "id": "a65fcb1c2a8c879c46e37732b25c013c",
+      "title": "Show HN: Katra, self-hosted cognitive memory for AI agents (MCP)",
+      "url": "https://github.com/kolegadev/Katra-Agentic-Memory",
+      "source": "hackernews",
+      "source_author": "jfaganel99",
+      "topics": [],
+      "score": 1.5,
+      "score_reason": "Self-hosted solution lacks significant novelty or outreach.",
+      "posted": false,
+      "collected_at": "2026-06-29T16:25:20Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 1
+      }
+    },
+    {
+      "id": "9ba0b70bf8ee95a5d771e492b43583ee",
+      "title": "Show HN: Llama Legends - A 100% free Card Game with RPG elements",
+      "url": "https://llamalegends.com/",
+      "source": "hackernews",
+      "source_author": "TheLuigiplayer",
+      "topics": [],
+      "score": 1.5,
+      "score_reason": "Card game with RPG elements is unlikely to engage a technical audience.",
+      "posted": false,
+      "collected_at": "2026-06-29T16:25:23Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 1
+      }
+    },
+    {
+      "id": "a662768af3be1afc37e4fc38ed45be70",
+      "title": "Show HN: Hail.so – Send and receive emails, calls, SMS via a single MCP/API/CLI",
+      "url": "https://hail.so/",
+      "source": "hackernews",
+      "source_author": "r13i",
+      "topics": [],
+      "score": 1.5,
+      "score_reason": "Limited engagement and practical use cases diminish relevance for a developer audience.",
+      "posted": false,
+      "collected_at": "2026-06-29T16:25:20Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 1
+      }
+    },
+    {
+      "id": "74ca245595c2284f0d0c27ebfa4ba589",
+      "title": "Show HN: PMB – local memory for coding agents that shows if it is used",
+      "url": "https://pmbai.dev",
+      "source": "hackernews",
+      "source_author": "oleksiibond",
       "topics": [],
       "score": 1,
-      "score_reason": "Similar to the above item, it has minimal relevance or engagement.",
+      "score_reason": "Weak engagement and unclear value add to the developer experience.",
       "posted": false,
-      "collected_at": "2026-06-29T11:33:03Z",
+      "collected_at": "2026-06-29T16:25:20Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 1
+      }
+    },
+    {
+      "id": "021fc86c4d6d9e45208a88fb13e5b2db",
+      "title": "Show HN: Ploof – The agent-native CLI for generating images, video, and audio",
+      "url": "https://github.com/miketromba/ploof",
+      "source": "hackernews",
+      "source_author": "miketromba",
+      "topics": [],
+      "score": 1,
+      "score_reason": "Tool lacks traction and general interest in generating media content.",
+      "posted": false,
+      "collected_at": "2026-06-29T16:25:20Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 1
+      }
+    },
+    {
+      "id": "84f004d3007ced9f6e146a5706d75da1",
+      "title": "The future of observability won't be one proprietary AI agent",
+      "url": "https://clickhouse.com/blog/the-future-of-observability-not-one-proprietary-ai-agent-thousands-by-teams",
+      "source": "hackernews",
+      "source_author": "mikeshi42",
+      "topics": [],
+      "score": 1,
+      "score_reason": "More of an opinion piece lacking actionable insights or technical depth.",
+      "posted": false,
+      "collected_at": "2026-06-29T16:25:20Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 1
+      }
+    },
+    {
+      "id": "821ef7408c742bf614fab39c650ca02b",
+      "title": "Claude suspension has been frustrating",
+      "url": "https://support.claude.com/en/articles/8241253-safeguards-warnings-and-appeals",
+      "source": "hackernews",
+      "source_author": "Jasonmils910",
+      "topics": [],
+      "score": 0.5,
+      "score_reason": "Limited insight into Claude issues does not significantly affect the developer landscape.",
+      "posted": false,
+      "collected_at": "2026-06-29T16:25:19Z",
+      "engagement": {
+        "comments": 1,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 3
+      }
+    },
+    {
+      "id": "2d54ffb73a0eb8ea9a57111454c050da",
+      "title": "Show HN: DriftGuard – response drift detection for LangGraph agents",
+      "url": "https://github.com/vinerya/driftGuard",
+      "source": "hackernews",
+      "source_author": "chelbi",
+      "topics": [],
+      "score": 0.5,
+      "score_reason": "Focuses on drift detection but lacks significant application for developers.",
+      "posted": false,
+      "collected_at": "2026-06-29T16:25:20Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 3
+      }
+    },
+    {
+      "id": "42f60f9684ee7d27bbbbc1b05aa7980d",
+      "title": "I Built a 3 MB iPhone Vault Instead of a 100 MB Cross-Platform App",
+      "url": "https://kryptprivacy.com/guides/native-ios-vs-cross-platform-security-apps.html",
+      "source": "hackernews",
+      "source_author": "clausemint",
+      "topics": [],
+      "score": 0.5,
+      "score_reason": "Product-focused discussion without substantial relevance to development practices.",
+      "posted": false,
+      "collected_at": "2026-06-29T16:25:19Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 1
+      }
+    },
+    {
+      "id": "4f9e6bd33ad54ac6bc1c90fbdbeae1ba",
+      "title": "France records around 1k excess deaths in heatwave",
+      "url": "https://www.lemonde.fr/en/france/article/2026/06/28/france-records-around-1-000-excess-deaths-in-heatwave_6754942_7.html",
+      "source": "hackernews",
+      "source_author": "rawgabbit",
+      "topics": [],
+      "score": 0,
+      "score_reason": "Unrelated to technical topics relevant for developers.",
+      "posted": false,
+      "collected_at": "2026-06-29T16:25:23Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 4
+      }
+    },
+    {
+      "id": "bab43212d9fce96f0161fe825c2bb4e4",
+      "title": "OpenACS and Tcl/Tk conference: Talks list now online",
+      "url": "https://openacs.km.at/evaluate/org/129998253/conferencenews/",
+      "source": "hackernews",
+      "source_author": "cmacleod4",
+      "topics": [],
+      "score": 0,
+      "score_reason": "Conference news has little relevance or engagement in current AI discussions.",
+      "posted": false,
+      "collected_at": "2026-06-29T16:25:20Z",
+      "engagement": {
+        "comments": 1,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 3
+      }
+    },
+    {
+      "id": "b4bb653ea10369f7b0ebeb4b0098c49f",
+      "title": "Flipper Device's new Busy Bar is a customizable display for productivity",
+      "url": "https://techcrunch.com/2026/06/29/flipper-devices-new-busy-bar-is-a-customizable-display-for-productivity/",
+      "source": "hackernews",
+      "source_author": "CharlesW",
+      "topics": [],
+      "score": 0,
+      "score_reason": "Customizable display lacks technical depth or appeal.",
+      "posted": false,
+      "collected_at": "2026-06-29T16:25:23Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 1
+      }
+    },
+    {
+      "id": "e8342067e62adbe1f50f1865c65370e4",
+      "title": "Aerial Photographs (2017)",
+      "url": "https://www.toronto.ca/city-government/accountability-operations-customer-service/access-city-information-or-records/city-of-toronto-archives/whats-online/maps/aerial-photographs/",
+      "source": "hackernews",
+      "source_author": "surprisetalk",
+      "topics": [],
+      "score": 0,
+      "score_reason": "Aerial photographs are not relevant for technical developers.",
+      "posted": false,
+      "collected_at": "2026-06-29T16:25:22Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
@@ -1342,5 +1382,5 @@
       }
     }
   ],
-  "updated_at": "2026-06-29T11:37:30Z"
+  "updated_at": "2026-06-29T16:30:05Z"
 }
