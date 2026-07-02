@@ -1,17 +1,97 @@
 {
-  "count": 4,
+  "count": 8,
   "items": [
     {
-      "id": "f8c9e49521ea9babdac836b380098829",
-      "title": "Omlonkar69/Argus-Research-Engine",
-      "url": "https://github.com/Omlonkar69/Argus-Research-Engine",
+      "id": "5f19511f3d591554a631a3748d152980",
+      "title": "Jyx0208/claude-science-api-bridge",
+      "url": "https://github.com/Jyx0208/claude-science-api-bridge",
       "source": "github",
-      "source_author": "Omlonkar69",
+      "source_author": "Jyx0208",
       "topics": [],
       "score": 5,
-      "score_reason": "A research engine might have niche relevance without high novelty or engagement.",
+      "score_reason": "Limited engagement and general utility, niche application.",
       "posted": false,
-      "collected_at": "2026-07-02T09:44:41Z",
+      "collected_at": "2026-07-02T14:41:41Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 4,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "ce579875bd44f13ee7c03be5c447d0fd",
+      "title": "hikariming/ghfind",
+      "url": "https://github.com/hikariming/ghfind",
+      "source": "github",
+      "source_author": "hikariming",
+      "topics": [],
+      "score": 4,
+      "score_reason": "Low engagement and unclear utility for developers.",
+      "posted": false,
+      "collected_at": "2026-07-02T14:41:35Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 92,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "8fb6e46f61462a3dd900dbd4b95cec3e",
+      "title": "Evolink-AI/Awesome-Blender-Seedance-Workflow-Usecases",
+      "url": "https://github.com/Evolink-AI/Awesome-Blender-Seedance-Workflow-Usecases",
+      "source": "github",
+      "source_author": "Evolink-AI",
+      "topics": [],
+      "score": 3,
+      "score_reason": "Niche and highly specific, with minimal relevance to wider developer audience.",
+      "posted": false,
+      "collected_at": "2026-07-02T14:41:37Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 283,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "4e6635bdfca43bdd8108d05463c4881b",
+      "title": "heartsound36ham/ChatGPT-Version-Ultra-2",
+      "url": "https://github.com/heartsound36ham/ChatGPT-Version-Ultra-2",
+      "source": "github",
+      "source_author": "heartsound36ham",
+      "topics": [],
+      "score": 1,
+      "score_reason": "Minimal engagement and unclear impact.",
+      "posted": false,
+      "collected_at": "2026-07-02T14:41:36Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 68,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "01bda53e8a820ad023b7bc38fa796a58",
+      "title": "ccc060606/ai-video-generation-workflow-mvp",
+      "url": "https://github.com/ccc060606/ai-video-generation-workflow-mvp",
+      "source": "github",
+      "source_author": "ccc060606",
+      "topics": [],
+      "score": 1,
+      "score_reason": "Very low utility and engagement, niche project.",
+      "posted": false,
+      "collected_at": "2026-07-02T14:41:42Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
@@ -22,66 +102,66 @@
       }
     },
     {
-      "id": "7610ebc1963d8f438f0713d22e89fd49",
-      "title": "100yenadmin/Lossless-Codex-Orchestrator-LCO",
-      "url": "https://github.com/100yenadmin/Lossless-Codex-Orchestrator-LCO",
+      "id": "b6c1f4704874612ea546ded691a525eb",
+      "title": "baboosweetdreamer8/CursorAI-Pro-Version-2026",
+      "url": "https://github.com/baboosweetdreamer8/CursorAI-Pro-Version-2026",
       "source": "github",
-      "source_author": "100yenadmin",
+      "source_author": "baboosweetdreamer8",
       "topics": [],
-      "score": 4.5,
-      "score_reason": "Mediocre engagement and concept make it less relevant for a developer audience.",
+      "score": 1,
+      "score_reason": "Very low engagement makes it unlikely to be of interest.",
       "posted": false,
-      "collected_at": "2026-07-02T09:44:46Z",
+      "collected_at": "2026-07-02T14:41:51Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 3,
+        "stars": 58,
         "upvotes": 0
       }
     },
     {
-      "id": "c7c4466de6fa63d4a2eda37321000cdd",
-      "title": "methodnumber13/runweaver",
-      "url": "https://github.com/methodnumber13/runweaver",
+      "id": "dec3500cf7c77e18acd259a7bda7603a",
+      "title": "sparta2025/AI-Architect-Kit",
+      "url": "https://github.com/sparta2025/AI-Architect-Kit",
       "source": "github",
-      "source_author": "methodnumber13",
+      "source_author": "sparta2025",
       "topics": [],
-      "score": 4,
-      "score_reason": "Low engagement and unclear novelty limit its impact on developers.",
+      "score": 1,
+      "score_reason": "No engagement and likely minimal utility for developers.",
       "posted": false,
-      "collected_at": "2026-07-02T09:44:42Z",
+      "collected_at": "2026-07-02T14:41:52Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 2,
+        "stars": 1,
         "upvotes": 0
       }
     },
     {
-      "id": "35dddf8c32b6b58caa14984d5f4ceef8",
-      "title": "CloudZao/MetalioClaw4",
-      "url": "https://github.com/CloudZao/MetalioClaw4",
+      "id": "854679d7169aff313e339760b7907c4e",
+      "title": "wgtechlabs/devin-telegram-bot",
+      "url": "https://github.com/wgtechlabs/devin-telegram-bot",
       "source": "github",
-      "source_author": "CloudZao",
+      "source_author": "wgtechlabs",
       "topics": [],
-      "score": 3.5,
-      "score_reason": "Lack of engagement signals and unclear relevance diminish its appeal.",
+      "score": 1,
+      "score_reason": "Uninspired engagement signals show limited developer interest.",
       "posted": false,
-      "collected_at": "2026-07-02T09:44:46Z",
+      "collected_at": "2026-07-02T14:41:53Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 3,
+        "stars": 1,
         "upvotes": 0
       }
     }
   ],
   "source": "github",
-  "updated_at": "2026-07-02T09:48:48Z"
+  "updated_at": "2026-07-02T14:46:02Z"
 }
