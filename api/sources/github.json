@@ -1,197 +1,77 @@
 {
-  "count": 11,
+  "count": 5,
   "items": [
     {
-      "id": "e6ec17a985d14cd408c56e4dfac85ae1",
-      "title": "GullaManeesh/Genai",
-      "url": "https://github.com/GullaManeesh/Genai",
+      "id": "f6cb670cd31adc354cb14fa539628a46",
+      "title": "LinXiaoTao/FuckClaude",
+      "url": "https://github.com/LinXiaoTao/FuckClaude",
       "source": "github",
-      "source_author": "GullaManeesh",
-      "topics": [],
-      "score": 5,
-      "score_reason": "unscored",
-      "posted": false,
-      "collected_at": "2026-07-03T09:43:16Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 3,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "6836de4585ee115fee89aed54e74ebe0",
-      "title": "refixai/proactivity",
-      "url": "https://github.com/refixai/proactivity",
-      "source": "github",
-      "source_author": "refixai",
-      "topics": [],
-      "score": 4,
-      "score_reason": "While it has some engagement, its significance in the developer ecosystem is uncertain.",
-      "posted": false,
-      "collected_at": "2026-07-03T09:43:25Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 3,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "b3986d776e1a3a88cf55e1911cf66d27",
-      "title": "RubinTry/assistant-x-openclaw",
-      "url": "https://github.com/RubinTry/assistant-x-openclaw",
-      "source": "github",
-      "source_author": "RubinTry",
+      "source_author": "LinXiaoTao",
       "topics": [],
       "score": 3.5,
-      "score_reason": "Some engagement but unclear impact or relevance to current developer trends.",
+      "score_reason": "Github repo with minimal context, may intrigue some.",
       "posted": false,
-      "collected_at": "2026-07-03T09:43:25Z",
+      "collected_at": "2026-07-03T14:52:47Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 3,
+        "stars": 214,
         "upvotes": 0
       }
     },
     {
-      "id": "cc97f5e10ad6a035e466c9952ab5ef79",
-      "title": "doiito/media_agent",
-      "url": "https://github.com/doiito/media_agent",
+      "id": "232337631f01917b7ed083bd3748cfb8",
+      "title": "neteroster/CodexCont",
+      "url": "https://github.com/neteroster/CodexCont",
       "source": "github",
-      "source_author": "doiito",
+      "source_author": "neteroster",
       "topics": [],
       "score": 3,
-      "score_reason": "Limited engagement and unclear novelty related to agentic AI.",
+      "score_reason": "Limited information on RPA skills is less engaging.",
       "posted": false,
-      "collected_at": "2026-07-03T09:43:19Z",
+      "collected_at": "2026-07-03T14:52:49Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 2,
+        "stars": 62,
         "upvotes": 0
       }
     },
     {
-      "id": "492fd0e126af0e6b417e5bf248c6570c",
-      "title": "cvv-number/minimax-m3-desktop-app-free-api",
-      "url": "https://github.com/cvv-number/minimax-m3-desktop-app-free-api",
-      "source": "github",
-      "source_author": "cvv-number",
-      "topics": [],
-      "score": 2.5,
-      "score_reason": "Appears to be an unremarkable desktop app with no clear relevance to developer tools.",
-      "posted": false,
-      "collected_at": "2026-07-03T09:43:13Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 12,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "0602c33298cd8ba56746f0e59c83c20a",
-      "title": "patonkikh/APES",
-      "url": "https://github.com/patonkikh/APES",
-      "source": "github",
-      "source_author": "patonkikh",
-      "topics": [],
-      "score": 2.5,
-      "score_reason": "Minimal engagement and lacks clarity on its application or novelty.",
-      "posted": false,
-      "collected_at": "2026-07-03T09:43:24Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 1,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "02f7151d1f0b39d04545b43715aea4f4",
-      "title": "nodobys/Claude-Sonnet-5-Free-Desktop-APP",
-      "url": "https://github.com/nodobys/Claude-Sonnet-5-Free-Desktop-APP",
-      "source": "github",
-      "source_author": "nodobys",
-      "topics": [],
-      "score": 2,
-      "score_reason": "Expected project with no unique value proposition for developers.",
-      "posted": false,
-      "collected_at": "2026-07-03T09:43:13Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 12,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "5332f73f97ba44de6594a713886552f6",
-      "title": "arindambuilds/Scam-Detector-Agent-Swarm",
-      "url": "https://github.com/arindambuilds/Scam-Detector-Agent-Swarm",
-      "source": "github",
-      "source_author": "arindambuilds",
-      "topics": [],
-      "score": 2,
-      "score_reason": "Low engagement and appears to be a derivative project with no significant innovation.",
-      "posted": false,
-      "collected_at": "2026-07-03T09:43:21Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 1,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "e6e52b9d2b439b29809a981b1968994a",
-      "title": "Cskerrrrr/ChatGPTRegister",
-      "url": "https://github.com/Cskerrrrr/ChatGPTRegister",
-      "source": "github",
-      "source_author": "Cskerrrrr",
-      "topics": [],
-      "score": 1.5,
-      "score_reason": "No significant details to indicate value or relevance for developers.",
-      "posted": false,
-      "collected_at": "2026-07-03T09:43:13Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 6,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "9f8811a865bd8b80c63b670db1780fea",
-      "title": "liangdabiao/fastmoss-rpa-skills",
-      "url": "https://github.com/liangdabiao/fastmoss-rpa-skills",
+      "id": "b594e484c2501a5ee229e877e0e2f637",
+      "title": "liangdabiao/sellersprite-rpa-skills",
+      "url": "https://github.com/liangdabiao/sellersprite-rpa-skills",
       "source": "github",
       "source_author": "liangdabiao",
       "topics": [],
-      "score": 1,
-      "score_reason": "Lacks information on utility or novelty in the developer context.",
+      "score": 3,
+      "score_reason": "Github repo with low visibility and engagement.",
       "posted": false,
-      "collected_at": "2026-07-03T09:43:17Z",
+      "collected_at": "2026-07-03T14:52:55Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 7,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "537b1247c7e0937053c5d4aaec857be5",
+      "title": "owainlewis/push",
+      "url": "https://github.com/owainlewis/push",
+      "source": "github",
+      "source_author": "owainlewis",
+      "topics": [],
+      "score": 2.5,
+      "score_reason": "Repo has low engagement, lacking substantial novelty.",
+      "posted": false,
+      "collected_at": "2026-07-03T14:53:03Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
@@ -202,26 +82,26 @@
       }
     },
     {
-      "id": "759c988bad7572c80172d256f3de817a",
-      "title": "woodoodanyysamp0/Lossless-Pro-2026",
-      "url": "https://github.com/woodoodanyysamp0/Lossless-Pro-2026",
+      "id": "702ee98b69c069df0e3ed95e6eb62a97",
+      "title": "7-e1even/learn-agent",
+      "url": "https://github.com/7-e1even/learn-agent",
       "source": "github",
-      "source_author": "woodoodanyysamp0",
+      "source_author": "7-e1even",
       "topics": [],
-      "score": 0.5,
-      "score_reason": "Insufficient context or relevance for a technical audience.",
+      "score": 2,
+      "score_reason": "Repo providing minimal context or application.",
       "posted": false,
-      "collected_at": "2026-07-03T09:43:19Z",
+      "collected_at": "2026-07-03T14:53:04Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 71,
+        "stars": 46,
         "upvotes": 0
       }
     }
   ],
   "source": "github",
-  "updated_at": "2026-07-03T09:47:03Z"
+  "updated_at": "2026-07-03T14:56:51Z"
 }
