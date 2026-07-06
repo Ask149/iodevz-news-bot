@@ -1,77 +1,197 @@
 {
-  "count": 9,
+  "count": 11,
   "items": [
     {
-      "id": "f3a6d482d2bb56c6f8c7a99bf87ec242",
-      "title": "funador/claude-code-merge-queue",
-      "url": "https://github.com/funador/claude-code-merge-queue",
+      "id": "a11282c86e9df9955d856a666ea7be9b",
+      "title": "SiriNandinii/Generative-AI-Lab",
+      "url": "https://github.com/SiriNandinii/Generative-AI-Lab",
       "source": "github",
-      "source_author": "funador",
-      "topics": [],
-      "score": 8,
-      "score_reason": "The GitHub repo shows promise by enhancing code collaboration through a unique merge queue.",
-      "posted": false,
-      "collected_at": "2026-07-06T11:13:27Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 295,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "0372a6d4888a5ec1a4fb843af8fcef68",
-      "title": "oxbshw/watch-skill",
-      "url": "https://github.com/oxbshw/watch-skill",
-      "source": "github",
-      "source_author": "oxbshw",
+      "source_author": "SiriNandinii",
       "topics": [],
       "score": 5,
-      "score_reason": "Moderate interest but unclear impact and functionality on development practices.",
+      "score_reason": "unscored",
       "posted": false,
-      "collected_at": "2026-07-06T11:13:41Z",
+      "collected_at": "2026-07-06T16:01:53Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 31,
+        "stars": 5,
         "upvotes": 0
       }
     },
     {
-      "id": "c3f185c3e04ee87016a9d8aa80b0ab61",
-      "title": "adityaarsharma/wordpress-malware-removal",
-      "url": "https://github.com/adityaarsharma/wordpress-malware-removal",
+      "id": "4b2ba78b0d5b5dbf9244f0a81448480a",
+      "title": "Temavrix/PatchFlow",
+      "url": "https://github.com/Temavrix/PatchFlow",
       "source": "github",
-      "source_author": "adityaarsharma",
+      "source_author": "Temavrix",
       "topics": [],
       "score": 4,
-      "score_reason": "Aiming to address security issues, but with minimal traction.",
+      "score_reason": "The project showcases a specific application but hasn't generated notable traction.",
       "posted": false,
-      "collected_at": "2026-07-06T11:13:45Z",
+      "collected_at": "2026-07-06T16:02:03Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 11,
+        "stars": 32,
         "upvotes": 0
       }
     },
     {
-      "id": "11259bafcf652158dd586421613b4c45",
-      "title": "Piyushjain1857/GenAI",
-      "url": "https://github.com/Piyushjain1857/GenAI",
+      "id": "2b01b362d4500dcbdc594f0120e45045",
+      "title": "shehryarsaroya/agenttransfer",
+      "url": "https://github.com/shehryarsaroya/agenttransfer",
       "source": "github",
-      "source_author": "Piyushjain1857",
+      "source_author": "shehryarsaroya",
       "topics": [],
       "score": 3.5,
-      "score_reason": "This appears to be a basic repo with minimal engagement and unclear application.",
+      "score_reason": "The presence of agent transfer focuses on a niche topic that isn't widely applicable.",
       "posted": false,
-      "collected_at": "2026-07-06T11:13:34Z",
+      "collected_at": "2026-07-06T16:02:03Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 28,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "d4c082e20497d4e00467770543369c5a",
+      "title": "continuewith-ai/agent-plugins",
+      "url": "https://github.com/continuewith-ai/agent-plugins",
+      "source": "github",
+      "source_author": "continuewith-ai",
+      "topics": [],
+      "score": 3,
+      "score_reason": "Agent plugins seem relevant but lack clarity on their impact and usability.",
+      "posted": false,
+      "collected_at": "2026-07-06T16:02:08Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 3,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "e1fdadcfdfb63101a65a42da53950fdd",
+      "title": "liwei9745/GenBox",
+      "url": "https://github.com/liwei9745/GenBox",
+      "source": "github",
+      "source_author": "liwei9745",
+      "topics": [],
+      "score": 2,
+      "score_reason": "The project lacks engagement and appears to have minimal impact or importance.",
+      "posted": false,
+      "collected_at": "2026-07-06T16:01:59Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 4,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "07827088bbe9294fe7789876c5bfeed1",
+      "title": "5nYqnHvk/geminigen",
+      "url": "https://github.com/5nYqnHvk/geminigen",
+      "source": "github",
+      "source_author": "5nYqnHvk",
+      "topics": [],
+      "score": 2,
+      "score_reason": "Limited discussion and engagement suggest a lack of relevance or innovative aspects.",
+      "posted": false,
+      "collected_at": "2026-07-06T16:01:59Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 2,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "e72a658a88ab76e899f54746cc6d04e7",
+      "title": "x777/frontstage",
+      "url": "https://github.com/x777/frontstage",
+      "source": "github",
+      "source_author": "x777",
+      "topics": [],
+      "score": 2,
+      "score_reason": "Similar to others, this project lacks significant interest from the developer community.",
+      "posted": false,
+      "collected_at": "2026-07-06T16:01:59Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 3,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "d72873a74f3b5b2f7f13a1c98e1cb46b",
+      "title": "Aimaghsoodi/foveance",
+      "url": "https://github.com/Aimaghsoodi/foveance",
+      "source": "github",
+      "source_author": "Aimaghsoodi",
+      "topics": [],
+      "score": 2,
+      "score_reason": "Limited engagement indicates a low likelihood of unique insights for developers.",
+      "posted": false,
+      "collected_at": "2026-07-06T16:01:53Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 8,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "bfe6210da0d7b0a65c3e8d0c474ddb3a",
+      "title": "jvogan/a-fable-of-codexes",
+      "url": "https://github.com/jvogan/a-fable-of-codexes",
+      "source": "github",
+      "source_author": "jvogan",
+      "topics": [],
+      "score": 2,
+      "score_reason": "The GitHub project appears to garner little interest, suggesting limited relevance.",
+      "posted": false,
+      "collected_at": "2026-07-06T16:01:51Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 24,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "cb48341cc39f90f491f5a12366d45c33",
+      "title": "ciktpmmm/-SwarmAgent",
+      "url": "https://github.com/ciktpmmm/-SwarmAgent",
+      "source": "github",
+      "source_author": "ciktpmmm",
+      "topics": [],
+      "score": 1,
+      "score_reason": "Very low engagement indicates minimal interest or practicality for developers.",
+      "posted": false,
+      "collected_at": "2026-07-06T16:02:02Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
@@ -82,96 +202,16 @@
       }
     },
     {
-      "id": "b2a5328466052af118ce01c2e10e430d",
-      "title": "Neeeophytee/finding-unknowns-skills",
-      "url": "https://github.com/Neeeophytee/finding-unknowns-skills",
+      "id": "f5f4d5d0447f619cd69f904885bf89bd",
+      "title": "SwarmDo/swarmdo",
+      "url": "https://github.com/SwarmDo/swarmdo",
       "source": "github",
-      "source_author": "Neeeophytee",
+      "source_author": "SwarmDo",
       "topics": [],
-      "score": 3,
-      "score_reason": "Limited engagement and unclear utility make it less relevant.",
+      "score": 1,
+      "score_reason": "This project lacks any engagement signals, likely rendering it irrelevant.",
       "posted": false,
-      "collected_at": "2026-07-06T11:13:28Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 22,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "2a2c2dbd85f8d9700c5417c20e144522",
-      "title": "AlexeyTripleA/basic-security-audit-prompt",
-      "url": "https://github.com/AlexeyTripleA/basic-security-audit-prompt",
-      "source": "github",
-      "source_author": "AlexeyTripleA",
-      "topics": [],
-      "score": 3,
-      "score_reason": "A basic prompt tool with limited engagement and impact.",
-      "posted": false,
-      "collected_at": "2026-07-06T11:13:46Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 2,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "842d77eaefe9361b2ccced026e14ad52",
-      "title": "curtischoutw/claude-institution",
-      "url": "https://github.com/curtischoutw/claude-institution",
-      "source": "github",
-      "source_author": "curtischoutw",
-      "topics": [],
-      "score": 2.5,
-      "score_reason": "Low engagement and similarly unclear relevance to existing developer tools.",
-      "posted": false,
-      "collected_at": "2026-07-06T11:13:42Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 2,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "10a664e7ce044a4f9e53ac41e2d7b267",
-      "title": "yuviyuviroy99-code/audioverse-",
-      "url": "https://github.com/yuviyuviroy99-code/audioverse-",
-      "source": "github",
-      "source_author": "yuviyuviroy99-code",
-      "topics": [],
-      "score": 2,
-      "score_reason": "No engagement or clear use-case decreases relevance.",
-      "posted": false,
-      "collected_at": "2026-07-06T11:13:38Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "23e9df80bfbea044455cd19c95c3ff20",
-      "title": "mihneaptu/opencode-fusion",
-      "url": "https://github.com/mihneaptu/opencode-fusion",
-      "source": "github",
-      "source_author": "mihneaptu",
-      "topics": [],
-      "score": 2,
-      "score_reason": "Little context or engagement suggests limited developer relevance.",
-      "posted": false,
-      "collected_at": "2026-07-06T11:13:47Z",
+      "collected_at": "2026-07-06T16:02:02Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
@@ -183,5 +223,5 @@
     }
   ],
   "source": "github",
-  "updated_at": "2026-07-06T11:17:32Z"
+  "updated_at": "2026-07-06T16:06:24Z"
 }
