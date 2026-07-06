@@ -1,77 +1,457 @@
 {
-  "count": 4,
+  "count": 42,
   "items": [
     {
-      "id": "c6ec9664c076dd60c0ee475ab9528ca5",
-      "title": "Pluviobyte/rnskill",
-      "url": "https://github.com/Pluviobyte/rnskill",
+      "id": "47af6f75c22327f571f4461ca2917a5a",
+      "title": "synthetic-sciences/openscience",
+      "url": "https://github.com/synthetic-sciences/openscience",
       "source": "github",
-      "source_author": "Pluviobyte",
+      "source_author": "synthetic-sciences",
       "topics": [],
-      "score": 5.5,
-      "score_reason": "High stars indicate interest, but it needs more context on its practical application.",
+      "score": 6,
+      "score_reason": "Higher stars suggest some community interest in open science.",
       "posted": false,
-      "collected_at": "2026-07-05T14:18:06Z",
+      "collected_at": "2026-07-06T04:54:05Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 120,
+        "stars": 202,
         "upvotes": 0
       }
     },
     {
-      "id": "199726405d8bb0fdb2282fac65159d2d",
-      "title": "walkpod1007/claude-project-ops",
-      "url": "https://github.com/walkpod1007/claude-project-ops",
+      "id": "7e7b2fe2d71fa8848f2c455660e61f15",
+      "title": "amitshekhariitbhu/ai-agents-tutorial",
+      "url": "https://github.com/amitshekhariitbhu/ai-agents-tutorial",
       "source": "github",
-      "source_author": "walkpod1007",
+      "source_author": "amitshekhariitbhu",
       "topics": [],
       "score": 5,
-      "score_reason": "The project is relevant to developers, though its impact remains uncertain due to limited engagement.",
+      "score_reason": "Moderate engagement indicates some level of relevance to AI agents.",
       "posted": false,
-      "collected_at": "2026-07-05T14:17:46Z",
+      "collected_at": "2026-07-06T04:54:06Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 35,
+        "stars": 87,
         "upvotes": 0
       }
     },
     {
-      "id": "020e67c176f1828321a3a99662535579",
-      "title": "ContextJet-ai/awesome-llm-observability",
-      "url": "https://github.com/ContextJet-ai/awesome-llm-observability",
+      "id": "8d3afd3b5817c354b2e1763f12c78060",
+      "title": "Bike4Mind/bike4mind",
+      "url": "https://github.com/Bike4Mind/bike4mind",
       "source": "github",
-      "source_author": "ContextJet-ai",
+      "source_author": "Bike4Mind",
+      "topics": [],
+      "score": 5,
+      "score_reason": "unscored",
+      "posted": false,
+      "collected_at": "2026-07-06T04:53:46Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 21,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "fa76882057ca53c5b57f3ccb0c23c4f2",
+      "title": "simonlin1212/Vibe-Research",
+      "url": "https://github.com/simonlin1212/Vibe-Research",
+      "source": "github",
+      "source_author": "simonlin1212",
+      "topics": [],
+      "score": 5,
+      "score_reason": "unscored",
+      "posted": false,
+      "collected_at": "2026-07-06T04:53:58Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 79,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "573e37cdb741f9854a5197319379f346",
+      "title": "Brain0-ai/brain0",
+      "url": "https://github.com/Brain0-ai/brain0",
+      "source": "github",
+      "source_author": "Brain0-ai",
+      "topics": [],
+      "score": 5,
+      "score_reason": "unscored",
+      "posted": false,
+      "collected_at": "2026-07-06T04:53:58Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 26,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "f409f53ad14d4acf559dcd6f8e44a0fc",
+      "title": "antgroup/Napaxi",
+      "url": "https://github.com/antgroup/Napaxi",
+      "source": "github",
+      "source_author": "antgroup",
+      "topics": [],
+      "score": 5,
+      "score_reason": "unscored",
+      "posted": false,
+      "collected_at": "2026-07-06T04:53:58Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 26,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "3fc5051551e8abd2324a17e42fce4ad7",
+      "title": "aditzeb/AssetGenie",
+      "url": "https://github.com/aditzeb/AssetGenie",
+      "source": "github",
+      "source_author": "aditzeb",
+      "topics": [],
+      "score": 5,
+      "score_reason": "unscored",
+      "posted": false,
+      "collected_at": "2026-07-06T04:53:58Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 25,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "32ad4644d852e75ccda67359394de261",
+      "title": "devnomad-byte/cosmosmith",
+      "url": "https://github.com/devnomad-byte/cosmosmith",
+      "source": "github",
+      "source_author": "devnomad-byte",
+      "topics": [],
+      "score": 5,
+      "score_reason": "unscored",
+      "posted": false,
+      "collected_at": "2026-07-06T04:54:01Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 11,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "0b1bbcd8135dbbf4906e41fd147cbb54",
+      "title": "michaelshimeles/boring-computers",
+      "url": "https://github.com/michaelshimeles/boring-computers",
+      "source": "github",
+      "source_author": "michaelshimeles",
+      "topics": [],
+      "score": 5,
+      "score_reason": "unscored",
+      "posted": false,
+      "collected_at": "2026-07-06T04:53:58Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 94,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "0bcb23c4ea5097232c0026333f5adb64",
+      "title": "grft-dev/graftcode",
+      "url": "https://github.com/grft-dev/graftcode",
+      "source": "github",
+      "source_author": "grft-dev",
+      "topics": [],
+      "score": 5,
+      "score_reason": "unscored",
+      "posted": false,
+      "collected_at": "2026-07-06T04:53:58Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 23,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "133bd53326ebdb3e5f97e4625c43bf97",
+      "title": "nagisanzenin/engram",
+      "url": "https://github.com/nagisanzenin/engram",
+      "source": "github",
+      "source_author": "nagisanzenin",
       "topics": [],
       "score": 3,
-      "score_reason": "Observability resources are valuable, but the project lacks engagement and visibility.",
+      "score_reason": "Another project on persistent memory, but lacks distinguishing features.",
       "posted": false,
-      "collected_at": "2026-07-05T14:17:52Z",
+      "collected_at": "2026-07-06T04:53:45Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 4,
+        "stars": 162,
         "upvotes": 0
       }
     },
     {
-      "id": "8eb6f57978a6f9c6ae56fe2d75260d3d",
-      "title": "sayeed1999/agent-skills",
-      "url": "https://github.com/sayeed1999/agent-skills",
+      "id": "87b2822b5edb059bed10c4e73a1c5c68",
+      "title": "ayan-de/claude-config",
+      "url": "https://github.com/ayan-de/claude-config",
       "source": "github",
-      "source_author": "sayeed1999",
+      "source_author": "ayan-de",
+      "topics": [],
+      "score": 3,
+      "score_reason": "No engagement and minimal information available.",
+      "posted": false,
+      "collected_at": "2026-07-06T04:53:53Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 2,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "2b4c161ff0648f9f5d1cae3f0cc7baee",
+      "title": "green5555/virtual-kimite",
+      "url": "https://github.com/green5555/virtual-kimite",
+      "source": "github",
+      "source_author": "green5555",
+      "topics": [],
+      "score": 3,
+      "score_reason": "No engagement and no clear application.",
+      "posted": false,
+      "collected_at": "2026-07-06T04:53:53Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 2,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "dd5881de18e4922c42f34391630af4f0",
+      "title": "Miguok/fable-harness",
+      "url": "https://github.com/Miguok/fable-harness",
+      "source": "github",
+      "source_author": "Miguok",
+      "topics": [],
+      "score": 3,
+      "score_reason": "Limited engagement and unclear utility reduce the relevance of this tool.",
+      "posted": false,
+      "collected_at": "2026-07-06T04:53:45Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 121,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "90708e0c644a37375aa7e48cefdfa870",
+      "title": "aleclindz/seo-skill-bench",
+      "url": "https://github.com/aleclindz/seo-skill-bench",
+      "source": "github",
+      "source_author": "aleclindz",
+      "topics": [],
+      "score": 2.5,
+      "score_reason": "A niche tool that is unlikely to attract significant developer interest.",
+      "posted": false,
+      "collected_at": "2026-07-06T04:53:45Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 108,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "fc5de542e65c48c07d6ddb5da7ae40ea",
+      "title": "dabit3/devin-ios-shortcut",
+      "url": "https://github.com/dabit3/devin-ios-shortcut",
+      "source": "github",
+      "source_author": "dabit3",
       "topics": [],
       "score": 2,
-      "score_reason": "Minimal engagement suggests limited interest or novelty.",
+      "score_reason": "Minimal stars indicate lack of traction.",
       "posted": false,
-      "collected_at": "2026-07-05T14:17:59Z",
+      "collected_at": "2026-07-06T04:54:03Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 3,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "8227fd5a23cb4cdc063aa495df856e5d",
+      "title": "ANTHO56200/synapse-memory",
+      "url": "https://github.com/ANTHO56200/synapse-memory",
+      "source": "github",
+      "source_author": "ANTHO56200",
+      "topics": [],
+      "score": 2,
+      "score_reason": "Limited interest and no groundbreaking concepts.",
+      "posted": false,
+      "collected_at": "2026-07-06T04:54:02Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 2,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "1fc6a2d332b20511e0845299ff304b0b",
+      "title": "PKU-YuanGroup/OpenAI4S",
+      "url": "https://github.com/PKU-YuanGroup/OpenAI4S",
+      "source": "github",
+      "source_author": "PKU-YuanGroup",
+      "topics": [],
+      "score": 2,
+      "score_reason": "Lacks significant context or application relevance.",
+      "posted": false,
+      "collected_at": "2026-07-06T04:53:47Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 34,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "6a086a3b19f4b8d58104d921c459ffd1",
+      "title": "kimsh-1/deck-factory",
+      "url": "https://github.com/kimsh-1/deck-factory",
+      "source": "github",
+      "source_author": "kimsh-1",
+      "topics": [],
+      "score": 2,
+      "score_reason": "Minimal engagement suggests this project lacks innovative appeal.",
+      "posted": false,
+      "collected_at": "2026-07-06T04:53:46Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 36,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "4a36fdb2cea9227e43998e11355e72c4",
+      "title": "liu-ethan/golem",
+      "url": "https://github.com/liu-ethan/golem",
+      "source": "github",
+      "source_author": "liu-ethan",
+      "topics": [],
+      "score": 2,
+      "score_reason": "Similar to other low-engagement projects, lacks clear developer utility.",
+      "posted": false,
+      "collected_at": "2026-07-06T04:53:46Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 21,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "9224f5c519fdd264e335b146792fb4bb",
+      "title": "SylphxAI/skills",
+      "url": "https://github.com/SylphxAI/skills",
+      "source": "github",
+      "source_author": "SylphxAI",
+      "topics": [],
+      "score": 2,
+      "score_reason": "Lack of popularity and unclear utility.",
+      "posted": false,
+      "collected_at": "2026-07-06T04:54:02Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 2,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "1c35eb27309dc62ca84b2aa370e25a12",
+      "title": "smixs/disruptor-skills",
+      "url": "https://github.com/smixs/disruptor-skills",
+      "source": "github",
+      "source_author": "smixs",
+      "topics": [],
+      "score": 2,
+      "score_reason": "Low engagement and no innovative features.",
+      "posted": false,
+      "collected_at": "2026-07-06T04:54:01Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 10,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "494cc05057c69e47e5c7fb5b6303c35f",
+      "title": "adgjez/legado-video",
+      "url": "https://github.com/adgjez/legado-video",
+      "source": "github",
+      "source_author": "adgjez",
+      "topics": [],
+      "score": 2,
+      "score_reason": "Lack of interest and relevance.",
+      "posted": false,
+      "collected_at": "2026-07-06T04:53:54Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
@@ -80,8 +460,388 @@
         "stars": 1,
         "upvotes": 0
       }
+    },
+    {
+      "id": "3d78681fc03d391c4005cd0410f76b3f",
+      "title": "cactusqq/KeyFrame-Compass",
+      "url": "https://github.com/cactusqq/KeyFrame-Compass",
+      "source": "github",
+      "source_author": "cactusqq",
+      "topics": [],
+      "score": 2,
+      "score_reason": "Minimal engagement and lack of utility.",
+      "posted": false,
+      "collected_at": "2026-07-06T04:53:55Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "35ba4f0bd932c470c53a05ef9dce51fd",
+      "title": "TharunNookala/Video-Gen-AI",
+      "url": "https://github.com/TharunNookala/Video-Gen-AI",
+      "source": "github",
+      "source_author": "TharunNookala",
+      "topics": [],
+      "score": 2,
+      "score_reason": "No user interest and unclear functionality.",
+      "posted": false,
+      "collected_at": "2026-07-06T04:53:55Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "fc7231c4a818005ae2fd8d119678e81a",
+      "title": "drowzeys/keys-vLLm-0.24.0-Optimized-DeepSeekV4-Flash-DSpark-NVFP4-KV-1.5M-CTX-3M-Pool-C-12-on-2-DGX-Spark",
+      "url": "https://github.com/drowzeys/keys-vLLm-0.24.0-Optimized-DeepSeekV4-Flash-DSpark-NVFP4-KV-1.5M-CTX-3M-Pool-C-12-on-2-DGX-Spark",
+      "source": "github",
+      "source_author": "drowzeys",
+      "topics": [],
+      "score": 1.5,
+      "score_reason": "Long and complex name without a clear overview diminishes engagement.",
+      "posted": false,
+      "collected_at": "2026-07-06T04:53:50Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 8,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "8c23b0f0ad84e4f57c32ea93405fc21c",
+      "title": "Vallykrie/gemini-swarm-skill",
+      "url": "https://github.com/Vallykrie/gemini-swarm-skill",
+      "source": "github",
+      "source_author": "Vallykrie",
+      "topics": [],
+      "score": 1.5,
+      "score_reason": "Lack of clarity in goals and low visibility.",
+      "posted": false,
+      "collected_at": "2026-07-06T04:53:56Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 2,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "7d9357fdcbc00c2bf6c5cdd86ba04276",
+      "title": "kkautenburger/music-synth",
+      "url": "https://github.com/kkautenburger/music-synth",
+      "source": "github",
+      "source_author": "kkautenburger",
+      "topics": [],
+      "score": 1.5,
+      "score_reason": "Non-existent engagement and vague purpose.",
+      "posted": false,
+      "collected_at": "2026-07-06T04:53:55Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "33f62ebbf5de43cb6a05fde678a22b56",
+      "title": "AbsentiousVespera/Devinia-C",
+      "url": "https://github.com/AbsentiousVespera/Devinia-C",
+      "source": "github",
+      "source_author": "AbsentiousVespera",
+      "topics": [],
+      "score": 1.5,
+      "score_reason": "Negligible engagement and utility.",
+      "posted": false,
+      "collected_at": "2026-07-06T04:54:03Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "2926ee396737fa1d4f820d2a07e50809",
+      "title": "Weschera/DeepSeek-v4-Flash-DSpark-1M-NVFP4-KV-2x-DGX-Spark",
+      "url": "https://github.com/Weschera/DeepSeek-v4-Flash-DSpark-1M-NVFP4-KV-2x-DGX-Spark",
+      "source": "github",
+      "source_author": "Weschera",
+      "topics": [],
+      "score": 1.5,
+      "score_reason": "Lacks distinct features compared to similar projects.",
+      "posted": false,
+      "collected_at": "2026-07-06T04:53:50Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 7,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "9197e4055992f15df4f98a50b26ec22d",
+      "title": "SNAPKITTYWEST/snapkitty-agentos",
+      "url": "https://github.com/SNAPKITTYWEST/snapkitty-agentos",
+      "source": "github",
+      "source_author": "SNAPKITTYWEST",
+      "topics": [],
+      "score": 1,
+      "score_reason": "Intriguing concept but no traction.",
+      "posted": false,
+      "collected_at": "2026-07-06T04:53:56Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "7629b38533bac870463cdd6c7cb648d8",
+      "title": "bigwhite/cc-switch-cli",
+      "url": "https://github.com/bigwhite/cc-switch-cli",
+      "source": "github",
+      "source_author": "bigwhite",
+      "topics": [],
+      "score": 1,
+      "score_reason": "No engagement reflects lack of interest or relevance.",
+      "posted": false,
+      "collected_at": "2026-07-06T04:53:50Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 6,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "29758d33fd9b57ac54f1a8d517ff8497",
+      "title": "jdbaigorria/loom-dev",
+      "url": "https://github.com/jdbaigorria/loom-dev",
+      "source": "github",
+      "source_author": "jdbaigorria",
+      "topics": [],
+      "score": 1,
+      "score_reason": "Very low engagement and unclear benefits.",
+      "posted": false,
+      "collected_at": "2026-07-06T04:53:56Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "6d95961aa20648f00067a6aadd380c7f",
+      "title": "lekalsutee/hermes-context-persistence",
+      "url": "https://github.com/lekalsutee/hermes-context-persistence",
+      "source": "github",
+      "source_author": "lekalsutee",
+      "topics": [],
+      "score": 1,
+      "score_reason": "Has no clear value or engagement.",
+      "posted": false,
+      "collected_at": "2026-07-06T04:53:59Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "e6fd43215315c8e1e64473e3be1a68aa",
+      "title": "hiendinhngoc/unknowns",
+      "url": "https://github.com/hiendinhngoc/unknowns",
+      "source": "github",
+      "source_author": "hiendinhngoc",
+      "topics": [],
+      "score": 1,
+      "score_reason": "Not developed enough to be relevant.",
+      "posted": false,
+      "collected_at": "2026-07-06T04:53:59Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "6eff119212498dee4e0c1c231cfc6c9c",
+      "title": "DotDev262/swarm-sar-coordination",
+      "url": "https://github.com/DotDev262/swarm-sar-coordination",
+      "source": "github",
+      "source_author": "DotDev262",
+      "topics": [],
+      "score": 1,
+      "score_reason": "Little merit and no engagement.",
+      "posted": false,
+      "collected_at": "2026-07-06T04:53:56Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "442f47fcb01a372b20ec372aa26694ce",
+      "title": "Moh4696/open-source-ai-goldmine",
+      "url": "https://github.com/Moh4696/open-source-ai-goldmine",
+      "source": "github",
+      "source_author": "Moh4696",
+      "topics": [],
+      "score": 1,
+      "score_reason": "General project title with no distinct focus or innovation.",
+      "posted": false,
+      "collected_at": "2026-07-06T04:53:50Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 7,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "383c8d42cc0f0536667ed543b244dc7c",
+      "title": "djh2203/DeepSeek-Refined",
+      "url": "https://github.com/djh2203/DeepSeek-Refined",
+      "source": "github",
+      "source_author": "djh2203",
+      "topics": [],
+      "score": 1,
+      "score_reason": "Vague project name without clear application or innovation.",
+      "posted": false,
+      "collected_at": "2026-07-06T04:53:50Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 5,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "0dadfa9f01f8e984b1f8946dae3f62b0",
+      "title": "markbrutx/pi-jutsu",
+      "url": "https://github.com/markbrutx/pi-jutsu",
+      "source": "github",
+      "source_author": "markbrutx",
+      "topics": [],
+      "score": 1,
+      "score_reason": "Low visibility and relevance.",
+      "posted": false,
+      "collected_at": "2026-07-06T04:53:56Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "f80258f8a14f44a58faeb88de51d3239",
+      "title": "soueyg7-prog/Devin",
+      "url": "https://github.com/soueyg7-prog/Devin",
+      "source": "github",
+      "source_author": "soueyg7-prog",
+      "topics": [],
+      "score": 1,
+      "score_reason": "No activity or interest whatsoever.",
+      "posted": false,
+      "collected_at": "2026-07-06T04:54:03Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "76e9040f952860ab175e8a62cecda506",
+      "title": "Wojciech151218/genai-opt",
+      "url": "https://github.com/Wojciech151218/genai-opt",
+      "source": "github",
+      "source_author": "Wojciech151218",
+      "topics": [],
+      "score": 0.5,
+      "score_reason": "Overall lack of detail or engagement points to low relevance.",
+      "posted": false,
+      "collected_at": "2026-07-06T04:53:52Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 3,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "eb9f5a868594571d3483e87911158121",
+      "title": "MautikPatel/Enterprise-AI-Knowledge-Assistant",
+      "url": "https://github.com/MautikPatel/Enterprise-AI-Knowledge-Assistant",
+      "source": "github",
+      "source_author": "MautikPatel",
+      "topics": [],
+      "score": 0.5,
+      "score_reason": "Minimal description and low engagement make this project unappealing.",
+      "posted": false,
+      "collected_at": "2026-07-06T04:53:52Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 2,
+        "upvotes": 0
+      }
     }
   ],
   "source": "github",
-  "updated_at": "2026-07-05T14:21:36Z"
+  "updated_at": "2026-07-06T04:58:25Z"
 }
