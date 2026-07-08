@@ -1,77 +1,117 @@
 {
-  "count": 6,
+  "count": 10,
   "items": [
     {
-      "id": "0dcde257a7a7ddc2914e3bc5bd0a4707",
-      "title": "kanathalalohitha9102007-spec/Audio-generation",
-      "url": "https://github.com/kanathalalohitha9102007-spec/Audio-generation",
+      "id": "c04963f9a3b8511b0df33cf8bc7213d9",
+      "title": "sunflower-of-parchman/codex-hygiene",
+      "url": "https://github.com/sunflower-of-parchman/codex-hygiene",
       "source": "github",
-      "source_author": "kanathalalohitha9102007-spec",
+      "source_author": "sunflower-of-parchman",
+      "topics": [],
+      "score": 6,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-07-08T14:57:21Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 124,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "bea8da21619db66ee498b6f3af3fd265",
+      "title": "Nanako0129/pilotfish",
+      "url": "https://github.com/Nanako0129/pilotfish",
+      "source": "github",
+      "source_author": "Nanako0129",
+      "topics": [],
+      "score": 6,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-07-08T14:57:08Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 48,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "aabd8f9bbcbbb6ca06e84a7eac60f16f",
+      "title": "ahwanulm/AMRouter",
+      "url": "https://github.com/ahwanulm/AMRouter",
+      "source": "github",
+      "source_author": "ahwanulm",
+      "topics": [],
+      "score": 6,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-07-08T14:57:09Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 88,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "1070397fcd4858693ae6d95bec37a1c7",
+      "title": "DannyMac180/fable-advisor",
+      "url": "https://github.com/DannyMac180/fable-advisor",
+      "source": "github",
+      "source_author": "DannyMac180",
+      "topics": [],
+      "score": 6,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-07-08T14:57:11Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 118,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "974d7fd7e25968524efa7a61f7b7970f",
+      "title": "Agents365-ai/videogenCN",
+      "url": "https://github.com/Agents365-ai/videogenCN",
+      "source": "github",
+      "source_author": "Agents365-ai",
       "topics": [],
       "score": 4,
-      "score_reason": "An audio generation repo may be of interest, but is less relevant to the core developer tools audience.",
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-07-08T09:08:04Z",
+      "collected_at": "2026-07-08T14:57:17Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 0,
+        "stars": 1,
         "upvotes": 0
       }
     },
     {
-      "id": "ad7641433451f85d734c0a083bc93f9f",
-      "title": "Abaans/agent-spine",
-      "url": "https://github.com/Abaans/agent-spine",
+      "id": "14b59f22cf739058d8d7ecdd25f30c15",
+      "title": "bnlbnf/relaywatch",
+      "url": "https://github.com/bnlbnf/relaywatch",
       "source": "github",
-      "source_author": "Abaans",
+      "source_author": "bnlbnf",
       "topics": [],
-      "score": 3.5,
-      "score_reason": "Agent spine repo may have niche interest but lacks high engagement or broad relevance.",
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-07-08T09:08:08Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 4,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "574b1092ed34e9f763abfde561a74d88",
-      "title": "keshavjoglekar/auditing-agent-config",
-      "url": "https://github.com/keshavjoglekar/auditing-agent-config",
-      "source": "github",
-      "source_author": "keshavjoglekar",
-      "topics": [],
-      "score": 3,
-      "score_reason": "Auditing agent configuration is a specialized topic with limited overall appeal.",
-      "posted": false,
-      "collected_at": "2026-07-08T09:08:08Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 2,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "4828950f7157c00ac38e06037a81d47c",
-      "title": "TristanBrotherton/openclaw-voice-call-realtime",
-      "url": "https://github.com/TristanBrotherton/openclaw-voice-call-realtime",
-      "source": "github",
-      "source_author": "TristanBrotherton",
-      "topics": [],
-      "score": 2,
-      "score_reason": "Real-time voice call tool is less innovative and significant for developers compared to other items.",
-      "posted": false,
-      "collected_at": "2026-07-08T09:08:09Z",
+      "collected_at": "2026-07-08T14:57:13Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
@@ -82,36 +122,16 @@
       }
     },
     {
-      "id": "dc0d2cb469268dbdabc8aabbb399889e",
-      "title": "bolivestilo/Homekit",
-      "url": "https://github.com/bolivestilo/Homekit",
+      "id": "a1bb62521322a810520a711b8dfd2c4a",
+      "title": "42kyynfqjv-dot/deepseekradio",
+      "url": "https://github.com/42kyynfqjv-dot/deepseekradio",
       "source": "github",
-      "source_author": "bolivestilo",
+      "source_author": "42kyynfqjv-dot",
       "topics": [],
-      "score": 1.5,
-      "score_reason": "Homekit repo is likely only relevant to a small subset of developers.",
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-07-08T09:08:07Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 66,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "c255d38aaeba1cc081b7a03f2dcc6a95",
-      "title": "ghdtjrtka/ghost-vessel",
-      "url": "https://github.com/ghdtjrtka/ghost-vessel",
-      "source": "github",
-      "source_author": "ghdtjrtka",
-      "topics": [],
-      "score": 1,
-      "score_reason": "Ghost vessel repo appears to lack both novelty and relevance, leading to low engagement.",
-      "posted": false,
-      "collected_at": "2026-07-08T09:08:09Z",
+      "collected_at": "2026-07-08T14:57:13Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
@@ -120,8 +140,68 @@
         "stars": 6,
         "upvotes": 0
       }
+    },
+    {
+      "id": "2bc18f61f9fe2e4d5e73c02119415248",
+      "title": "asmodeus276/Kisan-Alert",
+      "url": "https://github.com/asmodeus276/Kisan-Alert",
+      "source": "github",
+      "source_author": "asmodeus276",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-07-08T14:57:15Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 2,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "6fb1dbec5cb624dc4f11d30d4f9efbaf",
+      "title": "yogithanaidukokilampati19-collab/audio-generation",
+      "url": "https://github.com/yogithanaidukokilampati19-collab/audio-generation",
+      "source": "github",
+      "source_author": "yogithanaidukokilampati19-collab",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-07-08T14:57:19Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "c7f77b1d0116bf5794a6b1f68c4d62a1",
+      "title": "dwgx/xinghuo-windsurf",
+      "url": "https://github.com/dwgx/xinghuo-windsurf",
+      "source": "github",
+      "source_author": "dwgx",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-07-08T14:57:27Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 2,
+        "upvotes": 0
+      }
     }
   ],
   "source": "github",
-  "updated_at": "2026-07-08T09:12:31Z"
+  "updated_at": "2026-07-08T15:02:01Z"
 }
