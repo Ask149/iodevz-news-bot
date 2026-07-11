@@ -1,357 +1,37 @@
 {
-  "count": 20,
+  "count": 3,
   "items": [
     {
-      "id": "ba754f735b2bcb29c07436d16280e4bf",
-      "title": "yetone/kill-ai-slop",
-      "url": "https://github.com/yetone/kill-ai-slop",
+      "id": "3f0c1eacca18ae90f57cb756752c1e4c",
+      "title": "inclusionAI/Avernet",
+      "url": "https://github.com/inclusionAI/Avernet",
       "source": "github",
-      "source_author": "yetone",
+      "source_author": "inclusionAI",
       "topics": [],
-      "score": 6,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "score": 8,
+      "score_reason": "Avernet has a strong GitHub presence and is likely to have community interest.",
       "posted": false,
-      "collected_at": "2026-07-11T03:53:37Z",
+      "collected_at": "2026-07-11T08:21:06Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 156,
+        "stars": 95,
         "upvotes": 0
       }
     },
     {
-      "id": "1b0caa00e70a208c11a1802e8e26ae1a",
-      "title": "bepitulaz/obsidian-multivault-mcp",
-      "url": "https://github.com/bepitulaz/obsidian-multivault-mcp",
+      "id": "0950004b305be3f62b7fcbffbd5f05f5",
+      "title": "jpvarbed/jasonv-skills",
+      "url": "https://github.com/jpvarbed/jasonv-skills",
       "source": "github",
-      "source_author": "bepitulaz",
+      "source_author": "jpvarbed",
       "topics": [],
-      "score": 6,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "score": 5.5,
+      "score_reason": "Jasonv-skills could be useful but doesn't appear to have broad applicability.",
       "posted": false,
-      "collected_at": "2026-07-11T03:53:34Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 35,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "2d3ccf6a3460cc99fdb2088988d6e090",
-      "title": "Moh4696/build-ai-agents-free",
-      "url": "https://github.com/Moh4696/build-ai-agents-free",
-      "source": "github",
-      "source_author": "Moh4696",
-      "topics": [],
-      "score": 6,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-07-11T03:53:54Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 103,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "fc910578a30bc391a4a4af7024db6ebd",
-      "title": "anthropic-sonnet/claude-code-sonnet-5-free-desktop-app",
-      "url": "https://github.com/anthropic-sonnet/claude-code-sonnet-5-free-desktop-app",
-      "source": "github",
-      "source_author": "anthropic-sonnet",
-      "topics": [],
-      "score": 6,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-07-11T03:53:33Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 65,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "7adc0140226bce73c4209282f9289efe",
-      "title": "Raymondhou0917/speak-human-tw",
-      "url": "https://github.com/Raymondhou0917/speak-human-tw",
-      "source": "github",
-      "source_author": "Raymondhou0917",
-      "topics": [],
-      "score": 6,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-07-11T03:53:50Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 141,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "1e198b305caf88cd45495e425a1d2214",
-      "title": "wikidjon/ai-openclaw-cli",
-      "url": "https://github.com/wikidjon/ai-openclaw-cli",
-      "source": "github",
-      "source_author": "wikidjon",
-      "topics": [],
-      "score": 6,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-07-11T03:53:48Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 51,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "b976bddda3c06e940645572a6a1c5060",
-      "title": "luthfierlmbang/Fluke-Motion",
-      "url": "https://github.com/luthfierlmbang/Fluke-Motion",
-      "source": "github",
-      "source_author": "luthfierlmbang",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-07-11T03:53:51Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 2,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "485c22380b330a9b9acc649433c2da11",
-      "title": "reedchris43/openclaw-tool-call-viewer-2026",
-      "url": "https://github.com/reedchris43/openclaw-tool-call-viewer-2026",
-      "source": "github",
-      "source_author": "reedchris43",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-07-11T03:53:48Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 10,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "40cedb590aecc40c8618f8277cc8c456",
-      "title": "jahfaliabdulrahman-dev/machine-enforceable-ai-governance",
-      "url": "https://github.com/jahfaliabdulrahman-dev/machine-enforceable-ai-governance",
-      "source": "github",
-      "source_author": "jahfaliabdulrahman-dev",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-07-11T03:53:44Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 1,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "20c3dfd08a94fc156c1273a35b6f1682",
-      "title": "LuciusLabs/Chatterbox-Studio",
-      "url": "https://github.com/LuciusLabs/Chatterbox-Studio",
-      "source": "github",
-      "source_author": "LuciusLabs",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-07-11T03:53:43Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 1,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "82634f4131627d399914d4d061bbe065",
-      "title": "nilsherreiner-dev/ai-video-automation",
-      "url": "https://github.com/nilsherreiner-dev/ai-video-automation",
-      "source": "github",
-      "source_author": "nilsherreiner-dev",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-07-11T03:53:42Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 1,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "04f64f034e9d3f17d13b64f198350886",
-      "title": "quinnrallen-hub/kode",
-      "url": "https://github.com/quinnrallen-hub/kode",
-      "source": "github",
-      "source_author": "quinnrallen-hub",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-07-11T03:53:41Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 1,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "37afc31910042b9b447150c65904330f",
-      "title": "ppinkhasov/ai-usage",
-      "url": "https://github.com/ppinkhasov/ai-usage",
-      "source": "github",
-      "source_author": "ppinkhasov",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-07-11T03:53:41Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 1,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "87f7e253236357b65c8b999b25bbb84b",
-      "title": "Krishna-Agarwal04/amd-video-captioner",
-      "url": "https://github.com/Krishna-Agarwal04/amd-video-captioner",
-      "source": "github",
-      "source_author": "Krishna-Agarwal04",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-07-11T03:53:41Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 1,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "71384a07ed4ed60f48fc5040d8dd9d2f",
-      "title": "stranger1sag/hermes-cookie-web",
-      "url": "https://github.com/stranger1sag/hermes-cookie-web",
-      "source": "github",
-      "source_author": "stranger1sag",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-07-11T03:53:41Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 1,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "17b4ff432121479b43bb425020c687fc",
-      "title": "austinginder/command-center",
-      "url": "https://github.com/austinginder/command-center",
-      "source": "github",
-      "source_author": "austinginder",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-07-11T03:53:41Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 4,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "788864d37b39c96017d103ce0072a051",
-      "title": "heypriyam/CasePilot",
-      "url": "https://github.com/heypriyam/CasePilot",
-      "source": "github",
-      "source_author": "heypriyam",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-07-11T03:53:40Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 2,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "1160add92edc36d1ec7f7910153d9fbb",
-      "title": "chibiegg/genai-sakura",
-      "url": "https://github.com/chibiegg/genai-sakura",
-      "source": "github",
-      "source_author": "chibiegg",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-07-11T03:53:40Z",
+      "collected_at": "2026-07-11T08:21:05Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
@@ -362,46 +42,26 @@
       }
     },
     {
-      "id": "a7662f127bcb2089f0f075fc1d16b81c",
-      "title": "zxr-roro/GPT5.6-5.5-",
-      "url": "https://github.com/zxr-roro/GPT5.6-5.5-",
+      "id": "b5a51726396ba5f2bb824b075f8c5410",
+      "title": "mehmetcanfarsak/AgentSwarm",
+      "url": "https://github.com/mehmetcanfarsak/AgentSwarm",
       "source": "github",
-      "source_author": "zxr-roro",
+      "source_author": "mehmetcanfarsak",
       "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "score": 5,
+      "score_reason": "AgentSwarm is a relevant project but lacks detail on its impact.",
       "posted": false,
-      "collected_at": "2026-07-11T03:53:36Z",
+      "collected_at": "2026-07-11T08:21:02Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 10,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "0eae68e8a958a2e71e9d285622189bac",
-      "title": "wdwxw/deepseekimg",
-      "url": "https://github.com/wdwxw/deepseekimg",
-      "source": "github",
-      "source_author": "wdwxw",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-07-11T03:53:38Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 12,
+        "stars": 1,
         "upvotes": 0
       }
     }
   ],
   "source": "github",
-  "updated_at": "2026-07-11T03:57:42Z"
+  "updated_at": "2026-07-11T08:24:33Z"
 }
