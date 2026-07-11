@@ -1,67 +1,107 @@
 {
-  "count": 3,
+  "count": 5,
   "items": [
     {
-      "id": "3f0c1eacca18ae90f57cb756752c1e4c",
-      "title": "inclusionAI/Avernet",
-      "url": "https://github.com/inclusionAI/Avernet",
+      "id": "45250ec26b0da10a0a31c09a0c8fb016",
+      "title": "NextWeb4/deepseek-translation-studio",
+      "url": "https://github.com/NextWeb4/deepseek-translation-studio",
       "source": "github",
-      "source_author": "inclusionAI",
+      "source_author": "NextWeb4",
       "topics": [],
-      "score": 8,
-      "score_reason": "Avernet has a strong GitHub presence and is likely to have community interest.",
+      "score": 7,
+      "score_reason": "A translation studio project could aid developers in creating multilingual applications.",
       "posted": false,
-      "collected_at": "2026-07-11T08:21:06Z",
+      "collected_at": "2026-07-11T14:02:21Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 95,
+        "stars": 16,
         "upvotes": 0
       }
     },
     {
-      "id": "0950004b305be3f62b7fcbffbd5f05f5",
-      "title": "jpvarbed/jasonv-skills",
-      "url": "https://github.com/jpvarbed/jasonv-skills",
+      "id": "782b9e57923d7a2760cbb1f2b9e610e2",
+      "title": "calesthio/generative-media-skills",
+      "url": "https://github.com/calesthio/generative-media-skills",
       "source": "github",
-      "source_author": "jpvarbed",
+      "source_author": "calesthio",
       "topics": [],
-      "score": 5.5,
-      "score_reason": "Jasonv-skills could be useful but doesn't appear to have broad applicability.",
+      "score": 2.5,
+      "score_reason": "Generative media skills project is niche but may attract some interest.",
       "posted": false,
-      "collected_at": "2026-07-11T08:21:05Z",
+      "collected_at": "2026-07-11T14:02:32Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 3,
+        "stars": 15,
         "upvotes": 0
       }
     },
     {
-      "id": "b5a51726396ba5f2bb824b075f8c5410",
-      "title": "mehmetcanfarsak/AgentSwarm",
-      "url": "https://github.com/mehmetcanfarsak/AgentSwarm",
+      "id": "7fc3fa6a4fd467cd0902abfea8f264dd",
+      "title": "Aless-MaulSmoke/FSRIFS",
+      "url": "https://github.com/Aless-MaulSmoke/FSRIFS",
       "source": "github",
-      "source_author": "mehmetcanfarsak",
+      "source_author": "Aless-MaulSmoke",
       "topics": [],
-      "score": 5,
-      "score_reason": "AgentSwarm is a relevant project but lacks detail on its impact.",
+      "score": 1.5,
+      "score_reason": "Less known GitHub project lacks visibility and interest.",
       "posted": false,
-      "collected_at": "2026-07-11T08:21:02Z",
+      "collected_at": "2026-07-11T14:02:25Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 1,
+        "stars": 2,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "7b65331654d77def8b31f27a74054e69",
+      "title": "BitsAstro/Icve-Exam-Extract",
+      "url": "https://github.com/BitsAstro/Icve-Exam-Extract",
+      "source": "github",
+      "source_author": "BitsAstro",
+      "topics": [],
+      "score": 1,
+      "score_reason": "Low engagement and unclear relevance to the current developer landscape.",
+      "posted": false,
+      "collected_at": "2026-07-11T14:02:24Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 2,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "115214765ae9a78ccb4bdce468735c5b",
+      "title": "taneltro0t-hue/mr-seo",
+      "url": "https://github.com/taneltro0t-hue/mr-seo",
+      "source": "github",
+      "source_author": "taneltro0t-hue",
+      "topics": [],
+      "score": 1,
+      "score_reason": "Unremarkable project with no apparent relevance to AI or developer needs.",
+      "posted": false,
+      "collected_at": "2026-07-11T14:02:27Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 2,
         "upvotes": 0
       }
     }
   ],
   "source": "github",
-  "updated_at": "2026-07-11T08:24:33Z"
+  "updated_at": "2026-07-11T14:06:18Z"
 }
