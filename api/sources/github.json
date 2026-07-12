@@ -1,87 +1,127 @@
 {
-  "count": 4,
+  "count": 6,
   "items": [
     {
-      "id": "0f8aa30cae9ef4aa32ad54d1a62f15f2",
-      "title": "kitforai/kitforai",
-      "url": "https://github.com/kitforai/kitforai",
+      "id": "48a5ed9d82e4a40d3ba40cbf5a6134ee",
+      "title": "mereyabdenbekuly-ctrl/clodex-ide",
+      "url": "https://github.com/mereyabdenbekuly-ctrl/clodex-ide",
       "source": "github",
-      "source_author": "kitforai",
+      "source_author": "mereyabdenbekuly-ctrl",
       "topics": [],
-      "score": 7.5,
-      "score_reason": "The project represents a practical tool for AI but lacks broad recognition or engagement.",
+      "score": 5,
+      "score_reason": "A newer IDE project, interesting but lacks immediate relevance for widespread developer practices.",
       "posted": false,
-      "collected_at": "2026-07-12T08:40:20Z",
+      "collected_at": "2026-07-12T14:06:18Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 59,
+        "stars": 456,
         "upvotes": 0
       }
     },
     {
-      "id": "500f240c93baf83cf80b9c126f09098d",
-      "title": "MDX-Tom/gpt-5.6-instruct",
-      "url": "https://github.com/MDX-Tom/gpt-5.6-instruct",
+      "id": "00767cc5de8b6ff58b9001b747333788",
+      "title": "cosmtrek/mindwalk",
+      "url": "https://github.com/cosmtrek/mindwalk",
       "source": "github",
-      "source_author": "MDX-Tom",
-      "topics": [],
-      "score": 7,
-      "score_reason": "Promises to provide insights into the latest models, but engagement is minimal.",
-      "posted": false,
-      "collected_at": "2026-07-12T08:40:11Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 28,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "a2236e995f3c1d00bd491eec6a5c06df",
-      "title": "pengchujin/jzsub",
-      "url": "https://github.com/pengchujin/jzsub",
-      "source": "github",
-      "source_author": "pengchujin",
+      "source_author": "cosmtrek",
       "topics": [],
       "score": 4,
-      "score_reason": "Little engagement indicates low interest and relevance.",
+      "score_reason": "GitHub project with potential but minimal context or description provided.",
       "posted": false,
-      "collected_at": "2026-07-12T08:40:11Z",
+      "collected_at": "2026-07-12T14:06:18Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 25,
+        "stars": 192,
         "upvotes": 0
       }
     },
     {
-      "id": "d5f1352ba55394da0dcf37062e8c5fe6",
-      "title": "p0nczek/nclean",
-      "url": "https://github.com/p0nczek/nclean",
+      "id": "660866b6fff68fbbe2670cbcceff722c",
+      "title": "narendrasaraf/meeting-summarizer",
+      "url": "https://github.com/narendrasaraf/meeting-summarizer",
       "source": "github",
-      "source_author": "p0nczek",
+      "source_author": "narendrasaraf",
       "topics": [],
       "score": 3.5,
-      "score_reason": "Lacks engagement and its redevelopment impact is unclear.",
+      "score_reason": "Meeting summarization tool, niche relevance to developers with minimal engagement.",
       "posted": false,
-      "collected_at": "2026-07-12T08:40:24Z",
+      "collected_at": "2026-07-12T14:06:20Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 11,
+        "stars": 2,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "82efb4d905f92e84103bff6467aec553",
+      "title": "Intuition-Lab/personal-model",
+      "url": "https://github.com/Intuition-Lab/personal-model",
+      "source": "github",
+      "source_author": "Intuition-Lab",
+      "topics": [],
+      "score": 3,
+      "score_reason": "Personal model project with some potential but lacks detail or clear impact on developer workflows.",
+      "posted": false,
+      "collected_at": "2026-07-12T14:06:26Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 65,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "f3f927e8be3f5311b88f9349678a2753",
+      "title": "VortexJer/Kimi-Cli-upgrade",
+      "url": "https://github.com/VortexJer/Kimi-Cli-upgrade",
+      "source": "github",
+      "source_author": "VortexJer",
+      "topics": [],
+      "score": 2.5,
+      "score_reason": "GitHub project that lacks scope and context.",
+      "posted": false,
+      "collected_at": "2026-07-12T14:06:21Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "d1c6f20fd77861e484a33be1eeb38f97",
+      "title": "kigner/audio.cpp-webui",
+      "url": "https://github.com/kigner/audio.cpp-webui",
+      "source": "github",
+      "source_author": "kigner",
+      "topics": [],
+      "score": 2,
+      "score_reason": "Limited context, low engagement signals, relevance to developers is unclear.",
+      "posted": false,
+      "collected_at": "2026-07-12T14:06:24Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 12,
         "upvotes": 0
       }
     }
   ],
   "source": "github",
-  "updated_at": "2026-07-12T08:43:50Z"
+  "updated_at": "2026-07-12T14:10:07Z"
 }
