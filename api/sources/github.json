@@ -2,96 +2,36 @@
   "count": 6,
   "items": [
     {
-      "id": "0cc51e8457bad865ae6c8e2d91401fba",
-      "title": "MentionNetwork/awesome-agentic-commerce",
-      "url": "https://github.com/MentionNetwork/awesome-agentic-commerce",
+      "id": "41245dc56257ba7d89ea6748b3fd9bc2",
+      "title": "lizhian/agent-manager",
+      "url": "https://github.com/lizhian/agent-manager",
       "source": "github",
-      "source_author": "MentionNetwork",
-      "topics": [],
-      "score": 7,
-      "score_reason": "Relevant to agentic AI with a decent number of stars, indicating interest.",
-      "posted": false,
-      "collected_at": "2026-07-13T09:55:36Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 64,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "555ba7ee61bcb9ccf8cddd056bab7102",
-      "title": "thecodacus/understory",
-      "url": "https://github.com/thecodacus/understory",
-      "source": "github",
-      "source_author": "thecodacus",
-      "topics": [],
-      "score": 6,
-      "score_reason": "Fairly popular project, but lacks clarity on impact or novelty.",
-      "posted": false,
-      "collected_at": "2026-07-13T09:55:36Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 62,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "bbeecda440b0503f39c1f1030bd54175",
-      "title": "jamiebeach/lisp-agent",
-      "url": "https://github.com/jamiebeach/lisp-agent",
-      "source": "github",
-      "source_author": "jamiebeach",
+      "source_author": "lizhian",
       "topics": [],
       "score": 5,
-      "score_reason": "While it has a decent star count, specific uses or impacts are not clearly defined.",
+      "score_reason": "unscored",
       "posted": false,
-      "collected_at": "2026-07-13T09:55:45Z",
+      "collected_at": "2026-07-13T15:24:07Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 73,
+        "stars": 5,
         "upvotes": 0
       }
     },
     {
-      "id": "1a8202b3440c58782914c62a5a3d7ab1",
-      "title": "oyekamal/claude-code-flow-visualizer",
-      "url": "https://github.com/oyekamal/claude-code-flow-visualizer",
+      "id": "8957a550e57a297af3d81b4138e33e7e",
+      "title": "masteryee-labs/Tool.Agent-Harness-Deploy",
+      "url": "https://github.com/masteryee-labs/Tool.Agent-Harness-Deploy",
       "source": "github",
-      "source_author": "oyekamal",
+      "source_author": "masteryee-labs",
       "topics": [],
-      "score": 4,
-      "score_reason": "Less engagement and lacks clear novelty but might assist in code visualization.",
+      "score": 5,
+      "score_reason": "unscored",
       "posted": false,
-      "collected_at": "2026-07-13T09:55:37Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 4,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "1ebc3e3e4ce56d0d87f61b2815715d4f",
-      "title": "xd2621128/KimiDesk",
-      "url": "https://github.com/xd2621128/KimiDesk",
-      "source": "github",
-      "source_author": "xd2621128",
-      "topics": [],
-      "score": 3,
-      "score_reason": "Minor project; unlikely to generate developer interest.",
-      "posted": false,
-      "collected_at": "2026-07-13T09:55:31Z",
+      "collected_at": "2026-07-13T15:24:13Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
@@ -102,16 +42,36 @@
       }
     },
     {
-      "id": "80c8c92fd768967c9d44e55bf223ca73",
-      "title": "kaizen108/aionair",
-      "url": "https://github.com/kaizen108/aionair",
+      "id": "b8da4715f15ef17dc910d6fdb83caaea",
+      "title": "w3cj/how-llms-work",
+      "url": "https://github.com/w3cj/how-llms-work",
       "source": "github",
-      "source_author": "kaizen108",
+      "source_author": "w3cj",
+      "topics": [],
+      "score": 4,
+      "score_reason": "Educational content about LLMs, useful but not directly impactful on developers.",
+      "posted": false,
+      "collected_at": "2026-07-13T15:24:14Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 60,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "726ce782ac8e3ff95a594f631dab8a1d",
+      "title": "Gary-code/LabSeed",
+      "url": "https://github.com/Gary-code/LabSeed",
+      "source": "github",
+      "source_author": "Gary-code",
       "topics": [],
       "score": 3,
-      "score_reason": "Only a couple of stars with no notable features present.",
+      "score_reason": "Minor GitHub project with limited relevance for the developer community.",
       "posted": false,
-      "collected_at": "2026-07-13T09:55:33Z",
+      "collected_at": "2026-07-13T15:24:01Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
@@ -120,8 +80,48 @@
         "stars": 2,
         "upvotes": 0
       }
+    },
+    {
+      "id": "4dddad16634637385345d56b6d562bd5",
+      "title": "xifandev/KimiCodeBar",
+      "url": "https://github.com/xifandev/KimiCodeBar",
+      "source": "github",
+      "source_author": "xifandev",
+      "topics": [],
+      "score": 3,
+      "score_reason": "New repository, but no clear indication of its utility or innovation.",
+      "posted": false,
+      "collected_at": "2026-07-13T15:24:00Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "bf916374ef598df83d7dbbb3be3e9b17",
+      "title": "echohive42/swarm-seeds",
+      "url": "https://github.com/echohive42/swarm-seeds",
+      "source": "github",
+      "source_author": "echohive42",
+      "topics": [],
+      "score": 2,
+      "score_reason": "Low engagement and unclear purpose reduce its significance.",
+      "posted": false,
+      "collected_at": "2026-07-13T15:24:04Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
+        "upvotes": 0
+      }
     }
   ],
   "source": "github",
-  "updated_at": "2026-07-13T10:00:05Z"
+  "updated_at": "2026-07-13T15:29:33Z"
 }
