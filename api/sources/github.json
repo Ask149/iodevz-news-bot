@@ -1,47 +1,287 @@
 {
-  "count": 2,
+  "count": 14,
   "items": [
     {
-      "id": "8a3224a23a9a8dcb984df342c14888a8",
-      "title": "Amanlabh/footprint",
-      "url": "https://github.com/Amanlabh/footprint",
+      "id": "fb4229fe221a4ca69666a386883093f0",
+      "title": "videlalvaro/inference-school",
+      "url": "https://github.com/videlalvaro/inference-school",
       "source": "github",
-      "source_author": "Amanlabh",
+      "source_author": "videlalvaro",
       "topics": [],
-      "score": 3,
-      "score_reason": "The project is new but lacks notable engagement and impact.",
+      "score": 6.5,
+      "score_reason": "High star count suggests developer interest; potential impact is unclear.",
       "posted": false,
-      "collected_at": "2026-07-15T08:56:23Z",
+      "collected_at": "2026-07-15T14:21:49Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 15,
+        "stars": 136,
         "upvotes": 0
       }
     },
     {
-      "id": "7fe7b2efd52f655f440b4d3971a11403",
-      "title": "YD-233/kimi-usage",
-      "url": "https://github.com/YD-233/kimi-usage",
+      "id": "082ca244ffbeff13b16890688670407e",
+      "title": "RongleCat/grok-go",
+      "url": "https://github.com/RongleCat/grok-go",
       "source": "github",
-      "source_author": "YD-233",
+      "source_author": "RongleCat",
       "topics": [],
-      "score": 1,
-      "score_reason": "Low engagement signal with minimal relevance.",
+      "score": 6.5,
+      "score_reason": "Higher star count indicates some interest, but lacks clarity on developer impact.",
       "posted": false,
-      "collected_at": "2026-07-15T08:56:14Z",
+      "collected_at": "2026-07-15T14:21:41Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 6,
+        "stars": 113,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "d46acd5b0868986c339dd114d5f2e6f4",
+      "title": "tonnode/mcp",
+      "url": "https://github.com/tonnode/mcp",
+      "source": "github",
+      "source_author": "tonnode",
+      "topics": [],
+      "score": 6,
+      "score_reason": "Shows potential utility but engagement remains minimal.",
+      "posted": false,
+      "collected_at": "2026-07-15T14:21:45Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 66,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "fbf4915bf45bc60071af7cc0f48bce5b",
+      "title": "agutinbaigo28/financial-agent-api",
+      "url": "https://github.com/agutinbaigo28/financial-agent-api",
+      "source": "github",
+      "source_author": "agutinbaigo28",
+      "topics": [],
+      "score": 6,
+      "score_reason": "Noteworthy active repository, but engagement levels are low.",
+      "posted": false,
+      "collected_at": "2026-07-15T14:21:44Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 46,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "d91a76747ed9d5a5ec0ec5ce1aa8b708",
+      "title": "ShenSeanChen/waku-agent",
+      "url": "https://github.com/ShenSeanChen/waku-agent",
+      "source": "github",
+      "source_author": "ShenSeanChen",
+      "topics": [],
+      "score": 5.5,
+      "score_reason": "Moderate star count indicates some engagement; potential utility but lacks clarity.",
+      "posted": false,
+      "collected_at": "2026-07-15T14:21:51Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 87,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "d0d2ac336058051ca7bb2578e3e4dd94",
+      "title": "chussum/mobius",
+      "url": "https://github.com/chussum/mobius",
+      "source": "github",
+      "source_author": "chussum",
+      "topics": [],
+      "score": 5,
+      "score_reason": "While interesting, it lacks engagement and clear developer impact.",
+      "posted": false,
+      "collected_at": "2026-07-15T14:21:28Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 23,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "b53f398d4ad1324af002480e931e5d4d",
+      "title": "realgarit/fable-baton",
+      "url": "https://github.com/realgarit/fable-baton",
+      "source": "github",
+      "source_author": "realgarit",
+      "topics": [],
+      "score": 5,
+      "score_reason": "Similar to other items, it lacks engagement and specific developer relevance.",
+      "posted": false,
+      "collected_at": "2026-07-15T14:21:28Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 20,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "1a8927f1b23a0bd0d29dc795a73436d0",
+      "title": "Kirakun0328/text-to-vrma",
+      "url": "https://github.com/Kirakun0328/text-to-vrma",
+      "source": "github",
+      "source_author": "Kirakun0328",
+      "topics": [],
+      "score": 5,
+      "score_reason": "Low engagement and unclear impact on development practices.",
+      "posted": false,
+      "collected_at": "2026-07-15T14:21:29Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 21,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "352f78a71ea280473926a55000e51ae5",
+      "title": "xkqin/codex-jumpbridge",
+      "url": "https://github.com/xkqin/codex-jumpbridge",
+      "source": "github",
+      "source_author": "xkqin",
+      "topics": [],
+      "score": 5,
+      "score_reason": "Minimal engagement; lacks distinct relevance to current developer needs.",
+      "posted": false,
+      "collected_at": "2026-07-15T14:21:29Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 20,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "59c012389e74464362c050aff08dd166",
+      "title": "manashprasad94-create/BCT_GenAI",
+      "url": "https://github.com/manashprasad94-create/BCT_GenAI",
+      "source": "github",
+      "source_author": "manashprasad94-create",
+      "topics": [],
+      "score": 4.5,
+      "score_reason": "Limited visibility and potential impact on developer workflows.",
+      "posted": false,
+      "collected_at": "2026-07-15T14:21:35Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "66fb83b0629291bf03e58772ee9697d9",
+      "title": "Yuyyxz/kling-prompt-engineering",
+      "url": "https://github.com/Yuyyxz/kling-prompt-engineering",
+      "source": "github",
+      "source_author": "Yuyyxz",
+      "topics": [],
+      "score": 4,
+      "score_reason": "Similar to other items, lacks engagement and impact.",
+      "posted": false,
+      "collected_at": "2026-07-15T14:21:38Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 2,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "f44fb717e3b9dac54fd50212bf0019ec",
+      "title": "perinchiang/kimi-code-dashboard",
+      "url": "https://github.com/perinchiang/kimi-code-dashboard",
+      "source": "github",
+      "source_author": "perinchiang",
+      "topics": [],
+      "score": 4,
+      "score_reason": "No engagement signals and unclear value to developers.",
+      "posted": false,
+      "collected_at": "2026-07-15T14:21:36Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 2,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "5e55778f08eaefbbe3a51263d53a43f0",
+      "title": "Tanish0512/SAGA-Script-to-Audio-Generation-Agent",
+      "url": "https://github.com/Tanish0512/SAGA-Script-to-Audio-Generation-Agent",
+      "source": "github",
+      "source_author": "Tanish0512",
+      "topics": [],
+      "score": 3.5,
+      "score_reason": "Very low engagement and minimal relevance to developers.",
+      "posted": false,
+      "collected_at": "2026-07-15T14:21:39Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "92373f1c6786205d3a41e318a2e62505",
+      "title": "majakajjkahs/swarmterm",
+      "url": "https://github.com/majakajjkahs/swarmterm",
+      "source": "github",
+      "source_author": "majakajjkahs",
+      "topics": [],
+      "score": 3,
+      "score_reason": "Little engagement and unclear developer significance.",
+      "posted": false,
+      "collected_at": "2026-07-15T14:21:40Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
         "upvotes": 0
       }
     }
   ],
   "source": "github",
-  "updated_at": "2026-07-15T09:00:00Z"
+  "updated_at": "2026-07-15T14:26:01Z"
 }
