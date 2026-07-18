@@ -1,77 +1,97 @@
 {
-  "count": 4,
+  "count": 5,
   "items": [
     {
-      "id": "70279ff65735fd1ba12ddf676e2714a0",
-      "title": "PromptPartner/agentsmith",
-      "url": "https://github.com/PromptPartner/agentsmith",
+      "id": "f6ba026294e72ff149ddac041f0a6b46",
+      "title": "MegaTroll222/VOX-COLLAGE-BROLL",
+      "url": "https://github.com/MegaTroll222/VOX-COLLAGE-BROLL",
       "source": "github",
-      "source_author": "PromptPartner",
+      "source_author": "MegaTroll222",
       "topics": [],
-      "score": 5.5,
-      "score_reason": "An emerging project with potential, though not yet widely recognized.",
+      "score": 6,
+      "score_reason": "While it has some engagement, its novelty and relevance to developers is unclear.",
       "posted": false,
-      "collected_at": "2026-07-18T08:22:05Z",
+      "collected_at": "2026-07-18T13:58:37Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 176,
+        "stars": 44,
         "upvotes": 0
       }
     },
     {
-      "id": "c7b94f58a099f97a1d05726ec78df6a5",
-      "title": "rollingSirius/equity-research-skill",
-      "url": "https://github.com/rollingSirius/equity-research-skill",
+      "id": "04a870783776719ce5dfe198fb81fe6d",
+      "title": "SeanJ1ang/design-judge-skills",
+      "url": "https://github.com/SeanJ1ang/design-judge-skills",
       "source": "github",
-      "source_author": "rollingSirius",
+      "source_author": "SeanJ1ang",
       "topics": [],
       "score": 5,
-      "score_reason": "unscored",
+      "score_reason": "Moderate engagement, but lacks clear innovative aspect for developers.",
       "posted": false,
-      "collected_at": "2026-07-18T08:22:25Z",
+      "collected_at": "2026-07-18T13:58:39Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 73,
+        "stars": 15,
         "upvotes": 0
       }
     },
     {
-      "id": "331cd61ec0ec143b1be5e40612cce612",
-      "title": "AuuCoder/gptGrok2api",
-      "url": "https://github.com/AuuCoder/gptGrok2api",
+      "id": "4bfa36ec8157fe6fec3d872e83218ff9",
+      "title": "builtbyrehan/autofix-swarm",
+      "url": "https://github.com/builtbyrehan/autofix-swarm",
       "source": "github",
-      "source_author": "AuuCoder",
+      "source_author": "builtbyrehan",
       "topics": [],
       "score": 4,
-      "score_reason": "Another project with limited attention, relevant but not groundbreaking.",
+      "score_reason": "Another GitHub project without significant impact or engagement.",
       "posted": false,
-      "collected_at": "2026-07-18T08:22:06Z",
+      "collected_at": "2026-07-18T13:58:36Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 23,
+        "stars": 1,
         "upvotes": 0
       }
     },
     {
-      "id": "9e13a6790f97d6460a3e416a6beb8723",
-      "title": "paranoidandroid2124/sounds-like-a-skill-issue",
-      "url": "https://github.com/paranoidandroid2124/sounds-like-a-skill-issue",
+      "id": "6e49e581897c06f5fe269c7067b4cedc",
+      "title": "govindpathak18/genAI",
+      "url": "https://github.com/govindpathak18/genAI",
       "source": "github",
-      "source_author": "paranoidandroid2124",
+      "source_author": "govindpathak18",
+      "topics": [],
+      "score": 4,
+      "score_reason": "Basic GitHub project, lacking substantial engagement or novelty.",
+      "posted": false,
+      "collected_at": "2026-07-18T13:58:31Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "041bfb285ce84582c6ff4b6a206cfb58",
+      "title": "zhyRRrr/devin-",
+      "url": "https://github.com/zhyRRrr/devin-",
+      "source": "github",
+      "source_author": "zhyRRrr",
       "topics": [],
       "score": 3,
-      "score_reason": "A smaller scale project with limited engagement and impact.",
+      "score_reason": "Minimal engagement and no distinctive contribution to the developer community.",
       "posted": false,
-      "collected_at": "2026-07-18T08:22:18Z",
+      "collected_at": "2026-07-18T13:58:43Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
@@ -83,5 +103,5 @@
     }
   ],
   "source": "github",
-  "updated_at": "2026-07-18T08:25:54Z"
+  "updated_at": "2026-07-18T14:03:02Z"
 }
