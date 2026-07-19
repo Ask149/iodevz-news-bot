@@ -1,17 +1,77 @@
 {
-  "count": 2,
+  "count": 6,
   "items": [
     {
-      "id": "b45208c1ab917f3f48b522f0e155aaeb",
-      "title": "Kimi-K3/kimi-k3",
-      "url": "https://github.com/Kimi-K3/kimi-k3",
+      "id": "ea95825f944958a28f0862d17e8200ae",
+      "title": "yc-duan/fastctx",
+      "url": "https://github.com/yc-duan/fastctx",
       "source": "github",
-      "source_author": "Kimi-K3",
+      "source_author": "yc-duan",
       "topics": [],
-      "score": 3.5,
-      "score_reason": "GitHub repository could be interesting, but lacks context on application and engagement.",
+      "score": 6.5,
+      "score_reason": "Gains interest due to good star rating but lacks detailed engagement or description.",
       "posted": false,
-      "collected_at": "2026-07-19T08:55:09Z",
+      "collected_at": "2026-07-19T14:03:44Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 50,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "f74174f5223e7d0dea2c8f6a377a7357",
+      "title": "smixs/mentor",
+      "url": "https://github.com/smixs/mentor",
+      "source": "github",
+      "source_author": "smixs",
+      "topics": [],
+      "score": 4.5,
+      "score_reason": "A repository focused on mentorship tools which may have niche but relevant interest.",
+      "posted": false,
+      "collected_at": "2026-07-19T14:03:34Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 29,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "83500b3e5fcc89c56572e597575b0c66",
+      "title": "JPSchloss/Job-Scouts-Public",
+      "url": "https://github.com/JPSchloss/Job-Scouts-Public",
+      "source": "github",
+      "source_author": "JPSchloss",
+      "topics": [],
+      "score": 4,
+      "score_reason": "A GitHub repository without significant engagement or innovative content.",
+      "posted": false,
+      "collected_at": "2026-07-19T14:03:33Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 8,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "53deb7f311b470bbf71da48a926db2f7",
+      "title": "AliAkrami1375/Li-Translate",
+      "url": "https://github.com/AliAkrami1375/Li-Translate",
+      "source": "github",
+      "source_author": "AliAkrami1375",
+      "topics": [],
+      "score": 3,
+      "score_reason": "Low engagement and lacks innovative features in the current landscape.",
+      "posted": false,
+      "collected_at": "2026-07-19T14:03:41Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
@@ -22,26 +82,46 @@
       }
     },
     {
-      "id": "4fe7d8d6a0a0355b0f14df274f87a6a6",
-      "title": "tylerbroqs/sturna",
-      "url": "https://github.com/tylerbroqs/sturna",
+      "id": "fd3f691c2291c91cd232dec5f212d838",
+      "title": "MohamedNamper333/swarm-agent",
+      "url": "https://github.com/MohamedNamper333/swarm-agent",
       "source": "github",
-      "source_author": "tylerbroqs",
+      "source_author": "MohamedNamper333",
       "topics": [],
-      "score": 3.5,
-      "score_reason": "Similar to the previous repository, lacks context and engagement signals.",
+      "score": 2.5,
+      "score_reason": "Minimal engagement and appears to be an underdeveloped project.",
       "posted": false,
-      "collected_at": "2026-07-19T08:55:09Z",
+      "collected_at": "2026-07-19T14:03:43Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 2,
+        "stars": 1,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "8d6e37b821b522f8fcfbb74ee778ea75",
+      "title": "lgm59943/scraperapi-mcp-server",
+      "url": "https://github.com/lgm59943/scraperapi-mcp-server",
+      "source": "github",
+      "source_author": "lgm59943",
+      "topics": [],
+      "score": 2,
+      "score_reason": "Very low engagement and appears to be a basic project.",
+      "posted": false,
+      "collected_at": "2026-07-19T14:03:49Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
         "upvotes": 0
       }
     }
   ],
   "source": "github",
-  "updated_at": "2026-07-19T08:59:23Z"
+  "updated_at": "2026-07-19T14:07:33Z"
 }
