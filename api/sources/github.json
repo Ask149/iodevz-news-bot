@@ -1,37 +1,437 @@
 {
-  "count": 5,
+  "count": 24,
   "items": [
     {
-      "id": "f6ba026294e72ff149ddac041f0a6b46",
-      "title": "MegaTroll222/VOX-COLLAGE-BROLL",
-      "url": "https://github.com/MegaTroll222/VOX-COLLAGE-BROLL",
+      "id": "d6e9271d93c4bcc9f9ff5b19e52cca4b",
+      "title": "Codesteward/codesteward",
+      "url": "https://github.com/Codesteward/codesteward",
       "source": "github",
-      "source_author": "MegaTroll222",
+      "source_author": "Codesteward",
       "topics": [],
-      "score": 6,
-      "score_reason": "While it has some engagement, its novelty and relevance to developers is unclear.",
+      "score": 7,
+      "score_reason": "Higher engagement relative to others; offers practical utility.",
       "posted": false,
-      "collected_at": "2026-07-18T13:58:37Z",
+      "collected_at": "2026-07-19T04:04:53Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 44,
+        "stars": 61,
         "upvotes": 0
       }
     },
     {
-      "id": "04a870783776719ce5dfe198fb81fe6d",
-      "title": "SeanJ1ang/design-judge-skills",
-      "url": "https://github.com/SeanJ1ang/design-judge-skills",
+      "id": "733584e0bc169951e7ad5c750be77a0a",
+      "title": "lopopolo/harness-engineering",
+      "url": "https://github.com/lopopolo/harness-engineering",
       "source": "github",
-      "source_author": "SeanJ1ang",
+      "source_author": "lopopolo",
+      "topics": [],
+      "score": 6.5,
+      "score_reason": "Introduces a potentially useful engineering concept but lacks engagement.",
+      "posted": false,
+      "collected_at": "2026-07-19T04:04:37Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 201,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "4fa41f1307a57c2c1300d3f7ca84be30",
+      "title": "grayethanaods6426/swarmux-tmux-orchestrator",
+      "url": "https://github.com/grayethanaods6426/swarmux-tmux-orchestrator",
+      "source": "github",
+      "source_author": "grayethanaods6426",
+      "topics": [],
+      "score": 6,
+      "score_reason": "Some potential for productivity enhancement with average engagement.",
+      "posted": false,
+      "collected_at": "2026-07-19T04:04:44Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 10,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "c356d378646f1d5cfccc00c1ce53ed2e",
+      "title": "xiaolai/ai-cli-kickstarter",
+      "url": "https://github.com/xiaolai/ai-cli-kickstarter",
+      "source": "github",
+      "source_author": "xiaolai",
+      "topics": [],
+      "score": 5.5,
+      "score_reason": "Useful for CLI development but not highly novel.",
+      "posted": false,
+      "collected_at": "2026-07-19T04:04:40Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 8,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "03b94740131c0364399f47ec83133a5a",
+      "title": "Leonxlnx/kimi-code-desktop",
+      "url": "https://github.com/Leonxlnx/kimi-code-desktop",
+      "source": "github",
+      "source_author": "Leonxlnx",
       "topics": [],
       "score": 5,
-      "score_reason": "Moderate engagement, but lacks clear innovative aspect for developers.",
+      "score_reason": "Niche desktop app with some developer relevance, but low visibility.",
       "posted": false,
-      "collected_at": "2026-07-18T13:58:39Z",
+      "collected_at": "2026-07-19T04:04:40Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 9,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "dab4727d6cc6f3dbe014521a00153fd1",
+      "title": "ZacharyZhang-NY/Kigi-CLI",
+      "url": "https://github.com/ZacharyZhang-NY/Kigi-CLI",
+      "source": "github",
+      "source_author": "ZacharyZhang-NY",
+      "topics": [],
+      "score": 5,
+      "score_reason": "CLI tool that may help certain workflows but low engagement.",
+      "posted": false,
+      "collected_at": "2026-07-19T04:04:40Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 7,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "026c10f9183f69229a8509f9fc0d1246",
+      "title": "bytedoger/awesome-OpenPrice",
+      "url": "https://github.com/bytedoger/awesome-OpenPrice",
+      "source": "github",
+      "source_author": "bytedoger",
+      "topics": [],
+      "score": 5,
+      "score_reason": "unscored",
+      "posted": false,
+      "collected_at": "2026-07-19T04:04:36Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 17,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "342e182dcaafe2f874f4f1d05c2ed4bf",
+      "title": "aka-kika/hig-mcp",
+      "url": "https://github.com/aka-kika/hig-mcp",
+      "source": "github",
+      "source_author": "aka-kika",
+      "topics": [],
+      "score": 5,
+      "score_reason": "Another minor tool with limited visibility.",
+      "posted": false,
+      "collected_at": "2026-07-19T04:04:48Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 20,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "7ef63f0de7104fab26ffe8b91434b990",
+      "title": "EEliberto/Reset-macOS",
+      "url": "https://github.com/EEliberto/Reset-macOS",
+      "source": "github",
+      "source_author": "EEliberto",
+      "topics": [],
+      "score": 5,
+      "score_reason": "30 stars might indicate some utility, but overall engagement is low.",
+      "posted": false,
+      "collected_at": "2026-07-19T04:04:48Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 20,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "ec5df2c8921f000780d3e06c3d378a81",
+      "title": "flatkey-ai/flatkey-cli",
+      "url": "https://github.com/flatkey-ai/flatkey-cli",
+      "source": "github",
+      "source_author": "flatkey-ai",
+      "topics": [],
+      "score": 4.5,
+      "score_reason": "A CLI project with limited outreach and impact.",
+      "posted": false,
+      "collected_at": "2026-07-19T04:04:42Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 2,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "9b0eb3d2eb5e57b68c40e63d64f77243",
+      "title": "ymh3753201/ai-creator-talking-head-video",
+      "url": "https://github.com/ymh3753201/ai-creator-talking-head-video",
+      "source": "github",
+      "source_author": "ymh3753201",
+      "topics": [],
+      "score": 4,
+      "score_reason": "Niche application with low engagement signals.",
+      "posted": false,
+      "collected_at": "2026-07-19T04:04:42Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "d65e1ab3c6c2f162b766d1f92f8f8b37",
+      "title": "subashvelusamy/AI-ML-GenAI-InterviewQuestionsAnswers",
+      "url": "https://github.com/subashvelusamy/AI-ML-GenAI-InterviewQuestionsAnswers",
+      "source": "github",
+      "source_author": "subashvelusamy",
+      "topics": [],
+      "score": 4,
+      "score_reason": "Possible utility for interview preparation but limited impact.",
+      "posted": false,
+      "collected_at": "2026-07-19T04:04:39Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "0a7213f21d955b1f2e151fbbf6c5710a",
+      "title": "mileson/offline-ai-office-yellow-book",
+      "url": "https://github.com/mileson/offline-ai-office-yellow-book",
+      "source": "github",
+      "source_author": "mileson",
+      "topics": [],
+      "score": 4,
+      "score_reason": "Conceptually interesting but minimal engagement and low star count.",
+      "posted": false,
+      "collected_at": "2026-07-19T04:04:38Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 4,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "2fe7478885599cb4fd568340cf83a244",
+      "title": "abdulkashim444-lgtm/Sonique-Player",
+      "url": "https://github.com/abdulkashim444-lgtm/Sonique-Player",
+      "source": "github",
+      "source_author": "abdulkashim444-lgtm",
+      "topics": [],
+      "score": 3.5,
+      "score_reason": "Low engagement and unlikely to impact developers.",
+      "posted": false,
+      "collected_at": "2026-07-19T04:04:43Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 2,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "b8129d8fa6bbcb8504663bcafa080f98",
+      "title": "joeseesun/qiaomu-arxiv",
+      "url": "https://github.com/joeseesun/qiaomu-arxiv",
+      "source": "github",
+      "source_author": "joeseesun",
+      "topics": [],
+      "score": 3.5,
+      "score_reason": "Contains academic references but very low engagement.",
+      "posted": false,
+      "collected_at": "2026-07-19T04:04:38Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 4,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "2c97675e073048e6266436a956c93ec3",
+      "title": "sonnet5claude/Claude-Code-Sonnet-5-Free-Desktop",
+      "url": "https://github.com/sonnet5claude/Claude-Code-Sonnet-5-Free-Desktop",
+      "source": "github",
+      "source_author": "sonnet5claude",
+      "topics": [],
+      "score": 3.5,
+      "score_reason": "Provides a free resource, yet lacks immediate practical application and engagement.",
+      "posted": false,
+      "collected_at": "2026-07-19T04:04:34Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 11,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "12a65e5cc750c4220891acf6f2d0ea75",
+      "title": "SVGreg/skill-guard",
+      "url": "https://github.com/SVGreg/skill-guard",
+      "source": "github",
+      "source_author": "SVGreg",
+      "topics": [],
+      "score": 3,
+      "score_reason": "Very niche, low visibility or impact.",
+      "posted": false,
+      "collected_at": "2026-07-19T04:04:46Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "90428646f0f1c997855159f21e7a12e7",
+      "title": "atulpatel-net/GenAI-02",
+      "url": "https://github.com/atulpatel-net/GenAI-02",
+      "source": "github",
+      "source_author": "atulpatel-net",
+      "topics": [],
+      "score": 3,
+      "score_reason": "Very niche and low engagement.",
+      "posted": false,
+      "collected_at": "2026-07-19T04:04:39Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "c405ce80571155eb16c97658c16cab88",
+      "title": "jonnyeclectic/boost",
+      "url": "https://github.com/jonnyeclectic/boost",
+      "source": "github",
+      "source_author": "jonnyeclectic",
+      "topics": [],
+      "score": 3,
+      "score_reason": "Limited utility in developer tools with low activity.",
+      "posted": false,
+      "collected_at": "2026-07-19T04:04:46Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "6e3bc49132c37deb79192d122f120e86",
+      "title": "last-million/free-llm-hub",
+      "url": "https://github.com/last-million/free-llm-hub",
+      "source": "github",
+      "source_author": "last-million",
+      "topics": [],
+      "score": 3,
+      "score_reason": "A generic repository without a clear focus or innovative content.",
+      "posted": false,
+      "collected_at": "2026-07-19T04:04:34Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 8,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "09360779e2f8068422dced0077640b14",
+      "title": "the-very-pulse-of-that-machine/agent-nonsense",
+      "url": "https://github.com/the-very-pulse-of-that-machine/agent-nonsense",
+      "source": "github",
+      "source_author": "the-very-pulse-of-that-machine",
+      "topics": [],
+      "score": 3,
+      "score_reason": "The project appears vague and lacks definition, reducing potential interest.",
+      "posted": false,
+      "collected_at": "2026-07-19T04:04:34Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 7,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "74a61801a6dd182074ada7f4af5da177",
+      "title": "Aestheticsuraj234/chai-gpt-build",
+      "url": "https://github.com/Aestheticsuraj234/chai-gpt-build",
+      "source": "github",
+      "source_author": "Aestheticsuraj234",
+      "topics": [],
+      "score": 2.5,
+      "score_reason": "Lacks clear significance or engagement, likely limiting its interest to developers.",
+      "posted": false,
+      "collected_at": "2026-07-19T04:04:36Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
@@ -42,66 +442,46 @@
       }
     },
     {
-      "id": "4bfa36ec8157fe6fec3d872e83218ff9",
-      "title": "builtbyrehan/autofix-swarm",
-      "url": "https://github.com/builtbyrehan/autofix-swarm",
+      "id": "b2fa0fec3da757201bd349dc8831dd8d",
+      "title": "uefi2333/m365-native",
+      "url": "https://github.com/uefi2333/m365-native",
       "source": "github",
-      "source_author": "builtbyrehan",
+      "source_author": "uefi2333",
       "topics": [],
-      "score": 4,
-      "score_reason": "Another GitHub project without significant impact or engagement.",
+      "score": 2.5,
+      "score_reason": "Repository with little context or relevance to current developer issues.",
       "posted": false,
-      "collected_at": "2026-07-18T13:58:36Z",
+      "collected_at": "2026-07-19T04:04:35Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 1,
+        "stars": 24,
         "upvotes": 0
       }
     },
     {
-      "id": "6e49e581897c06f5fe269c7067b4cedc",
-      "title": "govindpathak18/genAI",
-      "url": "https://github.com/govindpathak18/genAI",
+      "id": "68706248fcfa8a8c73a7111905bd1d25",
+      "title": "Codeteamer10/Devin",
+      "url": "https://github.com/Codeteamer10/Devin",
       "source": "github",
-      "source_author": "govindpathak18",
+      "source_author": "Codeteamer10",
       "topics": [],
-      "score": 4,
-      "score_reason": "Basic GitHub project, lacking substantial engagement or novelty.",
+      "score": 2,
+      "score_reason": "No engagement or practical implication for developers.",
       "posted": false,
-      "collected_at": "2026-07-18T13:58:31Z",
+      "collected_at": "2026-07-19T04:04:51Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 1,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "041bfb285ce84582c6ff4b6a206cfb58",
-      "title": "zhyRRrr/devin-",
-      "url": "https://github.com/zhyRRrr/devin-",
-      "source": "github",
-      "source_author": "zhyRRrr",
-      "topics": [],
-      "score": 3,
-      "score_reason": "Minimal engagement and no distinctive contribution to the developer community.",
-      "posted": false,
-      "collected_at": "2026-07-18T13:58:43Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 1,
+        "stars": 0,
         "upvotes": 0
       }
     }
   ],
   "source": "github",
-  "updated_at": "2026-07-18T14:03:02Z"
+  "updated_at": "2026-07-19T04:08:43Z"
 }
