@@ -1,97 +1,37 @@
 {
-  "count": 5,
+  "count": 4,
   "items": [
     {
-      "id": "b553aac18356e616e11709e3b18f6801",
-      "title": "18534516725/llm-api-setup-guides",
-      "url": "https://github.com/18534516725/llm-api-setup-guides",
+      "id": "292504b5ba77fffb17fa8f292bd2f332",
+      "title": "EthanXiang777/circuit-framework",
+      "url": "https://github.com/EthanXiang777/circuit-framework",
       "source": "github",
-      "source_author": "18534516725",
-      "topics": [],
-      "score": 5.5,
-      "score_reason": "Resource for LLM setup but not particularly innovative or engaging.",
-      "posted": false,
-      "collected_at": "2026-07-20T09:43:02Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 15,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "404e1b5dfa1c27f686ad033dda714031",
-      "title": "duolahypercho/codex-router",
-      "url": "https://github.com/duolahypercho/codex-router",
-      "source": "github",
-      "source_author": "duolahypercho",
+      "source_author": "EthanXiang777",
       "topics": [],
       "score": 5,
-      "score_reason": "New project but with limited engagement and unclear immediate impact.",
+      "score_reason": "unscored",
       "posted": false,
-      "collected_at": "2026-07-20T09:42:51Z",
+      "collected_at": "2026-07-20T14:40:20Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 31,
+        "stars": 486,
         "upvotes": 0
       }
     },
     {
-      "id": "a5944cf8c535cadd2bd02551fe43e6c7",
-      "title": "crispvibe/Devin-Model-Pro",
-      "url": "https://github.com/crispvibe/Devin-Model-Pro",
+      "id": "7691713d1e74279a89004dce75a5c2b9",
+      "title": "ghodkevrushabh/genai-integrated-vulnerabilty-assesment-app",
+      "url": "https://github.com/ghodkevrushabh/genai-integrated-vulnerabilty-assesment-app",
       "source": "github",
-      "source_author": "crispvibe",
+      "source_author": "ghodkevrushabh",
       "topics": [],
-      "score": 4.5,
-      "score_reason": "New repo with low engagement; unclear value to the developer community.",
+      "score": 5,
+      "score_reason": "unscored",
       "posted": false,
-      "collected_at": "2026-07-20T09:43:05Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 6,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "b410e0a1ed0bec0e3d30978e4a29e8f4",
-      "title": "Pensioner-11/ShotPlan",
-      "url": "https://github.com/Pensioner-11/ShotPlan",
-      "source": "github",
-      "source_author": "Pensioner-11",
-      "topics": [],
-      "score": 4,
-      "score_reason": "Lacks context and engagement, making it less relevant for developers.",
-      "posted": false,
-      "collected_at": "2026-07-20T09:42:55Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 2,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "344f8d9cb615631ca1682a6112915026",
-      "title": "zouhall/devin-remote",
-      "url": "https://github.com/zouhall/devin-remote",
-      "source": "github",
-      "source_author": "zouhall",
-      "topics": [],
-      "score": 3,
-      "score_reason": "Minimal engagement and unclear application for developers.",
-      "posted": false,
-      "collected_at": "2026-07-20T09:43:05Z",
+      "collected_at": "2026-07-20T14:40:22Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
@@ -100,8 +40,48 @@
         "stars": 1,
         "upvotes": 0
       }
+    },
+    {
+      "id": "5d8567e6d76bda1d3fbd2245a4192401",
+      "title": "Lunatic-A/Music_Generation_AI",
+      "url": "https://github.com/Lunatic-A/Music_Generation_AI",
+      "source": "github",
+      "source_author": "Lunatic-A",
+      "topics": [],
+      "score": 5,
+      "score_reason": "unscored",
+      "posted": false,
+      "collected_at": "2026-07-20T14:40:25Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "d6b771be662f3ab28820443eddc79a05",
+      "title": "0xsline/OpenChatCut",
+      "url": "https://github.com/0xsline/OpenChatCut",
+      "source": "github",
+      "source_author": "0xsline",
+      "topics": [],
+      "score": 1,
+      "score_reason": "Low engagement and niche topic, not likely to interest most developers.",
+      "posted": false,
+      "collected_at": "2026-07-20T14:40:28Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 77,
+        "upvotes": 0
+      }
     }
   ],
   "source": "github",
-  "updated_at": "2026-07-20T09:47:34Z"
+  "updated_at": "2026-07-20T14:44:30Z"
 }
