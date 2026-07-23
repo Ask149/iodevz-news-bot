@@ -1,57 +1,157 @@
 {
-  "count": 5,
+  "count": 13,
   "items": [
     {
-      "id": "061e5a19664e722721c33794943a5295",
-      "title": "chenjun198711/if-book-could-speak-video-generator",
-      "url": "https://github.com/chenjun198711/if-book-could-speak-video-generator",
+      "id": "f204a120d0e089193f5717fce13ca2c7",
+      "title": "GERED36/Lossless-2026",
+      "url": "https://github.com/GERED36/Lossless-2026",
       "source": "github",
-      "source_author": "chenjun198711",
+      "source_author": "GERED36",
+      "topics": [],
+      "score": 6,
+      "score_reason": "Focus on lossless transitions could be relevant, though engagement is low.",
+      "posted": false,
+      "collected_at": "2026-07-23T14:42:24Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 45,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "3a1d82c0b78ad8f777231c7318d011d7",
+      "title": "TheDustJa/gpt-outlook-register",
+      "url": "https://github.com/TheDustJa/gpt-outlook-register",
+      "source": "github",
+      "source_author": "TheDustJa",
       "topics": [],
       "score": 5,
-      "score_reason": "Generates videos based on text, which is imaginative but less significant for developer tools.",
+      "score_reason": "Generic tool with limited engagement, lacks compelling innovation.",
       "posted": false,
-      "collected_at": "2026-07-23T09:09:45Z",
+      "collected_at": "2026-07-23T14:42:18Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 3,
+        "stars": 16,
         "upvotes": 0
       }
     },
     {
-      "id": "dd02132930cce4c6b8cd3eee4b6daf5f",
-      "title": "rahulgupta0-dev/swarmmind",
-      "url": "https://github.com/rahulgupta0-dev/swarmmind",
+      "id": "e152f02517fad2633154cb710030ad46",
+      "title": "chouhanindustries/copperhead",
+      "url": "https://github.com/chouhanindustries/copperhead",
       "source": "github",
-      "source_author": "rahulgupta0-dev",
+      "source_author": "chouhanindustries",
       "topics": [],
-      "score": 4,
-      "score_reason": "Another repository that doesn’t present a compelling use case or novelty.",
+      "score": 5,
+      "score_reason": "More engagement than others but lacks clear novelty or impact on developer workflows.",
       "posted": false,
-      "collected_at": "2026-07-23T09:09:42Z",
+      "collected_at": "2026-07-23T14:42:31Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 3,
+        "stars": 13,
         "upvotes": 0
       }
     },
     {
-      "id": "37da929ed40e87117ea28a6600a7fcc3",
-      "title": "dtarena/genai",
-      "url": "https://github.com/dtarena/genai",
+      "id": "2ec232e15e8cbba23ee26a5056b9f75d",
+      "title": "nikandr-surkov/ai-saas-starter",
+      "url": "https://github.com/nikandr-surkov/ai-saas-starter",
       "source": "github",
-      "source_author": "dtarena",
+      "source_author": "nikandr-surkov",
+      "topics": [],
+      "score": 4.5,
+      "score_reason": "Basic starter template for AI SaaS；limited engagement suggests niche interest.",
+      "posted": false,
+      "collected_at": "2026-07-23T14:42:29Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 2,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "ea1de2ffe8b28a1ff225f34ece84b4a9",
+      "title": "kyegomez/Latent-MoE",
+      "url": "https://github.com/kyegomez/Latent-MoE",
+      "source": "github",
+      "source_author": "kyegomez",
       "topics": [],
       "score": 4,
-      "score_reason": "The repository presents a new project but lacks context or substantial information.",
+      "score_reason": "Potentially interesting project but minimal engagement suggests limited impact.",
       "posted": false,
-      "collected_at": "2026-07-23T09:09:37Z",
+      "collected_at": "2026-07-23T14:42:23Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 13,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "d2b563c555ec8c6774f434e9490a8485",
+      "title": "bish-x/creator-vibe",
+      "url": "https://github.com/bish-x/creator-vibe",
+      "source": "github",
+      "source_author": "bish-x",
+      "topics": [],
+      "score": 4,
+      "score_reason": "May serve a niche purpose, but lacks broad appeal.",
+      "posted": false,
+      "collected_at": "2026-07-23T14:42:17Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 16,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "352f5d104825abdf180f85fb2378f575",
+      "title": "songhai-dg/review-write",
+      "url": "https://github.com/songhai-dg/review-write",
+      "source": "github",
+      "source_author": "songhai-dg",
+      "topics": [],
+      "score": 4,
+      "score_reason": "Tool aimed at writing reviews；generic functionality with little community traction.",
+      "posted": false,
+      "collected_at": "2026-07-23T14:42:30Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 4,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "05f54515d50c62c2f15e3af83092a56a",
+      "title": "Seeeeep1/multimodal-agentic-rag",
+      "url": "https://github.com/Seeeeep1/multimodal-agentic-rag",
+      "source": "github",
+      "source_author": "Seeeeep1",
+      "topics": [],
+      "score": 4,
+      "score_reason": "Low engagement and limited scope may reduce its significance.",
+      "posted": false,
+      "collected_at": "2026-07-23T14:42:25Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
@@ -62,46 +162,106 @@
       }
     },
     {
-      "id": "7ea89983da09ef42dd0d5fe7ab961045",
-      "title": "thuupx/lunge",
-      "url": "https://github.com/thuupx/lunge",
+      "id": "670a79ed59e78c3a3163ed26336b9ff5",
+      "title": "hailaobao2026/ai-teaching-video-platform",
+      "url": "https://github.com/hailaobao2026/ai-teaching-video-platform",
       "source": "github",
-      "source_author": "thuupx",
+      "source_author": "hailaobao2026",
       "topics": [],
       "score": 3,
-      "score_reason": "Lacks detail and engagement, providing little to intrigue developers.",
+      "score_reason": "Very few signals of interest, likely limited relevance for developers.",
       "posted": false,
-      "collected_at": "2026-07-23T09:09:47Z",
+      "collected_at": "2026-07-23T14:42:24Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 2,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "166d24282a3c8f51cfbb96757c51f6f5",
+      "title": "W-Mai/atman",
+      "url": "https://github.com/W-Mai/atman",
+      "source": "github",
+      "source_author": "W-Mai",
+      "topics": [],
+      "score": 3,
+      "score_reason": "Low visibility and engagement indicate limited significance or novelty.",
+      "posted": false,
+      "collected_at": "2026-07-23T14:42:16Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 7,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "c35c2b982b4b12cc6845a99662edc273",
+      "title": "kingleee89-source/Pass-The-CCA-F",
+      "url": "https://github.com/kingleee89-source/Pass-The-CCA-F",
+      "source": "github",
+      "source_author": "kingleee89-source",
+      "topics": [],
+      "score": 3,
+      "score_reason": "Little engagement suggests limited interest; lacks clear innovation.",
+      "posted": false,
+      "collected_at": "2026-07-23T14:42:16Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 8,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "5c72ed6e7b7c2f178a8c1fb1ed16df53",
+      "title": "pc-style/skill-view",
+      "url": "https://github.com/pc-style/skill-view",
+      "source": "github",
+      "source_author": "pc-style",
+      "topics": [],
+      "score": 3,
+      "score_reason": "Engagement level indicates this tool may not be widely beneficial.",
+      "posted": false,
+      "collected_at": "2026-07-23T14:42:29Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 38,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "301a89d5fa5cd4cdd87a53bbc0d3cef7",
+      "title": "Shubhamrathod3862/Genaitraining1",
+      "url": "https://github.com/Shubhamrathod3862/Genaitraining1",
+      "source": "github",
+      "source_author": "Shubhamrathod3862",
+      "topics": [],
+      "score": 2,
+      "score_reason": "Very low engagement and novelty, indicating little developer interest.",
+      "posted": false,
+      "collected_at": "2026-07-23T14:42:22Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
         "stars": 1,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "1bf68bc7c95d3f9dc01c492760cda928",
-      "title": "0xtresser/Transcript-of-Liang-Wenfengs-DeepSeek-Founder-4-Hour-Investor-Meeting",
-      "url": "https://github.com/0xtresser/Transcript-of-Liang-Wenfengs-DeepSeek-Founder-4-Hour-Investor-Meeting",
-      "source": "github",
-      "source_author": "0xtresser",
-      "topics": [],
-      "score": 3,
-      "score_reason": "Contains a transcript that may not hold significant value for broader developer audience.",
-      "posted": false,
-      "collected_at": "2026-07-23T09:09:36Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 5,
         "upvotes": 0
       }
     }
   ],
   "source": "github",
-  "updated_at": "2026-07-23T09:13:34Z"
+  "updated_at": "2026-07-23T14:46:56Z"
 }
