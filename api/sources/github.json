@@ -1,117 +1,57 @@
 {
-  "count": 9,
+  "count": 21,
   "items": [
     {
-      "id": "500514887f23cb389049dbdf94a75513",
-      "title": "levi-qiao/octopus-skill",
-      "url": "https://github.com/levi-qiao/octopus-skill",
+      "id": "2f9ce1017339cc2ecb5180730a666e85",
+      "title": "hahhforest/pi-textbook",
+      "url": "https://github.com/hahhforest/pi-textbook",
       "source": "github",
-      "source_author": "levi-qiao",
+      "source_author": "hahhforest",
+      "topics": [],
+      "score": 6,
+      "score_reason": "Educational project, higher interest indicated by stars.",
+      "posted": false,
+      "collected_at": "2026-07-23T03:55:58Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 134,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "62393a8787fdd7014dbeec3c9cbf2841",
+      "title": "RainPPR/china-llms-anecdote-0721",
+      "url": "https://github.com/RainPPR/china-llms-anecdote-0721",
+      "source": "github",
+      "source_author": "RainPPR",
+      "topics": [],
+      "score": 6,
+      "score_reason": "Anecdotal resource may intrigue but remains niche.",
+      "posted": false,
+      "collected_at": "2026-07-23T03:55:58Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 113,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "b37f7da732aa5194f265ff058d08a5c5",
+      "title": "alphaparkinc/genpark-open-source-local-agent-orchestrator-skill",
+      "url": "https://github.com/alphaparkinc/genpark-open-source-local-agent-orchestrator-skill",
+      "source": "github",
+      "source_author": "alphaparkinc",
       "topics": [],
       "score": 5,
-      "score_reason": "A new skill for AI but lacks engagement and context about its unique benefits.",
+      "score_reason": "Orchestrator skill could be useful, but lacks user feedback.",
       "posted": false,
-      "collected_at": "2026-07-22T14:35:27Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 28,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "400ffbc304bd835bbd8f0e15dba192fa",
-      "title": "Anilmidna/EY_GenAI_3D",
-      "url": "https://github.com/Anilmidna/EY_GenAI_3D",
-      "source": "github",
-      "source_author": "Anilmidna",
-      "topics": [],
-      "score": 4,
-      "score_reason": "Low engagement and unclear value proposition, with minimal impact on developer workflows.",
-      "posted": false,
-      "collected_at": "2026-07-22T14:35:33Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 1,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "b9a594e4763497b7413f90b808d3d650",
-      "title": "chius-me/grok-collage-broll",
-      "url": "https://github.com/chius-me/grok-collage-broll",
-      "source": "github",
-      "source_author": "chius-me",
-      "topics": [],
-      "score": 3,
-      "score_reason": "Limited information on functionality; lacks relevance to current trends in AI.",
-      "posted": false,
-      "collected_at": "2026-07-22T14:35:36Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 2,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "40ad888c9c16ea6aa3c1e8de1e99a4c6",
-      "title": "sairajbaman/agent-swarm",
-      "url": "https://github.com/sairajbaman/agent-swarm",
-      "source": "github",
-      "source_author": "sairajbaman",
-      "topics": [],
-      "score": 3,
-      "score_reason": "Engagement is low with minimal details on practicality or impact.",
-      "posted": false,
-      "collected_at": "2026-07-22T14:35:38Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 2,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "b5ac0f10ea256eb2bb7f9b7d84e19608",
-      "title": "SmetDenis/openwebui-token-usage-display",
-      "url": "https://github.com/SmetDenis/openwebui-token-usage-display",
-      "source": "github",
-      "source_author": "SmetDenis",
-      "topics": [],
-      "score": 3,
-      "score_reason": "Very niche topic; unlikely to significantly influence the developer community.",
-      "posted": false,
-      "collected_at": "2026-07-22T14:35:37Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 2,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "571b552f028ccef7525b9634981f6824",
-      "title": "muippt/mu-pdf-converter",
-      "url": "https://github.com/muippt/mu-pdf-converter",
-      "source": "github",
-      "source_author": "muippt",
-      "topics": [],
-      "score": 2,
-      "score_reason": "Low engagement and a generic tool without a significant novel angle.",
-      "posted": false,
-      "collected_at": "2026-07-22T14:35:42Z",
+      "collected_at": "2026-07-23T03:55:53Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
@@ -122,36 +62,36 @@
       }
     },
     {
-      "id": "a64105b91c07943aef9d1590e2de2814",
-      "title": "Yila-AI/sci-ssci-skills",
-      "url": "https://github.com/Yila-AI/sci-ssci-skills",
+      "id": "43722e90c8245a847af032df72d50952",
+      "title": "erayendes/app-store-connect-mcp",
+      "url": "https://github.com/erayendes/app-store-connect-mcp",
       "source": "github",
-      "source_author": "Yila-AI",
+      "source_author": "erayendes",
       "topics": [],
-      "score": 2,
-      "score_reason": "Although it has some stars, low engagement indicates limited interest in the broader developer community.",
+      "score": 5,
+      "score_reason": "Has some utility for app store connectivity, but minimal excitement.",
       "posted": false,
-      "collected_at": "2026-07-22T14:35:42Z",
+      "collected_at": "2026-07-23T03:55:54Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 45,
+        "stars": 21,
         "upvotes": 0
       }
     },
     {
-      "id": "e620402a13d5d2810186cfacec4be5d2",
-      "title": "inbusiness23/fde-skill",
-      "url": "https://github.com/inbusiness23/fde-skill",
+      "id": "70ab82ba830ec9347cfe2eb5421973d4",
+      "title": "chrisliu298/awesome-rl-for-video-generation",
+      "url": "https://github.com/chrisliu298/awesome-rl-for-video-generation",
       "source": "github",
-      "source_author": "inbusiness23",
+      "source_author": "chrisliu298",
       "topics": [],
-      "score": 2,
-      "score_reason": "Lacks sufficient details to discern its novelty or relevance to developer tools.",
+      "score": 4,
+      "score_reason": "Compilation of video generation resources, but not significantly impactful.",
       "posted": false,
-      "collected_at": "2026-07-22T14:35:41Z",
+      "collected_at": "2026-07-23T03:55:48Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
@@ -162,26 +102,326 @@
       }
     },
     {
-      "id": "2eacada94cad2e3afc93d6506abc3f2b",
-      "title": "CaiJingLong/devin-gateway",
-      "url": "https://github.com/CaiJingLong/devin-gateway",
+      "id": "8b75e3ee26687d0ca5af3e9d73f9b926",
+      "title": "SELAT-AI/selat-openclaw-skills",
+      "url": "https://github.com/SELAT-AI/selat-openclaw-skills",
       "source": "github",
-      "source_author": "CaiJingLong",
+      "source_author": "SELAT-AI",
+      "topics": [],
+      "score": 4,
+      "score_reason": "Skills for specific AI applications but limited impact.",
+      "posted": false,
+      "collected_at": "2026-07-23T03:55:53Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 2,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "6300e28372052b14fab052a3d157f665",
+      "title": "jack112806/FrameForge",
+      "url": "https://github.com/jack112806/FrameForge",
+      "source": "github",
+      "source_author": "jack112806",
+      "topics": [],
+      "score": 3,
+      "score_reason": "Minimal engagement suggests low interest or relevance.",
+      "posted": false,
+      "collected_at": "2026-07-23T03:55:49Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "a9c6afe407c1c2a60c21511627616c04",
+      "title": "bfjnbvf/kimi-code-monitor",
+      "url": "https://github.com/bfjnbvf/kimi-code-monitor",
+      "source": "github",
+      "source_author": "bfjnbvf",
+      "topics": [],
+      "score": 3,
+      "score_reason": "Basic code monitoring tool lacks novelty and relevance.",
+      "posted": false,
+      "collected_at": "2026-07-23T03:55:46Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 19,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "13566480575518e48be6d53a825de784",
+      "title": "adrianmjim/oh-my-devin",
+      "url": "https://github.com/adrianmjim/oh-my-devin",
+      "source": "github",
+      "source_author": "adrianmjim",
+      "topics": [],
+      "score": 3,
+      "score_reason": "Non-descriptive repository with no standout features.",
+      "posted": false,
+      "collected_at": "2026-07-23T03:55:56Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "f60c62ec028efa925525fd4a9b9cc2e2",
+      "title": "DevineEnukorah/DevineEnukorah",
+      "url": "https://github.com/DevineEnukorah/DevineEnukorah",
+      "source": "github",
+      "source_author": "DevineEnukorah",
+      "topics": [],
+      "score": 3,
+      "score_reason": "Lacks a clear focus or purpose, impacting relevance.",
+      "posted": false,
+      "collected_at": "2026-07-23T03:55:56Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "4d8d21b251b737c542ae81d679429d44",
+      "title": "zzw4257/vitrine",
+      "url": "https://github.com/zzw4257/vitrine",
+      "source": "github",
+      "source_author": "zzw4257",
+      "topics": [],
+      "score": 3,
+      "score_reason": "Basic project with low potential interest.",
+      "posted": false,
+      "collected_at": "2026-07-23T03:55:55Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "daf3c9424d93b7e818ce43eb9598996c",
+      "title": "cyrus-lang/SKILLS.md",
+      "url": "https://github.com/cyrus-lang/SKILLS.md",
+      "source": "github",
+      "source_author": "cyrus-lang",
+      "topics": [],
+      "score": 3,
+      "score_reason": "Standard skill documentation without innovative features.",
+      "posted": false,
+      "collected_at": "2026-07-23T03:55:52Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "6e6844503b34d9c9ce3d659c49d97c59",
+      "title": "StructuPath/herdr-swarm",
+      "url": "https://github.com/StructuPath/herdr-swarm",
+      "source": "github",
+      "source_author": "StructuPath",
+      "topics": [],
+      "score": 3,
+      "score_reason": "Another low-engagement project, lacking in uniqueness.",
+      "posted": false,
+      "collected_at": "2026-07-23T03:55:50Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "cb6cc0ffb6f5d31549ec31ffcb84dec4",
+      "title": "nwneel/Video-ChatGPT",
+      "url": "https://github.com/nwneel/Video-ChatGPT",
+      "source": "github",
+      "source_author": "nwneel",
+      "topics": [],
+      "score": 2,
+      "score_reason": "Another GitHub project with limited scope or significant novelty.",
+      "posted": false,
+      "collected_at": "2026-07-23T03:55:42Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 15,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "7c116a91cc3bb2146dad1aa6bd493d29",
+      "title": "aovestdipaperino/plank",
+      "url": "https://github.com/aovestdipaperino/plank",
+      "source": "github",
+      "source_author": "aovestdipaperino",
+      "topics": [],
+      "score": 2,
+      "score_reason": "Minimal information provided, unlikely to capture developer interest.",
+      "posted": false,
+      "collected_at": "2026-07-23T03:55:44Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 14,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "43d82040b6f58f597281f95ac059a348",
+      "title": "xhyumiracle/tg-claude-bot",
+      "url": "https://github.com/xhyumiracle/tg-claude-bot",
+      "source": "github",
+      "source_author": "xhyumiracle",
+      "topics": [],
+      "score": 2,
+      "score_reason": "GitHub repo with little information doesn't engage interest significantly.",
+      "posted": false,
+      "collected_at": "2026-07-23T03:55:40Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 8,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "4c20bf650040472299f8655ca1d9681c",
+      "title": "kernelvale/leetcode-hot100",
+      "url": "https://github.com/kernelvale/leetcode-hot100",
+      "source": "github",
+      "source_author": "kernelvale",
+      "topics": [],
+      "score": 2,
+      "score_reason": "Like previous, offers a small addition in a crowded area.",
+      "posted": false,
+      "collected_at": "2026-07-23T03:55:41Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 15,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "bee5b2c62e0d34b5635c3e26c5df962e",
+      "title": "fuzhengwei/WaLiAPI",
+      "url": "https://github.com/fuzhengwei/WaLiAPI",
+      "source": "github",
+      "source_author": "fuzhengwei",
+      "topics": [],
+      "score": 2,
+      "score_reason": "Similar to others, lacks notable novelty or engagement.",
+      "posted": false,
+      "collected_at": "2026-07-23T03:55:41Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 14,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "76d5eeea39bb4aee53752111eb34e430",
+      "title": "hyhang915/gptfree-register",
+      "url": "https://github.com/hyhang915/gptfree-register",
+      "source": "github",
+      "source_author": "hyhang915",
+      "topics": [],
+      "score": 2,
+      "score_reason": "GitHub repo with no apparent impact on development workflows.",
+      "posted": false,
+      "collected_at": "2026-07-23T03:55:42Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 27,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "533ffe44163f7efd0abd92685035a43d",
+      "title": "glanderness/GPT5.6-Router",
+      "url": "https://github.com/glanderness/GPT5.6-Router",
+      "source": "github",
+      "source_author": "glanderness",
+      "topics": [],
+      "score": 2,
+      "score_reason": "No strong relevance or engagement, typical of routine projects.",
+      "posted": false,
+      "collected_at": "2026-07-23T03:55:42Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 17,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "515e7b6f69f851766dfe45f1853595d6",
+      "title": "IshanGaikwad/GenAI-Quality-Lab",
+      "url": "https://github.com/IshanGaikwad/GenAI-Quality-Lab",
+      "source": "github",
+      "source_author": "IshanGaikwad",
       "topics": [],
       "score": 1,
-      "score_reason": "Unclear value proposition and limited potential impact on developer workflows.",
+      "score_reason": "Low engagement with limited content likely makes it uninteresting.",
       "posted": false,
-      "collected_at": "2026-07-22T14:35:44Z",
+      "collected_at": "2026-07-23T03:55:45Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 1,
+        "stars": 2,
         "upvotes": 0
       }
     }
   ],
   "source": "github",
-  "updated_at": "2026-07-22T14:41:02Z"
+  "updated_at": "2026-07-23T04:00:30Z"
 }
