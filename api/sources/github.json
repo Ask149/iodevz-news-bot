@@ -1,17 +1,57 @@
 {
-  "count": 19,
+  "count": 11,
   "items": [
     {
-      "id": "de15483920cf7cadf1b290edc9d64576",
-      "title": "carrossoni/tdc-mlflow-genai-governance",
-      "url": "https://github.com/carrossoni/tdc-mlflow-genai-governance",
+      "id": "6122e18373a9c6de622f75223c630b1f",
+      "title": "24KaratAu/openhub",
+      "url": "https://github.com/24KaratAu/openhub",
       "source": "github",
-      "source_author": "carrossoni",
+      "source_author": "24KaratAu",
+      "topics": [],
+      "score": 6,
+      "score_reason": "Moderate engagement; could be interesting to developers.",
+      "posted": false,
+      "collected_at": "2026-07-24T09:04:44Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 13,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "8392d8f480ae5206dbe15743c0783f9c",
+      "title": "izeigerman/claude-thermos",
+      "url": "https://github.com/izeigerman/claude-thermos",
+      "source": "github",
+      "source_author": "izeigerman",
       "topics": [],
       "score": 5,
       "score_reason": "unscored",
       "posted": false,
-      "collected_at": "2026-07-24T03:55:26Z",
+      "collected_at": "2026-07-24T09:04:28Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 94,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "c8f6f6aa07d4f1ba4d61f63d0be9249f",
+      "title": "luyx-66/llm-api-cost-calculator",
+      "url": "https://github.com/luyx-66/llm-api-cost-calculator",
+      "source": "github",
+      "source_author": "luyx-66",
+      "topics": [],
+      "score": 5,
+      "score_reason": "Potential impact for developers but minimal engagement and novelty.",
+      "posted": false,
+      "collected_at": "2026-07-24T09:04:37Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
@@ -22,16 +62,116 @@
       }
     },
     {
-      "id": "34524673d97179906c5d5c5425d298ce",
-      "title": "noblehacks/frenemy",
-      "url": "https://github.com/noblehacks/frenemy",
+      "id": "8643c1ee04cf59752d2151d0aca1f818",
+      "title": "2001056/skills-md",
+      "url": "https://github.com/2001056/skills-md",
       "source": "github",
-      "source_author": "noblehacks",
+      "source_author": "2001056",
       "topics": [],
-      "score": 5,
-      "score_reason": "unscored",
+      "score": 4,
+      "score_reason": "Slightly relevant concept but no interest shown in engagement.",
       "posted": false,
-      "collected_at": "2026-07-24T03:55:22Z",
+      "collected_at": "2026-07-24T09:04:42Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 2,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "aa51d084c85348f413c29ac03f0cac30",
+      "title": "ponomr/thinking-toolkit",
+      "url": "https://github.com/ponomr/thinking-toolkit",
+      "source": "github",
+      "source_author": "ponomr",
+      "topics": [],
+      "score": 4,
+      "score_reason": "Has some potential but lacks engagement and established relevance.",
+      "posted": false,
+      "collected_at": "2026-07-24T09:04:43Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 3,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "ee031d9ac12e3f972b47ce9bc65dd9fc",
+      "title": "replynodes/replynodes-mcp",
+      "url": "https://github.com/replynodes/replynodes-mcp",
+      "source": "github",
+      "source_author": "replynodes",
+      "topics": [],
+      "score": 4,
+      "score_reason": "Some relevance but very low engagement and unknown impact.",
+      "posted": false,
+      "collected_at": "2026-07-24T09:04:43Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 3,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "c3e32019c9dd638fc41e7958a46d28ef",
+      "title": "NullLabTests/t3-t4-t5-swarm",
+      "url": "https://github.com/NullLabTests/t3-t4-t5-swarm",
+      "source": "github",
+      "source_author": "NullLabTests",
+      "topics": [],
+      "score": 3,
+      "score_reason": "Minimal exposure and relevance to current developer needs.",
+      "posted": false,
+      "collected_at": "2026-07-24T09:04:39Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 3,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "3b2b01fcb2488ad93654a567043e6c77",
+      "title": "Tiger3807861189/j-space-skills",
+      "url": "https://github.com/Tiger3807861189/j-space-skills",
+      "source": "github",
+      "source_author": "Tiger3807861189",
+      "topics": [],
+      "score": 3,
+      "score_reason": "Lacks engagement and significant relevance.",
+      "posted": false,
+      "collected_at": "2026-07-24T09:04:29Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 8,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "7e42cb44ad7592a2129e6e232fdb0279",
+      "title": "NulightJens/humanizer-stack",
+      "url": "https://github.com/NulightJens/humanizer-stack",
+      "source": "github",
+      "source_author": "NulightJens",
+      "topics": [],
+      "score": 3,
+      "score_reason": "Lacks engagement and no clear novelty or impact.",
+      "posted": false,
+      "collected_at": "2026-07-24T09:04:29Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
@@ -42,346 +182,46 @@
       }
     },
     {
-      "id": "43316fc6d73fbf24619db40ce7a7d0ee",
-      "title": "as8486/code-translator",
-      "url": "https://github.com/as8486/code-translator",
+      "id": "b3ffff227319ffc5a45d8b783d158313",
+      "title": "dulcean/RESPIRE",
+      "url": "https://github.com/dulcean/RESPIRE",
       "source": "github",
-      "source_author": "as8486",
-      "topics": [],
-      "score": 5,
-      "score_reason": "unscored",
-      "posted": false,
-      "collected_at": "2026-07-24T03:55:26Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 2,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "3f66e8b51e1b2ca08c4d9c87131eb2e7",
-      "title": "tejabhanu2405-coder/voicebox-AI",
-      "url": "https://github.com/tejabhanu2405-coder/voicebox-AI",
-      "source": "github",
-      "source_author": "tejabhanu2405-coder",
-      "topics": [],
-      "score": 5,
-      "score_reason": "unscored",
-      "posted": false,
-      "collected_at": "2026-07-24T03:55:30Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 1,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "acd25a02495354ffee98492a40baad98",
-      "title": "rughmax2-ai/Suno-Post-Processor-Provenence",
-      "url": "https://github.com/rughmax2-ai/Suno-Post-Processor-Provenence",
-      "source": "github",
-      "source_author": "rughmax2-ai",
-      "topics": [],
-      "score": 5,
-      "score_reason": "unscored",
-      "posted": false,
-      "collected_at": "2026-07-24T03:55:30Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 1,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "d48b6c7cf97553b575db0841a5834659",
-      "title": "oil-oil/kimi",
-      "url": "https://github.com/oil-oil/kimi",
-      "source": "github",
-      "source_author": "oil-oil",
-      "topics": [],
-      "score": 5,
-      "score_reason": "unscored",
-      "posted": false,
-      "collected_at": "2026-07-24T03:55:27Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 8,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "e3f33ae64c2758b54e99b7e108bdd36e",
-      "title": "sjlgaga/HeadCast",
-      "url": "https://github.com/sjlgaga/HeadCast",
-      "source": "github",
-      "source_author": "sjlgaga",
-      "topics": [],
-      "score": 5,
-      "score_reason": "unscored",
-      "posted": false,
-      "collected_at": "2026-07-24T03:55:29Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 2,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "1b89163d199989d60ac7a3004212dd74",
-      "title": "dandandujie/Farside",
-      "url": "https://github.com/dandandujie/Farside",
-      "source": "github",
-      "source_author": "dandandujie",
-      "topics": [],
-      "score": 5,
-      "score_reason": "unscored",
-      "posted": false,
-      "collected_at": "2026-07-24T03:55:27Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 8,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "69cfee33557f3caabd859cddb6cccded",
-      "title": "crafter-station/remotion-clone-video",
-      "url": "https://github.com/crafter-station/remotion-clone-video",
-      "source": "github",
-      "source_author": "crafter-station",
-      "topics": [],
-      "score": 4.5,
-      "score_reason": "Some engagement, yet limited impact on developer workflows.",
-      "posted": false,
-      "collected_at": "2026-07-24T03:55:36Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 11,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "d69a58e6a063415065306135d4f08e57",
-      "title": "rizzdev/awesome-mcp-open",
-      "url": "https://github.com/rizzdev/awesome-mcp-open",
-      "source": "github",
-      "source_author": "rizzdev",
-      "topics": [],
-      "score": 4,
-      "score_reason": "Some engagement, but not a groundbreaking contribution.",
-      "posted": false,
-      "collected_at": "2026-07-24T03:55:32Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 31,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "9eb1e59aa15da5673bbf0bbb3a51a911",
-      "title": "gura105/operational-ontology",
-      "url": "https://github.com/gura105/operational-ontology",
-      "source": "github",
-      "source_author": "gura105",
-      "topics": [],
-      "score": 4,
-      "score_reason": "Moderate engagement but lacks novelty.",
-      "posted": false,
-      "collected_at": "2026-07-24T03:55:32Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 33,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "c5077fac4209807d5c812311edabc3cf",
-      "title": "Roduan25/ConsulAI-Swarm",
-      "url": "https://github.com/Roduan25/ConsulAI-Swarm",
-      "source": "github",
-      "source_author": "Roduan25",
-      "topics": [],
-      "score": 3,
-      "score_reason": "Limited engagement and no clear impact.",
-      "posted": false,
-      "collected_at": "2026-07-24T03:55:31Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 1,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "6b49dbf435b04cf87d0bd29c68c7aaf1",
-      "title": "Kimi-ai-K3/kimi-k3",
-      "url": "https://github.com/Kimi-ai-K3/kimi-k3",
-      "source": "github",
-      "source_author": "Kimi-ai-K3",
-      "topics": [],
-      "score": 3,
-      "score_reason": "No significant engagement or novelty.",
-      "posted": false,
-      "collected_at": "2026-07-24T03:55:31Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 1,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "076db776c45e5399e423b2119a7ff791",
-      "title": "aws-samples/sample-agentcore-memory-openclaw",
-      "url": "https://github.com/aws-samples/sample-agentcore-memory-openclaw",
-      "source": "github",
-      "source_author": "aws-samples",
-      "topics": [],
-      "score": 3,
-      "score_reason": "Lack of engagement and significance.",
-      "posted": false,
-      "collected_at": "2026-07-24T03:55:35Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 2,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "5168c2286fddcea920ba9f6377d36e4f",
-      "title": "pbb166/scraperapi-mcp-server",
-      "url": "https://github.com/pbb166/scraperapi-mcp-server",
-      "source": "github",
-      "source_author": "pbb166",
-      "topics": [],
-      "score": 3,
-      "score_reason": "No engagement indicates low interest or relevance.",
-      "posted": false,
-      "collected_at": "2026-07-24T03:55:37Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 1,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "d95ab8dee17ba704b5cded219f3f4289",
-      "title": "prayangshuuu/hummingbird",
-      "url": "https://github.com/prayangshuuu/hummingbird",
-      "source": "github",
-      "source_author": "prayangshuuu",
-      "topics": [],
-      "score": 2.5,
-      "score_reason": "Lacks engagement and relevance for developers.",
-      "posted": false,
-      "collected_at": "2026-07-24T03:55:25Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 6,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "b02e91b149af737af5a42cd8554e1ed9",
-      "title": "finna/Finn-loop",
-      "url": "https://github.com/finna/Finn-loop",
-      "source": "github",
-      "source_author": "finna",
+      "source_author": "dulcean",
       "topics": [],
       "score": 2,
-      "score_reason": "A GitHub repo with stars but minimal context or application specifics.",
+      "score_reason": "Low relevance and engagement, providing little value.",
       "posted": false,
-      "collected_at": "2026-07-24T03:55:19Z",
+      "collected_at": "2026-07-24T09:04:38Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 165,
+        "stars": 1,
         "upvotes": 0
       }
     },
     {
-      "id": "139674083b6a5064469f6cd670ad4ced",
-      "title": "algoshank-pat/beacon",
-      "url": "https://github.com/algoshank-pat/beacon",
+      "id": "40729bb3792aa73b95821939739c02ee",
+      "title": "sid077/chatmem",
+      "url": "https://github.com/sid077/chatmem",
       "source": "github",
-      "source_author": "algoshank-pat",
+      "source_author": "sid077",
       "topics": [],
-      "score": 1.5,
-      "score_reason": "Barely any engagement and doesn't offer substantial insights for devs.",
+      "score": 2,
+      "score_reason": "Lacks engagement, relevance, and does not showcase innovation.",
       "posted": false,
-      "collected_at": "2026-07-24T03:55:21Z",
+      "collected_at": "2026-07-24T09:04:45Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 7,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "90c1e6b8fdefe75a908de3487b5250ad",
-      "title": "ricmmartins/azure-sre-agent-skills",
-      "url": "https://github.com/ricmmartins/azure-sre-agent-skills",
-      "source": "github",
-      "source_author": "ricmmartins",
-      "topics": [],
-      "score": 1,
-      "score_reason": "Low engagement and unclear relevance to current developer needs.",
-      "posted": false,
-      "collected_at": "2026-07-24T03:55:22Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 17,
+        "stars": 1,
         "upvotes": 0
       }
     }
   ],
   "source": "github",
-  "updated_at": "2026-07-24T04:00:48Z"
+  "updated_at": "2026-07-24T09:08:16Z"
 }
