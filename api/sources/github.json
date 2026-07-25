@@ -1,27 +1,127 @@
 {
-  "count": 1,
+  "count": 6,
   "items": [
     {
-      "id": "19555cfb151787fc5022cc4083f21367",
-      "title": "yearningss/gamemaker-mcp",
-      "url": "https://github.com/yearningss/gamemaker-mcp",
+      "id": "9684fd14a704a08e5d13ddd7146b0a12",
+      "title": "iqbalmh18/abigail",
+      "url": "https://github.com/iqbalmh18/abigail",
       "source": "github",
-      "source_author": "yearningss",
+      "source_author": "iqbalmh18",
       "topics": [],
       "score": 4,
-      "score_reason": "Limited engagement and niche tool likely not appealing to a broad audience.",
+      "score_reason": "The tool is potentially useful but lacks immediate relevance or groundbreaking functionality.",
       "posted": false,
-      "collected_at": "2026-07-25T08:31:43Z",
+      "collected_at": "2026-07-25T14:11:15Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 11,
+        "stars": 14,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "6bb32041de05715ed70520866e47d3bb",
+      "title": "kittors/deepseek-web-api",
+      "url": "https://github.com/kittors/deepseek-web-api",
+      "source": "github",
+      "source_author": "kittors",
+      "topics": [],
+      "score": 3.5,
+      "score_reason": "The project may be interesting, but it currently does not show high engagement or relevance to core developer tools.",
+      "posted": false,
+      "collected_at": "2026-07-25T14:11:12Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 5,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "fb46937a2664ba1067283311375998d3",
+      "title": "swapitsneil/AgentOps-Center",
+      "url": "https://github.com/swapitsneil/AgentOps-Center",
+      "source": "github",
+      "source_author": "swapitsneil",
+      "topics": [],
+      "score": 3,
+      "score_reason": "Limited engagement indicates it may not be capturing developer interest widely.",
+      "posted": false,
+      "collected_at": "2026-07-25T14:11:13Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 2,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "92525e1ee8f1861b7c84cdb8789c1bd0",
+      "title": "CODE-SAURABH/OpenSkills",
+      "url": "https://github.com/CODE-SAURABH/OpenSkills",
+      "source": "github",
+      "source_author": "CODE-SAURABH",
+      "topics": [],
+      "score": 2.5,
+      "score_reason": "The lack of engagement suggests it might not be fulfilling a pressing need for developers.",
+      "posted": false,
+      "collected_at": "2026-07-25T14:11:20Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 2,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "e4be49a647180ad609abd23c9d253ee9",
+      "title": "Felix-au/CursorX-Interactive-Cursor-Effects",
+      "url": "https://github.com/Felix-au/CursorX-Interactive-Cursor-Effects",
+      "source": "github",
+      "source_author": "Felix-au",
+      "topics": [],
+      "score": 2,
+      "score_reason": "While visually appealing, the project does not seem to significantly impact developer workflows.",
+      "posted": false,
+      "collected_at": "2026-07-25T14:11:23Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 61,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "ad49b784ab13880b425430fd9caf5a3f",
+      "title": "jolterjs/mcp-server",
+      "url": "https://github.com/jolterjs/mcp-server",
+      "source": "github",
+      "source_author": "jolterjs",
+      "topics": [],
+      "score": 1.5,
+      "score_reason": "Low engagement and lack of innovative features indicate minimal relevance to the developer community.",
+      "posted": false,
+      "collected_at": "2026-07-25T14:11:24Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
         "upvotes": 0
       }
     }
   ],
   "source": "github",
-  "updated_at": "2026-07-25T08:34:57Z"
+  "updated_at": "2026-07-25T14:14:55Z"
 }
