@@ -1,437 +1,37 @@
 {
-  "count": 29,
+  "count": 7,
   "items": [
     {
-      "id": "dbcce4efb390e9c5d00e807be1f8c3d3",
-      "title": "nopnoping/micro-vllm",
-      "url": "https://github.com/nopnoping/micro-vllm",
+      "id": "920cbff3f6aa8f4ad669cefe2536e958",
+      "title": "NanmiCoder/open-image-prompts",
+      "url": "https://github.com/NanmiCoder/open-image-prompts",
       "source": "github",
-      "source_author": "nopnoping",
-      "topics": [],
-      "score": 8.5,
-      "score_reason": "High star count indicates interest, likely an innovative micro vllm project.",
-      "posted": false,
-      "collected_at": "2026-07-28T03:48:21Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 62,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "3e92c608d18168b475aba30b7425b151",
-      "title": "kennethkhoocy/applied-micro-skills",
-      "url": "https://github.com/kennethkhoocy/applied-micro-skills",
-      "source": "github",
-      "source_author": "kennethkhoocy",
-      "topics": [],
-      "score": 8,
-      "score_reason": "Significant star count suggests a potentially impactful skill application.",
-      "posted": false,
-      "collected_at": "2026-07-28T03:48:21Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 57,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "af49c9bd128d4a2c543b3b4d8af7b14f",
-      "title": "giovannibrees/travel-roamradar",
-      "url": "https://github.com/giovannibrees/travel-roamradar",
-      "source": "github",
-      "source_author": "giovannibrees",
-      "topics": [],
-      "score": 7.5,
-      "score_reason": "Useful for travel developers, worth noting for its engagement potential.",
-      "posted": false,
-      "collected_at": "2026-07-28T03:48:22Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 60,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "448cab2cb906945bcc5a80bfee927ed3",
-      "title": "VinvAI/VinvAI",
-      "url": "https://github.com/VinvAI/VinvAI",
-      "source": "github",
-      "source_author": "VinvAI",
+      "source_author": "NanmiCoder",
       "topics": [],
       "score": 7,
-      "score_reason": "Growing star count indicates relevance in AI applications.",
+      "score_reason": "Open-image-prompts could reshape how developers generate images.",
       "posted": false,
-      "collected_at": "2026-07-28T03:48:18Z",
+      "collected_at": "2026-07-28T09:18:51Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 31,
+        "stars": 120,
         "upvotes": 0
       }
     },
     {
-      "id": "a1b96839b380e297f08e8c1f1091a304",
-      "title": "teocns/neocursor.nvim",
-      "url": "https://github.com/teocns/neocursor.nvim",
+      "id": "e197f6e7697132ff3509d560f2417108",
+      "title": "sanjayy0612/Genai",
+      "url": "https://github.com/sanjayy0612/Genai",
       "source": "github",
-      "source_author": "teocns",
-      "topics": [],
-      "score": 6.5,
-      "score_reason": "Decent star count, could be useful for devs working with Neovim.",
-      "posted": false,
-      "collected_at": "2026-07-28T03:48:18Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 26,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "c740e783bcfc8f37473b102441adf8c4",
-      "title": "amnotyoung/slide-meme-inserter",
-      "url": "https://github.com/amnotyoung/slide-meme-inserter",
-      "source": "github",
-      "source_author": "amnotyoung",
+      "source_author": "sanjayy0612",
       "topics": [],
       "score": 5,
       "score_reason": "unscored",
       "posted": false,
-      "collected_at": "2026-07-28T03:48:01Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 72,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "ff50fa7821cebd41d82da0bcaaec2a28",
-      "title": "miuuyy/codex-chatgpt-web",
-      "url": "https://github.com/miuuyy/codex-chatgpt-web",
-      "source": "github",
-      "source_author": "miuuyy",
-      "topics": [],
-      "score": 5,
-      "score_reason": "unscored",
-      "posted": false,
-      "collected_at": "2026-07-28T03:48:03Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 41,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "ed58501572b9b28a98d9cec65e969172",
-      "title": "erenciracioglu-dotcom/hermes-desktop-avatar",
-      "url": "https://github.com/erenciracioglu-dotcom/hermes-desktop-avatar",
-      "source": "github",
-      "source_author": "erenciracioglu-dotcom",
-      "topics": [],
-      "score": 5,
-      "score_reason": "unscored",
-      "posted": false,
-      "collected_at": "2026-07-28T03:48:03Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 32,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "b1985bf5fc1c31db5d144977633ebec9",
-      "title": "arthi-arumugam-git/whatbroke",
-      "url": "https://github.com/arthi-arumugam-git/whatbroke",
-      "source": "github",
-      "source_author": "arthi-arumugam-git",
-      "topics": [],
-      "score": 5,
-      "score_reason": "unscored",
-      "posted": false,
-      "collected_at": "2026-07-28T03:48:02Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 9,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "44e4f755fb09433dd711a85ecafacf8c",
-      "title": "claudeopus5free/Claude-Opus-5-Free-Desktop",
-      "url": "https://github.com/claudeopus5free/Claude-Opus-5-Free-Desktop",
-      "source": "github",
-      "source_author": "claudeopus5free",
-      "topics": [],
-      "score": 5,
-      "score_reason": "unscored",
-      "posted": false,
-      "collected_at": "2026-07-28T03:48:02Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 21,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "e3c3a0ea97e44c414fa3e8d364f221cc",
-      "title": "cneuralnetwork/smol-kimi-k3",
-      "url": "https://github.com/cneuralnetwork/smol-kimi-k3",
-      "source": "github",
-      "source_author": "cneuralnetwork",
-      "topics": [],
-      "score": 5,
-      "score_reason": "Mediocre novelty and relevance, minimal engagement.",
-      "posted": false,
-      "collected_at": "2026-07-28T03:48:09Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 12,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "a9d6c89395c098e63ec27a0eaac4b481",
-      "title": "gavamedia/deltafin",
-      "url": "https://github.com/gavamedia/deltafin",
-      "source": "github",
-      "source_author": "gavamedia",
-      "topics": [],
-      "score": 5,
-      "score_reason": "unscored",
-      "posted": false,
-      "collected_at": "2026-07-28T03:48:09Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 4,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "5e5232bff50a274a769f30ac69211f5a",
-      "title": "KlingAIResearch/StreamHOI",
-      "url": "https://github.com/KlingAIResearch/StreamHOI",
-      "source": "github",
-      "source_author": "KlingAIResearch",
-      "topics": [],
-      "score": 5,
-      "score_reason": "unscored",
-      "posted": false,
-      "collected_at": "2026-07-28T03:48:11Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 3,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "687333d0d3baf6fc96b1334bace722ad",
-      "title": "cursorgrok45-free/Cursor-Grok-4.5-xAI-free-desktop",
-      "url": "https://github.com/cursorgrok45-free/Cursor-Grok-4.5-xAI-free-desktop",
-      "source": "github",
-      "source_author": "cursorgrok45-free",
-      "topics": [],
-      "score": 5,
-      "score_reason": "unscored",
-      "posted": false,
-      "collected_at": "2026-07-28T03:48:05Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 21,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "be15504a39b1fdfa177ba4ac11881aba",
-      "title": "84376834111/gpt-account-market-scanner",
-      "url": "https://github.com/84376834111/gpt-account-market-scanner",
-      "source": "github",
-      "source_author": "84376834111",
-      "topics": [],
-      "score": 5,
-      "score_reason": "unscored",
-      "posted": false,
-      "collected_at": "2026-07-28T03:48:05Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 10,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "e734a0e4917674340d41b8308f3fd7c4",
-      "title": "TaoLiveAIGC/TaoMate",
-      "url": "https://github.com/TaoLiveAIGC/TaoMate",
-      "source": "github",
-      "source_author": "TaoLiveAIGC",
-      "topics": [],
-      "score": 5,
-      "score_reason": "unscored",
-      "posted": false,
-      "collected_at": "2026-07-28T03:48:12Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 1,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "58500712ebcf55d1eaec0b8a920a59c4",
-      "title": "valbarriere/ECI2026_MModal_GenAI",
-      "url": "https://github.com/valbarriere/ECI2026_MModal_GenAI",
-      "source": "github",
-      "source_author": "valbarriere",
-      "topics": [],
-      "score": 5,
-      "score_reason": "unscored",
-      "posted": false,
-      "collected_at": "2026-07-28T03:48:08Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 18,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "833a0cd9831a89d20aa9ce37a69360a1",
-      "title": "claudesonnet5-free/Claude-Code-Sonnet-5-Free-Desktop",
-      "url": "https://github.com/claudesonnet5-free/Claude-Code-Sonnet-5-Free-Desktop",
-      "source": "github",
-      "source_author": "claudesonnet5-free",
-      "topics": [],
-      "score": 5,
-      "score_reason": "unscored",
-      "posted": false,
-      "collected_at": "2026-07-28T03:48:02Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 21,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "02b9118b193665a7eccd05203c576326",
-      "title": "kimik3code/Kimi-K3-Code-Free-Desktop-AI",
-      "url": "https://github.com/kimik3code/Kimi-K3-Code-Free-Desktop-AI",
-      "source": "github",
-      "source_author": "kimik3code",
-      "topics": [],
-      "score": 5,
-      "score_reason": "unscored",
-      "posted": false,
-      "collected_at": "2026-07-28T03:48:09Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 22,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "541ad683387060640bfa16931dc55878",
-      "title": "kvcache-ai/AgentENV",
-      "url": "https://github.com/kvcache-ai/AgentENV",
-      "source": "github",
-      "source_author": "kvcache-ai",
-      "topics": [],
-      "score": 5,
-      "score_reason": "unscored",
-      "posted": false,
-      "collected_at": "2026-07-28T03:48:06Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 893,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "254f72fbae06627924b5f1d65c726727",
-      "title": "NeoWeb3Nova/monad-agent-ant-workshop",
-      "url": "https://github.com/NeoWeb3Nova/monad-agent-ant-workshop",
-      "source": "github",
-      "source_author": "NeoWeb3Nova",
-      "topics": [],
-      "score": 5,
-      "score_reason": "unscored",
-      "posted": false,
-      "collected_at": "2026-07-28T03:48:13Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 1,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "ece7182f1dbdcebdc141d2ba36b6626d",
-      "title": "Rinne414/lora-training-skill",
-      "url": "https://github.com/Rinne414/lora-training-skill",
-      "source": "github",
-      "source_author": "Rinne414",
-      "topics": [],
-      "score": 5,
-      "score_reason": "unscored",
-      "posted": false,
-      "collected_at": "2026-07-28T03:48:15Z",
+      "collected_at": "2026-07-28T09:18:53Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
@@ -442,136 +42,96 @@
       }
     },
     {
-      "id": "42a05685efec505bf808852efe2bce19",
-      "title": "OpaceDigitalAgency/skills",
-      "url": "https://github.com/OpaceDigitalAgency/skills",
+      "id": "82b1138222e67bd777f61141f90e3224",
+      "title": "bestdeejay-design/awesome-ai-handbook",
+      "url": "https://github.com/bestdeejay-design/awesome-ai-handbook",
       "source": "github",
-      "source_author": "OpaceDigitalAgency",
-      "topics": [],
-      "score": 5,
-      "score_reason": "unscored",
-      "posted": false,
-      "collected_at": "2026-07-28T03:48:19Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 1,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "0510d090f6555eb6708d3fec5c6857a6",
-      "title": "MOSSJD/DeepSeekTranslator",
-      "url": "https://github.com/MOSSJD/DeepSeekTranslator",
-      "source": "github",
-      "source_author": "MOSSJD",
-      "topics": [],
-      "score": 5,
-      "score_reason": "unscored",
-      "posted": false,
-      "collected_at": "2026-07-28T03:48:07Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 3,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "04f9d6304173edf3ffef37a0752fd297",
-      "title": "7757/FanTread",
-      "url": "https://github.com/7757/FanTread",
-      "source": "github",
-      "source_author": "7757",
-      "topics": [],
-      "score": 5,
-      "score_reason": "unscored",
-      "posted": false,
-      "collected_at": "2026-07-28T03:48:07Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 3,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "edcf5255f611f60e9a366572e2c45ce5",
-      "title": "mmartain/HeadRoom",
-      "url": "https://github.com/mmartain/HeadRoom",
-      "source": "github",
-      "source_author": "mmartain",
-      "topics": [],
-      "score": 5,
-      "score_reason": "unscored",
-      "posted": false,
-      "collected_at": "2026-07-28T03:48:20Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 1,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "e67b1c3a034fc8e975ce20f6d4ab67d6",
-      "title": "lnvestor/twitr-skills",
-      "url": "https://github.com/lnvestor/twitr-skills",
-      "source": "github",
-      "source_author": "lnvestor",
-      "topics": [],
-      "score": 3.5,
-      "score_reason": "Barely above zero interest with limited scope.",
-      "posted": false,
-      "collected_at": "2026-07-28T03:48:17Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 4,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "14bbcfe310562289f32c7237597e25df",
-      "title": "jiawanlong/Cesium-Skills",
-      "url": "https://github.com/jiawanlong/Cesium-Skills",
-      "source": "github",
-      "source_author": "jiawanlong",
-      "topics": [],
-      "score": 2.5,
-      "score_reason": "No engagement, lacking novelty or impact.",
-      "posted": false,
-      "collected_at": "2026-07-28T03:48:15Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 2,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "cc430db56e9ff7aaffd2c0e20091cc11",
-      "title": "techdou/awesome-techdou-skills",
-      "url": "https://github.com/techdou/awesome-techdou-skills",
-      "source": "github",
-      "source_author": "techdou",
+      "source_author": "bestdeejay-design",
       "topics": [],
       "score": 1.5,
-      "score_reason": "Failed to capture significant developer interest.",
+      "score_reason": "The AI handbook is valuable but lacks novelty and engagement.",
       "posted": false,
-      "collected_at": "2026-07-28T03:48:12Z",
+      "collected_at": "2026-07-28T09:18:49Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 20,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "b6591905a53c1f4bd6775e0cd68e7ae5",
+      "title": "KnightQuals/deepseek-investor-meeting",
+      "url": "https://github.com/KnightQuals/deepseek-investor-meeting",
+      "source": "github",
+      "source_author": "KnightQuals",
+      "topics": [],
+      "score": 1,
+      "score_reason": "Investor meetings are not directly relevant to developers.",
+      "posted": false,
+      "collected_at": "2026-07-28T09:18:52Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 6,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "70e95fb6e556a2f94732d473552131c7",
+      "title": "avilliai/kimik32api",
+      "url": "https://github.com/avilliai/kimik32api",
+      "source": "github",
+      "source_author": "avilliai",
+      "topics": [],
+      "score": 1,
+      "score_reason": "The repository has low engagement and provides little value to the community.",
+      "posted": false,
+      "collected_at": "2026-07-28T09:18:54Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 15,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "ff8fd87545d7e33ff9b06181781244a1",
+      "title": "Kimi-K3-ai/kimi-k3",
+      "url": "https://github.com/Kimi-K3-ai/kimi-k3",
+      "source": "github",
+      "source_author": "Kimi-K3-ai",
+      "topics": [],
+      "score": 1,
+      "score_reason": "Limited content and context result in low relevance.",
+      "posted": false,
+      "collected_at": "2026-07-28T09:18:58Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 2,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "586dc21bddf206c562db2292acbe9000",
+      "title": "OnlineChefGroep/design-system",
+      "url": "https://github.com/OnlineChefGroep/design-system",
+      "source": "github",
+      "source_author": "OnlineChefGroep",
+      "topics": [],
+      "score": 1,
+      "score_reason": "The design system is not compelling in terms of novelty or impact.",
+      "posted": false,
+      "collected_at": "2026-07-28T09:19:05Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
@@ -583,5 +143,5 @@
     }
   ],
   "source": "github",
-  "updated_at": "2026-07-28T03:53:11Z"
+  "updated_at": "2026-07-28T09:22:44Z"
 }
