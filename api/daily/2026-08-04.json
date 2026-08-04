@@ -1,6 +1,27 @@
 {
-  "count": 110,
+  "count": 141,
+  "date": "2026-08-04",
   "items": [
+    {
+      "id": "0151257a332e4cb218729bfce3944384",
+      "title": "disler/super-simple-software-factory",
+      "url": "https://github.com/disler/super-simple-software-factory",
+      "source": "github",
+      "source_author": "disler",
+      "topics": [],
+      "score": 7,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-08-04T03:50:01Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 220,
+        "upvotes": 0
+      }
+    },
     {
       "id": "94a5b9116b4d8dcd34b65acfadaf3ccc",
       "title": "LLMs reward expertise",
@@ -22,6 +43,46 @@
       }
     },
     {
+      "id": "8f2cfeaab2f89d97777432cf4401cb46",
+      "title": "hbaker869/bilayer-stories-web",
+      "url": "https://github.com/hbaker869/bilayer-stories-web",
+      "source": "github",
+      "source_author": "hbaker869",
+      "topics": [],
+      "score": 6,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-08-04T03:50:00Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 49,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "3141da05f2d7ce70782fcf12b36c968a",
+      "title": "onetoken-oss/K3Flight",
+      "url": "https://github.com/onetoken-oss/K3Flight",
+      "source": "github",
+      "source_author": "onetoken-oss",
+      "topics": [],
+      "score": 6,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-08-04T03:50:05Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 97,
+        "upvotes": 0
+      }
+    },
+    {
       "id": "96e78e221164f55e61a41977195e2d63",
       "title": "The Dunning-Kruger effect may just be a data artefact (2020)",
       "url": "https://www.mcgill.ca/oss/article/critical-thinking/dunning-kruger-effect-probably-not-real",
@@ -39,6 +100,106 @@
         "retweets": 0,
         "stars": 0,
         "upvotes": 133
+      }
+    },
+    {
+      "id": "0d8cb2bbe173a565c4790a2b12a11c2c",
+      "title": "asLody/dexdec",
+      "url": "https://github.com/asLody/dexdec",
+      "source": "github",
+      "source_author": "asLody",
+      "topics": [],
+      "score": 6,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-08-04T03:50:19Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 43,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "15d6eaead9035932ad2f1f9bb6d4a836",
+      "title": "AFan4724/clone-chat",
+      "url": "https://github.com/AFan4724/clone-chat",
+      "source": "github",
+      "source_author": "AFan4724",
+      "topics": [],
+      "score": 6,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-08-04T03:50:19Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 45,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "1ae93819befe55e9ca7e72e67a0d2938",
+      "title": "xbsheng/atguigu-note",
+      "url": "https://github.com/xbsheng/atguigu-note",
+      "source": "github",
+      "source_author": "xbsheng",
+      "topics": [],
+      "score": 6,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-08-04T03:50:19Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 49,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "84d5847489e02f3d255dde472eff4aaf",
+      "title": "loganhilloz6927/premiere-caption-generator-pro",
+      "url": "https://github.com/loganhilloz6927/premiere-caption-generator-pro",
+      "source": "github",
+      "source_author": "loganhilloz6927",
+      "topics": [],
+      "score": 6,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-08-04T03:49:59Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 38,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "4036c30129c0442ac20260e5fdf26065",
+      "title": "walkererik1991/energyplus-idf-mcp-server",
+      "url": "https://github.com/walkererik1991/energyplus-idf-mcp-server",
+      "source": "github",
+      "source_author": "walkererik1991",
+      "topics": [],
+      "score": 6,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-08-04T03:50:10Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 38,
+        "upvotes": 0
       }
     },
     {
@@ -82,6 +243,46 @@
       }
     },
     {
+      "id": "f097c7486a545c672c6d336c47bae10c",
+      "title": "xlang-ai/Qwen-CUA",
+      "url": "https://github.com/xlang-ai/Qwen-CUA",
+      "source": "github",
+      "source_author": "xlang-ai",
+      "topics": [],
+      "score": 6,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-08-04T03:50:01Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 86,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "0964038300f13491d8fbf3d071b3e04c",
+      "title": "littlelelephant/literature-review-agent",
+      "url": "https://github.com/littlelelephant/literature-review-agent",
+      "source": "github",
+      "source_author": "littlelelephant",
+      "topics": [],
+      "score": 6,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-08-04T03:50:01Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 99,
+        "upvotes": 0
+      }
+    },
+    {
       "id": "594edc7e99f60c65f69b06cb719b248e",
       "title": "Smaller, faster, safer: running Kimi and GLM at scale",
       "url": "https://blog.cloudflare.com/smaller-faster-safer-models/",
@@ -99,6 +300,86 @@
         "retweets": 0,
         "stars": 0,
         "upvotes": 163
+      }
+    },
+    {
+      "id": "3117d6a320e11248790f7cf330929734",
+      "title": "TimRots/kimi3",
+      "url": "https://github.com/TimRots/kimi3",
+      "source": "github",
+      "source_author": "TimRots",
+      "topics": [],
+      "score": 5,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-08-04T03:50:05Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 23,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "f42637b1ebf0e66417582e6fa71a15a0",
+      "title": "lawrencewzen/pi-vlm-proxy",
+      "url": "https://github.com/lawrencewzen/pi-vlm-proxy",
+      "source": "github",
+      "source_author": "lawrencewzen",
+      "topics": [],
+      "score": 5,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-08-04T03:49:59Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 21,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "a0498db862a0b6579dbddad56b5984d9",
+      "title": "openwarehq/websiteprompts",
+      "url": "https://github.com/openwarehq/websiteprompts",
+      "source": "github",
+      "source_author": "openwarehq",
+      "topics": [],
+      "score": 5,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-08-04T03:50:14Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 28,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "59bbdbd33e835811b3f0e28a4e170fb8",
+      "title": "sonnet5claudefree/Claude-Code-Sonnet-5-Free-Desktop",
+      "url": "https://github.com/sonnet5claudefree/Claude-Code-Sonnet-5-Free-Desktop",
+      "source": "github",
+      "source_author": "sonnet5claudefree",
+      "topics": [],
+      "score": 5,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-08-04T03:49:58Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 23,
+        "upvotes": 0
       }
     },
     {
@@ -1942,6 +2223,26 @@
       }
     },
     {
+      "id": "3650762f34121253fc480f6acc0bb6be",
+      "title": "robonuggets/doctor-plus",
+      "url": "https://github.com/robonuggets/doctor-plus",
+      "source": "github",
+      "source_author": "robonuggets",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-08-04T03:49:58Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 14,
+        "upvotes": 0
+      }
+    },
+    {
       "id": "c39ee89dccf6dc175af4d795a68d0ab8",
       "title": "Show HN: Book-skills – Agent Skills distilled from mgmt and programming books",
       "url": "https://github.com/DamiMartinez/book-skills",
@@ -2062,6 +2363,66 @@
       }
     },
     {
+      "id": "a30f8b6e362fb48639622b5b1fda992e",
+      "title": "Naini-Diwan/dl-genai-mcq-solver",
+      "url": "https://github.com/Naini-Diwan/dl-genai-mcq-solver",
+      "source": "github",
+      "source_author": "Naini-Diwan",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-08-04T03:50:04Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 2,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "925004f3673e9f6e9ab7e1ae569ef363",
+      "title": "SiddharthRai22/GenAI-3",
+      "url": "https://github.com/SiddharthRai22/GenAI-3",
+      "source": "github",
+      "source_author": "SiddharthRai22",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-08-04T03:50:04Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "5eb9d2e15aaeb2175cef9ac34809b5ee",
+      "title": "dhananjay6561/genai-engineering-lab",
+      "url": "https://github.com/dhananjay6561/genai-engineering-lab",
+      "source": "github",
+      "source_author": "dhananjay6561",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-08-04T03:50:04Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
+        "upvotes": 0
+      }
+    },
+    {
       "id": "fea9f68d711a2af1e80ef3c3f97a263d",
       "title": "Show HN: MoneyCo – A coding agent built for accounting",
       "url": "https://thecompany.money/",
@@ -2102,6 +2463,146 @@
       }
     },
     {
+      "id": "8c3461aed38416e1aff01710586d8019",
+      "title": "200lz/omiv-kimi-k3-validation",
+      "url": "https://github.com/200lz/omiv-kimi-k3-validation",
+      "source": "github",
+      "source_author": "200lz",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-08-04T03:50:05Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 15,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "65a0b680c6ebeaf97a1e924fb590a745",
+      "title": "Terminustrorivet/ai-face-generation-detection-notes",
+      "url": "https://github.com/Terminustrorivet/ai-face-generation-detection-notes",
+      "source": "github",
+      "source_author": "Terminustrorivet",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-08-04T03:50:06Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 15,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "9ff254af40961c5a13dfd37dfdcdb19d",
+      "title": "onigirikiller/minimax-h3-webui",
+      "url": "https://github.com/onigirikiller/minimax-h3-webui",
+      "source": "github",
+      "source_author": "onigirikiller",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-08-04T03:50:06Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 3,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "d98fdef49dd96b8725a21eb25ce24448",
+      "title": "neosapience/TA2.0",
+      "url": "https://github.com/neosapience/TA2.0",
+      "source": "github",
+      "source_author": "neosapience",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-08-04T03:50:08Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "e74ab69f586e049fcb33f63deefd1632",
+      "title": "Hearmeman24/comfyui-minimax",
+      "url": "https://github.com/Hearmeman24/comfyui-minimax",
+      "source": "github",
+      "source_author": "Hearmeman24",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-08-04T03:50:08Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "d309a114d30775f1d31f1fbcc22947ec",
+      "title": "CMUL8/spotlight",
+      "url": "https://github.com/CMUL8/spotlight",
+      "source": "github",
+      "source_author": "CMUL8",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-08-04T03:50:09Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 4,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "bf11a1686848510fa64f97bcfa687a94",
+      "title": "Stunspot/agent-swarm-orchestration",
+      "url": "https://github.com/Stunspot/agent-swarm-orchestration",
+      "source": "github",
+      "source_author": "Stunspot",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-08-04T03:50:09Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
+        "upvotes": 0
+      }
+    },
+    {
       "id": "92cd42e6ddfbae05f1a744922ff92989",
       "title": "Used Claude to make a screen time app that let's me exclude certain apps",
       "url": "https://github.com/DaanyaalSobani/truescreentime",
@@ -2122,6 +2623,66 @@
       }
     },
     {
+      "id": "29068d843176d21a098f5c347f6de66b",
+      "title": "mateusrovedaa/harness",
+      "url": "https://github.com/mateusrovedaa/harness",
+      "source": "github",
+      "source_author": "mateusrovedaa",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-08-04T03:50:11Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "5cf00d3c90d91c8f33d7bb283aadae2c",
+      "title": "CrunTeam/crun-agent-skills",
+      "url": "https://github.com/CrunTeam/crun-agent-skills",
+      "source": "github",
+      "source_author": "CrunTeam",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-08-04T03:50:11Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "7eb353a2bc559727a2cb92d06752cb17",
+      "title": "JimPansky/ChimpMaera",
+      "url": "https://github.com/JimPansky/ChimpMaera",
+      "source": "github",
+      "source_author": "JimPansky",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-08-04T03:50:13Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 2,
+        "upvotes": 0
+      }
+    },
+    {
       "id": "ef54d694b8407e2e936ac9dece7da637",
       "title": "A Claude Skill that runs a skeptical-VC teardown on your startup idea",
       "url": "https://github.com/zszendro/vc-teardown",
@@ -2139,6 +2700,66 @@
         "retweets": 0,
         "stars": 0,
         "upvotes": 3
+      }
+    },
+    {
+      "id": "a423a033e54b67011e308d069b22ed13",
+      "title": "mrstev3n/balise-skills",
+      "url": "https://github.com/mrstev3n/balise-skills",
+      "source": "github",
+      "source_author": "mrstev3n",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-08-04T03:50:14Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 8,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "aeb9931223fc14182743810b898cf44a",
+      "title": "MusoyanGrigor/gitx-skill",
+      "url": "https://github.com/MusoyanGrigor/gitx-skill",
+      "source": "github",
+      "source_author": "MusoyanGrigor",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-08-04T03:50:14Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 5,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "91e9950bcff287f8fda8c86a2ba0ca8c",
+      "title": "amar57603/ai-enterprise-playbook",
+      "url": "https://github.com/amar57603/ai-enterprise-playbook",
+      "source": "github",
+      "source_author": "amar57603",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-08-04T03:50:15Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
+        "upvotes": 0
       }
     },
     {
@@ -2202,6 +2823,5 @@
       }
     }
   ],
-  "source": "hackernews",
   "updated_at": "2026-08-04T03:53:29Z"
 }
