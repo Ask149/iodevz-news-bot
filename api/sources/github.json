@@ -1,57 +1,237 @@
 {
-  "count": 7,
+  "count": 16,
   "items": [
     {
-      "id": "98ab01a99124e5c29b869c9622420c0a",
-      "title": "vuphongle/oss-pr-reviewer",
-      "url": "https://github.com/vuphongle/oss-pr-reviewer",
+      "id": "dee9352f0775167a334a1e208d01fa23",
+      "title": "deepseek-ai/deepseek-harness",
+      "url": "https://github.com/deepseek-ai/deepseek-harness",
       "source": "github",
-      "source_author": "vuphongle",
+      "source_author": "deepseek-ai",
       "topics": [],
-      "score": 6,
+      "score": 8,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-08-13T08:03:03Z",
+      "collected_at": "2026-08-13T13:59:18Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 58,
+        "stars": 17133,
         "upvotes": 0
       }
     },
     {
-      "id": "ac01bea684c5c096e7c2b5cd10c08144",
-      "title": "1838904818/audit-repo",
-      "url": "https://github.com/1838904818/audit-repo",
+      "id": "611512d86eaf9c8d6f3f20ecd15be0e3",
+      "title": "wzchav/tokentab",
+      "url": "https://github.com/wzchav/tokentab",
       "source": "github",
-      "source_author": "1838904818",
+      "source_author": "wzchav",
       "topics": [],
       "score": 6,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-08-13T08:02:43Z",
+      "collected_at": "2026-08-13T13:59:12Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 60,
+        "stars": 111,
         "upvotes": 0
       }
     },
     {
-      "id": "9118cb9c0cee2851a121e84af246e91b",
-      "title": "Archive228/lab-skills",
-      "url": "https://github.com/Archive228/lab-skills",
+      "id": "f3a858cfb3d28b8585a79d6233467e0c",
+      "title": "OpenSparX/MasterAgent",
+      "url": "https://github.com/OpenSparX/MasterAgent",
       "source": "github",
-      "source_author": "Archive228",
+      "source_author": "OpenSparX",
+      "topics": [],
+      "score": 6,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-08-13T13:59:32Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 93,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "855aace3cd3bbc6f275f5b514a9aeee3",
+      "title": "Anionex/dsh-vision-toolkit",
+      "url": "https://github.com/Anionex/dsh-vision-toolkit",
+      "source": "github",
+      "source_author": "Anionex",
+      "topics": [],
+      "score": 6,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-08-13T13:59:18Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 41,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "87446b44cc621c10f79742ef6f30ed41",
+      "title": "0xsline/awesome-deepseek-harness",
+      "url": "https://github.com/0xsline/awesome-deepseek-harness",
+      "source": "github",
+      "source_author": "0xsline",
+      "topics": [],
+      "score": 6,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-08-13T13:59:18Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 41,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "618013945faf00562b4e486412a559bb",
+      "title": "zhu1090093659/dsh-web-ui",
+      "url": "https://github.com/zhu1090093659/dsh-web-ui",
+      "source": "github",
+      "source_author": "zhu1090093659",
+      "topics": [],
+      "score": 6,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-08-13T13:59:18Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 132,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "4cbc4a337206125e940879d4d59dc69a",
+      "title": "omdsh-dev/DSH-better-sidebar",
+      "url": "https://github.com/omdsh-dev/DSH-better-sidebar",
+      "source": "github",
+      "source_author": "omdsh-dev",
+      "topics": [],
+      "score": 5,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-08-13T13:59:18Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 28,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "73226e994069f4050bf3a46b2f0cd7ba",
+      "title": "huiliyi37/dsh-tianshu-tui",
+      "url": "https://github.com/huiliyi37/dsh-tianshu-tui",
+      "source": "github",
+      "source_author": "huiliyi37",
+      "topics": [],
+      "score": 5,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-08-13T13:59:18Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 33,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "ed54e81336e78d6ea5e88d978cd79f61",
+      "title": "Itsme23476/claude-zen",
+      "url": "https://github.com/Itsme23476/claude-zen",
+      "source": "github",
+      "source_author": "Itsme23476",
       "topics": [],
       "score": 4,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-08-13T08:02:41Z",
+      "collected_at": "2026-08-13T13:59:13Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 6,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "e537d2759d60898898cac14c1d873e82",
+      "title": "yaxede4997/How-I-ve-passed-the-CCA-F-exam",
+      "url": "https://github.com/yaxede4997/How-I-ve-passed-the-CCA-F-exam",
+      "source": "github",
+      "source_author": "yaxede4997",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-08-13T13:59:13Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 6,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "16def5970883bb0f5870e6529abb4336",
+      "title": "Saad9231/single_app_ai_agents",
+      "url": "https://github.com/Saad9231/single_app_ai_agents",
+      "source": "github",
+      "source_author": "Saad9231",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-08-13T13:59:19Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 2,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "1fc6c7f49dae092287229420bad81e86",
+      "title": "vcruz305/kimi-k3-neuron-tp3-dgxspark-recipe",
+      "url": "https://github.com/vcruz305/kimi-k3-neuron-tp3-dgxspark-recipe",
+      "source": "github",
+      "source_author": "vcruz305",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-08-13T13:59:20Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
@@ -62,56 +242,76 @@
       }
     },
     {
-      "id": "d443ec54f2093b148e7280fd57c363cd",
-      "title": "TencentARC/SCoPE",
-      "url": "https://github.com/TencentARC/SCoPE",
+      "id": "9913b6f180e84d0c75a62d4093c8dc08",
+      "title": "Paureel/recursopus-rlm-agent-observatory",
+      "url": "https://github.com/Paureel/recursopus-rlm-agent-observatory",
       "source": "github",
-      "source_author": "TencentARC",
+      "source_author": "Paureel",
       "topics": [],
       "score": 4,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-08-13T08:02:51Z",
+      "collected_at": "2026-08-13T13:59:24Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 5,
+        "stars": 2,
         "upvotes": 0
       }
     },
     {
-      "id": "e58a37b3a8c8fc4d863eb6e22a68648f",
-      "title": "madersasuke/minimax-h3-video-skill",
-      "url": "https://github.com/madersasuke/minimax-h3-video-skill",
+      "id": "ad3391b5a246838493d9e7d7f3a81786",
+      "title": "dungnotnull/Beekeeping-Apiculture-Management-Advisor-agent-skill",
+      "url": "https://github.com/dungnotnull/Beekeeping-Apiculture-Management-Advisor-agent-skill",
       "source": "github",
-      "source_author": "madersasuke",
+      "source_author": "dungnotnull",
       "topics": [],
       "score": 4,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-08-13T08:02:51Z",
+      "collected_at": "2026-08-13T13:59:24Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 4,
+        "stars": 2,
         "upvotes": 0
       }
     },
     {
-      "id": "6a4823a1ef61327771f4a2a7ddf6a76e",
-      "title": "jigarjani-dev/sutradhaar",
-      "url": "https://github.com/jigarjani-dev/sutradhaar",
+      "id": "2d5aeb8c51b3a56374829e3051b056d3",
+      "title": "xyiqq/skilldoctor",
+      "url": "https://github.com/xyiqq/skilldoctor",
       "source": "github",
-      "source_author": "jigarjani-dev",
+      "source_author": "xyiqq",
       "topics": [],
       "score": 4,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-08-13T08:02:57Z",
+      "collected_at": "2026-08-13T13:59:29Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 13,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "acedfa167abcf7509184088195679246",
+      "title": "Teratriplant/Windsurf-Pro-2026",
+      "url": "https://github.com/Teratriplant/Windsurf-Pro-2026",
+      "source": "github",
+      "source_author": "Teratriplant",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-08-13T13:59:30Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
@@ -120,28 +320,8 @@
         "stars": 1,
         "upvotes": 0
       }
-    },
-    {
-      "id": "464c7e9d649f6c3493078115379a0d87",
-      "title": "chenli17683185032-ai/shark-cursor-api",
-      "url": "https://github.com/chenli17683185032-ai/shark-cursor-api",
-      "source": "github",
-      "source_author": "chenli17683185032-ai",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-08-13T08:02:59Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 10,
-        "upvotes": 0
-      }
     }
   ],
   "source": "github",
-  "updated_at": "2026-08-13T08:06:15Z"
+  "updated_at": "2026-08-13T14:02:13Z"
 }
