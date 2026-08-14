@@ -1,117 +1,97 @@
 {
-  "count": 7,
+  "count": 8,
   "items": [
     {
-      "id": "95f769d1fedbd155e94ccf2cd63dd48b",
-      "title": "alchaincyf/deepseek-harness-orange-book",
-      "url": "https://github.com/alchaincyf/deepseek-harness-orange-book",
+      "id": "d3c171567e8cf0d1f3f2e3253f0ced34",
+      "title": "anywhere-labs/deepseek-harness-desktop",
+      "url": "https://github.com/anywhere-labs/deepseek-harness-desktop",
       "source": "github",
-      "source_author": "alchaincyf",
+      "source_author": "anywhere-labs",
+      "topics": [],
+      "score": 8,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-08-14T13:55:14Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 972,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "4c12938f9607b5c2660130d03e86959d",
+      "title": "decionis/agent-safe-pipeline",
+      "url": "https://github.com/decionis/agent-safe-pipeline",
+      "source": "github",
+      "source_author": "decionis",
       "topics": [],
       "score": 7,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-08-14T07:58:07Z",
+      "collected_at": "2026-08-14T13:55:12Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 311,
+        "stars": 297,
         "upvotes": 0
       }
     },
     {
-      "id": "64cf96da4b24c9dadbf4382574086cd0",
-      "title": "N-allpass/modex-mh-agent",
-      "url": "https://github.com/N-allpass/modex-mh-agent",
+      "id": "7254152c44bf33d677eddd8ce46badbc",
+      "title": "Awaker-OTE/WakeGPT",
+      "url": "https://github.com/Awaker-OTE/WakeGPT",
       "source": "github",
-      "source_author": "N-allpass",
-      "topics": [],
-      "score": 7,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-08-14T07:58:05Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 178,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "44dfb0cc54fbd201ede596b02bdfd7e6",
-      "title": "christiangrey922/multi-agent-workflow-lab",
-      "url": "https://github.com/christiangrey922/multi-agent-workflow-lab",
-      "source": "github",
-      "source_author": "christiangrey922",
+      "source_author": "Awaker-OTE",
       "topics": [],
       "score": 6,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-08-14T07:58:14Z",
+      "collected_at": "2026-08-14T13:55:11Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 84,
+        "stars": 110,
         "upvotes": 0
       }
     },
     {
-      "id": "1bf6e702d77b2565ec8f688d0beac06b",
-      "title": "Electricitysheep/dsh-handbook",
-      "url": "https://github.com/Electricitysheep/dsh-handbook",
+      "id": "8c43af74b0f3a0d7ef0e035ca7567ba7",
+      "title": "guapimm/AI-Model-Development-Mentor",
+      "url": "https://github.com/guapimm/AI-Model-Development-Mentor",
       "source": "github",
-      "source_author": "Electricitysheep",
+      "source_author": "guapimm",
       "topics": [],
       "score": 6,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-08-14T07:58:07Z",
+      "collected_at": "2026-08-14T13:55:24Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 120,
+        "stars": 48,
         "upvotes": 0
       }
     },
     {
-      "id": "2d83521f3ecaa453ddbef4739780d267",
-      "title": "laurentwu/CLILoom",
-      "url": "https://github.com/laurentwu/CLILoom",
+      "id": "4fda63466fd61dbdf8ea17a2fd8f0bdd",
+      "title": "Ahmadhaiwala/llm-from-scratch-lab",
+      "url": "https://github.com/Ahmadhaiwala/llm-from-scratch-lab",
       "source": "github",
-      "source_author": "laurentwu",
+      "source_author": "Ahmadhaiwala",
       "topics": [],
       "score": 4,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-08-14T07:58:09Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 5,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "96a80f3fff549202479a8fe253b2e480",
-      "title": "chadixearth/graphyloop",
-      "url": "https://github.com/chadixearth/graphyloop",
-      "source": "github",
-      "source_author": "chadixearth",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-08-14T07:58:12Z",
+      "collected_at": "2026-08-14T13:55:15Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
@@ -122,26 +102,66 @@
       }
     },
     {
-      "id": "e59bcd91ff50f922396b7a510b9fe64b",
-      "title": "walkinglabs/awesome-deepseek-harness-plugins",
-      "url": "https://github.com/walkinglabs/awesome-deepseek-harness-plugins",
+      "id": "5f2529dccd607ddb7519c80f6fb2626d",
+      "title": "flowwweb/swarm",
+      "url": "https://github.com/flowwweb/swarm",
       "source": "github",
-      "source_author": "walkinglabs",
+      "source_author": "flowwweb",
       "topics": [],
       "score": 4,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-08-14T07:58:16Z",
+      "collected_at": "2026-08-14T13:55:19Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 3,
+        "stars": 1,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "fdb5cb812ba2670a6143c0993300afb5",
+      "title": "omdsh-dev/dsh-kb-sieve",
+      "url": "https://github.com/omdsh-dev/dsh-kb-sieve",
+      "source": "github",
+      "source_author": "omdsh-dev",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-08-14T13:55:22Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 2,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "cc100b04298c5c93a2b9e9702e469979",
+      "title": "tobiasosten46-lab/novaspire",
+      "url": "https://github.com/tobiasosten46-lab/novaspire",
+      "source": "github",
+      "source_author": "tobiasosten46-lab",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-08-14T13:55:25Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
         "upvotes": 0
       }
     }
   ],
   "source": "github",
-  "updated_at": "2026-08-14T08:01:03Z"
+  "updated_at": "2026-08-14T13:58:12Z"
 }
