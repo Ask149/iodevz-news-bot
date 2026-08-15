@@ -1,87 +1,107 @@
 {
-  "count": 4,
+  "count": 5,
   "items": [
     {
-      "id": "99b11cda6b3f0a669d20092c07e0ef1f",
-      "title": "vibeinging/deepseek-harness-desktop-app",
-      "url": "https://github.com/vibeinging/deepseek-harness-desktop-app",
+      "id": "4ae891614fdcb13021fe787592965942",
+      "title": "leenkcool/humanasllm",
+      "url": "https://github.com/leenkcool/humanasllm",
       "source": "github",
-      "source_author": "vibeinging",
+      "source_author": "leenkcool",
       "topics": [],
-      "score": 6,
+      "score": 5,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-08-15T07:08:27Z",
+      "collected_at": "2026-08-15T13:09:26Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 109,
+        "stars": 19,
         "upvotes": 0
       }
     },
     {
-      "id": "b610ae91d9e2ecfeab04d4f29c065046",
-      "title": "NGLSG/Cursor2API",
-      "url": "https://github.com/NGLSG/Cursor2API",
+      "id": "547faf2b7e78dd33d89d6387f7c88894",
+      "title": "tianmingwan/dsh-vision-any",
+      "url": "https://github.com/tianmingwan/dsh-vision-any",
       "source": "github",
-      "source_author": "NGLSG",
+      "source_author": "tianmingwan",
       "topics": [],
       "score": 4,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-08-15T07:08:31Z",
+      "collected_at": "2026-08-15T13:09:24Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 10,
+        "stars": 8,
         "upvotes": 0
       }
     },
     {
-      "id": "876a0c4013b2f4ac4e6c35b3e42b05b5",
-      "title": "huydx/devin",
-      "url": "https://github.com/huydx/devin",
+      "id": "1f7a9af0a01aa7406671f5c159da3105",
+      "title": "aemrebarut/herdr-dagr",
+      "url": "https://github.com/aemrebarut/herdr-dagr",
       "source": "github",
-      "source_author": "huydx",
+      "source_author": "aemrebarut",
       "topics": [],
       "score": 4,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-08-15T07:08:33Z",
+      "collected_at": "2026-08-15T13:09:35Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 0,
+        "stars": 6,
         "upvotes": 0
       }
     },
     {
-      "id": "961d1eea08054ce80aaf67cf1ac06b11",
-      "title": "enzofpicanco2009-dev/Devin",
-      "url": "https://github.com/enzofpicanco2009-dev/Devin",
+      "id": "1b7c900680c120920dd0f4c10fd9a109",
+      "title": "P-A-N-52/dsh-agent-swarm",
+      "url": "https://github.com/P-A-N-52/dsh-agent-swarm",
       "source": "github",
-      "source_author": "enzofpicanco2009-dev",
+      "source_author": "P-A-N-52",
       "topics": [],
       "score": 4,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-08-15T07:08:33Z",
+      "collected_at": "2026-08-15T13:09:35Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 0,
+        "stars": 1,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "3561bc07fcde0edd6f6e4403a3116751",
+      "title": "mrcanlaco/binance-copilot-mcp",
+      "url": "https://github.com/mrcanlaco/binance-copilot-mcp",
+      "source": "github",
+      "source_author": "mrcanlaco",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-08-15T13:09:41Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
         "upvotes": 0
       }
     }
   ],
   "source": "github",
-  "updated_at": "2026-08-15T07:11:44Z"
+  "updated_at": "2026-08-15T13:12:55Z"
 }
