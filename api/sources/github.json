@@ -1,517 +1,77 @@
 {
-  "count": 26,
+  "count": 4,
   "items": [
     {
-      "id": "4d6b6aa44dafc447560f9bb9933aefe5",
-      "title": "xiaobright/dsh-anchored-standard",
-      "url": "https://github.com/xiaobright/dsh-anchored-standard",
+      "id": "99b11cda6b3f0a669d20092c07e0ef1f",
+      "title": "vibeinging/deepseek-harness-desktop-app",
+      "url": "https://github.com/vibeinging/deepseek-harness-desktop-app",
       "source": "github",
-      "source_author": "xiaobright",
-      "topics": [],
-      "score": 8,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-08-15T01:57:55Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 496,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "e83c41c24729973dd192ae602f3b7d0c",
-      "title": "gongnyang/bookforge",
-      "url": "https://github.com/gongnyang/bookforge",
-      "source": "github",
-      "source_author": "gongnyang",
+      "source_author": "vibeinging",
       "topics": [],
       "score": 6,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-08-15T01:57:50Z",
+      "collected_at": "2026-08-15T07:08:27Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 144,
+        "stars": 109,
         "upvotes": 0
       }
     },
     {
-      "id": "ce530a4371ff8dd038f6827b716555c0",
-      "title": "pgrundev/pgbot",
-      "url": "https://github.com/pgrundev/pgbot",
+      "id": "b610ae91d9e2ecfeab04d4f29c065046",
+      "title": "NGLSG/Cursor2API",
+      "url": "https://github.com/NGLSG/Cursor2API",
       "source": "github",
-      "source_author": "pgrundev",
-      "topics": [],
-      "score": 6,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-08-15T01:58:10Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 107,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "a327e99f3314c20596852e6c4c86343f",
-      "title": "icesixgod/codex-trajectory",
-      "url": "https://github.com/icesixgod/codex-trajectory",
-      "source": "github",
-      "source_author": "icesixgod",
-      "topics": [],
-      "score": 6,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-08-15T01:58:02Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 89,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "a0b5ee06bb03225d0b784727c41fcad4",
-      "title": "taylorleo1981/sound-particles-density-audio",
-      "url": "https://github.com/taylorleo1981/sound-particles-density-audio",
-      "source": "github",
-      "source_author": "taylorleo1981",
-      "topics": [],
-      "score": 6,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-08-15T01:57:59Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 40,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "7257e42889b98dcb198de83ab85ef1a9",
-      "title": "sibylsea-hub/gpt-thinking-block-mcp",
-      "url": "https://github.com/sibylsea-hub/gpt-thinking-block-mcp",
-      "source": "github",
-      "source_author": "sibylsea-hub",
-      "topics": [],
-      "score": 5,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-08-15T01:57:53Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 20,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "deaace87b8c9f6622ec30f55de9c6bea",
-      "title": "EulerJT/claudex",
-      "url": "https://github.com/EulerJT/claudex",
-      "source": "github",
-      "source_author": "EulerJT",
-      "topics": [],
-      "score": 5,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-08-15T01:57:53Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 18,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "28f4b504388716826b3b1dac8210f0eb",
-      "title": "mlpal-ai/mlpal-gateway",
-      "url": "https://github.com/mlpal-ai/mlpal-gateway",
-      "source": "github",
-      "source_author": "mlpal-ai",
+      "source_author": "NGLSG",
       "topics": [],
       "score": 4,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-08-15T01:57:51Z",
+      "collected_at": "2026-08-15T07:08:31Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 15,
+        "stars": 10,
         "upvotes": 0
       }
     },
     {
-      "id": "f669f7a25131e61e8e0552a9aea3b8ff",
-      "title": "mlpal-ai/yodex",
-      "url": "https://github.com/mlpal-ai/yodex",
+      "id": "876a0c4013b2f4ac4e6c35b3e42b05b5",
+      "title": "huydx/devin",
+      "url": "https://github.com/huydx/devin",
       "source": "github",
-      "source_author": "mlpal-ai",
+      "source_author": "huydx",
       "topics": [],
       "score": 4,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-08-15T01:57:51Z",
+      "collected_at": "2026-08-15T07:08:33Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 13,
+        "stars": 0,
         "upvotes": 0
       }
     },
     {
-      "id": "2c6c2ddf43d44becab049cbfc45d489b",
-      "title": "chl03ks/shut-up-and-code",
-      "url": "https://github.com/chl03ks/shut-up-and-code",
+      "id": "961d1eea08054ce80aaf67cf1ac06b11",
+      "title": "enzofpicanco2009-dev/Devin",
+      "url": "https://github.com/enzofpicanco2009-dev/Devin",
       "source": "github",
-      "source_author": "chl03ks",
+      "source_author": "enzofpicanco2009-dev",
       "topics": [],
       "score": 4,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-08-15T01:57:51Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 8,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "77bd1981feb46bf67734d59aa11a8d2d",
-      "title": "sonnysangha/ai-storefront-sanity-context-clerk-demo",
-      "url": "https://github.com/sonnysangha/ai-storefront-sanity-context-clerk-demo",
-      "source": "github",
-      "source_author": "sonnysangha",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-08-15T01:57:51Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 5,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "14d028eb578692debd56a2dcc3609207",
-      "title": "linyp/dsh-plugin-langfuse",
-      "url": "https://github.com/linyp/dsh-plugin-langfuse",
-      "source": "github",
-      "source_author": "linyp",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-08-15T01:57:56Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 3,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "3a3474744368902e40f5f4ae5d59668f",
-      "title": "fly3366/dsh-o11y-plugin",
-      "url": "https://github.com/fly3366/dsh-o11y-plugin",
-      "source": "github",
-      "source_author": "fly3366",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-08-15T01:57:56Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 2,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "68f772bdb21ebcb34dc956451fcee04b",
-      "title": "titanwings/dsh-better-browser",
-      "url": "https://github.com/titanwings/dsh-better-browser",
-      "source": "github",
-      "source_author": "titanwings",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-08-15T01:57:57Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 7,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "558f890a6d85331536a0867dc9692ffa",
-      "title": "Rimagination/h3lite",
-      "url": "https://github.com/Rimagination/h3lite",
-      "source": "github",
-      "source_author": "Rimagination",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-08-15T01:57:58Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 9,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "2b28aee0293fb731c29b95b9a67badcf",
-      "title": "Anjali07-web/videovisionary-app",
-      "url": "https://github.com/Anjali07-web/videovisionary-app",
-      "source": "github",
-      "source_author": "Anjali07-web",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-08-15T01:57:58Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 2,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "8a524e3c2f54da2220b0e6c75bad7d25",
-      "title": "alignhs26/ahs",
-      "url": "https://github.com/alignhs26/ahs",
-      "source": "github",
-      "source_author": "alignhs26",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-08-15T01:57:58Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 2,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "5b2eab3e51a723c45507981bf4324d6c",
-      "title": "buqi-code/buqi-minimax-h3-multigpu",
-      "url": "https://github.com/buqi-code/buqi-minimax-h3-multigpu",
-      "source": "github",
-      "source_author": "buqi-code",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-08-15T01:57:59Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 1,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "ebfbb68b1fd95db18922838979375c64",
-      "title": "carloscostagarciahalo-prog/agent-swarm-glm",
-      "url": "https://github.com/carloscostagarciahalo-prog/agent-swarm-glm",
-      "source": "github",
-      "source_author": "carloscostagarciahalo-prog",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-08-15T01:58:01Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 1,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "f4675e4a5073426f1636597950f2c2e7",
-      "title": "Jesse-njx/dsh-skillport",
-      "url": "https://github.com/Jesse-njx/dsh-skillport",
-      "source": "github",
-      "source_author": "Jesse-njx",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-08-15T01:58:03Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 2,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "1bbc5cd7866868496c84c1f7d2250a3c",
-      "title": "memcode-ai/memcode",
-      "url": "https://github.com/memcode-ai/memcode",
-      "source": "github",
-      "source_author": "memcode-ai",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-08-15T01:58:04Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 14,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "a394a3c223f7b819c8deafeb81689422",
-      "title": "gtaifu/dsh-wechat-bridge",
-      "url": "https://github.com/gtaifu/dsh-wechat-bridge",
-      "source": "github",
-      "source_author": "gtaifu",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-08-15T01:58:04Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 4,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "0513cc12a1d2e8ff29a59c7fece7fb95",
-      "title": "gnulife/dsh-plugin-wechat",
-      "url": "https://github.com/gnulife/dsh-plugin-wechat",
-      "source": "github",
-      "source_author": "gnulife",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-08-15T01:58:04Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 3,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "2e0773e2ccb7491e4e96d93342f4412d",
-      "title": "ChloeVPin/x-for-you-feed-skill",
-      "url": "https://github.com/ChloeVPin/x-for-you-feed-skill",
-      "source": "github",
-      "source_author": "ChloeVPin",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-08-15T01:58:06Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 1,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "636a3f4e21280acda1935e3473b5bdb7",
-      "title": "maulikbhojani/vibe-coding-framework",
-      "url": "https://github.com/maulikbhojani/vibe-coding-framework",
-      "source": "github",
-      "source_author": "maulikbhojani",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-08-15T01:58:06Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 1,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "0373eda59513d0a87d84c582d2f36828",
-      "title": "Hrit66/devin",
-      "url": "https://github.com/Hrit66/devin",
-      "source": "github",
-      "source_author": "Hrit66",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-08-15T01:58:07Z",
+      "collected_at": "2026-08-15T07:08:33Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
@@ -523,5 +83,5 @@
     }
   ],
   "source": "github",
-  "updated_at": "2026-08-15T02:00:50Z"
+  "updated_at": "2026-08-15T07:11:44Z"
 }
