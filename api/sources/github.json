@@ -1,97 +1,77 @@
 {
-  "count": 10,
+  "count": 9,
   "items": [
     {
-      "id": "da83a75579dbf316faaaad9a3bdeb698",
-      "title": "dataelement/dsh-desktop",
-      "url": "https://github.com/dataelement/dsh-desktop",
+      "id": "c58ecaea342049b6906c92a49995318f",
+      "title": "yetone/cumora",
+      "url": "https://github.com/yetone/cumora",
       "source": "github",
-      "source_author": "dataelement",
-      "topics": [],
-      "score": 8,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-08-17T07:34:06Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 656,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "d1f607090a8aeeb7c12255614f4edc2a",
-      "title": "ryzqi/learn-agent",
-      "url": "https://github.com/ryzqi/learn-agent",
-      "source": "github",
-      "source_author": "ryzqi",
+      "source_author": "yetone",
       "topics": [],
       "score": 7,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-08-17T07:34:13Z",
+      "collected_at": "2026-08-17T13:22:30Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 172,
+        "stars": 181,
         "upvotes": 0
       }
     },
     {
-      "id": "63c6abe5bd1ee3485a418cdf96b22a24",
-      "title": "xiaomi-research/midashenglm-gen",
-      "url": "https://github.com/xiaomi-research/midashenglm-gen",
+      "id": "8151b2928137c87b4c6034824bb46bb9",
+      "title": "asirusasr-maker/ComfyUI-Gemini_3x_Pro",
+      "url": "https://github.com/asirusasr-maker/ComfyUI-Gemini_3x_Pro",
       "source": "github",
-      "source_author": "xiaomi-research",
-      "topics": [],
-      "score": 6,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-08-17T07:34:11Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 72,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "6b98399d85b66d7cb56e8747ae62ab88",
-      "title": "sui-ni2/personal-ai-os",
-      "url": "https://github.com/sui-ni2/personal-ai-os",
-      "source": "github",
-      "source_author": "sui-ni2",
-      "topics": [],
-      "score": 5,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-08-17T07:34:02Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 18,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "4ed95bcb27d8f0c74b432ea95b4d9c52",
-      "title": "Karthika197/Genai-",
-      "url": "https://github.com/Karthika197/Genai-",
-      "source": "github",
-      "source_author": "Karthika197",
+      "source_author": "asirusasr-maker",
       "topics": [],
       "score": 4,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-08-17T07:34:07Z",
+      "collected_at": "2026-08-17T13:22:37Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 2,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "8a3276221013d6864316f9e1d332f1f8",
+      "title": "Songzhi-lab/chinese-font-selector",
+      "url": "https://github.com/Songzhi-lab/chinese-font-selector",
+      "source": "github",
+      "source_author": "Songzhi-lab",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-08-17T13:22:38Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 11,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "125770c5a847844d954a057e875a0038",
+      "title": "SamurAIGPT/dsh-plugin-muapi",
+      "url": "https://github.com/SamurAIGPT/dsh-plugin-muapi",
+      "source": "github",
+      "source_author": "SamurAIGPT",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-08-17T13:22:41Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
@@ -102,56 +82,76 @@
       }
     },
     {
-      "id": "a49f4809cebad7d5db40f659e631594f",
-      "title": "Quincunx33/Ai-jailbreak",
-      "url": "https://github.com/Quincunx33/Ai-jailbreak",
+      "id": "54c9002ad01c97e86acb0c27a2aee539",
+      "title": "PriyankaDani/FitScorer",
+      "url": "https://github.com/PriyankaDani/FitScorer",
       "source": "github",
-      "source_author": "Quincunx33",
+      "source_author": "PriyankaDani",
       "topics": [],
       "score": 4,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-08-17T07:34:09Z",
+      "collected_at": "2026-08-17T13:22:44Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 5,
+        "stars": 3,
         "upvotes": 0
       }
     },
     {
-      "id": "d41975d5dccda234dc63e7b2f1cefc15",
-      "title": "AtropinolTT/dsh-guide-dog",
-      "url": "https://github.com/AtropinolTT/dsh-guide-dog",
+      "id": "88b6ccd80c9c69bdfb0fc122761ae07f",
+      "title": "luoying2334/dsh-plugin-skill-manager-gui",
+      "url": "https://github.com/luoying2334/dsh-plugin-skill-manager-gui",
       "source": "github",
-      "source_author": "AtropinolTT",
+      "source_author": "luoying2334",
       "topics": [],
       "score": 4,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-08-17T07:34:10Z",
+      "collected_at": "2026-08-17T13:22:44Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 4,
+        "stars": 2,
         "upvotes": 0
       }
     },
     {
-      "id": "23b63a06fc5d0e1d55b9897d0fad3afd",
-      "title": "SecretiveShell/agentic-swarm-demo",
-      "url": "https://github.com/SecretiveShell/agentic-swarm-demo",
+      "id": "a179c82dbf539cf77bfcc3ca5a9f1065",
+      "title": "Komdosh/komnet",
+      "url": "https://github.com/Komdosh/komnet",
       "source": "github",
-      "source_author": "SecretiveShell",
+      "source_author": "Komdosh",
       "topics": [],
       "score": 4,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-08-17T07:34:12Z",
+      "collected_at": "2026-08-17T13:22:48Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 6,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "c0f0a4cd42a586f9ef026c6a82737bbe",
+      "title": "kashyab12/pi-devin",
+      "url": "https://github.com/kashyab12/pi-devin",
+      "source": "github",
+      "source_author": "kashyab12",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-08-17T13:22:49Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
@@ -162,46 +162,26 @@
       }
     },
     {
-      "id": "84809ab363432f3f7d753933143f8d23",
-      "title": "OkkBtc/openagent-compat-lab",
-      "url": "https://github.com/OkkBtc/openagent-compat-lab",
+      "id": "016f2680da83660315e99e55dcc9567f",
+      "title": "AjeetK-AI/Devin",
+      "url": "https://github.com/AjeetK-AI/Devin",
       "source": "github",
-      "source_author": "OkkBtc",
+      "source_author": "AjeetK-AI",
       "topics": [],
       "score": 4,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-08-17T07:34:16Z",
+      "collected_at": "2026-08-17T13:22:49Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 7,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "a1aef5533ae17ae4444cfdff438b383f",
-      "title": "vnbochkarev-netizen/vibo-mcp",
-      "url": "https://github.com/vnbochkarev-netizen/vibo-mcp",
-      "source": "github",
-      "source_author": "vnbochkarev-netizen",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-08-17T07:34:18Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 1,
+        "stars": 0,
         "upvotes": 0
       }
     }
   ],
   "source": "github",
-  "updated_at": "2026-08-17T07:37:01Z"
+  "updated_at": "2026-08-17T13:25:32Z"
 }
