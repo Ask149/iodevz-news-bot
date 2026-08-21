@@ -1,67 +1,227 @@
 {
-  "count": 3,
+  "count": 11,
   "items": [
     {
-      "id": "feb44b5abe6ee5b6005dcc059144106e",
-      "title": "zachahn/vomit",
-      "url": "https://github.com/zachahn/vomit",
+      "id": "8f9e93d4487206fbd594c1dbf44d718e",
+      "title": "lianghsun/open-sheet",
+      "url": "https://github.com/lianghsun/open-sheet",
       "source": "github",
-      "source_author": "zachahn",
+      "source_author": "lianghsun",
       "topics": [],
       "score": 6,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-08-21T07:25:07Z",
+      "collected_at": "2026-08-21T13:27:29Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 85,
+        "stars": 58,
         "upvotes": 0
       }
     },
     {
-      "id": "738bb9caf246ee085dc437d2d280c161",
-      "title": "R3hb/deepseek-harness-gpt-desktop",
-      "url": "https://github.com/R3hb/deepseek-harness-gpt-desktop",
+      "id": "8e544444ad7ce56b4be86f36911ff7a4",
+      "title": "tsuru0805/api-to-claude-code-p",
+      "url": "https://github.com/tsuru0805/api-to-claude-code-p",
       "source": "github",
-      "source_author": "R3hb",
-      "topics": [],
-      "score": 5,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-08-21T07:25:11Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 20,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "63608ab0660393b449ae8ff8c67758c3",
-      "title": "MJorgin/dsh-agent-conductor",
-      "url": "https://github.com/MJorgin/dsh-agent-conductor",
-      "source": "github",
-      "source_author": "MJorgin",
+      "source_author": "tsuru0805",
       "topics": [],
       "score": 4,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-08-21T07:25:16Z",
+      "collected_at": "2026-08-21T13:27:17Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 5,
+        "stars": 4,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "ca1655b1f67c7a38c941c264b499e081",
+      "title": "keli-wen/agy-staff",
+      "url": "https://github.com/keli-wen/agy-staff",
+      "source": "github",
+      "source_author": "keli-wen",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-08-21T13:27:18Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 15,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "09f27a06b06443835df24386b72516f3",
+      "title": "UgurInanc12/ltx25-prompt-writing",
+      "url": "https://github.com/UgurInanc12/ltx25-prompt-writing",
+      "source": "github",
+      "source_author": "UgurInanc12",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-08-21T13:27:25Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 3,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "ed7bb70e4a238c3f79bd997e0d943c30",
+      "title": "Slartibart23/ComfyUI-CustomVideoSave",
+      "url": "https://github.com/Slartibart23/ComfyUI-CustomVideoSave",
+      "source": "github",
+      "source_author": "Slartibart23",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-08-21T13:27:26Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "0eb2dc366e1cdbfcd4400c235f56a35d",
+      "title": "swarm-apps/dsh-swarmdrop",
+      "url": "https://github.com/swarm-apps/dsh-swarmdrop",
+      "source": "github",
+      "source_author": "swarm-apps",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-08-21T13:27:28Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 2,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "2c8c15ec00ff6c3b4709b2c150920de6",
+      "title": "TobyPhln/Swarm",
+      "url": "https://github.com/TobyPhln/Swarm",
+      "source": "github",
+      "source_author": "TobyPhln",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-08-21T13:27:28Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "f758b324938d86ca618483745e5d2b5e",
+      "title": "erayendes/oduncu",
+      "url": "https://github.com/erayendes/oduncu",
+      "source": "github",
+      "source_author": "erayendes",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-08-21T13:27:30Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 4,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "ccdb78384e03628d11d11dbfd8d676e3",
+      "title": "andalabx/skills",
+      "url": "https://github.com/andalabx/skills",
+      "source": "github",
+      "source_author": "andalabx",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-08-21T13:27:31Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 2,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "44ac189082b13f5ba38b5c79ae864b90",
+      "title": "VBK-AI-Agent-Gateway/VBK-AI-Agent-Gateway",
+      "url": "https://github.com/VBK-AI-Agent-Gateway/VBK-AI-Agent-Gateway",
+      "source": "github",
+      "source_author": "VBK-AI-Agent-Gateway",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-08-21T13:27:34Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 2,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "aab0002a92057c4af05fcaafe683879b",
+      "title": "aswinsubhash/flutter-rules",
+      "url": "https://github.com/aswinsubhash/flutter-rules",
+      "source": "github",
+      "source_author": "aswinsubhash",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-08-21T13:27:35Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
         "upvotes": 0
       }
     }
   ],
   "source": "github",
-  "updated_at": "2026-08-21T07:28:40Z"
+  "updated_at": "2026-08-21T13:30:18Z"
 }
