@@ -1,6 +1,87 @@
 {
-  "count": 93,
+  "count": 125,
+  "date": "2026-08-22",
   "items": [
+    {
+      "id": "c014bdfb404b0980ad31856c277bf3a2",
+      "title": "Leutenegger/claudish-to-english",
+      "url": "https://github.com/Leutenegger/claudish-to-english",
+      "source": "github",
+      "source_author": "Leutenegger",
+      "topics": [],
+      "score": 8,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-08-22T01:58:55Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 579,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "ec75ed483974277ed8579cd8b1be1ec5",
+      "title": "unclecode/modelprint",
+      "url": "https://github.com/unclecode/modelprint",
+      "source": "github",
+      "source_author": "unclecode",
+      "topics": [],
+      "score": 6,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-08-22T01:58:57Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 35,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "ae6baa7c198073d9440601be29215a3b",
+      "title": "abligail/narralume",
+      "url": "https://github.com/abligail/narralume",
+      "source": "github",
+      "source_author": "abligail",
+      "topics": [],
+      "score": 6,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-08-22T01:59:14Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 75,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "bbff93c71086b24c20e49538152878d5",
+      "title": "Zyrexnn/Cybermes",
+      "url": "https://github.com/Zyrexnn/Cybermes",
+      "source": "github",
+      "source_author": "Zyrexnn",
+      "topics": [],
+      "score": 6,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-08-22T01:59:14Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 79,
+        "upvotes": 0
+      }
+    },
     {
       "id": "e3127a8d630d2102db683aa6f9237d0b",
       "title": "Quick impressions: A week of using Codex more than Claude",
@@ -19,6 +100,26 @@
         "retweets": 0,
         "stars": 0,
         "upvotes": 81
+      }
+    },
+    {
+      "id": "47d8a296fc1e98a9838835fcdb756eed",
+      "title": "joe960913/Jixu",
+      "url": "https://github.com/joe960913/Jixu",
+      "source": "github",
+      "source_author": "joe960913",
+      "topics": [],
+      "score": 6,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-08-22T01:59:07Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 106,
+        "upvotes": 0
       }
     },
     {
@@ -42,6 +143,26 @@
       }
     },
     {
+      "id": "ce4a75353bf63541df5e25e2177e61f9",
+      "title": "warmsum/mini-harness",
+      "url": "https://github.com/warmsum/mini-harness",
+      "source": "github",
+      "source_author": "warmsum",
+      "topics": [],
+      "score": 6,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-08-22T01:59:00Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 104,
+        "upvotes": 0
+      }
+    },
+    {
       "id": "722db6a870ba9e1486f8824ae08d43a5",
       "title": "Building an (almost) fully self-hosted, sandboxed, agentic software factory",
       "url": "https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory/",
@@ -62,6 +183,66 @@
       }
     },
     {
+      "id": "98e69e4d917c338a4939dfc0977287f5",
+      "title": "Apeireth/apeireth-rust",
+      "url": "https://github.com/Apeireth/apeireth-rust",
+      "source": "github",
+      "source_author": "Apeireth",
+      "topics": [],
+      "score": 6,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-08-22T01:59:14Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 79,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "51b80d436b37d085d4288e9440f2483f",
+      "title": "liangmianya/dsh-synapse",
+      "url": "https://github.com/liangmianya/dsh-synapse",
+      "source": "github",
+      "source_author": "liangmianya",
+      "topics": [],
+      "score": 6,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-08-22T01:59:00Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 148,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "7ed9a1f9d205ef3c196d2d4e32ed307e",
+      "title": "oil-oil/dsh-oil-creator",
+      "url": "https://github.com/oil-oil/dsh-oil-creator",
+      "source": "github",
+      "source_author": "oil-oil",
+      "topics": [],
+      "score": 6,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-08-22T01:59:00Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 110,
+        "upvotes": 0
+      }
+    },
+    {
       "id": "d07edeb336afed100d37c133aa63c3c2",
       "title": "Claudette: Make Claude stop talking like a BuzzFeed article",
       "url": "https://github.com/adnanakil/nobuzz/blob/main/README.md",
@@ -79,6 +260,26 @@
         "retweets": 0,
         "stars": 0,
         "upvotes": 204
+      }
+    },
+    {
+      "id": "4ab5e073e2e7095dee14427f981c3a13",
+      "title": "furkankly/zoetrope",
+      "url": "https://github.com/furkankly/zoetrope",
+      "source": "github",
+      "source_author": "furkankly",
+      "topics": [],
+      "score": 6,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-08-22T01:58:55Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 106,
+        "upvotes": 0
       }
     },
     {
@@ -1702,6 +1903,66 @@
       }
     },
     {
+      "id": "4232f9e0d3c27135f3d0e698171ba4cd",
+      "title": "Consensus-NLP/consensus-mcp",
+      "url": "https://github.com/Consensus-NLP/consensus-mcp",
+      "source": "github",
+      "source_author": "Consensus-NLP",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-08-22T01:58:56Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 16,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "97d96f7f832610e7e011d41e521ce8be",
+      "title": "mukilankarthik/claude-architect-guide-india",
+      "url": "https://github.com/mukilankarthik/claude-architect-guide-india",
+      "source": "github",
+      "source_author": "mukilankarthik",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-08-22T01:58:56Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 5,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "85da1a109e428bb27699e07f75bc6403",
+      "title": "MrMarudi/academy-coach",
+      "url": "https://github.com/MrMarudi/academy-coach",
+      "source": "github",
+      "source_author": "MrMarudi",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-08-22T01:58:56Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 4,
+        "upvotes": 0
+      }
+    },
+    {
       "id": "b13734d1c4ba69b380e3b4f7fe7a7299",
       "title": "Anthropic plans to change enterprise data retention policy",
       "url": "https://www.reuters.com/business/anthropic-plans-change-enterprise-data-retention-policy-source-says-2026-08-20/",
@@ -1719,6 +1980,86 @@
         "retweets": 0,
         "stars": 0,
         "upvotes": 4
+      }
+    },
+    {
+      "id": "7f79a9c9a6cf1e35364a9f6f4fd24e7d",
+      "title": "sanepsychiatr/gptzero-bypass-2026",
+      "url": "https://github.com/sanepsychiatr/gptzero-bypass-2026",
+      "source": "github",
+      "source_author": "sanepsychiatr",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-08-22T01:58:58Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 16,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "9e1fc7920198b247d657d9e295b9ab40",
+      "title": "improbabledry/gpt4o-free-2026",
+      "url": "https://github.com/improbabledry/gpt4o-free-2026",
+      "source": "github",
+      "source_author": "improbabledry",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-08-22T01:58:58Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 12,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "2a1a3349904f2d4dd1b95cce3df96fbc",
+      "title": "frillygoodb/gpt4o-jailbreak-2026",
+      "url": "https://github.com/frillygoodb/gpt4o-jailbreak-2026",
+      "source": "github",
+      "source_author": "frillygoodb",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-08-22T01:58:58Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 12,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "67cbad14897533a7971c3072f3a9768a",
+      "title": "karthink/gptel-annotate",
+      "url": "https://github.com/karthink/gptel-annotate",
+      "source": "github",
+      "source_author": "karthink",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-08-22T01:58:58Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 10,
+        "upvotes": 0
       }
     },
     {
@@ -1782,6 +2123,226 @@
       }
     },
     {
+      "id": "6e1f13c4198e1e3001f50fcdeabfeb88",
+      "title": "gopalapratik/GENAI",
+      "url": "https://github.com/gopalapratik/GENAI",
+      "source": "github",
+      "source_author": "gopalapratik",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-08-22T01:59:02Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "00f8ecf29fd34805310e7c3fb661583c",
+      "title": "YD-233/kimi-break",
+      "url": "https://github.com/YD-233/kimi-break",
+      "source": "github",
+      "source_author": "YD-233",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-08-22T01:59:03Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 4,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "a0fe112e538f5f097f583da3829bc038",
+      "title": "xiaotu22/KimiQ",
+      "url": "https://github.com/xiaotu22/KimiQ",
+      "source": "github",
+      "source_author": "xiaotu22",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-08-22T01:59:03Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 3,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "55876d73e083b4e078ae291544da084a",
+      "title": "SHAWNTRIBBIANI/KimiHermes",
+      "url": "https://github.com/SHAWNTRIBBIANI/KimiHermes",
+      "source": "github",
+      "source_author": "SHAWNTRIBBIANI",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-08-22T01:59:03Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 3,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "963a7aa5284c9a90df5c076e5fb973a3",
+      "title": "miserablecarr/kling-2-crack-2026",
+      "url": "https://github.com/miserablecarr/kling-2-crack-2026",
+      "source": "github",
+      "source_author": "miserablecarr",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-08-22T01:59:04Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 16,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "ce5f2cd8d6a1358d78de943b21f62aa3",
+      "title": "xm6018924/BSAI-ComfyUI_Contextual-Series",
+      "url": "https://github.com/xm6018924/BSAI-ComfyUI_Contextual-Series",
+      "source": "github",
+      "source_author": "xm6018924",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-08-22T01:59:04Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 2,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "2847feae931c6a19f7193cb6c57c4e2e",
+      "title": "47thtechcorner/RayCodes_Wan2GP",
+      "url": "https://github.com/47thtechcorner/RayCodes_Wan2GP",
+      "source": "github",
+      "source_author": "47thtechcorner",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-08-22T01:59:04Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 2,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "c55e2533654a912ea97bc7d65e2326cb",
+      "title": "BloopieBlair/RedditReadingApp",
+      "url": "https://github.com/BloopieBlair/RedditReadingApp",
+      "source": "github",
+      "source_author": "BloopieBlair",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-08-22T01:59:04Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 2,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "34e355548a5515ed48aef3bae9d9310e",
+      "title": "Adudeguyman/ComfyUI-H3-AudioRefine",
+      "url": "https://github.com/Adudeguyman/ComfyUI-H3-AudioRefine",
+      "source": "github",
+      "source_author": "Adudeguyman",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-08-22T01:59:05Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "a139c16b3ad3c707535522f3fbace207",
+      "title": "djbroiti/ltx25-ia2v-comfyui",
+      "url": "https://github.com/djbroiti/ltx25-ia2v-comfyui",
+      "source": "github",
+      "source_author": "djbroiti",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-08-22T01:59:05Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "d0ff5eb7e5a94544f32aeca3b9f32c83",
+      "title": "leinasi2014/dsh-agent-swarm",
+      "url": "https://github.com/leinasi2014/dsh-agent-swarm",
+      "source": "github",
+      "source_author": "leinasi2014",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-08-22T01:59:06Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
+        "upvotes": 0
+      }
+    },
+    {
       "id": "f3b0e93fec1a9f9d3a0da5248c194a36",
       "title": "Claude has a \"Concise\" output style",
       "url": "https://code.claude.com/docs/en/output-styles",
@@ -1799,6 +2360,86 @@
         "retweets": 0,
         "stars": 0,
         "upvotes": 4
+      }
+    },
+    {
+      "id": "89b268e2c72f25485261cb5d04483e12",
+      "title": "Kevin-the-minion/syndicate-os",
+      "url": "https://github.com/Kevin-the-minion/syndicate-os",
+      "source": "github",
+      "source_author": "Kevin-the-minion",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-08-22T01:59:09Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 3,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "f493ea2fd20685583c5b88affde4557a",
+      "title": "snehithallamraju/openclaw-multiagent-workshop",
+      "url": "https://github.com/snehithallamraju/openclaw-multiagent-workshop",
+      "source": "github",
+      "source_author": "snehithallamraju",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-08-22T01:59:09Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 2,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "b36eff27f885d2f46f3c1b6bb4f828d1",
+      "title": "vezlin1/antigravity-bypass-russia",
+      "url": "https://github.com/vezlin1/antigravity-bypass-russia",
+      "source": "github",
+      "source_author": "vezlin1",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-08-22T01:59:12Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 2,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "e24afb6af179386005630d98037de886",
+      "title": "overklassniy/ssh-mcp",
+      "url": "https://github.com/overklassniy/ssh-mcp",
+      "source": "github",
+      "source_author": "overklassniy",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-08-22T01:59:13Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
+        "upvotes": 0
       }
     },
     {
@@ -1862,6 +2503,5 @@
       }
     }
   ],
-  "source": "hackernews",
   "updated_at": "2026-08-22T02:01:57Z"
 }
