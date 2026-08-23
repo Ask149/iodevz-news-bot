@@ -1,77 +1,277 @@
 {
-  "count": 4,
+  "count": 20,
   "items": [
     {
-      "id": "d86fc93bbf51450dbb497c6cae020f5d",
-      "title": "memcode-in/memcode",
-      "url": "https://github.com/memcode-in/memcode",
+      "id": "bf8f796c0565b05b504d5250a902f78f",
+      "title": "Nour-yahyaoui/Claude-prompt",
+      "url": "https://github.com/Nour-yahyaoui/Claude-prompt",
       "source": "github",
-      "source_author": "memcode-in",
+      "source_author": "Nour-yahyaoui",
       "topics": [],
       "score": 6,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-08-22T13:10:57Z",
+      "collected_at": "2026-08-23T02:10:32Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 136,
+        "stars": 77,
         "upvotes": 0
       }
     },
     {
-      "id": "fa4173533585c5415d8464322c535761",
-      "title": "panxunying/ai-coding-welfare",
-      "url": "https://github.com/panxunying/ai-coding-welfare",
+      "id": "e17b64cc764e744fc841101e7465da6c",
+      "title": "feyzilim/clipfactory",
+      "url": "https://github.com/feyzilim/clipfactory",
       "source": "github",
-      "source_author": "panxunying",
+      "source_author": "feyzilim",
       "topics": [],
-      "score": 4,
+      "score": 6,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-08-22T13:10:37Z",
+      "collected_at": "2026-08-23T02:10:17Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 6,
+        "stars": 50,
         "upvotes": 0
       }
     },
     {
-      "id": "8d98ab2814a2601b8b85047781501114",
-      "title": "ranhunya/gpt-plus-plus",
-      "url": "https://github.com/ranhunya/gpt-plus-plus",
+      "id": "70a617028be20fb8e4540adcf06ee7d5",
+      "title": "Hi1talib1World/langgraph-mcp-coding-assistant-project",
+      "url": "https://github.com/Hi1talib1World/langgraph-mcp-coding-assistant-project",
       "source": "github",
-      "source_author": "ranhunya",
+      "source_author": "Hi1talib1World",
       "topics": [],
-      "score": 4,
+      "score": 6,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-08-22T13:10:39Z",
+      "collected_at": "2026-08-23T02:10:28Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 12,
+        "stars": 43,
         "upvotes": 0
       }
     },
     {
-      "id": "6b25f06fd1cc47c616092ec12787634d",
-      "title": "zaleGZL/devin-agent",
-      "url": "https://github.com/zaleGZL/devin-agent",
+      "id": "92406a67d6bce84150a86647bf70cf7c",
+      "title": "sevensir888/codex-command-center",
+      "url": "https://github.com/sevensir888/codex-command-center",
       "source": "github",
-      "source_author": "zaleGZL",
+      "source_author": "sevensir888",
+      "topics": [],
+      "score": 6,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-08-23T02:10:28Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 45,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "f7b17d0e355331d0c17c8b3ddb2f76b9",
+      "title": "xuanyuanzhifeng/dsh-plugin-agent-workflow",
+      "url": "https://github.com/xuanyuanzhifeng/dsh-plugin-agent-workflow",
+      "source": "github",
+      "source_author": "xuanyuanzhifeng",
+      "topics": [],
+      "score": 6,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-08-23T02:10:21Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 94,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "9648da9463a64f8ed15b364f39e32ea7",
+      "title": "Totoro-qaq/dsh-plugin-bridge",
+      "url": "https://github.com/Totoro-qaq/dsh-plugin-bridge",
+      "source": "github",
+      "source_author": "Totoro-qaq",
+      "topics": [],
+      "score": 6,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-08-23T02:10:21Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 97,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "351247afedba0607bd80366887cf4432",
+      "title": "nateherkai/scroll-craft",
+      "url": "https://github.com/nateherkai/scroll-craft",
+      "source": "github",
+      "source_author": "nateherkai",
+      "topics": [],
+      "score": 6,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-08-23T02:10:15Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 134,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "f06957dc38063f9389f4731668c8d0b8",
+      "title": "hxhou0207/chatgpt-markdown-latex-copier",
+      "url": "https://github.com/hxhou0207/chatgpt-markdown-latex-copier",
+      "source": "github",
+      "source_author": "hxhou0207",
+      "topics": [],
+      "score": 5,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-08-23T02:10:19Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 33,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "309ec09e5d303b94f21cd77ff1f5d383",
+      "title": "ashamedoutpu/gpt-5-crack-2026",
+      "url": "https://github.com/ashamedoutpu/gpt-5-crack-2026",
+      "source": "github",
+      "source_author": "ashamedoutpu",
+      "topics": [],
+      "score": 5,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-08-23T02:10:19Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 17,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "d4432a7cee99f90c5161ffae75dc3da6",
+      "title": "bowedcalibre/gpt-4o-crack-2026",
+      "url": "https://github.com/bowedcalibre/gpt-4o-crack-2026",
+      "source": "github",
+      "source_author": "bowedcalibre",
+      "topics": [],
+      "score": 5,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-08-23T02:10:19Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 17,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "e85bed1cf91cb6708bd5782670f5d3f4",
+      "title": "colorfulmantl/devin-ai-crack-2026",
+      "url": "https://github.com/colorfulmantl/devin-ai-crack-2026",
+      "source": "github",
+      "source_author": "colorfulmantl",
+      "topics": [],
+      "score": 5,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-08-23T02:10:34Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 18,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "60ebe5f7b226d343802aaa0b6ef8958a",
+      "title": "preporato/claude-certification-guide",
+      "url": "https://github.com/preporato/claude-certification-guide",
+      "source": "github",
+      "source_author": "preporato",
       "topics": [],
       "score": 4,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-08-22T13:10:54Z",
+      "collected_at": "2026-08-23T02:10:16Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 8,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "3fd7fe8b3567afb22f224382420a328b",
+      "title": "mengchangfeng/GPT-TaskBoard",
+      "url": "https://github.com/mengchangfeng/GPT-TaskBoard",
+      "source": "github",
+      "source_author": "mengchangfeng",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-08-23T02:10:19Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 13,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "270f4200583ca8a9a27ecc68b1e6c998",
+      "title": "amolc/genai",
+      "url": "https://github.com/amolc/genai",
+      "source": "github",
+      "source_author": "amolc",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-08-23T02:10:22Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
@@ -80,8 +280,128 @@
         "stars": 1,
         "upvotes": 0
       }
+    },
+    {
+      "id": "d935ac93e75275a8fe501a5134dcce37",
+      "title": "zayokami/labunbun-code",
+      "url": "https://github.com/zayokami/labunbun-code",
+      "source": "github",
+      "source_author": "zayokami",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-08-23T02:10:23Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 4,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "b3f187578719c5f1c6c21c8a378de3fa",
+      "title": "heekei/dsh-usage",
+      "url": "https://github.com/heekei/dsh-usage",
+      "source": "github",
+      "source_author": "heekei",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-08-23T02:10:23Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 3,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "2db7759337b208bc3750be25443e731b",
+      "title": "Shivammm77/Video_Generation",
+      "url": "https://github.com/Shivammm77/Video_Generation",
+      "source": "github",
+      "source_author": "Shivammm77",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-08-23T02:10:25Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "f40d66b9c37b2e4cf7aea040229b8a7a",
+      "title": "TanWeiXuan/SwarmBenchV2",
+      "url": "https://github.com/TanWeiXuan/SwarmBenchV2",
+      "source": "github",
+      "source_author": "TanWeiXuan",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-08-23T02:10:27Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "4c0453d528f9a700a24d732d3c3a5292",
+      "title": "hyt315/skill-doctor",
+      "url": "https://github.com/hyt315/skill-doctor",
+      "source": "github",
+      "source_author": "hyt315",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-08-23T02:10:29Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "5be1305b3ca2fe917b82792f8710aa49",
+      "title": "Sherlockwz/AMA",
+      "url": "https://github.com/Sherlockwz/AMA",
+      "source": "github",
+      "source_author": "Sherlockwz",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-08-23T02:10:31Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 4,
+        "upvotes": 0
+      }
     }
   ],
   "source": "github",
-  "updated_at": "2026-08-22T13:14:10Z"
+  "updated_at": "2026-08-23T02:13:48Z"
 }
