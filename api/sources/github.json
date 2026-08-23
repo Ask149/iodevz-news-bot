@@ -1,47 +1,167 @@
 {
-  "count": 2,
+  "count": 8,
   "items": [
     {
-      "id": "6889d8a867f5b0ee6e61cc792d5a999b",
-      "title": "duty1g/x64dbg-mcp-server",
-      "url": "https://github.com/duty1g/x64dbg-mcp-server",
+      "id": "d248945102f23b629a347e2c15faddcc",
+      "title": "addyosmani/factory",
+      "url": "https://github.com/addyosmani/factory",
       "source": "github",
-      "source_author": "duty1g",
+      "source_author": "addyosmani",
       "topics": [],
       "score": 6,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-08-23T07:11:58Z",
+      "collected_at": "2026-08-23T13:12:00Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 154,
+        "stars": 106,
         "upvotes": 0
       }
     },
     {
-      "id": "61205e5f59c8aa0649e288c9f8106743",
-      "title": "totec448-spec/chat-on-steroids",
-      "url": "https://github.com/totec448-spec/chat-on-steroids",
+      "id": "be19eaa077d997f82d72715b8ca5d369",
+      "title": "kgoedecke/doop",
+      "url": "https://github.com/kgoedecke/doop",
       "source": "github",
-      "source_author": "totec448-spec",
+      "source_author": "kgoedecke",
       "topics": [],
       "score": 6,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-08-23T07:11:58Z",
+      "collected_at": "2026-08-23T13:12:13Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 47,
+        "stars": 65,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "1033971dfa706a6e2ef7e4f2bc106c90",
+      "title": "yeying-xingchen/qualification-test",
+      "url": "https://github.com/yeying-xingchen/qualification-test",
+      "source": "github",
+      "source_author": "yeying-xingchen",
+      "topics": [],
+      "score": 5,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-08-23T13:12:03Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 28,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "cbd61dad103f25edce0bc9fbe901430f",
+      "title": "yacine-baghli/DYB-Pro",
+      "url": "https://github.com/yacine-baghli/DYB-Pro",
+      "source": "github",
+      "source_author": "yacine-baghli",
+      "topics": [],
+      "score": 5,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-08-23T13:12:18Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 23,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "d3ed8198c4b1a4bc01d3eb85252bef87",
+      "title": "PiLastDigit/Code-With-Claude",
+      "url": "https://github.com/PiLastDigit/Code-With-Claude",
+      "source": "github",
+      "source_author": "PiLastDigit",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-08-23T13:12:02Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 8,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "e765ede2cde18d126d82119a140836c0",
+      "title": "anyel1to/ATSMATRIX-LEAD-SWARM",
+      "url": "https://github.com/anyel1to/ATSMATRIX-LEAD-SWARM",
+      "source": "github",
+      "source_author": "anyel1to",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-08-23T13:12:12Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 2,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "aedf0807ea153beef466c9c912bb071b",
+      "title": "Sega757/Sovereign-Agent-Swarm",
+      "url": "https://github.com/Sega757/Sovereign-Agent-Swarm",
+      "source": "github",
+      "source_author": "Sega757",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-08-23T13:12:12Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "4106985636fd27395fe52c7a09f891d4",
+      "title": "tydm2/create-generate-skill",
+      "url": "https://github.com/tydm2/create-generate-skill",
+      "source": "github",
+      "source_author": "tydm2",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-08-23T13:12:14Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
         "upvotes": 0
       }
     }
   ],
   "source": "github",
-  "updated_at": "2026-08-23T07:14:48Z"
+  "updated_at": "2026-08-23T13:15:03Z"
 }
