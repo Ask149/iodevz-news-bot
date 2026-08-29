@@ -1,5 +1,6 @@
 {
-  "count": 54,
+  "count": 85,
+  "date": "2026-08-29",
   "items": [
     {
       "id": "270b37a50b2bf1db88b41407dd252dc6",
@@ -22,6 +23,46 @@
       }
     },
     {
+      "id": "59d3db9604877a7f9805c446733f61ab",
+      "title": "kacperkapusciak/goldie",
+      "url": "https://github.com/kacperkapusciak/goldie",
+      "source": "github",
+      "source_author": "kacperkapusciak",
+      "topics": [],
+      "score": 7,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-08-29T07:18:11Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 192,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "887db4e516089a3df9b3899507f7860c",
+      "title": "acryldev/acryl",
+      "url": "https://github.com/acryldev/acryl",
+      "source": "github",
+      "source_author": "acryldev",
+      "topics": [],
+      "score": 7,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-08-29T07:18:11Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 220,
+        "upvotes": 0
+      }
+    },
+    {
       "id": "2875620c3884bb27fc6fb23e8f831152",
       "title": "Our decision on Cursor following its acquisition by SpaceX",
       "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/",
@@ -39,6 +80,26 @@
         "retweets": 0,
         "stars": 0,
         "upvotes": 428
+      }
+    },
+    {
+      "id": "f78b0881fe9ec9533cd34daefb7f3945",
+      "title": "pamgarcia1993/robinhood-lp-bot",
+      "url": "https://github.com/pamgarcia1993/robinhood-lp-bot",
+      "source": "github",
+      "source_author": "pamgarcia1993",
+      "topics": [],
+      "score": 6,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-08-29T07:18:26Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 93,
+        "upvotes": 0
       }
     },
     {
@@ -82,6 +143,26 @@
       }
     },
     {
+      "id": "9ae704128729a1d8d4469627fb8524ad",
+      "title": "Jackywxsz/DSH-Creator",
+      "url": "https://github.com/Jackywxsz/DSH-Creator",
+      "source": "github",
+      "source_author": "Jackywxsz",
+      "topics": [],
+      "score": 6,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-08-29T07:18:12Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 41,
+        "upvotes": 0
+      }
+    },
+    {
       "id": "0c94422f6869de629eb1d8886310382c",
       "title": "I accidentally turned LLM memory into program analysis",
       "url": "https://pwning.systems/posts/llm-memory-program-analysis/",
@@ -99,6 +180,286 @@
         "retweets": 0,
         "stars": 0,
         "upvotes": 106
+      }
+    },
+    {
+      "id": "99659719861311787aefe6f02628cfc3",
+      "title": "ADScanPro/Claude-AD",
+      "url": "https://github.com/ADScanPro/Claude-AD",
+      "source": "github",
+      "source_author": "ADScanPro",
+      "topics": [],
+      "score": 6,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-08-29T07:18:07Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 137,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "757f289db72756a78a6db245abdd39d3",
+      "title": "muratmula/ai-robinhood-chain",
+      "url": "https://github.com/muratmula/ai-robinhood-chain",
+      "source": "github",
+      "source_author": "muratmula",
+      "topics": [],
+      "score": 6,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-08-29T07:18:27Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 102,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "30de0f07c6986f6cb891ffecbb7cc8a1",
+      "title": "JordyZomer/lemmalog",
+      "url": "https://github.com/JordyZomer/lemmalog",
+      "source": "github",
+      "source_author": "JordyZomer",
+      "topics": [],
+      "score": 6,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-08-29T07:18:19Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 50,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "8382cf4424deefb8e28e0249129c7fee",
+      "title": "ooocooc/open-skill-sunset",
+      "url": "https://github.com/ooocooc/open-skill-sunset",
+      "source": "github",
+      "source_author": "ooocooc",
+      "topics": [],
+      "score": 6,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-08-29T07:18:27Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 84,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "25e59962d603a40dc5f847098f219ab0",
+      "title": "MirroS-Lab/Code-as-World",
+      "url": "https://github.com/MirroS-Lab/Code-as-World",
+      "source": "github",
+      "source_author": "MirroS-Lab",
+      "topics": [],
+      "score": 6,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-08-29T07:18:11Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 149,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "097f44a4cfdb40ac85d0ac1636775391",
+      "title": "Gaploid/stardust",
+      "url": "https://github.com/Gaploid/stardust",
+      "source": "github",
+      "source_author": "Gaploid",
+      "topics": [],
+      "score": 5,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-08-29T07:18:23Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 18,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "58e81d37ecec40c8f6018fc5f7ba2a70",
+      "title": "liangdabiao/ecom-video-seedance-prompt",
+      "url": "https://github.com/liangdabiao/ecom-video-seedance-prompt",
+      "source": "github",
+      "source_author": "liangdabiao",
+      "topics": [],
+      "score": 5,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-08-29T07:18:12Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 27,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "9b32afb56c72213183dd784870c1ab12",
+      "title": "win4r/deepseek-harness-plugin-creator",
+      "url": "https://github.com/win4r/deepseek-harness-plugin-creator",
+      "source": "github",
+      "source_author": "win4r",
+      "topics": [],
+      "score": 5,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-08-29T07:18:12Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 23,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "e42d6a89b68029d6abe6a89bed1d1817",
+      "title": "w-partners/Wbrowser",
+      "url": "https://github.com/w-partners/Wbrowser",
+      "source": "github",
+      "source_author": "w-partners",
+      "topics": [],
+      "score": 5,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-08-29T07:18:19Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 29,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "16783931bc8ddd399f77d827eb9b0db6",
+      "title": "PensiveFei/dsh-voice-scribe",
+      "url": "https://github.com/PensiveFei/dsh-voice-scribe",
+      "source": "github",
+      "source_author": "PensiveFei",
+      "topics": [],
+      "score": 5,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-08-29T07:18:09Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 19,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "76f8591746543787f1af6a9a601fe9a8",
+      "title": "zhuyifang/tonghuasun-codex",
+      "url": "https://github.com/zhuyifang/tonghuasun-codex",
+      "source": "github",
+      "source_author": "zhuyifang",
+      "topics": [],
+      "score": 5,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-08-29T07:18:19Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 27,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "0b059450746092157c04f37585cb078e",
+      "title": "AZHi-xinxin/LoverConnect-Enhanced",
+      "url": "https://github.com/AZHi-xinxin/LoverConnect-Enhanced",
+      "source": "github",
+      "source_author": "AZHi-xinxin",
+      "topics": [],
+      "score": 5,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-08-29T07:18:19Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 25,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "64ecbb0fd2e7a305ded8aa2604ba5221",
+      "title": "handyutils/cbmman",
+      "url": "https://github.com/handyutils/cbmman",
+      "source": "github",
+      "source_author": "handyutils",
+      "topics": [],
+      "score": 5,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-08-29T07:18:19Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 23,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "91f42b7702a75a472b41c554f209a1b4",
+      "title": "Horizon0427/Glasscope",
+      "url": "https://github.com/Horizon0427/Glasscope",
+      "source": "github",
+      "source_author": "Horizon0427",
+      "topics": [],
+      "score": 5,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-08-29T07:18:23Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 18,
+        "upvotes": 0
       }
     },
     {
@@ -742,6 +1103,26 @@
       }
     },
     {
+      "id": "b615f37a9316ce833609383998df21ff",
+      "title": "agent-clinic/claude-md-doctor",
+      "url": "https://github.com/agent-clinic/claude-md-doctor",
+      "source": "github",
+      "source_author": "agent-clinic",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-08-29T07:18:08Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 13,
+        "upvotes": 0
+      }
+    },
+    {
       "id": "f401538dd5d8ac4b24c915bd6fd60093",
       "title": "A browser-based automated JavaScript testing framework in one .html file",
       "url": "https://github.com/swans-one/browser-test",
@@ -759,6 +1140,46 @@
         "retweets": 0,
         "stars": 0,
         "upvotes": 2
+      }
+    },
+    {
+      "id": "6b01f08fe3343447668333e50ab71df1",
+      "title": "fatdog-pro/Image2-generate",
+      "url": "https://github.com/fatdog-pro/Image2-generate",
+      "source": "github",
+      "source_author": "fatdog-pro",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-08-29T07:18:10Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 11,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "d24ffc29e314ccfc040aba5c11aaa604",
+      "title": "truthfulhops/Unrestricted-GPT",
+      "url": "https://github.com/truthfulhops/Unrestricted-GPT",
+      "source": "github",
+      "source_author": "truthfulhops",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-08-29T07:18:10Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 9,
+        "upvotes": 0
       }
     },
     {
@@ -882,6 +1303,146 @@
       }
     },
     {
+      "id": "a2607751d117b957aec537a836c3c64f",
+      "title": "subhampadhi33537-collab/GenAI_Projects",
+      "url": "https://github.com/subhampadhi33537-collab/GenAI_Projects",
+      "source": "github",
+      "source_author": "subhampadhi33537-collab",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-08-29T07:18:13Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "0578034e120aaf26e8f3cad849376a51",
+      "title": "mcgaffertybodway62-cell/aiweb-copyfix",
+      "url": "https://github.com/mcgaffertybodway62-cell/aiweb-copyfix",
+      "source": "github",
+      "source_author": "mcgaffertybodway62-cell",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-08-29T07:18:15Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 2,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "b336163d6134221554e9b69335044d0b",
+      "title": "webhead2oo9/kimi-agent",
+      "url": "https://github.com/webhead2oo9/kimi-agent",
+      "source": "github",
+      "source_author": "webhead2oo9",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-08-29T07:18:15Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "ecb0fa265dfa4be6245d15c648dadb6e",
+      "title": "itsdarktoday/auditcode",
+      "url": "https://github.com/itsdarktoday/auditcode",
+      "source": "github",
+      "source_author": "itsdarktoday",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-08-29T07:18:18Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 10,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "dc84dfd24c1eb801bdc175066b394ef5",
+      "title": "aoliver83/autonomous-agent-swarms-security",
+      "url": "https://github.com/aoliver83/autonomous-agent-swarms-security",
+      "source": "github",
+      "source_author": "aoliver83",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-08-29T07:18:18Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "c9603445e883d927b4f41e1e1b8ac1d8",
+      "title": "moyix/firstflagPOISONED",
+      "url": "https://github.com/moyix/firstflagPOISONED",
+      "source": "github",
+      "source_author": "moyix",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-08-29T07:18:18Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "a19f637f6f2ed30ca12759108cc7186e",
+      "title": "sasolbezzet/arcox-fleet",
+      "url": "https://github.com/sasolbezzet/arcox-fleet",
+      "source": "github",
+      "source_author": "sasolbezzet",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-08-29T07:18:18Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
+        "upvotes": 0
+      }
+    },
+    {
       "id": "ea9a54e62af8cd0ddf070316892af262",
       "title": "GaussianGPT: Generating 3D scenes autoregressively with Gaussian Splatting",
       "url": "https://github.com/nicolasvonluetzow/GaussianGPT",
@@ -982,6 +1543,46 @@
       }
     },
     {
+      "id": "66298948c1bd50057ee13f32c81323a8",
+      "title": "agentic-systems-fall-2026/agentic-systems-course-fall-2026",
+      "url": "https://github.com/agentic-systems-fall-2026/agentic-systems-course-fall-2026",
+      "source": "github",
+      "source_author": "agentic-systems-fall-2026",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-08-29T07:18:21Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 2,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "9c437436b9601fff655a09ef8a6f4955",
+      "title": "arvindvenkataramani/banter",
+      "url": "https://github.com/arvindvenkataramani/banter",
+      "source": "github",
+      "source_author": "arvindvenkataramani",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-08-29T07:18:21Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 2,
+        "upvotes": 0
+      }
+    },
+    {
       "id": "c2417372e5cac0ecd52f3a5932b6381a",
       "title": "Andrew Garfield on Playing Sam Altman in \"Artifical\"",
       "url": "https://variety.com/2026/film/news/andrew-garfield-talks-playing-sam-altman-artificial-open-ai-1236842579/",
@@ -1019,6 +1620,26 @@
         "retweets": 0,
         "stars": 0,
         "upvotes": 1
+      }
+    },
+    {
+      "id": "98cac44644b309f73588528ad38f17d6",
+      "title": "HasData/booking-mcp",
+      "url": "https://github.com/HasData/booking-mcp",
+      "source": "github",
+      "source_author": "HasData",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-08-29T07:18:24Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 4,
+        "upvotes": 0
       }
     },
     {
@@ -1082,6 +1703,5 @@
       }
     }
   ],
-  "source": "hackernews",
   "updated_at": "2026-08-29T07:20:41Z"
 }
