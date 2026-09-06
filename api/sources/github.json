@@ -1,17 +1,197 @@
 {
-  "count": 4,
+  "count": 20,
   "items": [
     {
-      "id": "8f4d8d4e67b7e5f5024361a2be8fc704",
-      "title": "Boom-Vitt/local-ai-gpt6-privacy-guide",
-      "url": "https://github.com/Boom-Vitt/local-ai-gpt6-privacy-guide",
+      "id": "54e69e5a38419b4cdf8f9e30ead3bcd8",
+      "title": "vinzdg/codenotch",
+      "url": "https://github.com/vinzdg/codenotch",
       "source": "github",
-      "source_author": "Boom-Vitt",
+      "source_author": "vinzdg",
+      "topics": [],
+      "score": 7,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-09-06T04:59:24Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 322,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "44a1946f73f2688b8fbab90b4c86964d",
+      "title": "okf-memory/okf-agent-memory",
+      "url": "https://github.com/okf-memory/okf-agent-memory",
+      "source": "github",
+      "source_author": "okf-memory",
+      "topics": [],
+      "score": 6,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-09-06T04:59:29Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 120,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "d5215aafacd360f9ba71ae0feb0a2311",
+      "title": "gesta-run/subpool",
+      "url": "https://github.com/gesta-run/subpool",
+      "source": "github",
+      "source_author": "gesta-run",
+      "topics": [],
+      "score": 6,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-09-06T04:59:45Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 65,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "d9faaa4c72e2c539145c860873728526",
+      "title": "shtjww/llm-inference-capacity-handbook",
+      "url": "https://github.com/shtjww/llm-inference-capacity-handbook",
+      "source": "github",
+      "source_author": "shtjww",
+      "topics": [],
+      "score": 6,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-09-06T04:59:44Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 94,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "0de2152324c545305d2cc93b898b5ae3",
+      "title": "trinity1994/MCP-Server-Aster-DEX",
+      "url": "https://github.com/trinity1994/MCP-Server-Aster-DEX",
+      "source": "github",
+      "source_author": "trinity1994",
+      "topics": [],
+      "score": 6,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-09-06T04:59:41Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 41,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "bd87ff117559c4c97b15c259d1211c2f",
+      "title": "stavasol96-arch/Pymol-Claude-MCP",
+      "url": "https://github.com/stavasol96-arch/Pymol-Claude-MCP",
+      "source": "github",
+      "source_author": "stavasol96-arch",
+      "topics": [],
+      "score": 6,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-09-06T04:59:37Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 42,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "4a9832a81d541774f453b47c41946a2b",
+      "title": "shaheer-00/claude-adhd",
+      "url": "https://github.com/shaheer-00/claude-adhd",
+      "source": "github",
+      "source_author": "shaheer-00",
+      "topics": [],
+      "score": 6,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-09-06T04:59:24Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 71,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "42808600695da9533118df01a8503688",
+      "title": "pcm469768-droid/llm-api-speedtest",
+      "url": "https://github.com/pcm469768-droid/llm-api-speedtest",
+      "source": "github",
+      "source_author": "pcm469768-droid",
+      "topics": [],
+      "score": 5,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-09-06T04:59:27Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 31,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "0623c561e23a0cde02ef2b1f366f4391",
+      "title": "plolpl789/dsh-raw-html-v2",
+      "url": "https://github.com/plolpl789/dsh-raw-html-v2",
+      "source": "github",
+      "source_author": "plolpl789",
+      "topics": [],
+      "score": 5,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-09-06T04:59:30Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 18,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "9dc176d610c8bcaac6fd0c9835978d58",
+      "title": "MartinDelophy/awesome-gpt-6-astra",
+      "url": "https://github.com/MartinDelophy/awesome-gpt-6-astra",
+      "source": "github",
+      "source_author": "MartinDelophy",
       "topics": [],
       "score": 4,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-09-05T15:28:48Z",
+      "collected_at": "2026-09-06T04:59:28Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
@@ -22,16 +202,16 @@
       }
     },
     {
-      "id": "4d4019c510ba33b869375b463ec9d517",
-      "title": "neveratech/owasp-llm-top10-tr",
-      "url": "https://github.com/neveratech/owasp-llm-top10-tr",
+      "id": "59ee25a4e089b525d9d1c3d512b74d02",
+      "title": "swarm-ai-research/wiki-agent-swarm-incident",
+      "url": "https://github.com/swarm-ai-research/wiki-agent-swarm-incident",
       "source": "github",
-      "source_author": "neveratech",
+      "source_author": "swarm-ai-research",
       "topics": [],
       "score": 4,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-09-05T15:28:52Z",
+      "collected_at": "2026-09-06T04:59:36Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
@@ -42,36 +222,176 @@
       }
     },
     {
-      "id": "af670838faee380c4d4bf81343b1c3fa",
-      "title": "MishraShardendu22/agent-skills",
-      "url": "https://github.com/MishraShardendu22/agent-skills",
+      "id": "9a8288d132c6d82c12b6c358a725b189",
+      "title": "AI-Safety-Commons/ai-agent-swarm-observatory",
+      "url": "https://github.com/AI-Safety-Commons/ai-agent-swarm-observatory",
       "source": "github",
-      "source_author": "MishraShardendu22",
+      "source_author": "AI-Safety-Commons",
       "topics": [],
       "score": 4,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-09-05T15:28:58Z",
+      "collected_at": "2026-09-06T04:59:36Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 6,
+        "stars": 2,
         "upvotes": 0
       }
     },
     {
-      "id": "d0a2142c183e1f977c049b2583192ea1",
-      "title": "mazenhany777/devin",
-      "url": "https://github.com/mazenhany777/devin",
+      "id": "ddfc096247aa54d0634508bd3e4faab3",
+      "title": "JoshuaDavid/WikiAgentSwarmInvestigation",
+      "url": "https://github.com/JoshuaDavid/WikiAgentSwarmInvestigation",
       "source": "github",
-      "source_author": "mazenhany777",
+      "source_author": "JoshuaDavid",
       "topics": [],
       "score": 4,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-09-05T15:29:03Z",
+      "collected_at": "2026-09-06T04:59:36Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 2,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "776344e9b3d0df48dd6a265af1f5a065",
+      "title": "pinkpixel-dev/agent-context-kit",
+      "url": "https://github.com/pinkpixel-dev/agent-context-kit",
+      "source": "github",
+      "source_author": "pinkpixel-dev",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-09-06T04:59:38Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "364a6b4a0f18bd79ddc30b462fc4a90b",
+      "title": "SimonCheungAI/MERRICK",
+      "url": "https://github.com/SimonCheungAI/MERRICK",
+      "source": "github",
+      "source_author": "SimonCheungAI",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-09-06T04:59:39Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 2,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "23224d5ad6dbb961d28e0bba3bacdf20",
+      "title": "reality-opened/openreality",
+      "url": "https://github.com/reality-opened/openreality",
+      "source": "github",
+      "source_author": "reality-opened",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-09-06T04:59:41Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 14,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "b0ccf9dd5735055499bbc26bd02bb06b",
+      "title": "ucsandman/declick",
+      "url": "https://github.com/ucsandman/declick",
+      "source": "github",
+      "source_author": "ucsandman",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-09-06T04:59:41Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 13,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "b0c1d3e0e4513f891ce73d212216ea79",
+      "title": "tensilestream/buildanchor",
+      "url": "https://github.com/tensilestream/buildanchor",
+      "source": "github",
+      "source_author": "tensilestream",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-09-06T04:59:43Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 2,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "4304747c9753b8793e2b43b16c5f4e00",
+      "title": "Nyaenya-Devine/Nyaenya-Devine-chokepoint",
+      "url": "https://github.com/Nyaenya-Devine/Nyaenya-Devine-chokepoint",
+      "source": "github",
+      "source_author": "Nyaenya-Devine",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-09-06T04:59:43Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "ea7bfcd12602d5dc5ef57abe6a0c693d",
+      "title": "signallight-spec/Devin",
+      "url": "https://github.com/signallight-spec/Devin",
+      "source": "github",
+      "source_author": "signallight-spec",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-09-06T04:59:43Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
@@ -83,5 +403,5 @@
     }
   ],
   "source": "github",
-  "updated_at": "2026-09-05T15:31:19Z"
+  "updated_at": "2026-09-06T05:02:00Z"
 }
