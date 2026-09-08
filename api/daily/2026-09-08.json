@@ -1,6 +1,167 @@
 {
-  "count": 97,
+  "count": 128,
+  "date": "2026-09-08",
   "items": [
+    {
+      "id": "001bdc26f13a153ce0f6f43a363fe1b5",
+      "title": "achimala/dream-loop",
+      "url": "https://github.com/achimala/dream-loop",
+      "source": "github",
+      "source_author": "achimala",
+      "topics": [],
+      "score": 7,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-09-08T05:04:03Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 232,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "63d98cbaa629cea35f059bdf2c103ca0",
+      "title": "Yean-Sec/StrikeAgent_AtkBrain-Flash",
+      "url": "https://github.com/Yean-Sec/StrikeAgent_AtkBrain-Flash",
+      "source": "github",
+      "source_author": "Yean-Sec",
+      "topics": [],
+      "score": 7,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-09-08T05:04:19Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 209,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "123812b65320fbb81516d3b19bf7adb9",
+      "title": "ifm-ai/uno",
+      "url": "https://github.com/ifm-ai/uno",
+      "source": "github",
+      "source_author": "ifm-ai",
+      "topics": [],
+      "score": 6,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-09-08T05:04:17Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 43,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "d8c62a907ce9059b3a20760e237c749d",
+      "title": "Staatsgeheim/MathKernel",
+      "url": "https://github.com/Staatsgeheim/MathKernel",
+      "source": "github",
+      "source_author": "Staatsgeheim",
+      "topics": [],
+      "score": 6,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-09-08T05:04:17Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 53,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "aed236974cecfd757783d5064793f0c6",
+      "title": "lfzk550/fanzha-ai-proxy",
+      "url": "https://github.com/lfzk550/fanzha-ai-proxy",
+      "source": "github",
+      "source_author": "lfzk550",
+      "topics": [],
+      "score": 6,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-09-08T05:04:00Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 119,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "9a55622d42092371ee5088aebe1af5e8",
+      "title": "cozyblaze/portal-agent",
+      "url": "https://github.com/cozyblaze/portal-agent",
+      "source": "github",
+      "source_author": "cozyblaze",
+      "topics": [],
+      "score": 6,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-09-08T05:04:01Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 44,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "58cbfd6963d1347748eb937125115770",
+      "title": "kuraneko1/chrome-web-mcp",
+      "url": "https://github.com/kuraneko1/chrome-web-mcp",
+      "source": "github",
+      "source_author": "kuraneko1",
+      "topics": [],
+      "score": 6,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-09-08T05:04:10Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 45,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "c230942177771536ad96295b26df37a6",
+      "title": "bsab/france-mcp-servers",
+      "url": "https://github.com/bsab/france-mcp-servers",
+      "source": "github",
+      "source_author": "bsab",
+      "topics": [],
+      "score": 6,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-09-08T05:04:10Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 79,
+        "upvotes": 0
+      }
+    },
     {
       "id": "f29062c274821f746b57cb0be69c852e",
       "title": "I've factored the RSA keys of a Certificate Authority from the 90s",
@@ -19,6 +180,146 @@
         "retweets": 0,
         "stars": 0,
         "upvotes": 200
+      }
+    },
+    {
+      "id": "7cca3bbd7b626fc8c5f913a5ecb11831",
+      "title": "Albertchamberlain/Awesome-OKF",
+      "url": "https://github.com/Albertchamberlain/Awesome-OKF",
+      "source": "github",
+      "source_author": "Albertchamberlain",
+      "topics": [],
+      "score": 6,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-09-08T05:04:03Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 94,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "4b9c7643cceee1eab35446c24ac89fbf",
+      "title": "yqlnb5/-",
+      "url": "https://github.com/yqlnb5/-",
+      "source": "github",
+      "source_author": "yqlnb5",
+      "topics": [],
+      "score": 5,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-09-08T05:04:04Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 20,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "aed07ea474422f997017c41d21b39c87",
+      "title": "Victor-Kipruto-Rop/knbs-cbk-pipeline",
+      "url": "https://github.com/Victor-Kipruto-Rop/knbs-cbk-pipeline",
+      "source": "github",
+      "source_author": "Victor-Kipruto-Rop",
+      "topics": [],
+      "score": 5,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-09-08T05:04:14Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 19,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "72138cc12d91fa940c17c270fa091833",
+      "title": "Zvyan/PromptForge",
+      "url": "https://github.com/Zvyan/PromptForge",
+      "source": "github",
+      "source_author": "Zvyan",
+      "topics": [],
+      "score": 5,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-09-08T05:04:00Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 17,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "57745bd79d58cb0a223b5ef983a2a689",
+      "title": "fengxiaohu/save-my-astra",
+      "url": "https://github.com/fengxiaohu/save-my-astra",
+      "source": "github",
+      "source_author": "fengxiaohu",
+      "topics": [],
+      "score": 5,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-09-08T05:04:00Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 17,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "0178242cebf9a2227c4492c43bc33501",
+      "title": "jamonholmgren/jamsession",
+      "url": "https://github.com/jamonholmgren/jamsession",
+      "source": "github",
+      "source_author": "jamonholmgren",
+      "topics": [],
+      "score": 5,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-09-08T05:04:14Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 17,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "65656a1e15668b16ba862e13bd0b58b3",
+      "title": "Shehabov/pm-resume-builder-skill",
+      "url": "https://github.com/Shehabov/pm-resume-builder-skill",
+      "source": "github",
+      "source_author": "Shehabov",
+      "topics": [],
+      "score": 5,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-09-08T05:03:59Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 19,
+        "upvotes": 0
       }
     },
     {
@@ -1662,6 +1963,26 @@
       }
     },
     {
+      "id": "f1ab1cc1d47035657218e380820ef2d5",
+      "title": "simonro/Trading-Journal-AI",
+      "url": "https://github.com/simonro/Trading-Journal-AI",
+      "source": "github",
+      "source_author": "simonro",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-09-08T05:03:59Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 9,
+        "upvotes": 0
+      }
+    },
+    {
       "id": "1044378241300d0c31887e4b85047898",
       "title": "Show HN: Browse 27 years of movie ticket stubs in ThreeJS",
       "url": "https://gardnermcintyre.com/stubs/",
@@ -1802,6 +2123,166 @@
       }
     },
     {
+      "id": "7fe7582b1177c10de60a74c066d527e2",
+      "title": "werbenhu/multi-kimi",
+      "url": "https://github.com/werbenhu/multi-kimi",
+      "source": "github",
+      "source_author": "werbenhu",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-09-08T05:04:06Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "c3bdc7976e0efa66c82f4359d329fed7",
+      "title": "f1aky/kimi-consilium",
+      "url": "https://github.com/f1aky/kimi-consilium",
+      "source": "github",
+      "source_author": "f1aky",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-09-08T05:04:06Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "4e78a222433a5641406314f96393ddb5",
+      "title": "SNAPKITTYWEST/sovereign-kimi",
+      "url": "https://github.com/SNAPKITTYWEST/sovereign-kimi",
+      "source": "github",
+      "source_author": "SNAPKITTYWEST",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-09-08T05:04:06Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "08d20fab7a905e858d1cd06b13bb0f7f",
+      "title": "Global-AI-Group-Inc/content-generation-skills",
+      "url": "https://github.com/Global-AI-Group-Inc/content-generation-skills",
+      "source": "github",
+      "source_author": "Global-AI-Group-Inc",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-09-08T05:04:07Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 4,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "71c8f66a224d83d3e6522438e4ae85fa",
+      "title": "wuyanguo-666/entropy-design",
+      "url": "https://github.com/wuyanguo-666/entropy-design",
+      "source": "github",
+      "source_author": "wuyanguo-666",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-09-08T05:04:07Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 2,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "9d16221ab800a285aeec34a219eda685",
+      "title": "ratulmukherjee173/AERO-RECON-3D",
+      "url": "https://github.com/ratulmukherjee173/AERO-RECON-3D",
+      "source": "github",
+      "source_author": "ratulmukherjee173",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-09-08T05:04:07Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 2,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "6af032c9764a895b6d0becdbc73076c0",
+      "title": "reventadirecta/MiniMax-H3-ComfyUI-8GB-VRAM",
+      "url": "https://github.com/reventadirecta/MiniMax-H3-ComfyUI-8GB-VRAM",
+      "source": "github",
+      "source_author": "reventadirecta",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-09-08T05:04:07Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 2,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "c3c09ddd1e5a2e68cf130bf9972f145d",
+      "title": "talhaahmedjisan-ux/Sound-wave",
+      "url": "https://github.com/talhaahmedjisan-ux/Sound-wave",
+      "source": "github",
+      "source_author": "talhaahmedjisan-ux",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-09-08T05:04:08Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
       "id": "1b908532ef0fb5c6591c5a79b4805586",
       "title": "Show HN: LLM Council: survival-of-the-fittest multi-modal deliberation",
       "url": "https://github.com/Moiz-I/council-of-claude",
@@ -1842,6 +2323,86 @@
       }
     },
     {
+      "id": "37571b05bd4be6b800e98b8867f7fc5c",
+      "title": "wyuebei-cloud/gdrive-cart",
+      "url": "https://github.com/wyuebei-cloud/gdrive-cart",
+      "source": "github",
+      "source_author": "wyuebei-cloud",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-09-08T05:04:13Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 3,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "4fbf99d005cc96617ab43e6cffde8eb3",
+      "title": "saivignesh21/OpenClaw",
+      "url": "https://github.com/saivignesh21/OpenClaw",
+      "source": "github",
+      "source_author": "saivignesh21",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-09-08T05:04:13Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 2,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "0d22d87b6add1f97ee7fee428805d0ad",
+      "title": "intellieffect/xswap",
+      "url": "https://github.com/intellieffect/xswap",
+      "source": "github",
+      "source_author": "intellieffect",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-09-08T05:04:13Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 2,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "6dd2e58ba7bcbf523646585761bda505",
+      "title": "wanghui2323/learnbuddy",
+      "url": "https://github.com/wanghui2323/learnbuddy",
+      "source": "github",
+      "source_author": "wanghui2323",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-09-08T05:04:13Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 2,
+        "upvotes": 0
+      }
+    },
+    {
       "id": "f7bf62d23290d8ed0f571f261b52c3ba",
       "title": "Claude Code fable 5.1 is seriously flawed",
       "url": "https://lance.black",
@@ -1879,6 +2440,66 @@
         "retweets": 0,
         "stars": 0,
         "upvotes": 6
+      }
+    },
+    {
+      "id": "51917e84ad3d9dc03e559fafdcb3265a",
+      "title": "songgoldenwind-crypto/liuyao-skills",
+      "url": "https://github.com/songgoldenwind-crypto/liuyao-skills",
+      "source": "github",
+      "source_author": "songgoldenwind-crypto",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-09-08T05:04:15Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 8,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "a27f136350617ea63aeeb38bdd51aec1",
+      "title": "njhjjj476-dotcom/DEVIN",
+      "url": "https://github.com/njhjjj476-dotcom/DEVIN",
+      "source": "github",
+      "source_author": "njhjjj476-dotcom",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-09-08T05:04:16Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "9f9ab0b2834b6779c6c8388a2e32476c",
+      "title": "neos-a-takayama/devin",
+      "url": "https://github.com/neos-a-takayama/devin",
+      "source": "github",
+      "source_author": "neos-a-takayama",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-09-08T05:04:16Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 0,
+        "upvotes": 0
       }
     },
     {
@@ -1942,6 +2563,5 @@
       }
     }
   ],
-  "source": "hackernews",
   "updated_at": "2026-09-08T05:06:32Z"
 }
