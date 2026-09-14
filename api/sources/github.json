@@ -1,17 +1,297 @@
 {
-  "count": 4,
+  "count": 26,
   "items": [
     {
-      "id": "b36af737c3dce5df3234b5343a0b23a6",
-      "title": "WyrdWerk/pi-singularity-provider",
-      "url": "https://github.com/WyrdWerk/pi-singularity-provider",
+      "id": "057134c9cbce7bc693fda76dfb7ad0b1",
+      "title": "agent-launch/agent-launcher",
+      "url": "https://github.com/agent-launch/agent-launcher",
       "source": "github",
-      "source_author": "WyrdWerk",
+      "source_author": "agent-launch",
+      "topics": [],
+      "score": 6,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-09-14T05:20:57Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 107,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "10a7ec9007ca8e5db5029c09c39fe427",
+      "title": "ithtelab/workbuddy-manager",
+      "url": "https://github.com/ithtelab/workbuddy-manager",
+      "source": "github",
+      "source_author": "ithtelab",
+      "topics": [],
+      "score": 6,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-09-14T05:20:54Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 35,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "4458df963393b7b2e24ff01057871d5a",
+      "title": "karacca/moodstone",
+      "url": "https://github.com/karacca/moodstone",
+      "source": "github",
+      "source_author": "karacca",
+      "topics": [],
+      "score": 6,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-09-14T05:21:11Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 36,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "e71ab8f32e0371a8f39fc2e7d0224f37",
+      "title": "ivyfan-toowell/IvyClaw",
+      "url": "https://github.com/ivyfan-toowell/IvyClaw",
+      "source": "github",
+      "source_author": "ivyfan-toowell",
+      "topics": [],
+      "score": 6,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-09-14T05:21:11Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 53,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "403a5603b95ec720834b3680075a009f",
+      "title": "sayaka-aiart/StandRig",
+      "url": "https://github.com/sayaka-aiart/StandRig",
+      "source": "github",
+      "source_author": "sayaka-aiart",
+      "topics": [],
+      "score": 6,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-09-14T05:21:05Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 47,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "833804e8c4632e197f5ad63f180c6592",
+      "title": "arumwu/local-workspace-mcp",
+      "url": "https://github.com/arumwu/local-workspace-mcp",
+      "source": "github",
+      "source_author": "arumwu",
+      "topics": [],
+      "score": 6,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-09-14T05:21:05Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 48,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "0db394e800f87d2656f3fe674646d6c8",
+      "title": "passnodesewer/Serum-2-Free",
+      "url": "https://github.com/passnodesewer/Serum-2-Free",
+      "source": "github",
+      "source_author": "passnodesewer",
+      "topics": [],
+      "score": 6,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-09-14T05:21:02Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 88,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "c556bbe64b792fa2e59e2253b877c7ec",
+      "title": "MiaAI-Lab/DeepSeek-v4.1-Flash-EXL3-2x-DGX-Sparks",
+      "url": "https://github.com/MiaAI-Lab/DeepSeek-v4.1-Flash-EXL3-2x-DGX-Sparks",
+      "source": "github",
+      "source_author": "MiaAI-Lab",
+      "topics": [],
+      "score": 6,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-09-14T05:20:58Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 95,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "29d7531d5342a95b8250b81b4d1b8851",
+      "title": "skuramatata/novel-agent-studio",
+      "url": "https://github.com/skuramatata/novel-agent-studio",
+      "source": "github",
+      "source_author": "skuramatata",
+      "topics": [],
+      "score": 6,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-09-14T05:21:12Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 43,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "6f53293e529a650b4d30c6a030d77c01",
+      "title": "xiaoguai009/codex-armor-toolkit",
+      "url": "https://github.com/xiaoguai009/codex-armor-toolkit",
+      "source": "github",
+      "source_author": "xiaoguai009",
+      "topics": [],
+      "score": 5,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-09-14T05:20:55Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 28,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "680b48f20b7f23b16e0cf6ae7c913963",
+      "title": "anonymous-report-421/eval-of-gpt-6-astra-as-policy",
+      "url": "https://github.com/anonymous-report-421/eval-of-gpt-6-astra-as-policy",
+      "source": "github",
+      "source_author": "anonymous-report-421",
+      "topics": [],
+      "score": 5,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-09-14T05:20:55Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 30,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "851539b795b41554e5f4145d6ffe01b3",
+      "title": "Hu-xiao-max/dexgpt",
+      "url": "https://github.com/Hu-xiao-max/dexgpt",
+      "source": "github",
+      "source_author": "Hu-xiao-max",
+      "topics": [],
+      "score": 5,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-09-14T05:20:55Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 27,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "68a4a9150cb2220a1f66be5f30cfa6e5",
+      "title": "robert-blake-web21/Passed-CCAO-F-Exam-with-Study-Material",
+      "url": "https://github.com/robert-blake-web21/Passed-CCAO-F-Exam-with-Study-Material",
+      "source": "github",
+      "source_author": "robert-blake-web21",
       "topics": [],
       "score": 4,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-09-13T16:35:10Z",
+      "collected_at": "2026-09-14T05:20:53Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 8,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "357ccd523ab45dd7a6d73b347dbda4da",
+      "title": "DaniyalAhmadSE/simplified-genai",
+      "url": "https://github.com/DaniyalAhmadSE/simplified-genai",
+      "source": "github",
+      "source_author": "DaniyalAhmadSE",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-09-14T05:20:59Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "b48c839887da138af1173c6607586e78",
+      "title": "OpenX123/aihub",
+      "url": "https://github.com/OpenX123/aihub",
+      "source": "github",
+      "source_author": "OpenX123",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-09-14T05:21:00Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
@@ -22,16 +302,16 @@
       }
     },
     {
-      "id": "526ceb55f9fa054c9b0b769c6f8a0cb2",
-      "title": "noteflowai/dsh-skills-anywhere",
-      "url": "https://github.com/noteflowai/dsh-skills-anywhere",
+      "id": "f15e67d8bfbf09ce836bc202862e8d84",
+      "title": "XingMai/XmaxSDK-RN",
+      "url": "https://github.com/XingMai/XmaxSDK-RN",
       "source": "github",
-      "source_author": "noteflowai",
+      "source_author": "XingMai",
       "topics": [],
       "score": 4,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-09-13T16:35:16Z",
+      "collected_at": "2026-09-14T05:21:01Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
@@ -42,36 +322,196 @@
       }
     },
     {
-      "id": "ffd5d3ee2a46704e8d6ed3e26552b500",
-      "title": "yh-l20/yuanxingmu",
-      "url": "https://github.com/yh-l20/yuanxingmu",
+      "id": "c992bba6c6271899ae772adc16b6ee9f",
+      "title": "Drefetr/swarm-pointer-protocol",
+      "url": "https://github.com/Drefetr/swarm-pointer-protocol",
       "source": "github",
-      "source_author": "yh-l20",
+      "source_author": "Drefetr",
       "topics": [],
       "score": 4,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-09-13T16:35:17Z",
+      "collected_at": "2026-09-14T05:21:04Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 3,
+        "stars": 2,
         "upvotes": 0
       }
     },
     {
-      "id": "cc7f11950e8974e28396717cb91de10f",
-      "title": "Antoninnnnnnnn/devinx",
-      "url": "https://github.com/Antoninnnnnnnn/devinx",
+      "id": "ac7f6397e793e31e8b3f4cb0997c2be2",
+      "title": "solveathome/platform",
+      "url": "https://github.com/solveathome/platform",
       "source": "github",
-      "source_author": "Antoninnnnnnnn",
+      "source_author": "solveathome",
       "topics": [],
       "score": 4,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-09-13T16:35:20Z",
+      "collected_at": "2026-09-14T05:21:04Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 2,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "281fe79af48165893f0587fc17cc060c",
+      "title": "Ablaze005/-awesome-agentic-patterns-",
+      "url": "https://github.com/Ablaze005/-awesome-agentic-patterns-",
+      "source": "github",
+      "source_author": "Ablaze005",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-09-14T05:21:04Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "968df47a72977690195cd4cae8230102",
+      "title": "Decksx/agent-swarm",
+      "url": "https://github.com/Decksx/agent-swarm",
+      "source": "github",
+      "source_author": "Decksx",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-09-14T05:21:04Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "bfd5e260115501ce2e7fef6310b0ae51",
+      "title": "TT-Wang/dsh-agent-swarm",
+      "url": "https://github.com/TT-Wang/dsh-agent-swarm",
+      "source": "github",
+      "source_author": "TT-Wang",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-09-14T05:21:04Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "cb51f4f7cc0f75332741a52b2b9fb9c2",
+      "title": "coolxeo/grok-bot-skills",
+      "url": "https://github.com/coolxeo/grok-bot-skills",
+      "source": "github",
+      "source_author": "coolxeo",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-09-14T05:21:06Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "667d5879fcc5c70527aa4ff04e8e384c",
+      "title": "brienteth/openclaw-hermes-depin",
+      "url": "https://github.com/brienteth/openclaw-hermes-depin",
+      "source": "github",
+      "source_author": "brienteth",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-09-14T05:21:07Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 6,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "9321a907a47085fa8d39cd40ac0fc051",
+      "title": "mixocreative/ecommerce-cia",
+      "url": "https://github.com/mixocreative/ecommerce-cia",
+      "source": "github",
+      "source_author": "mixocreative",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-09-14T05:21:08Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 12,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "3778d4b976478d6628ebe93ef04ba959",
+      "title": "goddard-ai/goddard",
+      "url": "https://github.com/goddard-ai/goddard",
+      "source": "github",
+      "source_author": "goddard-ai",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-09-14T05:21:10Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "d3e5c59751d2bad1245c6ed06c327577",
+      "title": "wxomi/herdr-session-titles",
+      "url": "https://github.com/wxomi/herdr-session-titles",
+      "source": "github",
+      "source_author": "wxomi",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-09-14T05:21:10Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
@@ -83,5 +523,5 @@
     }
   ],
   "source": "github",
-  "updated_at": "2026-09-13T16:37:36Z"
+  "updated_at": "2026-09-14T05:23:26Z"
 }
