@@ -1,17 +1,57 @@
 {
-  "count": 6,
+  "count": 29,
   "items": [
     {
-      "id": "8b9823f3906f5a09c39554bcbd5bc586",
-      "title": "davidmokos/expo-gpt-live",
-      "url": "https://github.com/davidmokos/expo-gpt-live",
+      "id": "5bba9b9e0aec4566b8cb21d6275d72be",
+      "title": "Jakeschincariol/instagram-agent-skill",
+      "url": "https://github.com/Jakeschincariol/instagram-agent-skill",
       "source": "github",
-      "source_author": "davidmokos",
+      "source_author": "Jakeschincariol",
       "topics": [],
       "score": 6,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-09-16T17:14:21Z",
+      "collected_at": "2026-09-17T05:10:55Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 54,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "81bfab5927a76190cd45871f7010d497",
+      "title": "AgriciDaniel/youtube-scout",
+      "url": "https://github.com/AgriciDaniel/youtube-scout",
+      "source": "github",
+      "source_author": "AgriciDaniel",
+      "topics": [],
+      "score": 6,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-09-17T05:10:55Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 41,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "e42741051fd92e0b839e2d4b133db51a",
+      "title": "Pal-AI-Lab/Cortico",
+      "url": "https://github.com/Pal-AI-Lab/Cortico",
+      "source": "github",
+      "source_author": "Pal-AI-Lab",
+      "topics": [],
+      "score": 6,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-09-17T05:11:15Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
@@ -22,36 +62,416 @@
       }
     },
     {
-      "id": "63137a91d4807117a8dfd734c6142317",
-      "title": "callirra-ai/gpt-image-2-5-prompt-atlas",
-      "url": "https://github.com/callirra-ai/gpt-image-2-5-prompt-atlas",
+      "id": "ff77429159da6e88502cc881fd844382",
+      "title": "a86582751/dsh-nexttavern",
+      "url": "https://github.com/a86582751/dsh-nexttavern",
       "source": "github",
-      "source_author": "callirra-ai",
+      "source_author": "a86582751",
       "topics": [],
       "score": 6,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-09-16T17:14:20Z",
+      "collected_at": "2026-09-17T05:11:00Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 37,
+        "stars": 51,
         "upvotes": 0
       }
     },
     {
-      "id": "d99fb8adde120426264c84dc5179e66c",
-      "title": "yigu666/DenseK3",
-      "url": "https://github.com/yigu666/DenseK3",
+      "id": "aa00bf06341450eb3295ea722f481e99",
+      "title": "Cortex-Arbitrage-Lab/cortex-ai-trading-bot",
+      "url": "https://github.com/Cortex-Arbitrage-Lab/cortex-ai-trading-bot",
       "source": "github",
-      "source_author": "yigu666",
+      "source_author": "Cortex-Arbitrage-Lab",
+      "topics": [],
+      "score": 5,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-09-17T05:11:07Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 29,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "0c5762eb5f3d13d60680dc21ca8c4dfe",
+      "title": "AlchemyInCode/plumloom-autoeval-oss",
+      "url": "https://github.com/AlchemyInCode/plumloom-autoeval-oss",
+      "source": "github",
+      "source_author": "AlchemyInCode",
+      "topics": [],
+      "score": 5,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-09-17T05:11:07Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 28,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "16177ca129abf03cfc3afa3bf9b95992",
+      "title": "friday-memory/friday",
+      "url": "https://github.com/friday-memory/friday",
+      "source": "github",
+      "source_author": "friday-memory",
+      "topics": [],
+      "score": 5,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-09-17T05:11:10Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 18,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "6e5ef1fb8c899bf38fcc4e11a5aebda0",
+      "title": "Nhahan/WebGPT",
+      "url": "https://github.com/Nhahan/WebGPT",
+      "source": "github",
+      "source_author": "Nhahan",
+      "topics": [],
+      "score": 5,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-09-17T05:10:58Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 28,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "8ce567835adf4fe03be832e5031f5288",
+      "title": "hx23840/S3-PX4-FC",
+      "url": "https://github.com/hx23840/S3-PX4-FC",
+      "source": "github",
+      "source_author": "hx23840",
+      "topics": [],
+      "score": 5,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-09-17T05:10:58Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 33,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "8ef623fb0eb7b68914bbbf00fcd4a2ad",
+      "title": "koppkvn/image-gen-open-source",
+      "url": "https://github.com/koppkvn/image-gen-open-source",
+      "source": "github",
+      "source_author": "koppkvn",
+      "topics": [],
+      "score": 5,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-09-17T05:10:57Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 26,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "e3289818b81efc047cfcd51cdedfa161",
+      "title": "ibillxia/OpenAI-Data-Analytics",
+      "url": "https://github.com/ibillxia/OpenAI-Data-Analytics",
+      "source": "github",
+      "source_author": "ibillxia",
+      "topics": [],
+      "score": 5,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-09-17T05:10:57Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 27,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "8a6ba1522c2a9afeec77f233e416adf8",
+      "title": "xinxinshuhao-create/kuku2api",
+      "url": "https://github.com/xinxinshuhao-create/kuku2api",
+      "source": "github",
+      "source_author": "xinxinshuhao-create",
+      "topics": [],
+      "score": 5,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-09-17T05:10:57Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 29,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "2b9867eb79ce90a2aaad9c915b54622d",
+      "title": "langchain-ai/paid-media-agent",
+      "url": "https://github.com/langchain-ai/paid-media-agent",
+      "source": "github",
+      "source_author": "langchain-ai",
+      "topics": [],
+      "score": 5,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-09-17T05:10:57Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 33,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "6e6423a8abaef28519038834debd505b",
+      "title": "jilin0105/WorkBuddy2API-Android",
+      "url": "https://github.com/jilin0105/WorkBuddy2API-Android",
+      "source": "github",
+      "source_author": "jilin0105",
       "topics": [],
       "score": 4,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-09-16T17:14:26Z",
+      "collected_at": "2026-09-17T05:10:56Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 13,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "0c49d017fd801984b54d4465ef376520",
+      "title": "Vipash/genai-execution-engine",
+      "url": "https://github.com/Vipash/genai-execution-engine",
+      "source": "github",
+      "source_author": "Vipash",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-09-17T05:11:02Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "23fb1e810de807bb9d6d957720e24867",
+      "title": "Staplederconform/high-quality-video-generation",
+      "url": "https://github.com/Staplederconform/high-quality-video-generation",
+      "source": "github",
+      "source_author": "Staplederconform",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-09-17T05:11:04Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "ec0871ad9428d345ec0004dbd514996b",
+      "title": "ridhoma/conversation-data-nlp-video-generation",
+      "url": "https://github.com/ridhoma/conversation-data-nlp-video-generation",
+      "source": "github",
+      "source_author": "ridhoma",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-09-17T05:11:04Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "402e2de5283540bc8773d406e2760c72",
+      "title": "s2257953-coder/veoforge-ai-studio",
+      "url": "https://github.com/s2257953-coder/veoforge-ai-studio",
+      "source": "github",
+      "source_author": "s2257953-coder",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-09-17T05:11:04Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "a722153beffb5fc7db42687115cdba75",
+      "title": "LucianaiB2004/video-research-lab",
+      "url": "https://github.com/LucianaiB2004/video-research-lab",
+      "source": "github",
+      "source_author": "LucianaiB2004",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-09-17T05:11:04Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "34a6dd0f45951b9cbd53d9ab286ecf6b",
+      "title": "cgarrot/inline-nanogpt",
+      "url": "https://github.com/cgarrot/inline-nanogpt",
+      "source": "github",
+      "source_author": "cgarrot",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-09-17T05:11:05Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "5a61cc3ec3ab164a163dadbe89d65032",
+      "title": "DanMcInerney/DroneRTS",
+      "url": "https://github.com/DanMcInerney/DroneRTS",
+      "source": "github",
+      "source_author": "DanMcInerney",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-09-17T05:11:06Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "4ffe72e22a9bcd4f70741290c294272e",
+      "title": "mike22890/opencode-skills-en",
+      "url": "https://github.com/mike22890/opencode-skills-en",
+      "source": "github",
+      "source_author": "mike22890",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-09-17T05:11:08Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "ffd8232f81b693cfbc42881f2e0494a4",
+      "title": "Mapl6/agent-kit",
+      "url": "https://github.com/Mapl6/agent-kit",
+      "source": "github",
+      "source_author": "Mapl6",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-09-17T05:11:08Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "d736d612d674226563939eed0499fb44",
+      "title": "longppai68-ai/fake-foreign-health-audit",
+      "url": "https://github.com/longppai68-ai/fake-foreign-health-audit",
+      "source": "github",
+      "source_author": "longppai68-ai",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-09-17T05:11:09Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
@@ -62,66 +482,106 @@
       }
     },
     {
-      "id": "9289fb0f6970d9228598dc5a6997f5b4",
-      "title": "chajunseok/claude-config-map",
-      "url": "https://github.com/chajunseok/claude-config-map",
+      "id": "9eebfbdac23a6a8337af5e9c99206bc7",
+      "title": "bytesbrains/openclaw-cruise",
+      "url": "https://github.com/bytesbrains/openclaw-cruise",
       "source": "github",
-      "source_author": "chajunseok",
+      "source_author": "bytesbrains",
       "topics": [],
       "score": 4,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-09-16T17:14:32Z",
+      "collected_at": "2026-09-17T05:11:09Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 2,
+        "stars": 1,
         "upvotes": 0
       }
     },
     {
-      "id": "204cd4d2e5b98d15815453f9f3cabf01",
-      "title": "CTRLRun/openclaw-ctrlrun",
-      "url": "https://github.com/CTRLRun/openclaw-ctrlrun",
+      "id": "c256ee53c394aedc9af98dfe086298a7",
+      "title": "arcacomputer/openclaw-concentrateai",
+      "url": "https://github.com/arcacomputer/openclaw-concentrateai",
       "source": "github",
-      "source_author": "CTRLRun",
+      "source_author": "arcacomputer",
       "topics": [],
       "score": 4,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-09-16T17:14:33Z",
+      "collected_at": "2026-09-17T05:11:09Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 2,
+        "stars": 1,
         "upvotes": 0
       }
     },
     {
-      "id": "be73d330389f3af729f0fd733e00d61d",
-      "title": "a0yark/patch-devin",
-      "url": "https://github.com/a0yark/patch-devin",
+      "id": "57848bf11bc2907f8d159bf587bf4cba",
+      "title": "azizu06/ai-coding-interview-practice",
+      "url": "https://github.com/azizu06/ai-coding-interview-practice",
       "source": "github",
-      "source_author": "a0yark",
+      "source_author": "azizu06",
       "topics": [],
       "score": 4,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-09-16T17:14:36Z",
+      "collected_at": "2026-09-17T05:11:10Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 6,
+        "stars": 16,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "aa82ac3493b978cfb1b621ff43f4d51a",
+      "title": "Himnish/agentic-plan-reviewer",
+      "url": "https://github.com/Himnish/agentic-plan-reviewer",
+      "source": "github",
+      "source_author": "Himnish",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-09-17T05:11:12Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "2f42f847c7a1618a2e20c0a6c33b6db1",
+      "title": "devhed11/devhed11.github.io",
+      "url": "https://github.com/devhed11/devhed11.github.io",
+      "source": "github",
+      "source_author": "devhed11",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-09-17T05:11:13Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
         "upvotes": 0
       }
     }
   ],
   "source": "github",
-  "updated_at": "2026-09-16T17:16:53Z"
+  "updated_at": "2026-09-17T05:13:28Z"
 }
