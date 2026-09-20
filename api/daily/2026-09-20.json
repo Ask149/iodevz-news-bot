@@ -1,6 +1,47 @@
 {
-  "count": 61,
+  "count": 94,
+  "date": "2026-09-20",
   "items": [
+    {
+      "id": "9cca5041b4eaaa015c712b124bf883d0",
+      "title": "v-modal/awesome-jev-tools",
+      "url": "https://github.com/v-modal/awesome-jev-tools",
+      "source": "github",
+      "source_author": "v-modal",
+      "topics": [],
+      "score": 7,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-09-20T05:16:36Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 257,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "aebbeca643ff68f4865f13a8d4381982",
+      "title": "coldteadotai/abide",
+      "url": "https://github.com/coldteadotai/abide",
+      "source": "github",
+      "source_author": "coldteadotai",
+      "topics": [],
+      "score": 7,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-09-20T05:16:22Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 169,
+        "upvotes": 0
+      }
+    },
     {
       "id": "f4a39509271f9dfb6d9f19186c7e41ae",
       "title": "Microsoft director: AI scraping 'the largest theft of labor in human history'",
@@ -22,6 +63,66 @@
       }
     },
     {
+      "id": "5b0a77156ff46357ba076548b0aeb052",
+      "title": "alicasuu/llmwiki-operational",
+      "url": "https://github.com/alicasuu/llmwiki-operational",
+      "source": "github",
+      "source_author": "alicasuu",
+      "topics": [],
+      "score": 6,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-09-20T05:16:36Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 113,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "32ca618224102e4a20f9708848f779e1",
+      "title": "kishormorol/cli-faq-shortcuts",
+      "url": "https://github.com/kishormorol/cli-faq-shortcuts",
+      "source": "github",
+      "source_author": "kishormorol",
+      "topics": [],
+      "score": 6,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-09-20T05:16:33Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 57,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "80d5836188ac1e5d075e1c9ccc674b62",
+      "title": "kajeesan/Open-Health-Atlas",
+      "url": "https://github.com/kajeesan/Open-Health-Atlas",
+      "source": "github",
+      "source_author": "kajeesan",
+      "topics": [],
+      "score": 6,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-09-20T05:16:29Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 52,
+        "upvotes": 0
+      }
+    },
+    {
       "id": "fc947cafe601870001421d92d6609f9b",
       "title": "Apple M6 Pro achieves the highest single-core CPU score in Geekbench 7",
       "url": "https://browser.geekbench.com/v7/cpu/389219",
@@ -39,6 +140,46 @@
         "retweets": 0,
         "stars": 0,
         "upvotes": 117
+      }
+    },
+    {
+      "id": "ca3345435daf9cd8b874e1ecdd1f467f",
+      "title": "agentscope-ai-java/agentscope-java",
+      "url": "https://github.com/agentscope-ai-java/agentscope-java",
+      "source": "github",
+      "source_author": "agentscope-ai-java",
+      "topics": [],
+      "score": 6,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-09-20T05:16:37Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 108,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "4083ebc8fec934c7f50e3e639d280829",
+      "title": "tamaratran/jev-pruner",
+      "url": "https://github.com/tamaratran/jev-pruner",
+      "source": "github",
+      "source_author": "tamaratran",
+      "topics": [],
+      "score": 6,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-09-20T05:16:18Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 118,
+        "upvotes": 0
       }
     },
     {
@@ -99,6 +240,46 @@
         "retweets": 0,
         "stars": 0,
         "upvotes": 49
+      }
+    },
+    {
+      "id": "510864b4bc982f2ab740dd4e1689c4e5",
+      "title": "ethanplusai/astra-flash-orchestrator",
+      "url": "https://github.com/ethanplusai/astra-flash-orchestrator",
+      "source": "github",
+      "source_author": "ethanplusai",
+      "topics": [],
+      "score": 5,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-09-20T05:16:23Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 32,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "7a1adf296e36b2f2de70c7cbcae1fd0c",
+      "title": "D3-vin/Zcode2Api",
+      "url": "https://github.com/D3-vin/Zcode2Api",
+      "source": "github",
+      "source_author": "D3-vin",
+      "topics": [],
+      "score": 5,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-09-20T05:16:20Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 17,
+        "upvotes": 0
       }
     },
     {
@@ -1062,6 +1243,26 @@
       }
     },
     {
+      "id": "083ce817e57c739ccf6fe0a5b71e66d7",
+      "title": "James-john080/Passed-CCA-F-Exam",
+      "url": "https://github.com/James-john080/Passed-CCA-F-Exam",
+      "source": "github",
+      "source_author": "James-john080",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-09-20T05:16:19Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 11,
+        "upvotes": 0
+      }
+    },
+    {
       "id": "a7399ff6c1f59505468f1b8d3df14f2a",
       "title": "PyTorch Implementation of MobileNet V4",
       "url": "https://github.com/d-li14/mobilenetv4.pytorch",
@@ -1079,6 +1280,66 @@
         "retweets": 0,
         "stars": 0,
         "upvotes": 2
+      }
+    },
+    {
+      "id": "a214d37518a378dce6638f6faf58782c",
+      "title": "Danchuna/prismctl2api",
+      "url": "https://github.com/Danchuna/prismctl2api",
+      "source": "github",
+      "source_author": "Danchuna",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-09-20T05:16:21Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 15,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "190690c28b27bd6a14b1d13d7e170825",
+      "title": "Mosi-AI/RoboICL",
+      "url": "https://github.com/Mosi-AI/RoboICL",
+      "source": "github",
+      "source_author": "Mosi-AI",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-09-20T05:16:21Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 14,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "f8922043dbdbe387c942532db3a455d8",
+      "title": "jasper-lu/sec-search-rl",
+      "url": "https://github.com/jasper-lu/sec-search-rl",
+      "source": "github",
+      "source_author": "jasper-lu",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-09-20T05:16:21Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 14,
+        "upvotes": 0
       }
     },
     {
@@ -1122,6 +1383,226 @@
       }
     },
     {
+      "id": "7803143cc1f216018763e7da46dc6891",
+      "title": "luxingcom/LuZ-0.1.7-DeepSeek-v4.1-Flash-DGXspark-TP4-Ring",
+      "url": "https://github.com/luxingcom/LuZ-0.1.7-DeepSeek-v4.1-Flash-DGXspark-TP4-Ring",
+      "source": "github",
+      "source_author": "luxingcom",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-09-20T05:16:23Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 16,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "5e3b73426caeb19d16d4ede0e8bb201d",
+      "title": "dan99ger/Day05_GenAI_RAG_Pipeline",
+      "url": "https://github.com/dan99ger/Day05_GenAI_RAG_Pipeline",
+      "source": "github",
+      "source_author": "dan99ger",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-09-20T05:16:24Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 2,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "527ad5eaced594f4c72548f65dc3c41e",
+      "title": "Pranjali-Rajurkar/genai-pyspark-pipeline",
+      "url": "https://github.com/Pranjali-Rajurkar/genai-pyspark-pipeline",
+      "source": "github",
+      "source_author": "Pranjali-Rajurkar",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-09-20T05:16:24Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "2d9ee13c14101dcdf99289d60c57adb4",
+      "title": "notdefined-inc/opencostudio-releases",
+      "url": "https://github.com/notdefined-inc/opencostudio-releases",
+      "source": "github",
+      "source_author": "notdefined-inc",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-09-20T05:16:25Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 2,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "c5e0b9f33326ca29a1f82a38c71bfd71",
+      "title": "qkunio/kimicode-mobile",
+      "url": "https://github.com/qkunio/kimicode-mobile",
+      "source": "github",
+      "source_author": "qkunio",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-09-20T05:16:25Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "3a9e093d4736dbfc42047b16e8e61c16",
+      "title": "Dancan254/kimi-voiceover-video",
+      "url": "https://github.com/Dancan254/kimi-voiceover-video",
+      "source": "github",
+      "source_author": "Dancan254",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-09-20T05:16:25Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "f0c1cde0706647fa1f6fc819fa648d0d",
+      "title": "aroslanov/ComfyUI-VideoAnalyzer",
+      "url": "https://github.com/aroslanov/ComfyUI-VideoAnalyzer",
+      "source": "github",
+      "source_author": "aroslanov",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-09-20T05:16:26Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 6,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "398dea36de44dd0ebf3d270c55b0916e",
+      "title": "SLDawn-llA/GenAMR-demo",
+      "url": "https://github.com/SLDawn-llA/GenAMR-demo",
+      "source": "github",
+      "source_author": "SLDawn-llA",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-09-20T05:16:27Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "6073933ba20b499ad2b4e0012ef3002a",
+      "title": "SahanRathnaweera/AutoDoc-AI-",
+      "url": "https://github.com/SahanRathnaweera/AutoDoc-AI-",
+      "source": "github",
+      "source_author": "SahanRathnaweera",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-09-20T05:16:27Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "ade57803a28ae53c765bf7d09131ab46",
+      "title": "Digital-Process-Tools/claude-swarm-builder",
+      "url": "https://github.com/Digital-Process-Tools/claude-swarm-builder",
+      "source": "github",
+      "source_author": "Digital-Process-Tools",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-09-20T05:16:28Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "9cc4ceb1ad1704d4f15e59e7f773ff87",
+      "title": "kusiai070/kusiscribe-core",
+      "url": "https://github.com/kusiai070/kusiscribe-core",
+      "source": "github",
+      "source_author": "kusiai070",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-09-20T05:16:28Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
+        "upvotes": 0
+      }
+    },
+    {
       "id": "187c82b8c6d9f7fab2bf8a172be2d0e2",
       "title": "Lawsuit: Illegal Agreement of Anthropic, OpenAI, SpaceXAI, Google on AI Slowdown",
       "url": "https://www.independent.co.uk/news/lawsuit-anthropic-google-openai-lawyers-b3052942.html",
@@ -1142,6 +1623,66 @@
       }
     },
     {
+      "id": "29969f010660d2daff68f6b7ad83c0f7",
+      "title": "Kxiandaoyan/workbuddy-acp-bridge",
+      "url": "https://github.com/Kxiandaoyan/workbuddy-acp-bridge",
+      "source": "github",
+      "source_author": "Kxiandaoyan",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-09-20T05:16:32Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 2,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "a9621e50608b7fab966dbc24978803b0",
+      "title": "omarshahine/openclaw-apple-fm",
+      "url": "https://github.com/omarshahine/openclaw-apple-fm",
+      "source": "github",
+      "source_author": "omarshahine",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-09-20T05:16:32Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "3f657dffcca1f1b9a069bf7b8c37618b",
+      "title": "ut30/openclaw-tg-multiagent",
+      "url": "https://github.com/ut30/openclaw-tg-multiagent",
+      "source": "github",
+      "source_author": "ut30",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-09-20T05:16:32Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
+        "upvotes": 0
+      }
+    },
+    {
       "id": "5efed372e3482715001e480f4156dc8a",
       "title": "Trump announces a new 'AI Force,' but says he will not 'stifle' AI",
       "url": "https://www.businessinsider.com/trump-ai-regulation-slowdown-anthropic-dario-amodei-9-2026",
@@ -1159,6 +1700,126 @@
         "retweets": 0,
         "stars": 0,
         "upvotes": 7
+      }
+    },
+    {
+      "id": "ebdcb53a04407cf2114bf4d8c3e0e4b8",
+      "title": "abxn4r/archon-skills",
+      "url": "https://github.com/abxn4r/archon-skills",
+      "source": "github",
+      "source_author": "abxn4r",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-09-20T05:16:34Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "6f68ec994b03e58a5a5869909dec070e",
+      "title": "HasData/google-hotels-mcp",
+      "url": "https://github.com/HasData/google-hotels-mcp",
+      "source": "github",
+      "source_author": "HasData",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-09-20T05:16:34Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "0a56ceadd0d9eb45119dec4e71a4b2d7",
+      "title": "kuobibulaien/devin-fusion-byok",
+      "url": "https://github.com/kuobibulaien/devin-fusion-byok",
+      "source": "github",
+      "source_author": "kuobibulaien",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-09-20T05:16:35Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "e6c07233f9fb55db0589431cc1f63811",
+      "title": "chris-wozniczek/otter-stats",
+      "url": "https://github.com/chris-wozniczek/otter-stats",
+      "source": "github",
+      "source_author": "chris-wozniczek",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-09-20T05:16:35Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "25677f61eca053954fb6069fdb809fab",
+      "title": "coderexpert123/cognition-claude-proxy",
+      "url": "https://github.com/coderexpert123/cognition-claude-proxy",
+      "source": "github",
+      "source_author": "coderexpert123",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-09-20T05:16:35Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "ced20b2cfcf68302a3a0876ba900a90d",
+      "title": "tidusvn05/agentwiki",
+      "url": "https://github.com/tidusvn05/agentwiki",
+      "source": "github",
+      "source_author": "tidusvn05",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-09-20T05:16:35Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
+        "upvotes": 0
       }
     },
     {
@@ -1222,6 +1883,5 @@
       }
     }
   ],
-  "source": "hackernews",
   "updated_at": "2026-09-20T05:18:51Z"
 }
