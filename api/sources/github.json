@@ -1,77 +1,57 @@
 {
-  "count": 8,
+  "count": 10,
   "items": [
     {
-      "id": "af6c08bd7a7459c1f0c41146b6c3972d",
-      "title": "dzhng/jevgrep",
-      "url": "https://github.com/dzhng/jevgrep",
+      "id": "da70c5c92b3e43c3bafbffbdb8d15a93",
+      "title": "yihui-dev/awesome-opus5-5-videos",
+      "url": "https://github.com/yihui-dev/awesome-opus5-5-videos",
       "source": "github",
-      "source_author": "dzhng",
+      "source_author": "yihui-dev",
       "topics": [],
-      "score": 8,
+      "score": 7,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-09-27T12:21:59Z",
+      "collected_at": "2026-09-27T17:12:16Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 399,
+        "stars": 244,
         "upvotes": 0
       }
     },
     {
-      "id": "d773d53c322c546fc0f3b6ccaf464a4f",
-      "title": "Barty-Bart/motion-graphics",
-      "url": "https://github.com/Barty-Bart/motion-graphics",
+      "id": "a571b00b6ccaae07350542022e91527a",
+      "title": "doximity/mvcc",
+      "url": "https://github.com/doximity/mvcc",
       "source": "github",
-      "source_author": "Barty-Bart",
+      "source_author": "doximity",
       "topics": [],
       "score": 6,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-09-27T12:21:55Z",
+      "collected_at": "2026-09-27T17:12:19Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 148,
+        "stars": 51,
         "upvotes": 0
       }
     },
     {
-      "id": "9edeef280957f34dc526217f47fa6dd6",
-      "title": "humammoin09-blip/genai-content-suite",
-      "url": "https://github.com/humammoin09-blip/genai-content-suite",
+      "id": "2750fbfbdda0f8513072b3516d274914",
+      "title": "soniran635/genai-adoption-ops",
+      "url": "https://github.com/soniran635/genai-adoption-ops",
       "source": "github",
-      "source_author": "humammoin09-blip",
+      "source_author": "soniran635",
       "topics": [],
       "score": 4,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-09-27T12:22:02Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 1,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "98eca5244753ce0d6ac11253a664a8a7",
-      "title": "AlphaSumitShukla/genai-interview-planner",
-      "url": "https://github.com/AlphaSumitShukla/genai-interview-planner",
-      "source": "github",
-      "source_author": "AlphaSumitShukla",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-09-27T12:22:02Z",
+      "collected_at": "2026-09-27T17:12:23Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
@@ -82,16 +62,16 @@
       }
     },
     {
-      "id": "c699d6c12d72217918de0bb94f8bdddf",
-      "title": "SYasJ/claude-practice-skills",
-      "url": "https://github.com/SYasJ/claude-practice-skills",
+      "id": "204a47570695726a5c9c2c956a5d620d",
+      "title": "roysreyashee/GenAI-Implementations",
+      "url": "https://github.com/roysreyashee/GenAI-Implementations",
       "source": "github",
-      "source_author": "SYasJ",
+      "source_author": "roysreyashee",
       "topics": [],
       "score": 4,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-09-27T12:22:09Z",
+      "collected_at": "2026-09-27T17:12:23Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
@@ -102,16 +82,36 @@
       }
     },
     {
-      "id": "ce702c8d9c8fee81d1eec07ccc6d15fc",
-      "title": "ZhangZhangooo/open-workbench",
-      "url": "https://github.com/ZhangZhangooo/open-workbench",
+      "id": "7612e776b7316c96ad33c000d7c65b75",
+      "title": "hartgerinktarcila-design/7kimisu",
+      "url": "https://github.com/hartgerinktarcila-design/7kimisu",
       "source": "github",
-      "source_author": "ZhangZhangooo",
+      "source_author": "hartgerinktarcila-design",
       "topics": [],
       "score": 4,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-09-27T12:22:10Z",
+      "collected_at": "2026-09-27T17:12:24Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 11,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "ca5f06b47cc35b4aff8c9bc646b775a6",
+      "title": "timothyericsson/SWARM",
+      "url": "https://github.com/timothyericsson/SWARM",
+      "source": "github",
+      "source_author": "timothyericsson",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-09-27T17:12:27Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
@@ -122,16 +122,76 @@
       }
     },
     {
-      "id": "a218626bb52637a1c750f485ef711cc8",
-      "title": "TrishamBP/fastapi_claude_code_plugin",
-      "url": "https://github.com/TrishamBP/fastapi_claude_code_plugin",
+      "id": "f2027857ef4d59c57173e155ce31570f",
+      "title": "ufo-ai/ufo-core",
+      "url": "https://github.com/ufo-ai/ufo-core",
       "source": "github",
-      "source_author": "TrishamBP",
+      "source_author": "ufo-ai",
       "topics": [],
       "score": 4,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-09-27T12:22:12Z",
+      "collected_at": "2026-09-27T17:12:31Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 2,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "18a2e5069ed642d87d0aa3dd731058a2",
+      "title": "mirkobozzetto/bunflared",
+      "url": "https://github.com/mirkobozzetto/bunflared",
+      "source": "github",
+      "source_author": "mirkobozzetto",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-09-27T17:12:32Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 9,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "eeb28685945ddc007e11f16609fac5d2",
+      "title": "TH-Chou/devin-usage-monitor",
+      "url": "https://github.com/TH-Chou/devin-usage-monitor",
+      "source": "github",
+      "source_author": "TH-Chou",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-09-27T17:12:35Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 3,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "3830ce4c35379c2603870370986b6137",
+      "title": "devohmycode/skills-atlas",
+      "url": "https://github.com/devohmycode/skills-atlas",
+      "source": "github",
+      "source_author": "devohmycode",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-09-27T17:12:35Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
@@ -140,28 +200,8 @@
         "stars": 1,
         "upvotes": 0
       }
-    },
-    {
-      "id": "77a85c84235735faf6c64d1a7b534f84",
-      "title": "descraternacheck56/Devin",
-      "url": "https://github.com/descraternacheck56/Devin",
-      "source": "github",
-      "source_author": "descraternacheck56",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-09-27T12:22:13Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 0,
-        "upvotes": 0
-      }
     }
   ],
   "source": "github",
-  "updated_at": "2026-09-27T12:24:30Z"
+  "updated_at": "2026-09-27T17:14:52Z"
 }
