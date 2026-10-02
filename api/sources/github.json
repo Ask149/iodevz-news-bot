@@ -1,157 +1,77 @@
 {
-  "count": 26,
+  "count": 7,
   "items": [
     {
-      "id": "209328b0850ada1d0deaacfdc0a54781",
-      "title": "Edwardxlai/easyread",
-      "url": "https://github.com/Edwardxlai/easyread",
+      "id": "14c34d2b17d7b90a1dc7348d0958aba2",
+      "title": "emir/AIKON",
+      "url": "https://github.com/emir/AIKON",
       "source": "github",
-      "source_author": "Edwardxlai",
+      "source_author": "emir",
       "topics": [],
-      "score": 8,
+      "score": 7,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-10-02T06:03:21Z",
+      "collected_at": "2026-10-02T13:03:12Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 537,
+        "stars": 314,
         "upvotes": 0
       }
     },
     {
-      "id": "0e0b2c5fe1d41cb48ec908638f8c80ec",
-      "title": "arjunkshah12345-hash/openpages",
-      "url": "https://github.com/arjunkshah12345-hash/openpages",
+      "id": "d32ab7b598a19289515506039dbd5f93",
+      "title": "useagenthq/threads",
+      "url": "https://github.com/useagenthq/threads",
       "source": "github",
-      "source_author": "arjunkshah12345-hash",
-      "topics": [],
-      "score": 6,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-10-02T06:03:13Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 47,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "e10158b4eb8b9b076841ae1f1c061f13",
-      "title": "ArtificialAnalysis/aa-agentperf-local",
-      "url": "https://github.com/ArtificialAnalysis/aa-agentperf-local",
-      "source": "github",
-      "source_author": "ArtificialAnalysis",
-      "topics": [],
-      "score": 6,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-10-02T06:03:21Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 72,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "f8c07e9bf321e97eed01a8f9ca118a55",
-      "title": "strands-labs/strands-decider",
-      "url": "https://github.com/strands-labs/strands-decider",
-      "source": "github",
-      "source_author": "strands-labs",
-      "topics": [],
-      "score": 6,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-10-02T06:03:21Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 89,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "68a9262a05aee66a483e147156c01c0d",
-      "title": "flaviocopes/factorylog",
-      "url": "https://github.com/flaviocopes/factorylog",
-      "source": "github",
-      "source_author": "flaviocopes",
+      "source_author": "useagenthq",
       "topics": [],
       "score": 5,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-10-02T06:03:17Z",
+      "collected_at": "2026-10-02T13:03:11Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 29,
+        "stars": 24,
         "upvotes": 0
       }
     },
     {
-      "id": "c18fab64ec55a622b0aad75e17bbf823",
-      "title": "apimartalwi/flux-kontext-ext-reverse-api-id",
-      "url": "https://github.com/apimartalwi/flux-kontext-ext-reverse-api-id",
+      "id": "df6eea4b4e766fa7fd26751d23aff78e",
+      "title": "IuCC123/CLIProxyAPI-Rust",
+      "url": "https://github.com/IuCC123/CLIProxyAPI-Rust",
       "source": "github",
-      "source_author": "apimartalwi",
-      "topics": [],
-      "score": 5,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-10-02T06:03:03Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 26,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "3b65a8c117fc87423ffb0c7b07ac7caa",
-      "title": "duclm1x1/Muse-Chat-MCP",
-      "url": "https://github.com/duclm1x1/Muse-Chat-MCP",
-      "source": "github",
-      "source_author": "duclm1x1",
-      "topics": [],
-      "score": 5,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-10-02T06:03:03Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 28,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "294bbfddf7721e985214597f549592d9",
-      "title": "jvogan/claude-binder-lane",
-      "url": "https://github.com/jvogan/claude-binder-lane",
-      "source": "github",
-      "source_author": "jvogan",
+      "source_author": "IuCC123",
       "topics": [],
       "score": 4,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-10-02T06:03:02Z",
+      "collected_at": "2026-10-02T13:03:11Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 12,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "b62aa186cc33367c8d67ad4a8c2d8ce8",
+      "title": "Refining-colors/pet-with-you",
+      "url": "https://github.com/Refining-colors/pet-with-you",
+      "source": "github",
+      "source_author": "Refining-colors",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-10-02T13:03:13Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
@@ -162,116 +82,16 @@
       }
     },
     {
-      "id": "30296e0fe84d2f7d5ec81200fd79e752",
-      "title": "blendbunjaku/optimaizr",
-      "url": "https://github.com/blendbunjaku/optimaizr",
+      "id": "30df0e632f3831e42477f159bde66527",
+      "title": "CodyNing/Soundwich",
+      "url": "https://github.com/CodyNing/Soundwich",
       "source": "github",
-      "source_author": "blendbunjaku",
+      "source_author": "CodyNing",
       "topics": [],
       "score": 4,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-10-02T06:03:02Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 8,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "654d712f2eb59afe914e89ec2e25b969",
-      "title": "Rikinshah787/dotpals",
-      "url": "https://github.com/Rikinshah787/dotpals",
-      "source": "github",
-      "source_author": "Rikinshah787",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-10-02T06:03:02Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 8,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "ad2d936ba54ccf6c01c36778fb61ba3d",
-      "title": "ziyang0116/gpt-plus-daichong",
-      "url": "https://github.com/ziyang0116/gpt-plus-daichong",
-      "source": "github",
-      "source_author": "ziyang0116",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-10-02T06:03:04Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 7,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "686a436b24578d6fb1425f4edd012b3e",
-      "title": "bronto-community/ai-observatory-lab",
-      "url": "https://github.com/bronto-community/ai-observatory-lab",
-      "source": "github",
-      "source_author": "bronto-community",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-10-02T06:03:08Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 3,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "0aaf7b7d88f1b7dc6d546739093b1ef8",
-      "title": "Socrates-xia/Token-saver",
-      "url": "https://github.com/Socrates-xia/Token-saver",
-      "source": "github",
-      "source_author": "Socrates-xia",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-10-02T06:03:09Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 4,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "e1b2d6c824e0789ee4383de3912c9071",
-      "title": "elvinzhao10/LazyKimi",
-      "url": "https://github.com/elvinzhao10/LazyKimi",
-      "source": "github",
-      "source_author": "elvinzhao10",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-10-02T06:03:09Z",
+      "collected_at": "2026-10-02T13:03:21Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
@@ -282,16 +102,16 @@
       }
     },
     {
-      "id": "2d894c931e8aec2f91627737da7e7b6b",
-      "title": "ziyiclouds-blip/kimicode-ylmb",
-      "url": "https://github.com/ziyiclouds-blip/kimicode-ylmb",
+      "id": "f7c8a8adb21c90b20875cb0425f34cc6",
+      "title": "JhouCode/hipocampo",
+      "url": "https://github.com/JhouCode/hipocampo",
       "source": "github",
-      "source_author": "ziyiclouds-blip",
+      "source_author": "JhouCode",
       "topics": [],
       "score": 4,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-10-02T06:03:09Z",
+      "collected_at": "2026-10-02T13:03:24Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
@@ -302,226 +122,26 @@
       }
     },
     {
-      "id": "2c91a50c2dbb1f1e1eca755600a69bab",
-      "title": "kimipto/kimipto-bot",
-      "url": "https://github.com/kimipto/kimipto-bot",
+      "id": "1b607e38bfb05fae076f2ac619d354da",
+      "title": "zhouzijie286-star/openclaw-installer",
+      "url": "https://github.com/zhouzijie286-star/openclaw-installer",
       "source": "github",
-      "source_author": "kimipto",
+      "source_author": "zhouzijie286-star",
       "topics": [],
       "score": 4,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-10-02T06:03:09Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 1,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "2f2da4cccb4c4c563162f30b382a0b48",
-      "title": "Anil-matcha/free-claude-ai-video-generator",
-      "url": "https://github.com/Anil-matcha/free-claude-ai-video-generator",
-      "source": "github",
-      "source_author": "Anil-matcha",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-10-02T06:03:10Z",
+      "collected_at": "2026-10-02T13:03:26Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
         "stars": 2,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "f9bfbd634739d0f610e6fda7be8b8177",
-      "title": "ouruocun-dotcom/recursive-visual-state-video",
-      "url": "https://github.com/ouruocun-dotcom/recursive-visual-state-video",
-      "source": "github",
-      "source_author": "ouruocun-dotcom",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-10-02T06:03:10Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 2,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "5306de5244fda3da9db7f9bb487d0fe5",
-      "title": "BQ-Wang0511/PC-Talk",
-      "url": "https://github.com/BQ-Wang0511/PC-Talk",
-      "source": "github",
-      "source_author": "BQ-Wang0511",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-10-02T06:03:11Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 1,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "4d9856725a802f72e91879c23c1f0810",
-      "title": "vidmoat/skills",
-      "url": "https://github.com/vidmoat/skills",
-      "source": "github",
-      "source_author": "vidmoat",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-10-02T06:03:15Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 1,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "ceb13c0c8f9dad7f1a3cacaae17fbd43",
-      "title": "jaisharmz/dexter",
-      "url": "https://github.com/jaisharmz/dexter",
-      "source": "github",
-      "source_author": "jaisharmz",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-10-02T06:03:16Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 7,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "3d769ffa907c0a109d98f5243d6f0417",
-      "title": "Umang1617/clawdia",
-      "url": "https://github.com/Umang1617/clawdia",
-      "source": "github",
-      "source_author": "Umang1617",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-10-02T06:03:16Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 2,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "bcc9cba4c297b2332d4acadf56531daa",
-      "title": "ContractorBazaar/Windsurf-Pro-Desktop-2026",
-      "url": "https://github.com/ContractorBazaar/Windsurf-Pro-Desktop-2026",
-      "source": "github",
-      "source_author": "ContractorBazaar",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-10-02T06:03:18Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 1,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "d34216c670652a721ee713ed8f5c06d3",
-      "title": "tombanaszek1-sketch/agent-presence",
-      "url": "https://github.com/tombanaszek1-sketch/agent-presence",
-      "source": "github",
-      "source_author": "tombanaszek1-sketch",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-10-02T06:03:18Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 1,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "d10b47137e4435b39bc18a8bfcc7016e",
-      "title": "e2sy/mcp-hub",
-      "url": "https://github.com/e2sy/mcp-hub",
-      "source": "github",
-      "source_author": "e2sy",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-10-02T06:03:18Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 1,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "dfb122f4ed968b5b870ebf3ec758b5f8",
-      "title": "bisheshabramhacharya/token-ledger",
-      "url": "https://github.com/bisheshabramhacharya/token-ledger",
-      "source": "github",
-      "source_author": "bisheshabramhacharya",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-10-02T06:03:20Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 3,
         "upvotes": 0
       }
     }
   ],
   "source": "github",
-  "updated_at": "2026-10-02T06:05:43Z"
+  "updated_at": "2026-10-02T13:05:46Z"
 }

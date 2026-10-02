@@ -1,16 +1,5 @@
 {
   "daily_stats": {
-    "2026-09-01": {
-      "items_collected": 742,
-      "items_ranked": 226,
-      "items_posted": 0,
-      "by_source": {
-        "github": 460,
-        "hackernews": 282,
-        "reddit": 0,
-        "twitter": 0
-      }
-    },
     "2026-09-02": {
       "items_collected": 864,
       "items_ranked": 345,
@@ -342,19 +331,19 @@
       }
     },
     "2026-10-02": {
-      "items_collected": 286,
-      "items_ranked": 145,
+      "items_collected": 590,
+      "items_ranked": 224,
       "items_posted": 0,
       "by_source": {
-        "github": 154,
-        "hackernews": 132,
+        "github": 307,
+        "hackernews": 283,
         "reddit": 0,
         "twitter": 0
       }
     }
   },
-  "last_run": "2026-10-02T06:02:55.599987903Z",
-  "run_count": 606,
+  "last_run": "2026-10-02T13:03:04.452946286Z",
+  "run_count": 607,
   "total_posted": 0,
-  "updated_at": "2026-10-02T06:05:43Z"
+  "updated_at": "2026-10-02T13:05:46Z"
 }
