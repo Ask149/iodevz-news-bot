@@ -1,57 +1,97 @@
 {
-  "count": 6,
+  "count": 10,
   "items": [
     {
-      "id": "8e0a71375051cfbb56637c19f74024c8",
-      "title": "deepseek-ai/DeepInfer",
-      "url": "https://github.com/deepseek-ai/DeepInfer",
+      "id": "eb0736d658e55533564bd80531bc8e06",
+      "title": "Tongyi-MAI/OpenGCUA",
+      "url": "https://github.com/Tongyi-MAI/OpenGCUA",
       "source": "github",
-      "source_author": "deepseek-ai",
+      "source_author": "Tongyi-MAI",
       "topics": [],
-      "score": 8,
+      "score": 7,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-10-20T11:58:50Z",
+      "collected_at": "2026-10-20T17:27:01Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 6032,
+        "stars": 328,
         "upvotes": 0
       }
     },
     {
-      "id": "f3ae5b991bc8bfb3d4e4602445253c0b",
-      "title": "j1s4nn/jev-adaptive-granularity-WM",
-      "url": "https://github.com/j1s4nn/jev-adaptive-granularity-WM",
+      "id": "6bff7fe1a2563969147730af3276478b",
+      "title": "better-isms/grcskills",
+      "url": "https://github.com/better-isms/grcskills",
       "source": "github",
-      "source_author": "j1s4nn",
+      "source_author": "better-isms",
       "topics": [],
-      "score": 5,
+      "score": 6,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-10-20T11:58:54Z",
+      "collected_at": "2026-10-20T17:27:15Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 33,
+        "stars": 40,
         "upvotes": 0
       }
     },
     {
-      "id": "eb8d0eb8dc5a19dc37eb9d34d12e2753",
-      "title": "YanbiaoLab/PaperReproduce",
-      "url": "https://github.com/YanbiaoLab/PaperReproduce",
+      "id": "92278cf67b35487403df6a641c65725c",
+      "title": "xinghuangjun/YiYan",
+      "url": "https://github.com/xinghuangjun/YiYan",
       "source": "github",
-      "source_author": "YanbiaoLab",
+      "source_author": "xinghuangjun",
+      "topics": [],
+      "score": 6,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-10-20T17:27:19Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 87,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "4cbac97c57ed04996c9838bc0506c953",
+      "title": "kgpawara/tutedude-genai-hunter",
+      "url": "https://github.com/kgpawara/tutedude-genai-hunter",
+      "source": "github",
+      "source_author": "kgpawara",
       "topics": [],
       "score": 4,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-10-20T11:59:00Z",
+      "collected_at": "2026-10-20T17:27:04Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "5cdd46acc7237a9a2a8111ef33e9ae06",
+      "title": "thiagodefreitas/faztudo",
+      "url": "https://github.com/thiagodefreitas/faztudo",
+      "source": "github",
+      "source_author": "thiagodefreitas",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-10-20T17:27:05Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
@@ -62,56 +102,36 @@
       }
     },
     {
-      "id": "89a8361e9e3a1b3b6f3926a3efb596d8",
-      "title": "kukemc/bili-cli",
-      "url": "https://github.com/kukemc/bili-cli",
+      "id": "c5b3c47890b783db5899a22b8af929bc",
+      "title": "llbaihai/sonic",
+      "url": "https://github.com/llbaihai/sonic",
       "source": "github",
-      "source_author": "kukemc",
+      "source_author": "llbaihai",
       "topics": [],
       "score": 4,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-10-20T11:59:00Z",
+      "collected_at": "2026-10-20T17:27:08Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 3,
+        "stars": 1,
         "upvotes": 0
       }
     },
     {
-      "id": "5364b710950763d18fe6388f80a806fe",
-      "title": "UnderleveledBuilder/awesome-seo-geo-skills",
-      "url": "https://github.com/UnderleveledBuilder/awesome-seo-geo-skills",
+      "id": "523642a7ecc0f6a96f8cee4f356784cf",
+      "title": "raihanpka/dotagent",
+      "url": "https://github.com/raihanpka/dotagent",
       "source": "github",
-      "source_author": "UnderleveledBuilder",
+      "source_author": "raihanpka",
       "topics": [],
       "score": 4,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-10-20T11:59:00Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 3,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "8b060fe0b45ad5c3619bdc8c513e911a",
-      "title": "kabirprokk/Osien-Stack",
-      "url": "https://github.com/kabirprokk/Osien-Stack",
-      "source": "github",
-      "source_author": "kabirprokk",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-10-20T11:59:03Z",
+      "collected_at": "2026-10-20T17:27:09Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
@@ -120,8 +140,68 @@
         "stars": 2,
         "upvotes": 0
       }
+    },
+    {
+      "id": "cf6af54f739cb4e25f04c50e1e404e63",
+      "title": "bostonaholic/grokbot-skills",
+      "url": "https://github.com/bostonaholic/grokbot-skills",
+      "source": "github",
+      "source_author": "bostonaholic",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-10-20T17:27:12Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 1,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "f765cdcc955fe89ffecc369ebf7be334",
+      "title": "Salesflare/TheMachine",
+      "url": "https://github.com/Salesflare/TheMachine",
+      "source": "github",
+      "source_author": "Salesflare",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-10-20T17:27:13Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 10,
+        "upvotes": 0
+      }
+    },
+    {
+      "id": "dfebb878711c180e74b74e66543f8d0b",
+      "title": "UnderleveledBuilder/awesome-social-media-skills",
+      "url": "https://github.com/UnderleveledBuilder/awesome-social-media-skills",
+      "source": "github",
+      "source_author": "UnderleveledBuilder",
+      "topics": [],
+      "score": 4,
+      "score_reason": "auto-scored from engagement (LLM unavailable)",
+      "posted": false,
+      "collected_at": "2026-10-20T17:27:13Z",
+      "engagement": {
+        "comments": 0,
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "stars": 3,
+        "upvotes": 0
+      }
     }
   ],
   "source": "github",
-  "updated_at": "2026-10-20T12:01:21Z"
+  "updated_at": "2026-10-20T17:29:37Z"
 }
