@@ -1,357 +1,57 @@
 {
-  "count": 27,
+  "count": 6,
   "items": [
     {
-      "id": "bc08918117500a2e65b8f682ba78a254",
-      "title": "simbasjungles/free-my-tv",
-      "url": "https://github.com/simbasjungles/free-my-tv",
+      "id": "8e0a71375051cfbb56637c19f74024c8",
+      "title": "deepseek-ai/DeepInfer",
+      "url": "https://github.com/deepseek-ai/DeepInfer",
       "source": "github",
-      "source_author": "simbasjungles",
+      "source_author": "deepseek-ai",
       "topics": [],
       "score": 8,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-10-20T05:09:24Z",
+      "collected_at": "2026-10-20T11:58:50Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 509,
+        "stars": 6032,
         "upvotes": 0
       }
     },
     {
-      "id": "6522ea2043f91a29815e6b2eb7fd4c0d",
-      "title": "AndreSzymanski15/ai-jailbreaks",
-      "url": "https://github.com/AndreSzymanski15/ai-jailbreaks",
+      "id": "f3ae5b991bc8bfb3d4e4602445253c0b",
+      "title": "j1s4nn/jev-adaptive-granularity-WM",
+      "url": "https://github.com/j1s4nn/jev-adaptive-granularity-WM",
       "source": "github",
-      "source_author": "AndreSzymanski15",
-      "topics": [],
-      "score": 8,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-10-20T05:09:45Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 422,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "bd66e951adf3e1b7b6fefb1fcea2d560",
-      "title": "kitlangton/scrawl",
-      "url": "https://github.com/kitlangton/scrawl",
-      "source": "github",
-      "source_author": "kitlangton",
-      "topics": [],
-      "score": 8,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-10-20T05:09:29Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 491,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "76cdb730d9012a167c8b2ea9e1b11735",
-      "title": "kanaworksai-hue/audio-studio-mcp",
-      "url": "https://github.com/kanaworksai-hue/audio-studio-mcp",
-      "source": "github",
-      "source_author": "kanaworksai-hue",
-      "topics": [],
-      "score": 7,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-10-20T05:09:38Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 276,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "4b64ff5bbe7b48335bf76b7f8b6a3539",
-      "title": "MemTensor/MemT-1.0",
-      "url": "https://github.com/MemTensor/MemT-1.0",
-      "source": "github",
-      "source_author": "MemTensor",
-      "topics": [],
-      "score": 6,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-10-20T05:09:30Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 93,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "12ab38a756407294e72940630c47bcc3",
-      "title": "shuyu-labs/transwork",
-      "url": "https://github.com/shuyu-labs/transwork",
-      "source": "github",
-      "source_author": "shuyu-labs",
-      "topics": [],
-      "score": 6,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-10-20T05:09:46Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 140,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "b138f3af16a01b6e6e34f0bd63c75a4c",
-      "title": "C4rohan/Lampline",
-      "url": "https://github.com/C4rohan/Lampline",
-      "source": "github",
-      "source_author": "C4rohan",
-      "topics": [],
-      "score": 6,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-10-20T05:09:45Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 115,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "9cf2a511d80117447c862135603bb0be",
-      "title": "liuda30201/AI-Coding",
-      "url": "https://github.com/liuda30201/AI-Coding",
-      "source": "github",
-      "source_author": "liuda30201",
-      "topics": [],
-      "score": 6,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-10-20T05:09:28Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 73,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "3585c2dcd5344d35dedeabf19ecd56fd",
-      "title": "JieChiang/VRS-Zhiyuan-Recommendation",
-      "url": "https://github.com/JieChiang/VRS-Zhiyuan-Recommendation",
-      "source": "github",
-      "source_author": "JieChiang",
-      "topics": [],
-      "score": 6,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-10-20T05:09:30Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 85,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "1f96c387abd562a73d11d09f7d9ca0bc",
-      "title": "ssanaullahrais/Chat-Vault",
-      "url": "https://github.com/ssanaullahrais/Chat-Vault",
-      "source": "github",
-      "source_author": "ssanaullahrais",
+      "source_author": "j1s4nn",
       "topics": [],
       "score": 5,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-10-20T05:09:41Z",
+      "collected_at": "2026-10-20T11:58:54Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 31,
+        "stars": 33,
         "upvotes": 0
       }
     },
     {
-      "id": "0157deb21896e2b21ba88292fb13a2f1",
-      "title": "VicPitic/the-brains",
-      "url": "https://github.com/VicPitic/the-brains",
+      "id": "eb8d0eb8dc5a19dc37eb9d34d12e2753",
+      "title": "YanbiaoLab/PaperReproduce",
+      "url": "https://github.com/YanbiaoLab/PaperReproduce",
       "source": "github",
-      "source_author": "VicPitic",
-      "topics": [],
-      "score": 5,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-10-20T05:09:41Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 30,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "c3a154237b427ba3d9fa8aeaa3a11685",
-      "title": "0xgetz/n33-bulk-9router",
-      "url": "https://github.com/0xgetz/n33-bulk-9router",
-      "source": "github",
-      "source_author": "0xgetz",
-      "topics": [],
-      "score": 5,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-10-20T05:09:26Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 22,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "fad9acbbb1ecd85fafc7376338d2a8a8",
-      "title": "Doone-skser/wb-proxy",
-      "url": "https://github.com/Doone-skser/wb-proxy",
-      "source": "github",
-      "source_author": "Doone-skser",
-      "topics": [],
-      "score": 5,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-10-20T05:09:26Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 26,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "2857e1f731797a9bee210ff0cfceb748",
-      "title": "bnsd55/openscion",
-      "url": "https://github.com/bnsd55/openscion",
-      "source": "github",
-      "source_author": "bnsd55",
-      "topics": [],
-      "score": 5,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-10-20T05:09:25Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 29,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "024c37e5516631fa0d692b61e8342a4f",
-      "title": "enjalbk/genAI",
-      "url": "https://github.com/enjalbk/genAI",
-      "source": "github",
-      "source_author": "enjalbk",
+      "source_author": "YanbiaoLab",
       "topics": [],
       "score": 4,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-10-20T05:09:31Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 1,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "1d460af122a7bde1ed9fc1fe41e75bf6",
-      "title": "ChiragBorse/dialogue-generation-genai",
-      "url": "https://github.com/ChiragBorse/dialogue-generation-genai",
-      "source": "github",
-      "source_author": "ChiragBorse",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-10-20T05:09:31Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 1,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "e5881461cea2e34d7ea4b5925a4f5700",
-      "title": "welsir/ai-api-guide",
-      "url": "https://github.com/welsir/ai-api-guide",
-      "source": "github",
-      "source_author": "welsir",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-10-20T05:09:33Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 6,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "558f8f1009d9a03e485c7ad026014334",
-      "title": "jaggerjack61/OpenCodeMobile",
-      "url": "https://github.com/jaggerjack61/OpenCodeMobile",
-      "source": "github",
-      "source_author": "jaggerjack61",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-10-20T05:09:33Z",
+      "collected_at": "2026-10-20T11:59:00Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
@@ -362,16 +62,16 @@
       }
     },
     {
-      "id": "59dc0a921df89369b7e235e8e348193f",
-      "title": "jiuyuan233/wool-gathering",
-      "url": "https://github.com/jiuyuan233/wool-gathering",
+      "id": "89a8361e9e3a1b3b6f3926a3efb596d8",
+      "title": "kukemc/bili-cli",
+      "url": "https://github.com/kukemc/bili-cli",
       "source": "github",
-      "source_author": "jiuyuan233",
+      "source_author": "kukemc",
       "topics": [],
       "score": 4,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-10-20T05:09:33Z",
+      "collected_at": "2026-10-20T11:59:00Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
@@ -382,96 +82,36 @@
       }
     },
     {
-      "id": "8235253a31b0122e3afba2ee3c95e0f1",
-      "title": "Mantux775/NVAI-open",
-      "url": "https://github.com/Mantux775/NVAI-open",
+      "id": "5364b710950763d18fe6388f80a806fe",
+      "title": "UnderleveledBuilder/awesome-seo-geo-skills",
+      "url": "https://github.com/UnderleveledBuilder/awesome-seo-geo-skills",
       "source": "github",
-      "source_author": "Mantux775",
+      "source_author": "UnderleveledBuilder",
       "topics": [],
       "score": 4,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-10-20T05:09:35Z",
+      "collected_at": "2026-10-20T11:59:00Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 1,
+        "stars": 3,
         "upvotes": 0
       }
     },
     {
-      "id": "72f7d86cb87e0e17353f85a933e86ad8",
-      "title": "mouhamedm/beatbox",
-      "url": "https://github.com/mouhamedm/beatbox",
+      "id": "8b060fe0b45ad5c3619bdc8c513e911a",
+      "title": "kabirprokk/Osien-Stack",
+      "url": "https://github.com/kabirprokk/Osien-Stack",
       "source": "github",
-      "source_author": "mouhamedm",
+      "source_author": "kabirprokk",
       "topics": [],
       "score": 4,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-10-20T05:09:35Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 1,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "b0a90b611c12990c4cc0484b2c7fb657",
-      "title": "K-Habiburrahman/Habiburrahmans-Utility-Tools",
-      "url": "https://github.com/K-Habiburrahman/Habiburrahmans-Utility-Tools",
-      "source": "github",
-      "source_author": "K-Habiburrahman",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-10-20T05:09:35Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 1,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "c9507466b21f297d47d4bbd847e3f9fe",
-      "title": "eglantinefonrose/AI_Audio_Live_To_Sign_Language_Avatar_Generation",
-      "url": "https://github.com/eglantinefonrose/AI_Audio_Live_To_Sign_Language_Avatar_Generation",
-      "source": "github",
-      "source_author": "eglantinefonrose",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-10-20T05:09:35Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 0,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "1835a3e66be6c04b0117b87a3cdbea17",
-      "title": "ddkellar01/IvyTech-Nexus-Omni-Institution",
-      "url": "https://github.com/ddkellar01/IvyTech-Nexus-Omni-Institution",
-      "source": "github",
-      "source_author": "ddkellar01",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-10-20T05:09:36Z",
+      "collected_at": "2026-10-20T11:59:03Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
@@ -480,68 +120,8 @@
         "stars": 2,
         "upvotes": 0
       }
-    },
-    {
-      "id": "5294a6bb62f7d52fbf5d52921a54086b",
-      "title": "mehulpatel23b-pixel/skill-doctor",
-      "url": "https://github.com/mehulpatel23b-pixel/skill-doctor",
-      "source": "github",
-      "source_author": "mehulpatel23b-pixel",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-10-20T05:09:39Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 1,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "21af079f752e94da9279f48e0d7a70e8",
-      "title": "OmniGoAI/omnipost-skill",
-      "url": "https://github.com/OmniGoAI/omnipost-skill",
-      "source": "github",
-      "source_author": "OmniGoAI",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-10-20T05:09:40Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 3,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "8c352738cc70d66364a086ea671e0d99",
-      "title": "jpassos-fr/devine-la-carte",
-      "url": "https://github.com/jpassos-fr/devine-la-carte",
-      "source": "github",
-      "source_author": "jpassos-fr",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-10-20T05:09:44Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 1,
-        "upvotes": 0
-      }
     }
   ],
   "source": "github",
-  "updated_at": "2026-10-20T05:12:01Z"
+  "updated_at": "2026-10-20T12:01:21Z"
 }
