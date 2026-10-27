@@ -1,137 +1,57 @@
 {
-  "count": 23,
+  "count": 7,
   "items": [
     {
-      "id": "39f0cb07241056d8b38aceeeaceac307",
-      "title": "ZiChuanLan/agent-purge",
-      "url": "https://github.com/ZiChuanLan/agent-purge",
+      "id": "470acfb02b2de6feeb9b88c16a9b98ae",
+      "title": "mochiiwuff/capri-desktop",
+      "url": "https://github.com/mochiiwuff/capri-desktop",
       "source": "github",
-      "source_author": "ZiChuanLan",
-      "topics": [],
-      "score": 8,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-10-27T05:26:40Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 442,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "24f04007e7d99db04f8edb0c25647417",
-      "title": "blakeandersonw/ai-app-playbook",
-      "url": "https://github.com/blakeandersonw/ai-app-playbook",
-      "source": "github",
-      "source_author": "blakeandersonw",
+      "source_author": "mochiiwuff",
       "topics": [],
       "score": 7,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-10-27T05:27:02Z",
+      "collected_at": "2026-10-27T12:35:51Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 248,
+        "stars": 288,
         "upvotes": 0
       }
     },
     {
-      "id": "0ab2516a2b67496efcc35ee0c21b6f6f",
-      "title": "JunWan666/astrbot-for-android",
-      "url": "https://github.com/JunWan666/astrbot-for-android",
+      "id": "ffad2c858f1566aca410212a89392df8",
+      "title": "Motionsites-AI/claude-skill",
+      "url": "https://github.com/Motionsites-AI/claude-skill",
       "source": "github",
-      "source_author": "JunWan666",
+      "source_author": "Motionsites-AI",
       "topics": [],
-      "score": 6,
+      "score": 7,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-10-27T05:27:01Z",
+      "collected_at": "2026-10-27T12:35:51Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
-        "stars": 91,
+        "stars": 287,
         "upvotes": 0
       }
     },
     {
-      "id": "ac36e02226c66f8d8fbdeed48038a534",
-      "title": "Andreas698/glm-5.3-uncensored",
-      "url": "https://github.com/Andreas698/glm-5.3-uncensored",
+      "id": "edf71f596251cab6b7c8a1d62d495269",
+      "title": "VishwajeetCSE/GenAI-powered-planning-assistant",
+      "url": "https://github.com/VishwajeetCSE/GenAI-powered-planning-assistant",
       "source": "github",
-      "source_author": "Andreas698",
-      "topics": [],
-      "score": 6,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-10-27T05:26:44Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 124,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "37aa90dd13c7e2c99b96dcaf7d5edb89",
-      "title": "martina9516/uncensored-ai-models",
-      "url": "https://github.com/martina9516/uncensored-ai-models",
-      "source": "github",
-      "source_author": "martina9516",
-      "topics": [],
-      "score": 6,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-10-27T05:26:41Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 112,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "f66b0ff0b2ba85bf073b170c3a559725",
-      "title": "7API/deepseek-v4.1-flash-1017-abliterated",
-      "url": "https://github.com/7API/deepseek-v4.1-flash-1017-abliterated",
-      "source": "github",
-      "source_author": "7API",
-      "topics": [],
-      "score": 5,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-10-27T05:26:48Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 25,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "403f3bf663666c0b4b7dfefc2dcf5082",
-      "title": "Mayank466/GenAI-Telegram-Bot",
-      "url": "https://github.com/Mayank466/GenAI-Telegram-Bot",
-      "source": "github",
-      "source_author": "Mayank466",
+      "source_author": "VishwajeetCSE",
       "topics": [],
       "score": 4,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-10-27T05:26:47Z",
+      "collected_at": "2026-10-27T12:36:00Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
@@ -142,16 +62,16 @@
       }
     },
     {
-      "id": "3359b5caaebbb4d06d09682e44d3318a",
-      "title": "ivyhongzhan/genai-trust-reddit-analysis",
-      "url": "https://github.com/ivyhongzhan/genai-trust-reddit-analysis",
+      "id": "25e09631910cd84baeeb1015f4f5b02d",
+      "title": "starrank-soft/vibepaper-plugin",
+      "url": "https://github.com/starrank-soft/vibepaper-plugin",
       "source": "github",
-      "source_author": "ivyhongzhan",
+      "source_author": "starrank-soft",
       "topics": [],
       "score": 4,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-10-27T05:26:47Z",
+      "collected_at": "2026-10-27T12:36:05Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
@@ -162,56 +82,16 @@
       }
     },
     {
-      "id": "6b42e69ff8a382ab3130f6cc901437f4",
-      "title": "AlmogSchwartzberg/genai-temp-project-name",
-      "url": "https://github.com/AlmogSchwartzberg/genai-temp-project-name",
+      "id": "e3124297c8e2c2ac6b5ddf1bd6be03b5",
+      "title": "ngoanpv/swarmstead",
+      "url": "https://github.com/ngoanpv/swarmstead",
       "source": "github",
-      "source_author": "AlmogSchwartzberg",
+      "source_author": "ngoanpv",
       "topics": [],
       "score": 4,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-10-27T05:26:47Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 1,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "2dd0659259c24f6814f4a986fc88e585",
-      "title": "tahabintazeem/gdgoc-cui-genai-fa26",
-      "url": "https://github.com/tahabintazeem/gdgoc-cui-genai-fa26",
-      "source": "github",
-      "source_author": "tahabintazeem",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-10-27T05:26:47Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 1,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "f09d0d7280082b7d5b9632b1a88fca33",
-      "title": "XXXzhouhan/dafeiyu-wechat-ai",
-      "url": "https://github.com/XXXzhouhan/dafeiyu-wechat-ai",
-      "source": "github",
-      "source_author": "XXXzhouhan",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-10-27T05:26:48Z",
+      "collected_at": "2026-10-27T12:36:06Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
@@ -222,36 +102,16 @@
       }
     },
     {
-      "id": "7322b64b30201c6650d7a47166f91291",
-      "title": "beyondtahir/beyondsumi",
-      "url": "https://github.com/beyondtahir/beyondsumi",
+      "id": "d2a41499f30c955cebc3958701191c85",
+      "title": "DevArtsLab/agent-skills",
+      "url": "https://github.com/DevArtsLab/agent-skills",
       "source": "github",
-      "source_author": "beyondtahir",
+      "source_author": "DevArtsLab",
       "topics": [],
       "score": 4,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-10-27T05:26:50Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 13,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "19cf163b8705e2dc5cb4d23070fed9e1",
-      "title": "Youssef-Errachid/intelligent-document-audio-search--system-",
-      "url": "https://github.com/Youssef-Errachid/intelligent-document-audio-search--system-",
-      "source": "github",
-      "source_author": "Youssef-Errachid",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-10-27T05:26:51Z",
+      "collected_at": "2026-10-27T12:36:09Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
@@ -262,206 +122,26 @@
       }
     },
     {
-      "id": "942b640908fe65f747bd96f782a73bd0",
-      "title": "meatproxy69/Leviathan",
-      "url": "https://github.com/meatproxy69/Leviathan",
+      "id": "1721803ca8c847bdf25bf7a774b8a2a9",
+      "title": "IzaiahSun/AgentTracker",
+      "url": "https://github.com/IzaiahSun/AgentTracker",
       "source": "github",
-      "source_author": "meatproxy69",
+      "source_author": "IzaiahSun",
       "topics": [],
       "score": 4,
       "score_reason": "auto-scored from engagement (LLM unavailable)",
       "posted": false,
-      "collected_at": "2026-10-27T05:26:51Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 1,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "edae0e33f72f6e4813e0b845a806d4dd",
-      "title": "fixture-inc/swarmatory",
-      "url": "https://github.com/fixture-inc/swarmatory",
-      "source": "github",
-      "source_author": "fixture-inc",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-10-27T05:26:52Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 6,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "e58321d5a935cb67a67aabaed792a85d",
-      "title": "yjsjs0987/agent-swarm-director",
-      "url": "https://github.com/yjsjs0987/agent-swarm-director",
-      "source": "github",
-      "source_author": "yjsjs0987",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-10-27T05:26:52Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 1,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "aa00fdbb31d28490bca40c676345f124",
-      "title": "kenchris/review-loop",
-      "url": "https://github.com/kenchris/review-loop",
-      "source": "github",
-      "source_author": "kenchris",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-10-27T05:26:55Z",
+      "collected_at": "2026-10-27T12:36:10Z",
       "engagement": {
         "comments": 0,
         "likes": 0,
         "replies": 0,
         "retweets": 0,
         "stars": 2,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "0d63434fd47b3360435b60a8562ab147",
-      "title": "lambdasec/skills",
-      "url": "https://github.com/lambdasec/skills",
-      "source": "github",
-      "source_author": "lambdasec",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-10-27T05:26:55Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 1,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "454c59912f44daea5598e110e8beca9d",
-      "title": "Iknowitsimpossible/how-to-build-skills",
-      "url": "https://github.com/Iknowitsimpossible/how-to-build-skills",
-      "source": "github",
-      "source_author": "Iknowitsimpossible",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-10-27T05:26:55Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 1,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "bf3302f54110807dc88c259da8914707",
-      "title": "Snoozemage/chatgpt-openclaw-direct-tools",
-      "url": "https://github.com/Snoozemage/chatgpt-openclaw-direct-tools",
-      "source": "github",
-      "source_author": "Snoozemage",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-10-27T05:26:56Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 3,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "84aef086835269428cf991902886d442",
-      "title": "bepaldes/gc-helper",
-      "url": "https://github.com/bepaldes/gc-helper",
-      "source": "github",
-      "source_author": "bepaldes",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-10-27T05:26:56Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 2,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "ae1e223be95627358d32f4ed1599e3f8",
-      "title": "PantherHale/qurn-skills",
-      "url": "https://github.com/PantherHale/qurn-skills",
-      "source": "github",
-      "source_author": "PantherHale",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-10-27T05:26:58Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 2,
-        "upvotes": 0
-      }
-    },
-    {
-      "id": "01797769632c3075738437ce89e32762",
-      "title": "krishyaa06/prism-agent-rules",
-      "url": "https://github.com/krishyaa06/prism-agent-rules",
-      "source": "github",
-      "source_author": "krishyaa06",
-      "topics": [],
-      "score": 4,
-      "score_reason": "auto-scored from engagement (LLM unavailable)",
-      "posted": false,
-      "collected_at": "2026-10-27T05:26:58Z",
-      "engagement": {
-        "comments": 0,
-        "likes": 0,
-        "replies": 0,
-        "retweets": 0,
-        "stars": 1,
         "upvotes": 0
       }
     }
   ],
   "source": "github",
-  "updated_at": "2026-10-27T05:29:17Z"
+  "updated_at": "2026-10-27T12:38:30Z"
 }
